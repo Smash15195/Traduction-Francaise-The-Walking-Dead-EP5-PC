@@ -1,0 +1,974 @@
+1)  LEE
+{normalc} We need to get out of here.
+365)  LEE
+{normalc} We need to get out of here.
+2)  CLEMENTINE
+{feara} This way.
+366)  CLEMENTINE
+{feara} This way.
+3)  LEE
+{normalc} Leads to the other room.
+4)  CLEMENTINE
+{feara} There's nothing in there. Can we go?
+5)  LEE
+{normald} Yeah, of course.
+6)  
+...Hello.
+7)  LEE
+[campman confront] {normalc} Hello.
+8)  CAMPMAN
+{normald} Okay, th--this is civil.
+9)  
+I'm going to kill you.
+10)  LEE
+{angrya} I'm going to kill you.
+11)  CAMPMAN
+{normalc} I have a gun.
+12)  
+Where is she?
+13)  LEE
+{angrya} Where is she?
+14)  CAMPMAN
+{normald} I already told you, she's fine.
+15)  CAMPMAN
+{normald} You must be tired.
+16)  CAMPMAN
+{thinkinga} You look horrible.
+422)  CAMPMAN
+{thinkinga} You look horrible.
+17)  CAMPMAN
+{normald} I got us adjoining rooms.
+18)  CAMPMAN
+{normalc} And you're missing an arm.
+19)  CAMPMAN
+{normalc} Go over there.
+20)  CAMPMAN
+Put your things down. [firm]
+21)  CLEMENTINE
+Let me out! Who's out there?
+22)  
+It's Lee!
+23)  
+I'm here, Clem!
+24)  
+Let her out.
+25)  CAMPMAN
+Shh. [sharp, aggressive]
+26)  CAMPMAN
+Good. [lee didnt yell]
+27)  CAMPMAN
+[projecting into other room] Quiet please, sweetie!
+424)  CAMPMAN
+[projecting into other room] Quiet please, sweetie!
+28)  CAMPMAN
+Your things. There.
+423)  CAMPMAN
+Your things. There.
+29)  
+Here's everything.
+30)  LEE
+{normald} Just be cool.
+31)  CAMPMAN
+{thinkingb} Do I not seem cool?
+32)  
+I only have this radio. [Lie]
+33)  CAMPMAN
+{normalb} You travel light. {normalc} I don't believe you.
+34)  LEE
+{normald} This is all I've got, okay?
+35)  
+I don't have anything. [Lie]
+36)  LEE
+{normald} I don't have anything on me.
+37)  CAMPMAN
+{thinkinga} Really. You got all the way here without any weapons?
+38)  LEE
+{thinkingb} Lost 'em.
+39)  
+Seriously.
+40)  
+Fine. Here.
+49)  
+Fine. Here.
+41)  CAMPMAN
+{normalc} Good. Go sit down.
+42)  LEE
+Okay, fine.
+43)  CAMPMAN
+{angrya} That's what I thought.
+44)  CAMPMAN
+{normalc} You shouldn't lie.
+45)  CAMPMAN
+Sit down.
+46)  CAMPMAN
+{sada} Just... SIT down. {normald} Please don't do anything stupid.
+47)  CAMPMAN
+{angrya} Do it. {normalc} Don't dick me around.
+48)  
+That's everything.
+50)  LEE
+{normalb} That's everything. {normalc} Go ahead and search me.
+51)  CAMPMAN
+{normalc} I don't believe you.
+52)  CAMPMAN
+{normalc} No. I'm not touching you. {thinkinga} Just sit down.
+54)  CAMPMAN
+{normalc} No. I'm not touching you. {thinkinga} Just sit down.
+53)  LEE
+Seriously. You don't believe me? Go ahead, search me.
+55)  CAMPMAN
+{normald} Do you know who I am?
+56)  
+Yes.
+103)  
+Yes.
+129)  
+Yes.
+57)  
+No.
+105)  
+No.
+130)  
+No.
+234)  
+No.
+58)  LEE
+{normald} Yeah. I know who you are.
+59)  CAMPMAN
+{normald} You saw my car out front, then.
+60)  CAMPMAN
+{normald} You wouldn't. [pause] {normalc} People like you don't.
+61)  LEE
+{normald} No. {normalc} I don't know anything about you.
+62)  CAMPMAN
+{thinkinga} Now you're thinking,  {thinkingb} "Who would have it out for me," huh?
+63)  CAMPMAN
+You see anything else you want in there? {sada} Not a whole lot left.
+64)  LEE
+{normald} I didn't take from you.
+65)  CAMPMAN
+{thinkingb} Your people didn't?
+66)  LEE
+{normald} I didn't agree with it.
+67)  CAMPMAN
+{normalc} That's what little Clementine said. {disgustb} Why didn't you?
+68)  
+She didn't want me to.
+69)  
+It wasn't right.
+70)  
+You were coming back.
+71)  LEE
+{normalb} She didn't want me to.
+72)  CAMPMAN
+{thinkinga} She didn't want you to do a lot of things.
+73)  LEE
+{normald} What do you want me to say?
+80)  LEE
+{normald} What do you want me to say?
+74)  LEE
+{normald} It wasn't right. It wasn't our stuff.
+75)  CAMPMAN
+{normalb} That's real good of you.
+76)  LEE
+{normalc} Look, what do you want me to say?
+77)  LEE
+{thinkinga} You were coming back. The dome light was on.
+78)  CAMPMAN
+{sada} We did come back.
+79)  CAMPMAN
+{normalc} I said we {crazya} DID COME BACK.
+81)  CAMPMAN
+{normald} If only the rest of your crew had been {normalc} so "magnanimous."
+82)  CAMPMAN
+{normald} I don't want you to say anything. {angryb} I want you to know what happened.
+83)  LEE
+{normald} Everything was just out there, for the taking. {normalc} We were starving. Do you--
+84)  CAMPMAN
+[snaps] {crazya} For the taking?! Do you know what you TOOK from me?!
+85)  
+I don't care.
+86)  
+Don't start on who took what!
+87)  
+I'm sorry. Whatever it is, I'm sorry.
+88)  LEE
+{normalc} I don't care.
+89)  CAMPMAN
+[pissed, fighting back tears] {angrya} Fuck you. {sada} You have {sadb} no idea.
+90)  LEE
+{normalc} Don't you start on who took what from who.
+91)  CAMPMAN
+{thinkinga} I didn't take her from you. I {angrya} rescued her from you. Don't you get that?
+92)  LEE
+{normald} I'm sorry. {sada} Whatever it is, whatever happened,  {normald} you have to hear that I am sorry.
+93)  CAMPMAN
+{normala} That doesn't mean anything to me. {normalb} I wish it did. {normalc} I'm not a bad man. I don't believe in vengeance, {normald} but I've got nothing left.
+94)  CAMPMAN
+[sadly to himself, he looks down] {angrya} You have no idea.... [sniff]
+95)  CAMPMAN
+My son, Adam, went missing. I took him out hunting even though my wife said he was too young. I figured he had to learn.
+96)  CAMPMAN
+I came back without him and the look on her face said... "You are a MONSTER."
+97)  CAMPMAN
+We all went out looking for him. We never found him. I hurt her so bad.
+98)  CAMPMAN
+{normald} Have you ever {sada} hurt somebody you care about?
+99)  CAMPMAN
+{disgustb} A few weeks back, there might have been a station wagon in the forest?
+100)  CAMPMAN
+{normalc} Full all sorts of food, water, {normald} things you need to survive.
+101)  CAMPMAN
+Yeah. I'm not some cannibal, Lee. Some killer out in the woods. Some v...villain. {sada} I'm just a... dad. I coach little league.
+102)  CAMPMAN
+{normald} [gathering himself]
+104)  
+Not on purpose.
+106)  LEE
+{normald} Yes. Of course.
+107)  CAMPMAN
+{sada} Who?
+108)  CAMPMAN
+{disgustb} If it were on purpose {thinkinga} you'd be a sociopath.
+109)  LEE
+{normald} Not on purpose.
+110)  LEE
+{normald} No.
+134)  LEE
+{normald} No.
+111)  CAMPMAN
+{thinkinga} That's not true.
+112)  CAMPMAN
+{thinkinga} What about your wife?
+113)  CAMPMAN
+{thinkinga} You didn't care about that woman before holding her back so your {thinkingb} friend could bash her dad's {normalc} brains in?
+114)  CAMPMAN
+{thinkinga} What about that boy who didn't make it out of...{thinkingb} Crawford, was it? If it didn't hurt him, {thinkinga} whatever you did hurt that girl in there.
+115)  CAMPMAN
+{normald} It's okay. {thinkinga} I know you have.
+116)  CAMPMAN
+I hurt her so bad.
+117)  CAMPMAN
+{normald} Then you {normalc} took all of our things. {angrya} You robbed us. {normald} I could've earned her trust back, Lee, {sada} but not after that.
+118)  CAMPMAN
+{normald} And then we came back and {angrya}all our stuff was gone. {angryb} Your people, Lee. That asshole in the ball cap. {crazya} His stupid fucking wife.
+119)  CAMPMAN
+{normald} I could've earned her trust back if they hadn't made our situation so desperate.
+120)  
+I'm sorry.
+121)  
+It's not my fault.
+122)  
+You fucked up.
+123)  LEE
+{sada} I'm sorry.
+124)  LEE
+{sada} It's not my fault.
+125)  LEE
+{sada}You {normalc}  fucked up.
+126)  CAMPMAN
+[a little choked up] {sada}They didn't get far... I... {sadd} found them a day later. In the road. [can't finish]
+127)  CAMPMAN
+{angrya} The hungrier we got the more she blamed me. {normald}  Until she finally took our daughter, Elizabeth, and left.
+128)  CAMPMAN
+Do I look like a monster to you?
+131)  
+We all do.
+132)  LEE
+{angrya} Yes.
+133)  CAMPMAN
+{thinkinga} If you think that now, {normalc} you just wait.
+135)  LEE
+{normalc}  We all do.
+136)  CAMPMAN
+[upset] {angrya} Some more than others.
+137)  CAMPMAN
+{angrya} I'm not like you.
+138)  
+I protected her in that place.
+139)  
+I did my best.
+140)  LEE
+{normald} I did what I had to.
+141)  LEE
+{normald} I did my best.
+142)  CAMPMAN
+{angrya} You killed a man with a pitchfork right in front of a little girl.[1]
+143)  CAMPMAN
+{angrya} You let that little girl get fed disgusting human meat.[1]
+144)  CAMPMAN
+{angrya} You walked a little girl into a dairy full of sick people and let them get their hands on her.[1]
+145)  LEE
+{normald} I was trying to find some place safe for her.
+146)  
+I was trying to find a safe place for her.
+147)  
+It's more complicated than that.
+148)  
+I would do it differently.
+149)  LEE
+{normald} It's more complicated than that.
+150)  LEE
+{normald} I would do differently if I could.
+151)  CAMPMAN
+{angrya} You abandoned a defenseless, grieving woman.[2]
+152)  
+She deserved it.
+153)  
+I had my reasons.
+154)  
+It was impossible to save him.
+155)  
+It was impossible to save her.
+156)  CAMPMAN
+{angrya} You lied to her about who you really are.[2]
+157)  CAMPMAN
+{angrya} You let a boy get yanked out a window and into the night so you could protect a pretty girl with a gun.[2]
+158)  CAMPMAN
+{angrya} You let a woman who knew who you really were die to protect your secret.[2]
+159)  LEE
+{angrya} She deserved it.
+160)  LEE
+{normald} It wasn't the right time to tell her.
+161)  LEE
+{normald} It was impossible to save him. {sada} To save them both.
+162)  LEE
+{normald} It was impossible to save her. {sada} To save them both.
+163)  
+I wouldn't do that again.
+164)  LEE
+{normald} I wouldn't do that again, either.
+165)  LEE
+{normald} I wouldn't do that again.
+166)  
+You weren't there.
+167)  LEE
+{angrya} You weren't there.
+168)  CAMPMAN
+{angrya} The sweatshirt she's wearing was my boy's. You stole that from us. [3]
+169)  CAMPMAN
+{angrya} You brought her to the most dangerous place in this city where she could've died.[3]
+170)  CAMPMAN
+{angrya} How many times did she almost die with you?
+171)  
+We were starving. It was cold.
+172)  
+I couldn't leave her alone.
+173)  
+You wouldn't have done better.
+174)  
+That's not the whole story.
+175)  
+I fucked up.
+176)  CAMPMAN
+[outburst] {crazya} SO MY FAMILY STARVED, IN THE COLD.
+177)  LEE
+{normald} We were starving. It was cold.
+178)  CAMPMAN
+[explodes] SHE WOULD'VE BEEN BETTER OFF.
+179)  CAMPMAN
+[explodes] THAT IS EXACTLY WHAT I WOULD'VE DONE.
+180)  LEE
+{normald} You {normalc} wouldn't have done better.
+181)  LEE
+{normald} That's {normalc} not the whole story.
+182)  CAMPMAN
+THE WHOLE STORY?!?
+183)  LEE
+{normald} I fucked up.
+184)  CAMPMAN
+[snarls] Yes, you did.
+185)  CAMPMAN
+{angrya} Look at you. [snarls]
+186)  CAMPMAN
+You're a monster.[refrain on monster] You're a murderer and a thief and I'm going to hurt you so bad.
+187)  
+Clementine.
+188)  
+Ben.
+189)  
+Carley.
+190)  
+Lilly.
+191)  
+My wife.
+192)  LEE
+{normald} Clementine. {thinkinga} The girl misses her parents. {sada} I'm not them.
+193)  LEE
+{normald} A boy named Ben who was with us. {sada} I liked him;  he was a good kid.
+194)  LEE
+{normald} Her name was Carley. She was killed. {sada} Don't feel like I did enough to protect her. {normald} Maybe I couldn't. {thinkinga} I don't know.
+195)  
+Kenny.
+196)  LEE
+{normald} A guy named Kenny.
+197)  LEE
+{normald} A woman named Lilly.The first few months with her were good. She just wanted to keep her {sada} dad safe and... [sigh] {sadb} I wasn't really there for her when she needed me.
+198)  CAMPMAN
+{thinkinga} Clementine said she wasn't with you.
+199)  CAMPMAN
+{normalb} How?
+200)  LEE
+{sada} My wife.
+201)  LEE
+{sadb} I hurt her a long time ago.
+202)  
+It doens't matter.
+203)  
+In a lot of ways.
+204)  LEE
+{normald} It doesn't matter.
+205)  CAMPMAN
+{thinkinga} If you say so.
+206)  LEE
+{normald} In a lot of ways.
+207)  LEE
+[deciding to finally say what happened] She travelled for work. {thinkingb} I didn't like that. {sadb} I wanted a family.
+208)  LEE
+[quiet, tense] How about you?
+209)  LEE
+{normalc} I got sick one day on my way to class. Cancelled it and went home. {normald} Found her there with someone else. [long pause] {sadc} Killed him. [takes a deep breath]
+210)  CAMPMAN
+{normald} A reasonable thing to want.
+211)  LEE
+{normald} So we fought. {sadc} And it made my biggest fear come true.
+212)  CAMPMAN
+{angrya} [hmmph. typical]
+214)  
+I didn't steal from you!
+215)  
+I'm SORRY!
+216)  
+Just give me Clementine back.
+217)  
+It doesn't have to be this way.
+218)  LEE
+{normalc} I DIDN'T steal from you!
+219)  CAMPMAN
+{angrya} But think of everything {angryb} else you did.
+220)  LEE
+{normald} I'm {sada} SORRY.
+221)  CAMPMAN
+{angrya} I hear that. [firm]
+222)  LEE
+{normald} Just give me Clementine back.
+223)  CAMPMAN
+{angrya} I'd rather kill her myself. Because {angryb} that's what will happen if she goes with you.
+224)  LEE
+{normald} It doesn't have to be this way.
+225)  CAMPMAN
+{angrya} You can't take care of anyone.
+226)  CAMPMAN
+{angrya} You came here for Clementine and I don't even know why.
+227)  CAMPMAN
+{angrya} After I heard Clementine on the radio and{normalc} realized who you folks were, {angrya}I came after you purely for revenge.
+228)  CAMPMAN
+{angrya} After I found Clementine on my radio {normalc} I wasn't even mad at you. {angrya} I was coming for the others. For revenge.
+229)  CAMPMAN
+{angrya} Lee, listen to me. I need you to hear this before what happens next. {normalc} I can take care of her. We can have a family.
+230)  CAMPMAN
+{angrya} But the more I heard about the things you did and the danger she was in... {crazya} our plan changed.
+231)  CAMPMAN
+{normalc} I know how to be a dad, you know. She wouldn't be exposed to what she has been with you.
+232)  
+You're crazy.
+233)  
+I got bitten. Okay.
+235)  CAMPMAN
+{Angrya} Keeping her with you is crazy.
+236)  LEE
+{normalc} That's not happening. {angrya} You're crazy.
+237)  CAMPMAN
+{fearb} You were what?
+238)  LEE
+Yeah. {sadb} I probably don't have a whole lot of time.
+239)  LEE
+{normald} Look... {sada} I was bitten.
+240)  CAMPMAN
+[wind knocked out of him] {normald} Wow. Okay, then.
+241)  LEE
+{angrya} No. Shut up.
+242)  CAMPMAN
+{angrya} It makes sense.
+243)  LEE
+{angrya} It's not happening.
+244)  CAMPMAN
+{normalb} All right. {thinkinga} I expected you to put up a fight.
+245)  
+You'll take care of her?
+246)  
+No. You can't have her.
+247)  
+I'm sorry, again.
+248)  
+You'll have to kill me.
+249)  
+I'm bitten and you're going to be too.
+250)  
+Let us go.
+251)  LEE
+{thinkinga} Why are you saying "we?"
+252)  CAMPMAN
+{normald} We'll give her a home.
+253)  LEE
+{normald} You'll take care of her?
+254)  CAMPMAN
+{angrya} Lee...
+255)  LEE
+{angrya} No, you're not taking her.
+256)  LEE
+{angrya} I said no.
+257)  CAMPMAN
+I'm glad this didn't have to get violent.
+260)  CAMPMAN
+I'm glad this didn't have to get violent.
+258)  LEE
+{normald} I'm sorry, again, {sada} for your family.
+259)  CAMPMAN
+{normald} Me, too.
+261)  CAMPMAN
+{angrya} Yeah, I know. ["you'll have to kill me]
+262)  LEE
+{angrya} You'll have to {angryc} kill me.
+263)  LEE
+{angryb} Make sure you shoot me in the head.
+264)  LEE
+{normald} I'm bitten.
+265)  LEE
+{normalc} I got bit and I'm going to make sure {Angrya} you end up the same way as me.
+266)  CAMPMAN
+[shocked] I...
+267)  CAMPMAN
+[recomposes himself] {normalb} No. I'll be with her and {thinkinga} you'll be rotting in the streets.
+268)  CAMPMAN
+{fearb} What? [surprised]
+269)  CAMPMAN
+{angrya} No, no, I don't think so.
+270)  LEE
+{angrya} Let us go.
+271)  CAMPMAN
+You're going away and {thinkinga} we're starting a new family.
+273)  CAMPMAN
+You're going away and {thinkinga} we're starting a new family.
+272)  CAMPMAN
+{angrya} This is happening.
+274)  CAMPMAN
+{normald} Hey, honey. I think this is all going to work out.
+275)  CAMPMAN
+I'm glad, too.
+276)  LEE
+{thinkinga} What-- [something catches his eye]
+277)  LEE
+{normald} I couldn't leave her at the house, alone.
+278)  CAMPMAN
+[To Lee] {thinkinga} Isn't it?
+279)  LEE
+[uh...] {normalc} Just about.
+280)  CAMPMAN
+[to the bag] {normald} I hate seeing you like this. I just miss {happya}your smile, honey. [sigh]
+281)  CAMPMAN
+[to the bag] {normald} I miss you {sada} so much, Tess. {happya} You're going to like Clementine a lot, though. {normald} She's not Lizzy, but she's {happya} sweet. {normalb} She wouldn't hurt a fly. [last part delievered to lee]
+282)  CAMPMAN
+[to the bag] {normald} I wish you wouldn't have had to get this bad, but it's all over, hon.
+283)  CAMPMAN
+[being hit in the shoulder with a cleaver] AHHHHH!
+427)  CAMPMAN
+[being hit in the shoulder with a cleaver] AHHHHH!
+284)  CAMPMAN
+[being hit in the head] UGHAK!
+425)  CAMPMAN
+[being hit in the head] UGHAK!
+426)  CAMPMAN
+[being hit in the head] UGHAK!
+428)  CAMPMAN
+[being hit in the head] UGHAK!
+285)  CAMPMAN
+[being punched by a little girl] AH-HEY!
+429)  CAMPMAN
+[being punched by a little girl] AH-HEY!
+286)  LEE
+[lunging into a fight]
+440)  LEE
+[lunging into a fight]
+287)  CAMPMAN
+[punching a guy in the nose]
+441)  CAMPMAN
+[punching a guy in the nose]
+288)  LEE
+[getting punched in the nose]
+442)  LEE
+[getting punched in the nose]
+289)  CAMPMAN
+[toppling to the ground in a fight]
+291)  LEE
+[toppling to the ground in a fight]
+438)  LEE
+[toppling to the ground in a fight]
+439)  CAMPMAN
+[toppling to the ground in a fight]
+484)  LEE
+[toppling to the ground in a fight]
+485)  CAMPMAN
+[toppling to the ground in a fight]
+290)  CAMPMAN
+[being attacked with bare hands, lunged at]
+437)  CAMPMAN
+[being attacked with bare hands, lunged at]
+483)  CAMPMAN
+[being attacked with bare hands, lunged at]
+292)  LEE
+[lunging at attacker]
+436)  LEE
+[lunging at attacker]
+482)  LEE
+[lunging at attacker]
+293)  CAMPMAN
+[on top of lee, beating him]
+294)  LEE
+[throwing campman off of you]
+297)  LEE
+[throwing campman off of you]
+295)  CAMPMAN
+[getting thrown off of lee]
+298)  CAMPMAN
+[getting thrown off of lee]
+296)  CLEMENTINE
+[watching lee get his face beaten in, crying, hysterical] NONONOSTOP!!! LEEEE!!!
+299)  CLEMENTINE
+[watching lee get his face beaten in, crying, hysterical] NONONOSTOP!!! LEEEE!!!
+300)  CAMPMAN
+[struggling through grit teeth] GOT. YOU.
+301)  CAMPMAN
+[hurrying to get away from lee and get a gun]
+302)  LEE
+[hurrying to your feet after a gnarly struggle]
+303)  CAMPMAN
+[getting tackled into a wall]
+443)  CAMPMAN
+[getting tackled into a wall]
+304)  LEE
+[charging campman]
+444)  LEE
+[charging campman]
+305)  LEE
+[tackling campman, smashing him into a wall]
+445)  LEE
+[tackling campman, smashing him into a wall]
+306)  CAMPMAN
+[snatching the gun up from the ground]
+307)  LEE
+[getting shot in the shoulder] UGH!
+308)  CLEMENTINE
+[scream! lee's been shot!]
+309)  LEE
+[quick little stumble, panicked, out of breath]
+310)  LEE
+[in pain] Uh..huhgrr...ah...
+311)  CLEMENTINE
+[goes apeshit] NO!!!!
+312)  CAMPMAN
+[about to shoot lee] I'm sorry.
+313)  LEE
+[hitting campman with a massive heymaker] RRRAAAAHHH!
+314)  CAMPMAN
+[getting hit with a massive punch]
+315)  CAMPMAN
+[being choked dies]
+316)  LEE
+[getting hurt] Ugh!
+446)  LEE
+[getting hurt] Ugh!
+317)  CAMPMAN
+[choking lee] Just go away...
+318)  LEE
+[long getting choked idle]
+447)  LEE
+[long getting choked idle]
+319)  CAMPMAN
+[choking lee] You son of a bitch...
+320)  CAMPMAN
+[choking lee] Die!
+321)  CLEMENTINE
+[in shock] I... I... I...
+322)  LEE
+It's okay. It's okay.
+323)  CLEMENTINE
+[in shock, being hugged to lee's chest] I...
+324)  LEE
+Shh. It's okay. It's okay.
+475)  LEE
+Shh. It's okay. It's okay.
+325)  CLEMENTINE
+[in shock] I'm sorry... I'm sorry.
+474)  CLEMENTINE
+[in shock] I'm sorry... I'm sorry.
+326)  
+Did he hurt you?
+331)  LEE
+Did he hurt you?
+327)  
+Let's go.
+328)  
+We don't have much time.
+329)  LEE
+Clem, it's okay.
+330)  CLEMENTINE
+[still out of sorts] No, not really. I'm sorry, Lee.
+332)  CLEMENTINE
+[being rescued] Yes, please.
+333)  LEE
+Let's get out of here, okay?
+334)  CLEMENTINE
+Okay. I'm sorry, Lee. I'm sorry.
+335)  LEE
+Shh... it's okay, sweetie.
+336)  LEE
+Clementine, we don't have much time.
+337)  LEE
+No, it's okay. I'm sorry, Clem.
+338)  CLEMENTINE
+I'm so sorry, Lee. I did bad.
+339)  CLEMENTINE
+Yeah.
+486)  CLEMENTINE
+Yeah.
+340)  LEE
+Everything's okay now. We need to figure out how to get out of Savannah as fast as we can.
+487)  LEE
+Everything's okay now. We need to figure out how to get out of Savannah as fast as we can.
+341)  LEE
+We need to get you somewhere safe and then we have to talk, okay?
+488)  LEE
+We need to get you somewhere safe and then we have to talk, okay?
+342)  LEE
+Hey.... [warm, to clem]
+343)  CLEMENTINE
+[small, kind of in shock] You don't smell good.
+344)  LEE
+Yeah, I know. [warm to clem]
+345)  CLEMENTINE
+I...I... I know.
+346)  CLEMENTINE
+[sad] Me, too.
+347)  LEE
+You pulled the trigger.[cb]
+348)  LEE
+I wish... I wish you'd never had to learn that.
+349)  LEE
+It's okay.
+350)  LEE
+You didn't act like it.
+351)  CLEMENTINE
+I know. I am now.
+352)  LEE
+You weren't afraid.
+353)  CLEMENTINE
+I was.
+354)  LEE
+You saved me.
+357)  LEE
+You saved me.
+355)  CLEMENTINE
+It's my fault. Everything is dangerous. Like you said.
+356)  LEE
+It's okay. You learn.
+358)  LEE
+I'm sorry you had to. But I'm happy you could.
+359)  LEE
+And take you, yeah.
+360)  LEE
+I'm sorry you had to see that.
+361)  CLEMENTINE
+He was going to kill you.
+362)  LEE
+[to himself] Jesus...
+363)  LEE
+Don't look in here.
+364)  CLEMENTINE
+[uh uh no way, horrified] No. I know.
+367)  LEE
+[to himself] Out to the hallway.
+368)  LEE
+[shocked] *Gasp!*
+369)  CLEMENTINE
+[lee killed] AHHH!
+370)  LEE
+[getting eaten, neck]AGRRHHHH!!!
+371)  CLEMENTINE
+You're covered in all that gross stuff.
+479)  CLEMENTINE
+You're covered in all that gross stuff.
+372)  CLEMENTINE
+It...it... it didn't bite you.
+477)  CLEMENTINE
+It...it... it didn't bite you.
+373)  LEE
+That's how we'll get out of Savannah.
+481)  LEE
+That's how we'll get out of Savannah.
+374)  LEE
+Yeah...[scared to himself] I know it... must've...
+478)  LEE
+Yeah...[scared to himself] I know it... must've...
+375)  LEE
+I had to get through a bunch of them to get here.
+480)  LEE
+I had to get through a bunch of them to get here.
+376)  LEE
+They smell horrible, which means you have to, too.
+377)  CLEMENTINE
+[small, flat] Yuck. Okay.
+378)  LEE
+Oof.
+379)  LEE
+Which way out?
+380)  CLEMENTINE
+Through there.
+381)  CLEMENTINE
+Yeah, but I wanna go.
+382)  LEE
+You okay?
+383)  LEE
+{normald} You might want to pinch your nose.
+384)  CLEMENTINE
+[being covered in guts] {sadc} Not soon enough.
+385)  LEE
+{normald} We'll get you cleaned up as soon as we can.
+386)  LEE
+{normald} Just a little more....
+387)  CLEMENTINE
+{sadc} So... gross....
+388)  CLEMENTINE
+[having zombie guts smeared on her] Eeeeeew....[actually upset, not funny]
+389)  CLEMENTINE
+Are you done?
+390)  LEE
+A little more. I want to be sure.
+391)  CLEMENTINE
+[grossed out] I hope so.
+392)  LEE
+Stay right next to me and walk very slowly. Don't look around and don't panic.
+393)  CLEMENTINE
+[afraid]
+394)  LEE
+I'll keep you safe.
+395)  LEE
+There, that should do it.
+396)  CLEMENTINE
+Oh, no.... [kinda grossed out]
+397)  
+Bowling Bag
+398)  
+Empty Bottle
+399)  
+Cleaver
+400)  
+Carafe
+401)  
+Door
+402)  
+Door
+403)  
+Door
+404)  
+Lamp
+405)  
+Open
+406)  
+Look At
+476)  
+Look At
+407)  
+Listen At
+408)  
+Chop
+409)  
+Scoop
+410)  
+Shoot
+473)  
+Shoot
+411)  LEE
+{normalc} She's eight.
+412)  CAMPMAN
+{thinkinga} I bet you don't know even know how old she is.
+413)  LEE
+{sada} But--
+414)  CAMPMAN
+[mean] {angrya} Wrong. [can't believe it] {thinkingb} She's nine.
+415)  CAMPMAN
+{normalc} Her birthday was six days ago.
+416)  
+Stranger
+417)  
+Tackle
+430)  
+Tackle
+418)  CAMPMAN
+[pickup1][out of breath, approaching Lee after shooting him]
+432)  CAMPMAN
+[pickup1][out of breath, approaching Lee after shooting him]
+419)  CLEMENTINE
+[Zombie is reaching slowly through open door to grab you]
+420)  
+Talk To
+421)  
+Smear
+431)  
+Hit
+467)  
+Hit
+433)  
+Grab
+434)  
+Punch
+435)  
+Headbutt
+448)  LEE
+{normalc} I was mad at her for so long and {normald} I can't imagine how much pain she felt.
+449)  CLEMENTINE
+[pickup1] {sada} Your arm's gone... why? That's so scary...
+450)  LEE
+[pickup1] {normald} I had an accident. We'll talk about it somewhere safe.
+451)  CLEMENTINE
+[pickup1] {sada} You look horrible.
+452)  LEE
+[pickup1] {normald} That's what he said.
+453)  CLEMENTINE
+[pickup1] Let's just get somewhere safe.
+454)  LEE
+[pickup1] [it's not adding up] How could you know all this?
+455)  CLEMENTINE
+[pickup1] [scared. small] {sadc} He would've come back.
+469)  CLEMENTINE
+[pickup1] [scared. small] {sadc} He would've come back.
+456)  LEE
+[pickup1] {normald} That's right, sweet pea.
+468)  LEE
+[pickup1] {normald} That's right, sweet pea.
+457)  LEE
+[pickup1] {normald} It's okay, sweet pea. We're leaving.
+470)  LEE
+[pickup1] {normald} It's okay, sweet pea. We're leaving.
+458)  CLEMENTINE
+[pickup1] [small, in shock, but happy] Good.
+472)  CLEMENTINE
+[pickup1] [small, in shock, but happy] Good.
+459)  CLEMENTINE
+[pickup1] {sadc} He... he could come back.
+471)  CLEMENTINE
+[pickup1] {sadc} He... he could come back.
+460)  CLEMENTINE
+[pickup1] [small little noises as guts are smeared all over you 1]
+461)  CLEMENTINE
+[pickup1] [small little noises as guts are smeared all over you 2]
+462)  CLEMENTINE
+[pickup1] [small little noises as guts are smeared all over you 3]
+463)  CLEMENTINE
+[pickup1] Thank you.
+464)  CLEMENTINE
+[pickup1] I thought it was gone.
+465)  LEE
+[pickup1] I thought YOU were gone.
+466)  LEE
+[pickup1]  And you're missing something.

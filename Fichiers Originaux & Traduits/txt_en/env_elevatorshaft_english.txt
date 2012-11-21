@@ -1,0 +1,188 @@
+1)  CHRISTA
+{ThinkingA}We're going to have to go as quiet as possible and see if we can make it to an empty floor or even the roof.
+15)  CHRISTA
+{ThinkingA}We're going to have to go as quiet as possible and see if we can make it to an empty floor or even the roof.
+2)  LEE
+[na] {ThinkingB}Yeah. [nods with his head "that'a way"]Get goin'.
+5)  LEE
+[na] {ThinkingB}Yeah. [nods with his head "that'a way"]Get goin'.
+11)  LEE
+[na] {ThinkingB}Yeah. [nods with his head "that'a way"]Get goin'.
+3)  KENNY
+{ThinkingA}Not exactly a, uh, handicap ramp.
+4)  KENNY
+{NormalB}We're going to have to climb as quiet as we can; can you handle that?
+6)  LEE
+[sigh] [to himself] {FearA}Aw, jeez. [making light of a horrible situation]
+7)  LEE
+{SadA}No, no it's not.
+8)  BEN
+[quietish] {FearA}This is a, uh, challenge.
+9)  LEE
+[thinking "how the hell am i going ot do this] {ThinkingB}Yeah, sure is.
+10)  BEN
+{SadA}Are you going to be okay?
+12)  LEE
+[to himself] [dread, tired, arm cut off and have to climb a ladder] {SadB}Well, here we go.
+13)  LEE
+[quietish] All right, up we go.
+14)  CHRISTA
+[emp] {SadA}You think it's possible for you?
+16)  OMID
+{NormalB}Sounds good.
+17)  KENNY
+[quietish] {ThinkingA}Let's head up as far as we have to until we find a safe exit.
+18)  LEE
+{NormalC}Yeah, that's what I was thinking.
+19)  KENNY
+[to ben] {AngryA}Try not to get anyone killed.
+20)  BEN
+{SadA}Quiet, got it.
+21)  LEE
+{AngryA}Quiet. And don't stop climbing until we find a safe exit.
+22)  LEE
+[in pain, one hand, pulling himself up onto a ladder]
+23)  LEE
+Randy Tudor. Good man. DAMN fine man. Powerful 'stache. One of the greats.
+24)  OMID
+[whispering from higher up the elevator shaft] {FearA}Nice and quiet everybody...
+25)  KENNY
+[whispering from higher up the elevator shaft] {AngryA}Shh... easy now.
+26)  BEN
+[whispering from higher up the elevator shaft] {FearB}Shh...
+27)  OMID
+[whispering down to lee] {AngryA}You okay down there? Remember, quiet?
+28)  KENNY
+[whispering downward] {AngryB}You okay down there? Quiet, remember?
+29)  BEN
+[whispering] {FearA}Everything okay down there?
+30)  LEE
+[whispering, in a lot of pain, climbing] {ThinkingA}It's no big deal. Another arm would just get in the way.
+31)  LEE
+[hanging by your ankle, you have to reach up and grab a ladder rung. through grit teeth. there are zombies all around and this the hardest thing you've ever had to do in your life]
+32)  LEE
+[to himself] [hanging by an ankle in an elevator shaft, keeping quiet, in a lot of stress/pain] Ah, Jesus... gotta...  get... up.
+33)  LEE
+[restrained/ quiet] Ah!
+34)  KENNY
+[whispered] There's some light up there...
+35)  CHRISTA
+[whispered] There's some light up there...
+36)  BEN
+[whispered] There's some light up there...
+37)  LEE
+[to himself, exerted, climbing a ladder] Good. I gotta get my ass off this ladder.
+39)  
+Shit!
+40)  
+What the...?
+41)  CHRISTA
+[whispered, to self] [gasp]
+42)  KENNY
+[whispered, to self] [gasp]
+43)  BEN
+[whispered, to self] [gasp]
+44)  
+Fuck!
+45)  
+Watch out!
+46)  LEE
+[hushed, urgent] Watch out!
+47)  LEE
+[hushed, urgent] Fuck!
+48)  LEE
+[hushed, urgent] Shit!
+49)  LEE
+[hushed, looking up into the blackness] What the...?
+50)  LEE
+[phew, hushed] Man... better keep my eyes open.
+51)  BEN
+[hushed, PHEW] Oh man, oh jeez...
+52)  KENNY
+[hushed] Shut the fuck up, Ben.
+53)  KENNY
+[phew, hushed] Damn...
+54)  CHRISTA
+[hushed] That was fucking close.
+55)  LEE
+[falling to death] AHHHHHHHH!
+56)  CHRISTA
+[far away in elevator] NO!!!
+57)  LEE
+[hushed] Everything okay up there?
+58)  BEN
+[hushed] I think I just peed myself.
+59)  LEE
+[hushed] So yes, then.
+60)  KENNY
+[hushed] I just about shit my pants, but yeah.
+61)  OMID
+[hushed] Oh, just fucking peachy.
+62)  LEE
+[getting woozy and naseous, trying to be quiet, climbing a ladder] Oohhhuh....
+63)  CHRISTA
+[hushed] Lee! LEE! Oh God, are you alive? Get up!
+64)  
+I'm alive.
+65)  
+I'm gonna fall!
+66)  
+I can't move!
+67)  KENNY
+[hushed] Lee! What the fuck, pal! Get up! Get up!
+68)  BEN
+[hushed] Oh shit, oh no, LEE, wake up! Don't fall don't fall don't fall!
+69)  LEE
+[coming back to conciousness] Uhhgh...ugh....
+70)  LEE
+[to himself, hushed, out of sorts] Gotta... get... up...
+71)  LEE
+[hanging upside down, woozy, out of it, hushed] I'm alive... I think...
+72)  LEE
+[hanging upside down, woozy, out of it, hushed] I'm gonna fall, shit, I'm fucked here.
+73)  LEE
+[hanging upside down, woozy, out of it, hushed] I can't move, goddamn, I'm stuck!
+74)  LEE
+[hanging upside down, woozy, out of it, hushed][just struggles to adjust, get himself out of a pickle]
+75)  CHRISTA
+[hushed, concerned] You have to pull yourself up!
+76)  KENNY
+[hushed, concerned]I can't come back down for ya. You're gonna have to pull yourself up!
+77)  BEN
+[hushed, concerned] Can you pull yourself up? You've gotta try!
+78)  CHRISTA
+[hushed] You can do it!
+79)  OMID
+[hushed] You got this, Lee.
+80)  CHRISTA
+[hushed] Pull yourself up!
+81)  KENNY
+[hushed] You got it, pal!
+82)  KENNY
+[hushed] Come on, pull yourself up!
+83)  KENNY
+[hushed] Come on. Get it done, Lee.
+84)  BEN
+[hushed] Come on!
+85)  BEN
+[hushed] You got this!
+86)  BEN
+[hushed] You're strong as hell, Lee!
+87)  LEE
+[idle of hanging upside down, totally out of it, dangling from your ankle]
+88)  CHRISTA
+[hushed, relieved] [phew] Good job.
+89)  KENNY
+[hushed, relieved] [phew] Way to go, pal. Gave me a fucking scare.
+90)  BEN
+[hushed, relieved] [phew] Good... man, you scared the crap out of me.
+91)  
+Rung
+92)  
+Grab
+93)  
+Look At
+94)  CHRISTA
+[pickup1][hushed][you've got a lot of balls to be making a joke about your missing arm]{ThinkingA}Jesus Christ, Lee.
+95)  KENNY
+[pickup1][hushed][you've got a lot of balls to be making a joke about your missing arm]{ThinkingA}Sheeit.

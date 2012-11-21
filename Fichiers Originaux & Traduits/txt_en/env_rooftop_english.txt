@@ -1,0 +1,1510 @@
+1)  KENNY
+{thinkingA} Remember when Savannah was empty?
+27)  KENNY
+{thinkingA} Remember when Savannah was empty?
+59)  KENNY
+{thinkingA} Remember when Savannah was empty?
+148)  KENNY
+{thinkingA} Remember when Savannah was empty?
+2)  CHRISTA
+{disgustA} Those Crawford bastards did one thing right, I guess.
+60)  CHRISTA
+{disgustA} Those Crawford bastards did one thing right, I guess.
+87)  CHRISTA
+{disgustA} Those Crawford bastards did one thing right, I guess.
+118)  CHRISTA
+{disgustA} Those Crawford bastards did one thing right, I guess.
+3)  KENNY
+{disgustA} There must be thousands of them.
+26)  KENNY
+{disgustA} There must be thousands of them.
+61)  KENNY
+{disgustA} There must be thousands of them.
+4)  BEN
+{thinkingA} Did they follow us here?
+30)  BEN
+{thinkingA} Did they follow us here?
+89)  BEN
+{thinkingA} Did they follow us here?
+5)  KENNY
+{fearA} It sure seems like it.
+29)  KENNY
+{fearA} It sure seems like it.
+62)  KENNY
+{fearA} It sure seems like it.
+6)  CHRISTA
+{worriedA} That's crazy; they can't TRACK. They just roam.
+63)  CHRISTA
+{worriedA} That's crazy; they can't TRACK. They just roam.
+88)  CHRISTA
+{worriedA} That's crazy; they can't TRACK. They just roam.
+121)  CHRISTA
+{worriedA} That's crazy; they can't TRACK. They just roam.
+7)  KENNY
+{disgustA} Is it? That fucking train wasn't exactly discrete.
+28)  KENNY
+{disgustA} Is it? That fucking train wasn't exactly discrete.
+64)  KENNY
+{disgustA} Is it? That fucking train wasn't exactly discrete.
+8)  OMID
+{disgustA} Well, what do we do now?
+65)  OMID
+{disgustA} Well, what do we do now?
+9)  
+We need to get off this roof.
+32)  
+We need to get off this roof.
+68)  
+We need to get off this roof.
+90)  
+We need to get off this roof.
+127)  
+We need to get off this roof.
+152)  
+We need to get off this roof.
+165)  
+We need to get off this roof.
+10)  
+Maybe we can wait for an opening.
+35)  
+Maybe we can wait for an opening.
+74)  
+Maybe we can wait for an opening.
+96)  
+Maybe we can wait for an opening.
+133)  
+Maybe we can wait for an opening.
+154)  
+Maybe we can wait for an opening.
+167)  
+Maybe we can wait for an opening.
+11)  
+Clementine's out there.
+38)  
+Clementine's out there.
+80)  
+Clementine's out there.
+100)  
+Clementine's out there.
+139)  
+Clementine's out there.
+157)  
+Clementine's out there.
+12)  KENNY
+[changing tone, looking out on to savannah] {thinkingA} We get down and {disgustA} we find a little girl out there. [to lee] {thinkingA} Right, pal?
+66)  KENNY
+[changing tone, looking out on to savannah] {thinkingA} We get down and {disgustA} we find a little girl out there. [to lee] {thinkingA} Right, pal?
+364)  KENNY
+[changing tone, looking out on to savannah] {thinkingA} We get down and {disgustA} we find a little girl out there. [to lee] {thinkingA} Right, pal?
+13)  KENNY
+{fearA} Now let's get our bearings.
+31)  KENNY
+{fearA} Now let's get our bearings.
+67)  KENNY
+{fearA} Now let's get our bearings.
+365)  KENNY
+{fearA} Now let's get our bearings.
+14)  LEE
+{fearA} We need to get off this roof as fast as we can.
+34)  LEE
+{fearA} We need to get off this roof as fast as we can.
+69)  LEE
+{fearA} We need to get off this roof as fast as we can.
+92)  LEE
+{fearA} We need to get off this roof as fast as we can.
+128)  LEE
+{fearA} We need to get off this roof as fast as we can.
+153)  LEE
+{fearA} We need to get off this roof as fast as we can.
+166)  LEE
+{fearA} We need to get off this roof as fast as we can.
+15)  CHRISTA
+{sadA} It's not safe down there. We can't just walk through the streets.
+70)  CHRISTA
+{sadA} It's not safe down there. We can't just walk through the streets.
+93)  CHRISTA
+{sadA} It's not safe down there. We can't just walk through the streets.
+129)  CHRISTA
+{sadA} It's not safe down there. We can't just walk through the streets.
+16)  LEE
+{disgustA} You planning on growing some wings?
+33)  LEE
+{disgustA} You planning on growing some wings?
+71)  LEE
+{disgustA} You planning on growing some wings?
+91)  LEE
+{disgustA} You planning on growing some wings?
+130)  LEE
+{disgustA} You planning on growing some wings?
+17)  CHRISTA
+{happyA} It's taking an immense amount of willpower to NOT make a crack about that suggestion coming from the one-armed man.
+72)  CHRISTA
+{happyA} It's taking an immense amount of willpower to NOT make a crack about that suggestion coming from the one-armed man.
+94)  CHRISTA
+{happyA} It's taking an immense amount of willpower to NOT make a crack about that suggestion coming from the one-armed man.
+131)  CHRISTA
+{happyA} It's taking an immense amount of willpower to NOT make a crack about that suggestion coming from the one-armed man.
+18)  LEE
+{normalD} That joke'll be funnier once we know if this worked.
+73)  LEE
+{normalD} That joke'll be funnier once we know if this worked.
+95)  LEE
+{normalD} That joke'll be funnier once we know if this worked.
+132)  LEE
+{normalD} That joke'll be funnier once we know if this worked.
+19)  LEE
+{normalD} Maybe we can wait for an opening.
+36)  LEE
+{normalD} Maybe we can wait for an opening.
+75)  LEE
+{normalD} Maybe we can wait for an opening.
+98)  LEE
+{normalD} Maybe we can wait for an opening.
+134)  LEE
+{normalD} Maybe we can wait for an opening.
+155)  LEE
+{normalD} Maybe we can wait for an opening.
+168)  LEE
+{normalD} Maybe we can wait for an opening.
+20)  KENNY
+{thinkingA} Anybody know how far and in what direction the mansion is? {disgustA} We probably oughta start there.
+77)  KENNY
+{thinkingA} Anybody know how far and in what direction the mansion is? {disgustA} We probably oughta start there.
+21)  LEE
+{thinkingA} It's between us and River Street, so we can stop if we have to. Retrace our steps maybe, and then get going towards the hotel where Clem's parents were staying.
+37)  LEE
+{thinkingA} It's between us and River Street, so we can stop if we have to. Retrace our steps maybe, and then get going towards the hotel where Clem's parents were staying.
+78)  LEE
+{thinkingA} It's between us and River Street, so we can stop if we have to. Retrace our steps maybe, and then get going towards the hotel where Clem's parents were staying.
+99)  LEE
+{thinkingA} It's between us and River Street, so we can stop if we have to. Retrace our steps maybe, and then get going towards the hotel where Clem's parents were staying.
+137)  LEE
+{thinkingA} It's between us and River Street, so we can stop if we have to. Retrace our steps maybe, and then get going towards the hotel where Clem's parents were staying.
+156)  LEE
+{thinkingA} It's between us and River Street, so we can stop if we have to. Retrace our steps maybe, and then get going towards the hotel where Clem's parents were staying.
+164)  LEE
+{thinkingA} It's between us and River Street, so we can stop if we have to. Retrace our steps maybe, and then get going towards the hotel where Clem's parents were staying.
+22)  LEE
+{sadA} Clementine's out there, somewhere, {sadC} gobbled up in all of that.
+39)  LEE
+{sadA} Clementine's out there, somewhere, {sadC} gobbled up in all of that.
+81)  LEE
+{sadA} Clementine's out there, somewhere, {sadC} gobbled up in all of that.
+102)  LEE
+{sadA} Clementine's out there, somewhere, {sadC} gobbled up in all of that.
+140)  LEE
+{sadA} Clementine's out there, somewhere, {sadC} gobbled up in all of that.
+158)  LEE
+{sadA} Clementine's out there, somewhere, {sadC} gobbled up in all of that.
+23)  CHRISTA
+{worriedA} We'll get to her, Lee. {angryA} We'll do whatever we have to.
+82)  CHRISTA
+{worriedA} We'll get to her, Lee. {angryA} We'll do whatever we have to.
+101)  CHRISTA
+{worriedA} We'll get to her, Lee. {angryA} We'll do whatever we have to.
+141)  CHRISTA
+{worriedA} We'll get to her, Lee. {angryA} We'll do whatever we have to.
+24)  KENNY
+{thinkingA} Look, [trying to motivate]let's get our bearings and see if we can figure out a way to make it across town. Good?
+40)  KENNY
+{thinkingA} Look, [trying to motivate]let's get our bearings and see if we can figure out a way to make it across town. Good?
+83)  KENNY
+{thinkingA} Look, [trying to motivate]let's get our bearings and see if we can figure out a way to make it across town. Good?
+25)  KENNY
+{happyA} Good.
+41)  KENNY
+{happyA} Good.
+84)  KENNY
+{happyA} Good.
+109)  CHRISTA
+{happyA} Good.
+143)  CHRISTA
+{happyA} Good.
+42)  BEN
+{fearA} But how?! {fearB} They're dumb aren't they? It's crazy to think they TRACKED us.
+43)  KENNY
+{fearA} When haven't we been screwed. {disgustA} Let's just try not to screw each other.
+44)  BEN
+{sadE} It coulda picked up every walker for miles... {fearB} we are so screwed.
+45)  KENNY
+{thinkingA} Right now we get down and {disgustA} we find a little girl out there. [to lee] {thinkingA} Right, pal?
+46)  BEN
+{thinkingA} But it's not safe down there. {fearA} We can't just walk through the streets.
+47)  KENNY
+{thinkingA} Ben, if cutting Lee's arm off didn't halt whatever happens to bite victims {disgustA} that joke's not gonna be near as funny.
+48)  BEN
+{happyA} ...Don't you mean "wing?"
+49)  BEN
+{sadA} I don't know... we could be waiting a LONG time.
+51)  BEN
+{sadA} I don't know... we could be waiting a LONG time.
+97)  BEN
+{sadA} I don't know... we could be waiting a LONG time.
+50)  KENNY
+{thinkingA} Still, Lee's right in that we gotta pick our time and go.
+52)  KENNY
+{thinkingA} Still, Lee's right in that we gotta pick our time and go.
+76)  KENNY
+{thinkingA} Still, Lee's right in that we gotta pick our time and go.
+53)  KENNY
+{thinkingA} Okay.
+54)  KENNY
+{disgustA} Okay.
+79)  KENNY
+{disgustA} Okay.
+55)  LEE
+{normalD} Yeah, I know we will.
+56)  KENNY
+{sadA} We'll get to her, Lee. {fearA} We'll do whatever we have to.
+57)  KENNY
+{disgustA} Unless that's too fucking scary for you.
+58)  KENNY
+{normalC} Lee, you know how far and in what direction the mansion is? {thinkingA} We probably oughta start there.
+85)  OMID
+{fearA} We could be waiting a LONG time.
+86)  OMID
+{thinkingA} They didn't follow us here, did they?
+103)  OMID
+{surpriseA} There's thousands...
+120)  OMID
+{surpriseA} There's thousands...
+104)  OMID
+{angryA} Wasn't this city {thinkingA} EMPTY not too long ago?
+119)  OMID
+{angryA} Wasn't this city {thinkingA} EMPTY not too long ago?
+105)  CHRISTA
+{thinkingA} We're probably just going to have to pick our time and go. {worriedA} The longer we're up here the further Clementine could be getting from us.
+135)  CHRISTA
+{thinkingA} We're probably just going to have to pick our time and go. {worriedA} The longer we're up here the further Clementine could be getting from us.
+106)  OMID
+{normalB} We should probably start back at the mansion then, right? {fearA} Which way is that?
+136)  OMID
+{normalB} We should probably start back at the mansion then, right? {fearA} Which way is that?
+107)  CHRISTA
+{thinkingA} Sounds good.
+138)  CHRISTA
+{thinkingA} Sounds good.
+108)  CHRISTA
+{thinkingA} Look, [trying to motivate] let's get our bearings and see if we can figure out a way to make it across town. Good?
+142)  CHRISTA
+{thinkingA} Look, [trying to motivate] let's get our bearings and see if we can figure out a way to make it across town. Good?
+110)  BEN
+{sadE} Yeah, why not?
+111)  BEN
+{disgustA} It wasn't quiet.
+112)  CHRISTA
+{fearA} You think it could've brought them all to us?
+124)  CHRISTA
+{fearA} You think it could've brought them all to us?
+113)  OMID
+{surpriseA} It SEEMS like it but that can't be, {fearA} can it?
+114)  CHRISTA
+{angryA} What ABOUT the train?
+123)  CHRISTA
+{angryA} What ABOUT the train?
+115)  OMID
+{thinkingA} What about the train?
+122)  OMID
+{thinkingA} What about the train?
+116)  CHRISTA
+[sigh] {worriedA} We need to get down there and find a scared little girl.
+125)  CHRISTA
+[sigh] {worriedA} We need to get down there and find a scared little girl.
+117)  CHRISTA
+{thinkingA} Let's try to get our bearings.
+126)  CHRISTA
+{thinkingA} Let's try to get our bearings.
+144)  OMID
+{fearA} How long do we want to have to wait? Could be a while....
+145)  OMID
+It wasn't exactly whisper-quiet.
+146)  OMID
+{thinkingA} Yeah, I do.
+147)  OMID
+{surpriseB} It seems like they followed us here, {fearA} but that can't be, can it?
+149)  KENNY
+{happyA} It was like six hours ago.
+150)  LEE
+{happyA} Oh, way back then? [sarc]
+151)  LEE
+{disgustA} A lot's happened in the mean time.
+159)  KENNY
+{normalC} I'm with you. {thinkingA} We just need to figure out a way to get across town safely.
+160)  KENNY
+{sadA} We might be waiting a while. {thinkingA} But you're right, we probably just gotta pick our time and go.
+161)  KENNY
+{sadA} I know, Lee. We'll get her back. {disgustA} No matter what.
+162)  KENNY
+{thinkingA} But hey, what's a few walkers? We'll be okay; {normalC} we just gotta get moving.
+163)  KENNY
+{thinkingA} I think step one is to pick a direction. Back towards the mansion is my vote. {disgustA} I'm all turned around, though.
+169)  
+I need you to suck it up, for one.
+170)  BEN
+[looking at the herd] {sadA} There must be... thousands of them. {fearB} What the hell do we do now?
+171)  LEE
+{disgustA} Damn right she would. {happyA} All fifty pounds of her.
+172)  BEN
+{sadE} Okay... but I don't know about being down there.
+173)  LEE
+{thinkingA} You're going to have to figure out a way to deal with it.
+174)  BEN
+{thinkingA} Clementine. {thinkingB} She'd do it for me.
+175)  LEE
+{thinkingA} Something like that. {disgustA} We can't stay up here.
+176)  BEN
+{sadA} I know. We gotta go. {fearA} We just have to figure out a way.
+177)  BEN
+{disgustA} And just, what, run?
+178)  BEN
+{happyA} Heh. I guess not.
+179)  LEE
+{disgustA} I don't think we're at risk if someone running off with you.
+180)  BEN
+{thinkingB} You're right. {sadA} She'd come after me, if I was one that got kidnapped.
+181)  LEE
+{angryA} I need you to suck it up, for starters. Clementine's out there, somewhere in all that mess.
+182)  BEN
+{fearA} It's, uh, just a few walkers, right? We can figure out a way to get past them.
+183)  BEN
+{thinkingA} We gotta pick a direction though, right? I'm a little turned around after being down in the sewers.
+184)  BEN
+{disgustA} Like, where's the mansion?
+185)  LEE
+[to himself] [sigh] {fearA} I need to figure out a way to get down and somehow across town. {thinkingA} Maybe head back towards the mansion and go after her from there....
+186)  LEE
+[to himself] {surpriseB} Fuck... there must be thousands of them.
+187)  LEE
+[to himself] Hospital must'a run outta doctors.
+188)  LEE
+[to himself] Some poor bastard took a spill.
+189)  KENNY
+[about 25 feet away] {fearA} Yeah, looks like whoever was up here paintin' that sign went ass over tea-kettle!
+190)  LEE
+[himself] He or she walked away from whatever accident happened... but that doesn't really mean much.
+191)  LEE
+[to himself] I bet that hurt like hell.
+192)  LEE
+[to himself] They head towards the edge of the building.
+193)  LEE
+[to himself] It should be able to get me across the gap.
+194)  CHRISTA
+{worriedA} I don't like anything about this.
+195)  LEE
+{normalD} It'll take two seconds.
+196)  KENNY
+{sadA} We'll keep it secure on our end.
+197)  KENNY
+{sadA} We'll keep it secure on our end.
+198)  LEE
+{thinkingA} Good.
+392)  KENNY
+{thinkingA} Good.
+199)  BEN
+I'll try to keep it steady from over here.
+200)  CHRISTA
+{fearA} Hurry.
+201)  KENNY
+[nervous] {fearA} Yeah, what she said.
+202)  KENNY
+{fearA} Hurry back.
+203)  LEE
+{disgustA} That's the plan. [hurry back, okay]
+204)  BEN
+{disgustA} It's higher up than I thought.
+205)  KENNY
+{angryA} Yeah, that's what he wants to hear right now. [sarc]
+206)  LEE
+[to himself] It's an extension ladder.
+207)  LEE
+[to himself] The last fella' who used it took a tumble.
+208)  LEE
+[picking up a ladder] [exertion, maybe a little pain]
+209)  KENNY
+[20 ft distance] {fearA} Whoa, you need some help with that?
+210)  LEE
+[exert.] {thinkingA} I got it.
+211)  OMID
+{fearA} I, uh, don't think we can ignore what just happened to Lee.
+274)  OMID
+{fearA} I, uh, don't think we can ignore what just happened to Lee.
+304)  OMID
+{fearA} I, uh, don't think we can ignore what just happened to Lee.
+334)  OMID
+{fearA} I, uh, don't think we can ignore what just happened to Lee.
+212)  KENNY
+[to lee] {disgustA} If you find yourself getting winded, or... {sadA} worse, you gotta let us know.
+231)  KENNY
+[to lee] {disgustA} If you find yourself getting winded, or... {sadA} worse, you gotta let us know.
+275)  KENNY
+[to lee] {disgustA} If you find yourself getting winded, or... {sadA} worse, you gotta let us know.
+213)  OMID
+{sadA} He lost a lot of blood down there.
+276)  OMID
+{sadA} He lost a lot of blood down there.
+305)  OMID
+{sadA} He lost a lot of blood down there.
+335)  OMID
+{sadA} He lost a lot of blood down there.
+214)  
+Screw that. I'm fine.
+234)  
+Screw that. I'm fine.
+280)  
+Screw that. I'm fine.
+309)  
+Screw that. I'm fine.
+340)  
+Screw that. I'm fine.
+368)  
+Screw that. I'm fine.
+396)  
+Screw that. I'm fine.
+215)  
+Okay. I'll probably just need to go slow.
+232)  
+Okay. I'll probably just need to go slow.
+277)  
+Okay. I'll probably just need to go slow.
+306)  
+Okay. I'll probably just need to go slow.
+337)  
+Okay. I'll probably just need to go slow.
+366)  
+Okay. I'll probably just need to go slow.
+394)  
+Okay. I'll probably just need to go slow.
+216)  
+It was my least favorite hand, anyway.
+237)  
+It was my least favorite hand, anyway.
+285)  
+It was my least favorite hand, anyway.
+314)  
+It was my least favorite hand, anyway.
+345)  
+It was my least favorite hand, anyway.
+371)  
+It was my least favorite hand, anyway.
+398)  
+It was my least favorite hand, anyway.
+217)  LEE
+{normalD} Okay. {sadA} I'll probably just need to go a little slower. I know we can't afford dead weight. {disgustB} So, don't treat me like I am.
+233)  LEE
+{normalD} Okay. {sadA} I'll probably just need to go a little slower. I know we can't afford dead weight. {disgustB} So, don't treat me like I am.
+278)  LEE
+{normalD} Okay. {sadA} I'll probably just need to go a little slower. I know we can't afford dead weight. {disgustB} So, don't treat me like I am.
+307)  LEE
+{normalD} Okay. {sadA} I'll probably just need to go a little slower. I know we can't afford dead weight. {disgustB} So, don't treat me like I am.
+338)  LEE
+{normalD} Okay. {sadA} I'll probably just need to go a little slower. I know we can't afford dead weight. {disgustB} So, don't treat me like I am.
+367)  LEE
+{normalD} Okay. {sadA} I'll probably just need to go a little slower. I know we can't afford dead weight. {disgustB} So, don't treat me like I am.
+395)  LEE
+{normalD} Okay. {sadA} I'll probably just need to go a little slower. I know we can't afford dead weight. {disgustB} So, don't treat me like I am.
+218)  CHRISTA
+{sadA} We won't.
+279)  CHRISTA
+{sadA} We won't.
+308)  CHRISTA
+{sadA} We won't.
+339)  CHRISTA
+{sadA} We won't.
+219)  CHRISTA
+{disgustA} Now what?
+271)  CHRISTA
+{disgustA} Now what?
+220)  LEE
+{thinkingA} Screw that. {disgustA} I look like I need any preferrential treatment?
+235)  LEE
+{thinkingA} Screw that. {disgustA} I look like I need any preferrential treatment?
+281)  LEE
+{thinkingA} Screw that. {disgustA} I look like I need any preferrential treatment?
+310)  LEE
+{thinkingA} Screw that. {disgustA} I look like I need any preferrential treatment?
+341)  LEE
+{thinkingA} Screw that. {disgustA} I look like I need any preferrential treatment?
+369)  LEE
+{thinkingA} Screw that. {disgustA} I look like I need any preferrential treatment?
+397)  LEE
+{thinkingA} Screw that. {disgustA} I look like I need any preferrential treatment?
+221)  OMID
+{SadA} Well... [uh yeah actually you do look like you need help]
+283)  OMID
+{SadA} Well... [uh yeah actually you do look like you need help]
+313)  OMID
+{SadA} Well... [uh yeah actually you do look like you need help]
+344)  OMID
+{SadA} Well... [uh yeah actually you do look like you need help]
+222)  CHRISTA
+{worriedA} Yeah. We do.
+227)  CHRISTA
+{worriedA} Yeah. We do.
+284)  CHRISTA
+{worriedA} Yeah. We do.
+288)  CHRISTA
+{worriedA} Yeah. We do.
+312)  CHRISTA
+{worriedA} Yeah. We do.
+316)  CHRISTA
+{worriedA} Yeah. We do.
+342)  CHRISTA
+{worriedA} Yeah. We do.
+349)  CHRISTA
+{worriedA} Yeah. We do.
+223)  LEE
+{angryA} You could've taken my damn leg down there; {thinkingB} it wouldn't have slowed me down. {disgustA} You hear me?
+236)  LEE
+{angryA} You could've taken my damn leg down there; {thinkingB} it wouldn't have slowed me down. {disgustA} You hear me?
+282)  LEE
+{angryA} You could've taken my damn leg down there; {thinkingB} it wouldn't have slowed me down. {disgustA} You hear me?
+311)  LEE
+{angryA} You could've taken my damn leg down there; {thinkingB} it wouldn't have slowed me down. {disgustA} You hear me?
+343)  LEE
+{angryA} You could've taken my damn leg down there; {thinkingB} it wouldn't have slowed me down. {disgustA} You hear me?
+370)  LEE
+{angryA} You could've taken my damn leg down there; {thinkingB} it wouldn't have slowed me down. {disgustA} You hear me?
+224)  LEE
+{disgustA} It wasn't my favorite hand anyway.
+238)  LEE
+{disgustA} It wasn't my favorite hand anyway.
+286)  LEE
+{disgustA} It wasn't my favorite hand anyway.
+315)  LEE
+{disgustA} It wasn't my favorite hand anyway.
+346)  LEE
+{disgustA} It wasn't my favorite hand anyway.
+372)  LEE
+{disgustA} It wasn't my favorite hand anyway.
+399)  LEE
+{disgustA} It wasn't my favorite hand anyway.
+225)  KENNY
+{happyA} Well, you haven't lost your spirit.
+240)  KENNY
+{happyA} Well, you haven't lost your spirit.
+289)  KENNY
+{happyA} Well, you haven't lost your spirit.
+373)  KENNY
+{happyA} Well, you haven't lost your spirit.
+226)  LEE
+{thinkingA} Seriously, though, don't treat me any different. I got one goal, {disgustA} you hear me?
+239)  LEE
+{thinkingA} Seriously, though, don't treat me any different. I got one goal, {disgustA} you hear me?
+287)  LEE
+{thinkingA} Seriously, though, don't treat me any different. I got one goal, {disgustA} you hear me?
+317)  LEE
+{thinkingA} Seriously, though, don't treat me any different. I got one goal, {disgustA} you hear me?
+348)  LEE
+{thinkingA} Seriously, though, don't treat me any different. I got one goal, {disgustA} you hear me?
+374)  LEE
+{thinkingA} Seriously, though, don't treat me any different. I got one goal, {disgustA} you hear me?
+400)  LEE
+{thinkingA} Seriously, though, don't treat me any different. I got one goal, {disgustA} you hear me?
+228)  KENNY
+{thinkingA} The man just wants Clementine back. Arm {disgustA} or no arm.
+241)  KENNY
+{thinkingA} The man just wants Clementine back. Arm {disgustA} or no arm.
+291)  KENNY
+{thinkingA} The man just wants Clementine back. Arm {disgustA} or no arm.
+229)  OMID
+{sadA} Silence is, {thinkingA} uh, consent, I guess.
+292)  OMID
+{sadA} Silence is, {thinkingA} uh, consent, I guess.
+318)  OMID
+{sadA} Silence is, {thinkingA} uh, consent, I guess.
+352)  OMID
+{sadA} Silence is, {thinkingA} uh, consent, I guess.
+230)  CHRISTA
+{worriedA} Yeah.
+290)  CHRISTA
+{worriedA} Yeah.
+242)  BEN
+{sadE} Do we want to talk about what just happened down there?
+243)  BEN
+{fearB} He lost a lot of blood.
+244)  LEE
+{thinkingA} Just lost my footing. That's all.
+258)  LEE
+{thinkingA} Just lost my footing. That's all.
+298)  LEE
+{thinkingA} Just lost my footing. That's all.
+323)  LEE
+{thinkingA} Just lost my footing. That's all.
+358)  LEE
+{thinkingA} Just lost my footing. That's all.
+377)  LEE
+{thinkingA} Just lost my footing. That's all.
+403)  LEE
+{thinkingA} Just lost my footing. That's all.
+245)  
+I lost my footing.
+257)  
+I lost my footing.
+297)  
+I lost my footing.
+322)  
+I lost my footing.
+357)  
+I lost my footing.
+376)  
+I lost my footing.
+402)  
+I lost my footing.
+246)  
+It's the bite.
+259)  
+It's the bite.
+299)  
+It's the bite.
+324)  
+It's the bite.
+359)  
+It's the bite.
+378)  
+It's the bite.
+404)  
+It's the bite.
+247)  
+I was showing off.
+261)  
+I was showing off.
+301)  
+I was showing off.
+326)  
+I was showing off.
+361)  
+I was showing off.
+380)  
+I was showing off.
+406)  
+I was showing off.
+248)  LEE
+{sadA} I know. {disgustA} It's just dizziness, that's all. {thinkingA} I'm all good.
+255)  LEE
+{sadA} I know. {disgustA} It's just dizziness, that's all. {thinkingA} I'm all good.
+293)  LEE
+{sadA} I know. {disgustA} It's just dizziness, that's all. {thinkingA} I'm all good.
+321)  LEE
+{sadA} I know. {disgustA} It's just dizziness, that's all. {thinkingA} I'm all good.
+354)  LEE
+{sadA} I know. {disgustA} It's just dizziness, that's all. {thinkingA} I'm all good.
+375)  LEE
+{sadA} I know. {disgustA} It's just dizziness, that's all. {thinkingA} I'm all good.
+401)  LEE
+{sadA} I know. {disgustA} It's just dizziness, that's all. {thinkingA} I'm all good.
+249)  KENNY
+{sadA} You gotta let us know if you start feeling funny, you know?
+256)  KENNY
+{sadA} You gotta let us know if you start feeling funny, you know?
+296)  KENNY
+{sadA} You gotta let us know if you start feeling funny, you know?
+250)  CHRISTA
+{worriedA} As good as you can be.
+295)  CHRISTA
+{worriedA} As good as you can be.
+320)  CHRISTA
+{worriedA} As good as you can be.
+353)  CHRISTA
+{worriedA} As good as you can be.
+251)  LEE
+{normalD} Yeah. Good as I can be.
+294)  LEE
+{normalD} Yeah. Good as I can be.
+319)  LEE
+{normalD} Yeah. Good as I can be.
+356)  LEE
+{normalD} Yeah. Good as I can be.
+252)  LEE
+{normalD} It's the bite. I just have to deal with it.
+260)  LEE
+{normalD} It's the bite. I just have to deal with it.
+300)  LEE
+{normalD} It's the bite. I just have to deal with it.
+325)  LEE
+{normalD} It's the bite. I just have to deal with it.
+360)  LEE
+{normalD} It's the bite. I just have to deal with it.
+379)  LEE
+{normalD} It's the bite. I just have to deal with it.
+405)  LEE
+{normalD} It's the bite. I just have to deal with it.
+253)  LEE
+{disgustA} I was just showing off {happyA} some acrobatic skills. Felt like a good time.
+262)  LEE
+{disgustA} I was just showing off {happyA} some acrobatic skills. Felt like a good time.
+302)  LEE
+{disgustA} I was just showing off {happyA} some acrobatic skills. Felt like a good time.
+327)  LEE
+{disgustA} I was just showing off {happyA} some acrobatic skills. Felt like a good time.
+362)  LEE
+{disgustA} I was just showing off {happyA} some acrobatic skills. Felt like a good time.
+381)  LEE
+{disgustA} I was just showing off {happyA} some acrobatic skills. Felt like a good time.
+407)  LEE
+{disgustA} I was just showing off {happyA} some acrobatic skills. Felt like a good time.
+254)  KENNY
+{thinkingA} Come on, Lee.... [give us a break, light hearted but you're actually concerned about him]
+263)  KENNY
+{thinkingA} Come on, Lee.... [give us a break, light hearted but you're actually concerned about him]
+303)  KENNY
+{thinkingA} Come on, Lee.... [give us a break, light hearted but you're actually concerned about him]
+332)  CHRISTA
+{thinkingA} Come on, Lee.... [give us a break, light hearted but you're actually concerned about him]
+363)  CHRISTA
+{thinkingA} Come on, Lee.... [give us a break, light hearted but you're actually concerned about him]
+382)  KENNY
+{thinkingA} Come on, Lee.... [give us a break, light hearted but you're actually concerned about him]
+264)  LEE
+{angryA} I do.[firm]
+265)  BEN
+{sadA} If you say so.
+266)  BEN
+{disgustA} Actually... [uh yeah actually you do look like you need help]
+267)  KENNY
+{sadA} Yeah, we do.
+269)  KENNY
+{sadA} Yeah, we do.
+268)  BEN
+{thinkingA} Now what?
+270)  BEN
+{disgustA} So...yeah.... [lee isn't answering]
+272)  OMID
+{fearA} Now what?
+273)  OMID
+{fearA} Now what?
+328)  CHRISTA
+{sadA} Omid's right. {disgustA} If you see yourself getting woozy or... you know; if it didn't work, {worriedA} just...take it easy.
+336)  CHRISTA
+{sadA} Omid's right. {disgustA} If you see yourself getting woozy or... you know; if it didn't work, {worriedA} just...take it easy.
+329)  CHRISTA
+{angryA} Shut up, Omid.
+350)  CHRISTA
+{angryA} Shut up, Omid.
+330)  OMID
+{surpriseA} Really? {thinkingA} Without ol' lefty I'd be done for.
+347)  OMID
+{surpriseA} Really? {thinkingA} Without ol' lefty I'd be done for.
+331)  CHRISTA
+{thinkingA} He just wants Clementine back. That's all.
+351)  CHRISTA
+{thinkingA} He just wants Clementine back. That's all.
+333)  CHRISTA
+{sadA} Just let us know if you start feeling funny. Like, if things are happening.
+355)  CHRISTA
+{sadA} Just let us know if you start feeling funny. Like, if things are happening.
+383)  KENNY
+{sadA} You want to talk about what happened back there?
+384)  KENNY
+{fearA} You lost a lot of blood.
+385)  KENNY
+[to lee] {sadA} If you find yourself getting winded, or... {disgustA} worse, you gotta let me know.
+386)  KENNY
+{thinkingA} I won't.
+387)  KENNY
+{sadA} Yeah, pal. I do.
+389)  KENNY
+{sadA} Yeah, pal. I do.
+388)  KENNY
+{fearA} To be honest...
+390)  KENNY
+{thinkingA} I get it, man. You just want Clementine back. {disgustA} Arm or no arm.
+391)  KENNY
+{sadA} Just let me know if you start feeling funny.
+393)  KENNY
+{normalC} Okay.
+422)  BEN
+{normalC} Okay.
+408)  BEN
+{disgustA} Hey, uh, {fearB} do you want to talk about what happened back there?
+409)  BEN
+{fearA} So, you know, if you get out of breath or... something worse starts to happen, just let me know? {normalC} I'll try to help.
+410)  BEN
+{sadB} You lost a lot of blood....
+411)  BEN
+{fearA} No, of course not.
+412)  BEN
+{disgustA} Well...
+413)  LEE
+{angryA} You could've taken my damn leg off down there; it wouldn't have slowed me down a bit. {disgustA} You hear me?
+414)  BEN
+[gulp] {sadA} Yep. Loud and clear.
+415)  LEE
+{happyA} That's right. [joking around]
+416)  BEN
+{happyA} Heh, been looking for an excuse to get rid of it this entire time?
+417)  BEN
+{sadA} Yeah. I really do.
+418)  BEN
+{fearB} I guess you just really want Clementine back. I'm glad I'm here to help. {thinkingA} I'll try not to treat you any differently even though you've only got one hand now.
+419)  BEN
+{sadA} Come on, Lee.... [give us a break, light hearted but you're actually concerned about him]
+420)  LEE
+{normalD} Well, as good as I can be.
+421)  BEN
+{fearA} Well, let me know if you start feeling funny or... {sadA} you know, anything.
+423)  LEE
+{thinkingA} Let's try to get our bearings and figure out how to keep goin'.
+424)  BEN
+{normalC} Sounds good.
+425)  OMID
+[20 ft distance] {surpriseA} You need a hand with that?
+426)  BEN
+[20 ft distance] Can I help with that?
+427)  LEE
+[setting a ladder down]
+428)  LEE
+[to himself] {disgustA} No way I'm jumping that.
+429)  LEE
+[to himself] Gettin' over would be tough.
+430)  LEE
+[to himself] {thinkingA} It's a bell tower like the ones Molly used to draw the walkers around the city.
+431)  LEE
+[to himself] {thinkingA} With the bell tower on this side of the hospital... and the mansion over there... hmm. {angryA} That might be our way off of this rooftop.
+432)  LEE
+[to himself] {thinkingA} If I can make it to that bell tower, I can draw the walkers down to that side of the hospital. {disgustA} They'll be thousands of them, but it'll thin out the streets between here, the mansion and River Street, {thinkingA} even if it's just for a few minutes.
+688)  LEE
+[to himself] {thinkingA} If I can make it to that bell tower, I can draw the walkers down to that side of the hospital. {disgustA} They'll be thousands of them, but it'll thin out the streets between here, the mansion and River Street, {thinkingA} even if it's just for a few minutes.
+433)  KENNY
+{thinkingA} You think you should be the one to go?
+448)  KENNY
+{thinkingA} You think you should be the one to go?
+452)  KENNY
+{thinkingA} You think you should be the one to go?
+473)  KENNY
+{thinkingA} You think you should be the one to go?
+434)  LEE
+{thinkingA} So we're agreed, then.
+446)  LEE
+{thinkingA} So we're agreed, then.
+451)  LEE
+{thinkingA} So we're agreed, then.
+459)  LEE
+{thinkingA} So we're agreed, then.
+435)  LEE
+{disgustB} If we have to decide who takes a risk like this, it should be the guy {sadA} who's got the least to lose.
+442)  LEE
+{disgustB} If we have to decide who takes a risk like this, it should be the guy {sadA} who's got the least to lose.
+455)  LEE
+{disgustB} If we have to decide who takes a risk like this, it should be the guy {sadA} who's got the least to lose.
+462)  LEE
+{disgustB} If we have to decide who takes a risk like this, it should be the guy {sadA} who's got the least to lose.
+465)  LEE
+{disgustB} If we have to decide who takes a risk like this, it should be the guy {sadA} who's got the least to lose.
+474)  LEE
+{disgustB} If we have to decide who takes a risk like this, it should be the guy {sadA} who's got the least to lose.
+483)  LEE
+{disgustB} If we have to decide who takes a risk like this, it should be the guy {sadA} who's got the least to lose.
+436)  OMID
+{surpriseA} My leg's feeling better, let me do it.
+447)  OMID
+{surpriseA} My leg's feeling better, let me do it.
+458)  OMID
+{surpriseA} My leg's feeling better, let me do it.
+484)  OMID
+{surpriseA} My leg's feeling better, let me do it.
+437)  LEE
+{disgustA} What's the worst that could happen, I get bitten again?
+443)  LEE
+{disgustA} What's the worst that could happen, I get bitten again?
+449)  LEE
+{disgustA} What's the worst that could happen, I get bitten again?
+463)  LEE
+{disgustA} What's the worst that could happen, I get bitten again?
+467)  LEE
+{disgustA} What's the worst that could happen, I get bitten again?
+475)  LEE
+{disgustA} What's the worst that could happen, I get bitten again?
+485)  LEE
+{disgustA} What's the worst that could happen, I get bitten again?
+438)  LEE
+{thinkingA} Yeah, could buy us some time. Draw as many as we can this way, {disgustA} get down off the roof on the opposite side and bust our asses getting back to the mansion.
+445)  LEE
+{thinkingA} Yeah, could buy us some time. Draw as many as we can this way, {disgustA} get down off the roof on the opposite side and bust our asses getting back to the mansion.
+453)  LEE
+{thinkingA} Yeah, could buy us some time. Draw as many as we can this way, {disgustA} get down off the roof on the opposite side and bust our asses getting back to the mansion.
+457)  LEE
+{thinkingA} Yeah, could buy us some time. Draw as many as we can this way, {disgustA} get down off the roof on the opposite side and bust our asses getting back to the mansion.
+466)  LEE
+{thinkingA} Yeah, could buy us some time. Draw as many as we can this way, {disgustA} get down off the roof on the opposite side and bust our asses getting back to the mansion.
+472)  LEE
+{thinkingA} Yeah, could buy us some time. Draw as many as we can this way, {disgustA} get down off the roof on the opposite side and bust our asses getting back to the mansion.
+481)  LEE
+{thinkingA} Yeah, could buy us some time. Draw as many as we can this way, {disgustA} get down off the roof on the opposite side and bust our asses getting back to the mansion.
+439)  CHRISTA
+{fearA} The bells...
+444)  CHRISTA
+{fearA} The bells...
+460)  CHRISTA
+{fearA} The bells...
+482)  CHRISTA
+{fearA} The bells...
+440)  BEN
+{fearA} I'll do it.
+454)  BEN
+{fearA} I'll do it.
+461)  BEN
+{fearA} I'll do it.
+441)  KENNY
+{disgustA} Yeah, Ben will do it.
+450)  KENNY
+{disgustA} Yeah, Ben will do it.
+456)  BEN
+{sadE} You're gonna use the bell tower to bring them this way?
+468)  BEN
+{sadE} You're gonna use the bell tower to bring them this way?
+464)  CHRISTA
+{worriedA} You shouldn't be the one to go.
+488)  CHRISTA
+{worriedA} You shouldn't be the one to go.
+469)  LEE
+{thinkingA} No.
+470)  BEN
+{fearA} Let me go.
+471)  BEN
+{sadA} Be careful.
+476)  LEE
+{sadB} If anything happens to me, you're the only chance she's got.
+480)  LEE
+{sadB} If anything happens to me, you're the only chance she's got.
+477)  KENNY
+{fearA} Be careful.
+486)  OMID
+{fearA} Be careful.
+478)  KENNY
+{disgustA} Let me do it.
+479)  KENNY
+{thinkingA} The bell tower?
+487)  LEE
+{sadB} If something happens to me, you two are all she's got. Okay?
+489)  CHRISTA
+I'll go.
+490)  LEE
+[to himself] {disgustA} Okay, Lee. Now is not the time to fall on your fucking face again.
+491)  LEE
+[to himself] I might have a way to clear us a path...
+492)  LEE
+[to himself a little louder, same] River Street should be just beyond that.
+493)  LEE
+[to himself, a little louder] That's the church across the street from the mansion.
+494)  LEE
+Yeah.
+495)  LEE
+Yeah.
+496)  CHRISTA
+We need to head back that way. We'll stop off at the mansion, like you said, and make sure we didn't overlook anything.
+497)  LEE
+[to himself] Just need to figure out a way to get there...
+498)  LEE
+[to himself] That looks like Crawford square over there.
+499)  KENNY
+{angryA} Fuck that place.
+500)  KENNY
+[coming off "fuck that place"] {thinkingA} Did fix up our boat, though. We get Clementine and get right back...
+501)  LEE
+{sadA} Make sure she wears her life jacket, okay? Something tells {sadB} me she's not gonna want to.
+502)  LEE
+[to himself] {fearB} Walkers are all headed this way. I gotta get out of this tower.
+503)  LEE
+[to himself] {thinkingA} A few solid rings of this and there'll be thousands down below.
+504)  LEE
+[to himself] {fearA} Fuck, man. I don't know if I can make it.
+505)  LEE
+[to himself, pysching himself up] It's not that far down...
+506)  LEE
+[to himself] {fearA} It's locked. Shit.
+507)  LEE
+[trying to pull open a locked hatch] GRR... SHIT.
+508)  LEE
+[to himself, exasperated] I'm not getting out through there.
+509)  LEE
+[to himself] {disgustA} No way. It's higher than this roof, for starters.
+510)  LEE
+[a small, panicked leap at the last minute]
+511)  LEE
+{thinkingA} Here's a way down.
+512)  KENNY
+{thinkingA} Yeah, if half the dead population of Georgia wasn't wandering the streets down there.
+514)  CHRISTA
+{thinkingA} Yeah, if half the dead population of Georgia wasn't wandering the streets down there.
+513)  BEN
+{thinkingA} But there's still like {disgustA} a million walkers down there....
+515)  LEE
+It leads down to the street.
+516)  LEE
+[to himself] Not going back in there.
+517)  CHRISTA
+{fearA} They're coming this way!
+518)  OMID
+{surpriseB} Tons of them! {surpriseC} Jesus!
+519)  CHRISTA
+{worriedA} Now get back here!
+520)  KENNY
+{fearB} That did the trick, pal. Now get back here!
+521)  LEE
+[calling out over his shoulder] {fearB} The exit in here's locked!
+522)  LEE
+[to himself, frustrated] Ah, fuck.
+523)  BEN
+They're coming this way! How are you getting out of there?!
+524)  OMID
+[30 ft away] {fearA} Try to find another way out of there?
+525)  KENNY
+[30 ft away] {fearA} Try to find another way out?
+526)  BEN
+[30 ft away] {fearA} Maybe there's another way out?
+527)  LEE
+[pulling himself up onto a roof and you've only got one arm, it's horrible]
+528)  LEE
+[hitting the roof after leaping to grab it] UGH!
+529)  LEE
+[hitting the roof after leaping to grab it] UGH!
+530)  LEE
+[pulling himself onto a roof with two arms]
+531)  KENNY
+{happyC} Good goddamn leap, pal.
+532)  CHRISTA
+{happyB} Nice!
+533)  BEN
+{surprisedA} WOW! You okay?
+534)  LEE
+[faling to your death]
+535)  LEE
+[recovering from a gnarly jump] {sadB} Ugh... okay, time to go.
+536)  KENNY
+[exertion, pulling lee up and over a roof edge]
+705)  CHRISTA
+[exertion, pulling lee up and over a roof edge]
+708)  BEN
+[exertion, pulling lee up and over a roof edge]
+537)  LEE
+[getting grabbed by his friend before he can fall] Ugh!
+538)  LEE
+[pained, getting pulled up]
+539)  KENNY
+[grabbed Lee before he can fall] {fearC} I GOTCHA!
+540)  KENNY
+{fearB} Let's get the hell off this roof!
+541)  CHRISTA
+{fearB} Now let's get the hell out of here!
+542)  BEN
+{fearB} Okay, we should probably get goin'.
+543)  
+It's not that far.
+544)  
+You got this.
+545)  
+I'm fucked.
+546)  LEE
+[jumping with all of your might]
+547)  LEE
+{fearA} It's not that far. Just a little hop.
+548)  LEE
+{thinkingA} You got this. {thinkingB} You got this, motherfucker.
+549)  LEE
+{fearB} I'm so fucked.
+550)  LEE
+[pysching himself up breathing] {fearA}
+551)  LEE
+[a little (more) psyching yourself up breathing] {fearA}
+552)  LEE
+[to himself] {fearB} I think I have to jump. Goddamn.
+553)  LEE
+[across the gap] {fearC} I think I have to jump! There's no way back!
+554)  KENNY
+{fearA} You can make it! It ain't that far!
+555)  CHRISTA
+{fearB} Fuck, be careful!
+556)  BEN
+{fearC} WHAT?!
+557)  LEE
+{fearA} It's the only way!
+558)  KENNY
+[yelling across the gap] Just one big leap!
+559)  KENNY
+[yelling across the gap] You got it, Lee!
+560)  KENNY
+[yelling across the gap] JUMP!
+561)  KENNY
+[yelling across the gap] What are you waiting for?!
+562)  KENNY
+[yelling across the gap] You gotta do this, pal!
+563)  OMID
+[yelling across a gap] You can do it!
+569)  BEN
+[yelling across a gap] You can do it!
+564)  OMID
+[yelling across a gap] Don't look down!
+565)  OMID
+[yelling across a gap] Just jump!
+566)  OMID
+[yelling across a gap] You're psyching yourself out!
+567)  OMID
+[yelling across a gap]  We gotta go! Jump!
+568)  BEN
+[yelling across a gap] It's, uh, not that far!
+570)  BEN
+[yelling across a gap] I believe in you!
+571)  BEN
+[yelling across a gap] Hurry!
+572)  BEN
+[yelling across a gap] One, two, THREE!
+573)  LEE
+{normalb}See anything?
+658)  LEE
+{normalb}See anything?
+574)  BEN
+{thinkinga}There's a fire escape here; {sada}that's about it.
+575)  LEE
+{normalc}Hey, Ben.
+576)  
+You came with me.
+577)  
+You still want to die?
+578)  BEN
+{sada}I'm more {sadb}afraid of getting someone else killed.
+579)  LEE
+{angrya}You still want to die?
+580)  BEN
+{feara}I'm still afraid of getting eaten; more than ever.
+581)  LEE
+{sada}Well, you're here. {angrya}Don't get ME killed.
+582)  
+You're here. Don't get me killed.
+583)  LEE
+{normalb}Are you afraid?
+584)  BEN
+{sada}I won't.
+585)  
+If it ends up being you and Clem...
+586)  BEN
+{angrya}Don't talk like that.
+587)  LEE
+{sadb}The way things have been going, {angrya}I don't have any choice, Ben.
+588)  LEE
+{angrya}When it all comes down to it, if it's just you and Clementine for some reason, {sada}I think you'll have plenty of reason to want to live.
+589)  
+I'll make sure that doesn't happen.
+590)  BEN
+{fearb}Really...?
+591)  LEE
+{happya}Getting bitten's not that bad.
+592)  LEE
+{normalc}I'll make sure that doesn't happen, as well as I can.
+593)  BEN
+{sada}Thanks... {sadb}including me?
+594)  LEE
+{angrya}No. It's a death sentence. {sadb}It's horrible. {angrya}But try not to worry about it.
+595)  BEN
+{sada}...I don't think anything could change that.
+596)  LEE
+{thinkinga}You came with me.
+597)  BEN
+{sada}You didn't think I would?
+598)  BEN
+{normala}It's like you said, {happya}Clementine has been my biggest... {sadb}well... only real fan. {angrya}I'd be a big piece of crap if I didn't.
+599)  BEN
+{sada}Just, with {thinkinga}all we've been through, {sadb}it seemed like the only reasonable thing to do.
+600)  LEE
+{thinkinga}If we get over to that bell tower {happya}we might have some impact on all those walkers out there.
+601)  BEN
+{fearb}But then we just run through the streets? {sada}I dunno...
+602)  LEE
+{angrya}If we use that bell tower to lure all the walkers towards that side of the hospital, {happya}the road to the mansion and River Street shouldn't be too bad.
+603)  BEN
+{sada}Yeah, okay... {angrya}but you still have to get over there.
+604)  BEN
+{fearb}I think I'm staring down at my worst nightmare. {disgusta}Just a dusty haze of death.
+605)  LEE
+{thinkinga}What do you think?
+606)  LEE
+{angrya}Try to keep your shit together. We need to get off of this roof.
+607)  LEE
+Anything over here?
+608)  CHRISTA
+{sada}Honestly, my vision isn't great. {angrya}I think it's allergies or all that {disgusta}shit those walkers are kicking up.
+609)  LEE
+{sada}Hey.
+635)  LEE
+{sada}Hey.
+610)  
+Allergies. That's funny.
+611)  LEE
+{normalb}There's a bell tower over there.
+612)  CHRISTA
+{feara}You think you could pull all those bastards this way?
+613)  LEE
+{angrya}Hopefully, yeah. {thinkinga}Maybe clear out the other way.
+614)  LEE
+{normalb}The mansion's that way.
+615)  LEE
+{angrya}If we can use that bell tower to bring them to that side of the hospital, {sada}it won't be an easy trip back towards River Street, {happya}but it wouldn't be impossible.
+616)  CHRISTA
+{happya}I'm with you. {worrieda}Just have to get over there.
+617)  CHRISTA
+{normalb}Yeah.
+618)  LEE
+{sada}I know. It's this deal with Clem... it's everything; {angrya}it's put this rage inside me {angryb}like I can't even say.
+619)  LEE
+{surpriseb}I used to get allergies too. {normalb}And just... {thinkinga}fuck. Who was that guy?
+620)  CHRISTA
+{worrieda}Someone with priorities?
+621)  LEE
+{sada}Allergies... shit. People used to get those.
+622)  CHRISTA
+{happya}I know, right. {worrieda}You never see anybody in an end of the world story with hayfever.
+623)  CHRISTA
+{happya}It's not the time to get wistful. [she doesn't meant it]
+624)  
+I was worried you wouldn't come with me.
+625)  LEE
+{thinkinga}I was thinking you and Omid wouldn't come with me.
+626)  LEE
+{happya}Well, I appreciate it.
+724)  LEE
+{happya}Well, I appreciate it.
+627)  LEE
+{happyb}You two have been solid since day one.
+722)  LEE
+{happyb}You two have been solid since day one.
+628)  CHRISTA
+{sada}We look out for each other, {angrya}but we sure as hell weren't gonna let you go alone, {worrieda}not with that time bomb chewed into your wrist.
+629)  CHRISTA
+{happya}What is this, day three? Four?
+723)  CHRISTA
+{happya}What is this, day three? Four?
+630)  CHRISTA
+{worrieda}You guys have taken care of us; we take care of you.
+631)  LEE
+{happya}I appreciate it.
+632)  LEE
+{normalb}What's up over here?
+633)  OMID
+{happya}Bell tower. That's what's up.
+634)  LEE
+{surpriseb}Huh. {happya}Yeah. That could help.
+636)  
+I think you're Clem's favorite.
+637)  OMID
+{angryb}When we get this fucker, we'll get out of sight and leave you with him.
+638)  OMID
+You get me?
+639)  LEE
+{happya}Yeah, she's a big fan. {thinkinga}You get away with shit I never would.
+640)  LEE
+{happya}I get you.
+641)  OMID
+{angrya}We're getting her back, Lee. You know that, right?
+642)  LEE
+{happyb}I think you're Clem's favorite, you know that?
+643)  LEE
+{angrya}Yeah.
+644)  OMID
+{happyb}Really?
+645)  
+I'll see if we can make it to that bell tower.
+646)  
+How's the leg?
+647)  LEE
+{happya}Thanks.
+648)  LEE
+{angrya}I'll see if we can make it out to that bell tower.
+649)  OMID
+{sada}Okay, be careful though; I don't want you going any sooner than you have to.
+650)  LEE
+{sada}How's the leg?
+651)  OMID
+{happya}Yeah.
+652)  LEE
+{happya}She's something, right?
+653)  OMID
+{happya}It's good. {angrya}Wouldn't mean shit if you hadn't left Clementine with me when you went in to Crawford. {sadb}That little girl saved my life.
+654)  OMID
+{happya}Yeah. {sada}Don't worry more than you should about her, okay?
+655)  OMID
+{happya}It's doing a lot better. Thanks for going into Crawford for me, {sada}even if it wasn't entirely FOR me. {happyb}Clementine too. {angrya}She's tough as hell.
+656)  LEE
+{sada}Isn't she?
+657)  KENNY
+{sada}Nah. {angrya}I'm just, uh, {sada}taking a minute, actually. {sadb}I'm sorry; I know I shouldn't.
+659)  LEE
+{happya}Hey, Ken.
+660)  
+What's going on?
+661)  KENNY
+{sada}Just... everything. {angryb}Ah, fuck man. {sadc}You know.
+662)  LEE
+{thinkinga}What's going on?
+663)  LEE
+{sada}I do.
+664)  KENNY
+{sada}I can't thank you enough for what you did for Duck. {sadb}I don't know how I'd be if you hadn't--
+665)  LEE
+{sada}Don't dwell on it.
+666)  LEE
+{sadb}Ken--
+667)  KENNY
+[pulls out of it]{angrya} No. I'm sorry. We're in a fucking hurry to get off this roof; it's not the time. {sada}I'm sorry. {angrya}I'm okay.
+668)  KENNY
+{feara}I look at where we are, right now, {angryb}and I can't imagine {sadb}Kat and Duck in all this mess.
+669)  KENNY
+{sada}I'm... glad I was on the one who did it. I can tell myself, forever, that I saved him from the worst of it.
+670)  LEE
+{normalb}Yeah, could be part of how we get through the streets.
+671)  LEE
+{thinkinga}There's bell tower over there.
+672)  KENNY
+{normalb}We know what those do.
+673)  KENNY
+{surpriseda}Yeah.
+674)  KENNY
+{happya}I can do that, yeah.
+675)  LEE
+{normalb}The mansion's that way; {normalc}the bell tower's over there; if we go down the opposite side of the roof, {happya}we might be able to make it without too much trouble.
+676)  LEE
+{sada}Any thoughts about... anything else?
+677)  KENNY
+{sada}Nah, I'm all right. Just needed to take a second. {angrya}I'll keep an eye out over here. {happya}Sorry.
+678)  
+How many you think are below us?
+679)  LEE
+{sada}Yeah, that's what I was thinking.
+680)  LEE
+{feara}How many you think are wandering around underneath us right now?
+681)  KENNY
+{feara}And out there? {sada}Look at that dust. {angrya}Fuck, man, who knows?
+682)  KENNY
+{surpriseda}In the hospital? Thousands. {thinkinga}Who knows? It was full of dead before, right?
+683)  
+Ladder
+684)  
+Rope
+685)  
+Door
+686)  
+Look At
+689)  
+Look At
+687)  
+Jump To
+690)  
+Pick Up
+691)  
+Climb
+692)  
+Use Ladder On
+711)  
+Use Ladder On
+693)  
+Bell Tower
+694)  
+Fire Escape
+695)  
+Footprints
+696)  
+Gap
+697)  
+Hatch
+698)  LEE
+[as the ladder slips away and he falls to his death!] Fuck! No! No!!
+699)  LEE
+[falling to his death] Aaarrrhhhhhh!!!!
+700)  LEE
+[as the extension ladder fails and it starts retracting toward lee as he moves!]Oh, shit!
+701)  LEE
+[non verbals of Lee scrambling to get across a ladder bridge before it falls!]
+702)  
+Horizon
+703)  
+Ledge
+704)  
+Grab
+706)  CHRISTA
+[Quick exertion, grabb Lee before he can fall] {fearB} Erf!!
+707)  BEN
+[Panic] {fearC} Holy shit!  That was too close!!
+709)  
+Paint
+710)  
+Sign
+712)  
+Bell
+713)  LEE
+[Leaping from the bell tower to the roof of the hospital, realizing you're not quite gonna make it] Oh shi--
+714)  OMID
+[relieved that Christa caught Lee before he fell to his death!] {surpriseC} Damn, that was close!!
+715)  LEE
+[Mark edit]	{angryb}... I have to.
+716)  LEE
+[Mark edit]{normalb}Got any good ideas for getting through {thinkinga}that herd?
+717)  CHRISTA
+[Mark edit]{worrieda}I'm workin' on it.  [hesitates, concerned about Lee's condition] {sada}Are you gonna be able to hang in there?
+718)  KENNY
+[mark edit][if no one killed Duck and they left him behind] {sada}I just... I {fearb}keep thinking about Duck, ya know?  {sadc}I mean we just--
+719)  <<ID
+{ECC990C5-364B-4FAF-9A71-5F86FD5427BC}>>
+720)  <<ID
+{D86C0324-D0CE-492F-A6ED-350F56EB4548}>>
+721)  CHRISTA
+[pickup1] Can't stop looking out for each other.
+725)  LEE
+[pickup1] [general grunting and cussing as you manuever a ladder with one arm]
+726)  OMID
+[pickup1][30 ft away] {surpriseB} Holy shit, man!
+727)  CHRISTA
+[pickup1][30 ft away] {fearB} Are you okay?!
+728)  LEE
+[pickup1][30 ft away] {fearA} Yeah... I'm fine.
+731)  LEE
+[pickup1][30 ft away] {fearA} Yeah... I'm fine.
+732)  LEE
+[pickup1][30 ft away] {fearA} Yeah... I'm fine.
+729)  LEE
+[pickup1] [30 ft] {disgustA} Was wishin' I had my other hand.
+735)  LEE
+[pickup1] [30 ft] {disgustA} Was wishin' I had my other hand.
+736)  LEE
+[pickup1] [30 ft] {disgustA} Was wishin' I had my other hand.
+730)  OMID
+[pickup1] [30ft] {fearA} No shit!
+733)  KENNY
+[pickup1] {surprisedA} Jesus, you all right?
+734)  BEN
+[pickup1][30ft] {surprisedA} Oh man, that was close! Are you okay?!
+737)  KENNY
+[pickup1][30 ft away] {fearA} No kiddin'.
+738)  BEN
+[pickup1][30 ft away] {fearA} I bet!
+739)  LEE
+[pickup1] {disgustA} Cause the one-armed guy insists.  Now shut up about it.
+740)  KENNY
+[pickup1] {disgustA} Why the hell are we lettin' the one-armed guy do all the high risk maneuvers?
+741)  LEE
+[pickup1] {disgustB} Maybe keep that shit to yourself next time.
+742)  KENNY
+[pickup1]  {thinkingA} That thing looks a little rickety.
+743)  KENNY
+[pickup1] {normalB} Yup.
+744)  LEE
+[pickup1] {disgustA} What? You wanna do it?
+745)  BEN
+[pickup1] {sadB} No, just... {thinkingA} never mind.
+746)  BEN
+[pickup1] {fearB} You sure you should be the one doing that?
+747)  OMID
+[pickup1] {fearA} Fair enough.
+748)  OMID
+[pickup1] {disgustA} Maybe we should have someone more... able-bodied doing that. {sadA} You sure you're up for it, Lee?
+749)  LEE
+[pickup1] {angryA} Say that again and you're gonna find out.
+750)  
+Any thoughts on our current situation?
+751)  
+There's a bell tower over there.
+752)  
+Any thoughts about the herd?
+753)  
+There's a bell tower...
+754)  
+What do you think?
+755)  
+Did you see that bell tower?

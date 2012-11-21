@@ -1,0 +1,502 @@
+1)  CHRISTA
+Do you want to talk?
+2)  
+Let's stay focused.
+3)  
+Kenny was my friend.
+4)  
+I blame the fucker who took Clem.
+5)  CHRISTA
+{Body-A}{AngryA}I guess that's a no, then.
+6)  OMID
+He just lost two friends; it's pretty understandable, right?
+7)  LEE
+{Body-B}{SadA}Nothing to say; {AngryA}we need to stay focused on what we're doing.
+8)  CHRISTA
+{Body-A}{NormalB}I know we can't just take a minute, {WorriedA}but... {SadA}you're not a machine.
+9)  LEE
+{Body-B}{SadA}Kenny was my friend.
+10)  CHRISTA
+{Body-A}{ThinkingA}Soon as someone dies, they {WorriedA}don't immediately have to have their sins forgiven.
+11)  LEE
+He was what passes for a friend now.
+12)  CHRISTA
+{NormalB}I understand.
+13)  LEE
+{Body-B}{SadA}He could be tough to like, {NormalC}but I agreed with him most the time; {HappyA}so we were assholes together, {NormalD}I guess.
+14)  LEE
+That's two on him, now. The motherfucker who's got Clementine has Ben and Kenny to answer for.
+15)  CHRISTA
+{Body-A}{WorriedA}Keep a clear head, Lee.
+16)  LEE
+We wouldn't be out here. {AngryB}We'd all been together to defend against Vernon {AngryC}and we'd be out on the water. {SadB}Everyone would be alive.
+17)  CHRISTA
+Look, Lee, this is a shitty time, but I want to clear something up.
+18)  LEE
+What is it? [determined, distracted]
+19)  CHRISTA
+{Body-A}{ThinkingA}Clementine. {SadA}I know Kenny was your guy.
+20)  LEE
+{Body-B}{NormalB}Yeah. [what of it]
+21)  CHRISTA
+{AngryA}Well?
+22)  
+Ain't much choice, now.
+23)  
+Find her a family that's...capable.
+24)  
+You guys would be great for her.
+61)  
+You guys would be great for her.
+25)  LEE
+{Body-B}{NormalC}Ain't much choice now.
+26)  CHRISTA
+{Body-A}{AngryB}No, there isn't.
+27)  OMID
+{Body-A}{SickA}Easy, Christa.
+28)  CHRISTA
+{AngryA}I don't care that he's who you wanted, {ThinkingA}but I want you to know that {WorriedA}you don't need to worry.
+29)  LEE
+{NormalD}Okay.
+30)  LEE
+{Body-B}{DisgustA}Just take care of her as long as you can, {AngryA}then find her a family that's capable.
+247)  LEE
+{Body-B}{DisgustA}Just take care of her as long as you can, {AngryA}then find her a family that's capable.
+31)  OMID
+{Body-A}{AngryA}We're capable.
+250)  OMID
+{Body-A}{AngryA}We're capable.
+32)  LEE
+{ThinkingA}You and your girlfriend might want different things.
+249)  LEE
+{ThinkingA}You and your girlfriend might want different things.
+33)  CHRISTA
+{Body-A}{AngryA}That's enough.
+251)  CHRISTA
+{Body-A}{AngryA}That's enough.
+34)  LEE
+{AngryA}Fine. {NormalC}But you heard me.
+248)  LEE
+{AngryA}Fine. {NormalC}But you heard me.
+35)  CHRISTA
+She'll be fine, Lee.
+246)  CHRISTA
+She'll be fine, Lee.
+36)  LEE
+{Body-B}{HappyA}You guys would be great for her. {ThinkingA}Keep her safe.
+37)  CHRISTA
+{Body-A}{HappyA}We'd do our best, {ThinkingA}you know that.
+38)  
+Are you... okay?
+39)  
+What's going on with you?
+40)  
+Good. Thanks.
+41)  LEE
+{Body-B}{NormalD}Are you... {SadA}okay?
+42)  CHRISTA
+{Body-A}{SadA}I should be asking you that.
+43)  LEE
+Before, in the attic.
+44)  CHRISTA
+{ThinkingA}It's nothing.
+50)  CHRISTA
+{ThinkingA}It's nothing.
+45)  OMID
+What's nothing?
+51)  OMID
+What's nothing?
+46)  CHRISTA
+{DisgustA}Let's just keep moving.
+52)  CHRISTA
+{DisgustA}Let's just keep moving.
+47)  LEE
+{Body-B}{ThinkingA}What's going on with you?
+48)  CHRISTA
+I just saw your friends get killed.
+49)  LEE
+I mean before, back at the attic.
+53)  LEE
+{Body-B}{NormalB}Good. {HappyA}Thanks. Whatever your best is, {ThinkingA}I'll trust it.
+54)  CHRISTA
+{Body-A}{HappyA}That's all you can do.
+55)  CHRISTA
+{Body-A}{ThinkingA}Omid and I have to stay safe. For her.
+56)  
+Yeah, you do.
+57)  LEE
+{Body-B}{ThinkingA}Yeah, you do. {NormalC}Let me take all the risks.
+58)  CHRISTA
+{Body-A}{WorriedA}That's not what I mean, {ThinkingA}necessarily.
+59)  LEE
+{AngryA}It's what I mean. {ThinkingA}It's what we gotta do.
+60)  
+Find her a family that's capable.
+62)  CHRISTA
+[frustrated] {Body-A}{AngryA}Just... {AngryB}fuck. You don't have to worry about anything, {AngryA}okay? {ThinkingA}Not that it seems like you are.
+63)  CHRISTA
+{Body-A}{AngryA}That's that, then.
+64)  OMID
+{Body-A}{ThinkingA}Yeah, that's that, hon.
+65)  CHRISTA
+Fuck, be careful across here.
+66)  OMID
+River Street's just up ahead.
+67)  OMID
+[hushed] Whoa, careful.
+68)  CHRISTA
+[hushed] Even the buildings are full....
+69)  OMID
+[hushed] They never know where their next meal is.
+70)  
+No. They don't.
+71)  
+That's a thing to say.
+72)  
+Be careful through here.
+79)  LEE
+Be careful through here.
+73)  LEE
+[hushed] No. They don't.
+74)  OMID
+[hushed] I... I didn't mean--
+77)  OMID
+[hushed] I... I didn't mean--
+75)  LEE
+[hushed] It's fine; let's go.
+78)  LEE
+[hushed] It's fine; let's go.
+76)  LEE
+[hushed]That's a thing to say.
+80)  OMID
+Yeah, we don't need any more accidents.
+81)  OMID
+I'm sorry.
+82)  LEE
+It's okay.
+83)  CHRISTA
+He didn't mean to...
+84)  KENNY
+It's good to be moving.
+85)  
+You're doing good.
+89)  LEE
+You're doing good.
+86)  
+Can't stop.
+87)  
+You ready?
+88)  KENNY
+All of 'em. Every damn night.
+90)  KENNY
+I'm not, but I'm trying, man.
+91)  LEE
+What happened?
+92)  KENNY
+Honestly...
+93)  KENNY
+You know how many nights Kat and I laid in that broke down RV and she'd give me hell for not thinking enough about the rest of you?
+94)  LEE
+We can't stop.
+95)  KENNY
+How we finding this guy?
+96)  KENNY
+Damn right we can't.
+97)  LEE
+We just get to the hotel and stick together and use our heads.
+98)  OMID
+We're not too far.
+99)  KENNY
+I got a lot of pain inside me, Lee.
+100)  LEE
+You ready for whatever's comin?
+101)  KENNY
+I'd like to get even a little bit of it out.
+102)  KENNY
+[to himsef] It's just good to... be bearing down on this asshole.
+103)  KENNY
+Careful across here.
+104)  KENNY
+[kidding] Might want to give him a call and tell him we're coming for him.
+105)  LEE
+Yeah, of course I do.
+106)  LEE
+Yeah, right.
+107)  KENNY
+You got that walkie-talkie?
+108)  OMID
+[hushed] NOPE. Maw of darkness full of walkers? Fuck that shit.
+109)  
+I don't see any.
+110)  
+This roof could give way.
+116)  LEE
+This roof could give way.
+111)  
+Let's get off of here. Now.
+112)  CHRISTA
+[hushed]  You can hear 'em, right?
+113)  OMID
+[hushed] We're all desensitized to it, but I can still smell them.
+114)  LEE
+[hushed] I don't see any down there.
+115)  OMID
+Don't gotta tell me twice.
+117)  LEE
+[hushed] Let's get off of here. Now.
+118)  OMID
+[hushed] Yep. That.
+119)  OMID
+[hushed] Can you smell them? I can smell them. Years from now when this is over, that smell is going to haunt my fucking dreams.
+120)  LEE
+[hushed] Ugh. [kenny bumps into him]
+121)  KENNY
+[hushed] Oh, fuck.
+122)  KENNY
+I'm so sorry.
+123)  CHRISTA
+[sigh] Well.
+124)  
+We have to get it back.
+125)  CHRISTA
+[hushed]Lee's right.
+126)  KENNY
+[hushed]	We can find this guy without it.
+127)  LEE
+[hushed]It's fine. We just need to figure out who's going down there.
+128)  LEE
+[hushed]We have to get it back. That's our lifeline to her.
+129)  LEE
+[hushed]And what if we don't? We need any clue that comes out of it.
+130)  CHRISTA
+[hushed]No, we don't.
+131)  CHRISTA
+[hushed]	I just did.
+155)  CHRISTA
+[hushed]	I just did.
+132)  LEE
+[hushed]Leave it. We don't need it. We've got a bead on this guy.
+133)  KENNY
+[hushed]Yeah, I agree.
+134)  CHRISTA
+[hushed]And when we don't? And we don't know where to begin to look? Any clue, even the smallest one, is invaluable. We need that thing.
+153)  CHRISTA
+[hushed]And when we don't? And we don't know where to begin to look? Any clue, even the smallest one, is invaluable. We need that thing.
+135)  KENNY
+[hushed]Fuck, I'm sorry. Let's think this through.
+154)  KENNY
+[hushed]Fuck, I'm sorry. Let's think this through.
+136)  
+Just leave it.
+137)  
+Way to go.
+138)  LEE
+[hushed]Way to go.
+139)  LEE
+[hushed]You know what that thing means to finding her?
+140)  KENNY
+[hushed]Doc, I am SORRY.
+141)  KENNY
+[hushed]We know where she is.
+142)  CHRISTA
+[hushed]Guys.
+143)  CHRISTA
+[hushed]Aw, fuck it.
+144)  KENNY
+[hushed]I'm so fucking sorry.
+145)  LEE
+[hushed]For NOW.
+146)  LEE
+[hushed]Whatever, man.
+147)  KENNY
+[hushed]I am so fucking sorry.
+148)  CHRISTA
+We need it back.
+149)  KENNY
+Buddy, I'm so sorry, I just... fuckin' caught a toe.
+150)  KENNY
+Do we?
+151)  CHRISTA
+Yes.
+152)  KENNY
+We know where this guys is.
+156)  OMID
+[hushed] CHRISTA! Jesus fucking Christ!
+157)  CHRISTA
+[hushed] I got it, get me up.
+158)  KENNY
+[hushed] Fuck, we can't reach. Find something fast?
+159)  CHRISTA
+[hushed] Fast would be good.
+160)  LEE
+[hushed] Keep a fucking eye on her.
+161)  LEE
+[hushed] See anything?
+162)  CHRISTA
+[hushed]  No, and that's the problem. Get me out of here. Now.
+163)  OMID
+[hushed] Find something, dude!
+164)  KENNY
+[hushed] We can't reach her!
+165)  CHRISTA
+[hushed] I am jumping!
+166)  KENNY
+[hushed, reaching for her] Mmph... can you jump?
+167)  CHRISTA
+[hushed] It's pitch black down here!
+168)  OMID
+[hushed, reaching for her] Find a chair or something!
+169)  OMID
+[hushed, reaching for her] Mmmph...
+170)  CHRISTA
+[hushed] Fuck, I hear something.
+171)  KENNY
+[hushed, reaching for her] Come on...
+172)  CHRISTA
+[hushed] I am READY to get out of here.
+173)  LEE
+[hushed] Grab onto this, we'll pull you up.
+174)  LEE
+Won't help.
+175)  LEE
+I need something sturdy.
+176)  CHRISTA
+[hushed] Good. Thanks.[urgent]
+177)  CHRISTA
+[pulling herself up]
+178)  CHRISTA
+[sudden fall] AH!
+179)  CHRISTA
+[land, 7 ft down] UGH!
+180)  OMID
+Fuck! Jump up here, baby!
+181)  LEE
+Let's go! JUMP!
+182)  CHRISTA
+[jumping, can't reach]
+183)  KENNY
+[jumping down 10 ft]
+184)  OMID
+[hushed] Get her, Ken!
+185)  KENNY
+[hoisting Christa]
+186)  CHRISTA
+[being hoisted up]
+187)  KENNY
+[through grit teeth, hushed, hoisting christa] SAVE HER. DO YOU FUCKING HEAR ME?!
+188)  KENNY
+[through grit teeth, hushed, hoisting christa] NOT A LOT OF TIME HERE.
+189)  OMID
+[hushed] Go go go!
+190)  OMID
+[hushed] Shit! They're in there!
+191)  LEE
+[getting christa pulled all the way up]
+192)  CHRISTA
+[getting over the edge of a climb]
+196)  CHRISTA
+[getting over the edge of a climb]
+193)  LEE
+Get Kenny!
+194)  LEE
+[slipping] AH!
+195)  OMID
+I gotcha hon!
+197)  
+Where are you?!
+198)  
+Jump!
+199)  
+You gotta run!
+200)  LEE
+[hushed] Where are you?!
+201)  LEE
+[hushed] Jump up here, Ken! I'll grab you!
+202)  LEE
+[hushed] You gotta run, man! Go! We'll find a way to get you!
+203)  OMID
+Where the fuck is he?!
+204)  KENNY
+GET THE FUCK OFF ME!
+205)  KENNY
+[getting bitten] AHHH!
+206)  
+NO!!!
+209)  LEE
+NO!!!
+207)  
+We're going after him!
+208)  
+Jesus...
+210)  LEE
+We're going in after him!
+211)  OMID
+We can't!
+212)  LEE
+WE HAVE TO!
+213)  OMID
+LEE--
+214)  LEE
+[to himself, horrified] Jesus...
+215)  KENNY
+[fighitng more]
+216)  KENNY
+[fighting off walkers, longer -- 7 sec]
+217)  
+Pole
+218)  
+Plywood
+219)  
+Bucket
+220)  KENNY
+[pickup1] Let's keep goin' you buncha lollygaggers.
+221)  OMID
+[pickup1] Where... where'd he go? [scared. kenny could be dead]
+222)  
+He's dead.
+223)  
+I don't know.
+224)  
+Maybe he ran.
+225)  KENNY
+[pickup1] [fighing zombies off] Go! I'll... I'll be...
+226)  LEE
+[pickup1] He went down there for you.
+231)  LEE
+[pickup1] He went down there for you.
+236)  LEE
+[pickup1] He went down there for you.
+239)  LEE
+[pickup1] He went down there for you.
+227)  CHRISTA
+[pickup1] I know he did. He... [trails off]
+232)  CHRISTA
+[pickup1] I know he did. He... [trails off]
+237)  CHRISTA
+[pickup1] I know he did. He... [trails off]
+240)  CHRISTA
+[pickup1] I know he did. He... [trails off]
+228)  LEE
+[pickup1] He's dead.
+229)  CHRISTA
+[pickup1] [upset] Maybe he's not.
+241)  CHRISTA
+[pickup1] [upset] Maybe he's not.
+230)  LEE
+[pickup1] [just lost kenny "what happened"] We don't know. He could be down there still, he... he could be on the run. He... he could be gone.
+233)  CHRISTA
+[pickup1] He could be okay. [upset over kenny]
+234)  LEE
+[pickup1] [what happened to kenny? the group doesn't know] Maybe- maybe he ran. May- maybe the man's all right. Maybe he'll find us.
+235)  CHRISTA
+[pickup1] What if he doesn't? [solemn. upset about kenny]
+238)  OMID
+[pickup1] [upset about kenny] Kenny's a beast, he's, he's... all right, right?
+242)  KENNY
+[pickup1] Me and my fuckin' mouth...
+243)  LEE
+[pickup1] [hushed and urgent] Kenny, what are you doing?!
+244)  KENNY
+[pickup1] [through grit teeth, hushed, hoisting christa] Can't have said all that shit and not do somethin' now. Come on, reach!
+245)  CHRISTA
+They're not in here. At least I don't think so.

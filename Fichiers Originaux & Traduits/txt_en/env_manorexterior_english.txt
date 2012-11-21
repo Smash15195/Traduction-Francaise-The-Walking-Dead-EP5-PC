@@ -1,0 +1,728 @@
+1)  KENNY
+Get this fucking open! Those fuckers! Goddammit, LEE!
+2)  LEE
+{thinkingB}Hello? Who the {angryA}fuck is in there?
+3)  LEE
+{thinkingB}Kenny?
+4)  KENNY
+OPEN THE DOOR!
+5)  KENNY
+[muffled] Fuck! Damn! Sonofa...
+6)  CHRISTA
+{fearB}Holy...
+7)  KENNY
+{surprisedA}What the fuck?!
+194)  KENNY
+{surprisedA}What the fuck?!
+324)  KENNY
+{surprisedA}What the fuck?!
+8)  
+This was Vernon.
+9)  
+The fucking guy... on the radio...
+10)  
+Clementine gave him the boat?
+11)  CHRISTA
+{worriedA}Well, we're {thinkingA}not coming back here {sadA}after we find Clem.
+12)  KENNY
+{surprisedA}Who? {sadA}Fuck! How {angryB}could this happen?
+13)  OMID
+Hey guys...
+14)  KENNY
+{disgustA}Come on... just... {angryB}come the {angryD}FUCK on...
+15)  CHRISTA
+{disgustA}You think so?
+16)  LEE
+{angryA}This was Vernon.
+17)  LEE
+{surpriseB}[a little panicked] It's the guy on the radio, {fearC}the one who's got Clem...they're gone...{fearA}holy shit they're gone...
+18)  LEE
+{fearA}[panicked] Clementine... {disgustB}she gave him the boat... {fearB}she...
+19)  KENNY
+{angryB}No fucking way!
+191)  KENNY
+{angryB}No fucking way!
+326)  KENNY
+{angryB}No fucking way!
+20)  OMID
+{normalB}Lee's right. It was {fearA}Vernon and that support group.
+21)  KENNY
+{angryC}They fucked us.
+129)  KENNY
+{angryC}They fucked us.
+154)  KENNY
+{angryC}They fucked us.
+192)  KENNY
+{angryC}They fucked us.
+228)  KENNY
+{angryC}They fucked us.
+283)  KENNY
+{angryC}They fucked us.
+330)  KENNY
+{angryC}They fucked us.
+22)  OMID
+{normalB}He says he feels bad about it. Leaving {sadA}us... AND Clementine behind.
+23)  OMID
+{sadA}No, it wasn't the guy on the radio. {angryA}It was Vernon.
+24)  OMID
+{normalB}No, Clementine's not with the boat. {angryA}Vernon and his crew took it.
+25)  OMID
+{normalB}Their actions, uh, {thinkingA}contradict your characterization, but, {sadA}yeah, the invalids.
+193)  OMID
+{normalB}Their actions, uh, {thinkingA}contradict your characterization, but, {sadA}yeah, the invalids.
+329)  OMID
+{normalB}Their actions, uh, {thinkingA}contradict your characterization, but, {sadA}yeah, the invalids.
+26)  KENNY
+{disgustA}[continued...]THE INVALIDS?!?
+190)  KENNY
+{disgustA}[continued...]THE INVALIDS?!?
+328)  KENNY
+{disgustA}[continued...]THE INVALIDS?!?
+27)  OMID
+{normalB}Yeah.
+198)  OMID
+{normalB}Yeah.
+28)  CHRISTA
+{thinkingA}Omid, can you go over the fence and {normalB}let us into the backyard? We {fearA}shouldn't be out {angryA}in the open.
+197)  CHRISTA
+{thinkingA}Omid, can you go over the fence and {normalB}let us into the backyard? We {fearA}shouldn't be out {angryA}in the open.
+29)  KENNY
+{angryA}Nobody asked you.
+30)  BEN
+Yeah, that seems like a good idea to me.
+31)  KENNY
+{disgustA}Don't get fucking smart with me, BEN.
+32)  BEN
+You just did.
+33)  CHRISTA
+{angryA}We get the fuck out of cities. I'm {worriedA}done with cities. We go {fearA}into the countryside and make a go of it.
+97)  CHRISTA
+{angryA}We get the fuck out of cities. I'm {worriedA}done with cities. We go {fearA}into the countryside and make a go of it.
+34)  CHRISTA
+{angryB}Chill.
+35)  KENNY
+{disgustA}So we get Clementine and {angryA}then what?!
+98)  KENNY
+{disgustA}So we get Clementine and {angryA}then what?!
+36)  
+Everyone keep it together.
+37)  
+Worry about the boat after.
+38)  
+Christa's right.
+39)  KENNY
+{angryB}Do you remember we had a boat?! {angryC}A BOAT!
+40)  LEE
+{fearA}Everyone keep it together. {thinkingB}Nothing has changed, has it?
+41)  LEE
+{angryA}I mean immediately. We {normalD}stay the course. Don't {disgustB}turn on each other.
+42)  KENNY
+{surprisedA}Nothing has changed?!?
+43)  LEE
+{thinkingA}You're welcome to, just {normalD}calm down for a second.
+44)  BEN
+{disgustA}Yeah, chill.
+50)  BEN
+{disgustA}Yeah, chill.
+45)  LEE
+{angryA}Worry about the boat after. You can {thinkingB}scour the goddamn coast looking for them.
+46)  KENNY
+{disgustA}I'll make that bastard {angryA}wish the {disgustA}cancer had got him.
+47)  KENNY
+{surprisedA}Rethink?! How {disgustA}about we just THINK for once.
+48)  LEE
+{normalC}Christa's right. The {angryA}boat was a pipe dream; we {disgustB}still go after Clem and then {thinkingB}we all get out of Savannah and rethink our entire plan.
+49)  LEE
+{surpriseA}That's what I'm {fearB}saying we do! {angryA}Calm down, Kenny.
+51)  BEN
+Get over it!
+52)  CHRISTA
+{thinkingA}We can do this in the yard.
+53)  KENNY
+{angryB}Ben, I swear to God...
+54)  LEE
+{thinkingB}Definitely.
+55)  CHRISTA
+{sadA}Relax...
+56)  CHRISTA
+{sadA}I don't think she would do that...
+57)  BEN
+{sadB}Yeah, chill out, Kenny.
+58)  CHRISTA
+{fearA}[to lee, aside] What do we do without a boat?
+59)  
+Get to the countryside.
+103)  
+Get to the countryside.
+60)  
+Find a small town.
+104)  
+Find a small town.
+61)  
+Get another.
+108)  
+Get another.
+62)  CHRISTA
+{sadA}You know that's what I'm for.
+323)  CHRISTA
+{sadA}You know that's what I'm for.
+63)  LEE
+{fearA}Get to the countryside. We've {disgustB}dicked around with cities and coastlines and {angryA}boats too long. {sadA}Take her out there and {fearA}live as safe as you can, okay?
+321)  LEE
+{fearA}Get to the countryside. We've {disgustB}dicked around with cities and coastlines and {angryA}boats too long. {sadA}Take her out there and {fearA}live as safe as you can, okay?
+64)  OMID
+{normalA}Yeah, we gotta {sadA}get out into some open spaces.
+322)  OMID
+{normalA}Yeah, we gotta {sadA}get out into some open spaces.
+65)  OMID
+{fearA}Lee's right, Christa. We've {angryA}been so goddamn scared of strangers for so long but {fearA}at one point, we {disgustA}gotta take our chances, right?
+107)  OMID
+{fearA}Lee's right, Christa. We've {angryA}been so goddamn scared of strangers for so long but {fearA}at one point, we {disgustA}gotta take our chances, right?
+66)  LEE
+{normalD}Find a small town, maybe {thinkingB}one that hasn't been ripped up too bad. At {disgustB}some point people are going to have to start rebuilding and {fearA}you guys and Clem should be part of that.
+106)  LEE
+{normalD}Find a small town, maybe {thinkingB}one that hasn't been ripped up too bad. At {disgustB}some point people are going to have to start rebuilding and {fearA}you guys and Clem should be part of that.
+67)  CHRISTA
+{disgustA}I don't know...
+105)  CHRISTA
+{disgustA}I don't know...
+68)  LEE
+{fearA}It'll be better than getting eaten {sadA}alone, out there.
+109)  LEE
+{fearA}It'll be better than getting eaten {sadA}alone, out there.
+69)  LEE
+{thinkingB}That wasn't the last boat in America. The idea {normalC}was sound before and it's sound now. The {disgustB}mainland is done and we have {fearA}no idea what else is out there.
+111)  LEE
+{thinkingB}That wasn't the last boat in America. The idea {normalC}was sound before and it's sound now. The {disgustB}mainland is done and we have {fearA}no idea what else is out there.
+70)  OMID
+{disgustA}I don't want to get us all killed {angryA}on some impossible mission.
+110)  OMID
+{disgustA}I don't want to get us all killed {angryA}on some impossible mission.
+71)  KENNY
+{angryB}Where the hell do you get off?
+76)  KENNY
+{angryB}Where the hell do you get off?
+72)  BEN
+{disgustA}I'm just saying we should ALL chill, {fearB}not just you.
+77)  BEN
+{disgustA}I'm just saying we should ALL chill, {fearB}not just you.
+73)  KENNY
+{angryC}CHILL? {happyD}"Bandits, hey, CHILL, {angryB}here's some pills!" {surprisedA}"Vernon, {happyD}CHILL, here's our {angryC}fucking BOAT."
+74)  BEN
+{angryB}This isn't my fault.
+75)  KENNY
+{angryB}I can't point to one {angryC}THING that's {angryB}happened that isn't {angryD}somehow your fault.
+78)  KENNY
+CHILL? {surprisedA}Lee's bitten and God {disgustA}knows how long HE has left, {surprisedA}Clementine is, {angryB}who the fuck knows and we're {angryC}robbed of the only hope we've had.
+79)  BEN
+{angryB}So?
+80)  KENNY
+So Lee {angryD}should've left your ass in Crawford. {disgustA}We got enough problems.
+81)  BEN
+{angryD}FUCK YOU, KENNY! [hurt, damaged, choking back tears. he's pushed you to your limit]
+319)  BEN
+{angryD}FUCK YOU, KENNY! [hurt, damaged, choking back tears. he's pushed you to your limit]
+82)  
+Whoa, Ben.
+83)  
+Careful...
+84)  
+Kenny, stop.
+85)  LEE
+{surpriseA}Whoa, {fearA}Ben--
+86)  CHRISTA
+{fearA}No, let him.
+88)  CHRISTA
+{fearA}No, let him.
+90)  CHRISTA
+{fearA}No, let him.
+87)  LEE
+{surpriseA}Careful gu--
+89)  LEE
+{surpriseA}Kenny, {fearA}stop --
+91)  BEN
+{thinkingA}I am so, so, {fearB}SO sorry about {sadC}Katjaa and Duck, {fearC}I AM. {surprisedA}And I know I {sadD}fucked up, but {surprisedA}STOP pushing me around and {fearC}STOP wishing I was dead.
+92)  BEN
+{angryB}NO! You {surprisedA}know how they {disgustA}died. You've said {sadE}GOODBYE. I never {sadC}got to see my family, my parents, my {sadD}little sister... do you get that? Your {fearB}family is gone, but {sadA}at least you had them to lose.
+93)  BEN
+{disgustA}I never made it home. They could be {fearB}alive or {sadE}dead or {sadC}walkers or {surprisedA}WORSE and {angryB}I DON'T KNOW. SO {angryC}GIVE ME A FUCKING BREAK.
+94)  KENNY
+{fearB}Aw, Ben, I'm--
+95)  CHRISTA
+{fearB}Oh shit, here they come.
+96)  OMID
+{fearC}In the house!
+99)  KENNY
+{fearB}I don't want to go back {sadA}out there again.
+100)  KENNY
+{surprisedA}You're "every {angryB}man for himself" until you and {disgustA}your boyfriend actually {angryC}need something.
+101)  CHRISTA
+[pssh, whatever] You wouldn't have had a boat to lose {fearA}without us, so {angryA}shove it, okay?
+102)  CHRISTA
+{thinkingA}What do you think, Lee, what {fearA}do we do now, without a boat?
+112)  KENNY
+{angryA}What, you got the boat hidden somewhere?
+113)  KENNY
+{angryB}Well, I know you two are just going to look out for number one. [awk] {thinkingA}And number {disgustA}two, you {angryB}know, yourselves.
+114)  OMID
+{disgustA}Shut up, dude.
+115)  KENNY
+{disgustA}Bullshit it's not.
+116)  OMID
+{sadA}It's not like that, man.
+117)  OMID
+{angryA}There's other shit at play, all right?
+118)  CHRISTA
+{angryA}Don't engage him, Omid.
+119)  KENNY
+{angryB}Watch your mouth.
+120)  LEE
+Damn right.
+121)  KENNY
+{thinkingA}At least Lee's thinking. You're {angryA}goddamn right we get another boat.
+122)  OMID
+{disgustA}Aren't we all missing the {fearA}point right now? Clementine is the {angryA}goal. That's it.
+123)  CHRISTA
+{angryA}But not here.
+124)  KENNY
+{angryA}This is bullshit; he {fearB}might not even be around, so -- {sadA}with all due respect, Lee -- his {thinkingA}opinion doesn't carry a lot of weight.
+125)  CHRISTA
+{thinkingA}Look, we know what Lee thinks.
+126)  CHRISTA
+{thinkingA}[to Lee, closer] Get out of town at {disgustA}least, right?
+127)  CHRISTA
+Hey. It's {fearA}still his little girl out there. {disgustA}She's number one. That's the {angryA}end of that, okay?
+128)  KENNY
+But what about--
+130)  KENNY
+{angryB}Vernon! He {surprisedA}didn't have Clem. So {thinkingA}where the fuck is she?!
+156)  KENNY
+{angryB}Vernon! He {surprisedA}didn't have Clem. So {thinkingA}where the fuck is she?!
+131)  OMID
+{disgustA}Wait, the {sadA}cancer patients did this?
+159)  OMID
+{disgustA}Wait, the {sadA}cancer patients did this?
+132)  KENNY
+{disgustA}Yeah, they were waiting. {thinkingA}Tired of living underground, I guess. They kicked the {surprisedA}shit out of {angryA}me and tossed me in here.
+160)  KENNY
+{disgustA}Yeah, they were waiting. {thinkingA}Tired of living underground, I guess. They kicked the {surprisedA}shit out of {angryA}me and tossed me in here.
+133)  LEE
+{angryC}With someone else. {thinkingB}We're going after her.
+157)  LEE
+{angryC}With someone else. {thinkingB}We're going after her.
+134)  LEE
+{surpriseB}What?! {fearB}WHO?
+155)  LEE
+{surpriseB}What?! {fearB}WHO?
+227)  LEE
+{surpriseB}What?! {fearB}WHO?
+284)  LEE
+{surpriseB}What?! {fearB}WHO?
+135)  KENNY
+{angryB}Fuck, {disgustA}just...{angryB}Jesus.
+158)  KENNY
+{angryB}Fuck, {disgustA}just...{angryB}Jesus.
+136)  KENNY
+{fearA}WAIT; what the {fearB}hell happened to you?!
+230)  KENNY
+{fearA}WAIT; what the {fearB}hell happened to you?!
+301)  KENNY
+{fearA}WAIT; what the {fearB}hell happened to you?!
+137)  LEE
+{normalC}Cut it off.
+219)  LEE
+{normalC}Cut it off.
+231)  LEE
+{normalC}Cut it off.
+302)  LEE
+{normalC}Cut it off.
+342)  LEE
+{normalC}Cut it off.
+138)  KENNY
+{surprisedA}Seriously?
+229)  KENNY
+{surprisedA}Seriously?
+303)  KENNY
+{surprisedA}Seriously?
+139)  
+Thought it might buy me some time.
+140)  
+It might save my life.
+141)  
+The bite made me pass out.
+142)  LEE
+{thinkingB}I thought it might buy me some time; {fearA}you know, get that bite off my body and {normalD}hopefully whatever is gonna happen takes longer.
+143)  LEE
+{disgustB}I thought it might save my life. I {normalB}was lucky to get bit down on the wrist, {thinkingB}far from anything important. {normalD}But who knows.
+144)  LEE
+{disgustB}I passed out and realized the {normalC}bite was just going to slow me down. {thinkingB}I might still be fucked, but {fearA}honestly I feel better.
+145)  KENNY
+{fearB}[sigh] {sadA}Jesus...
+146)  KENNY
+{fearA}How are you {thinkingA}doing, with... {sadA}everything happening there?
+147)  CHRISTA
+We were going to... cut it off, but Lee objected.
+148)  
+It's definitely having an impact.
+149)  
+I'm fine, it's no big deal.
+150)  
+It comes in waves.
+151)  LEE
+{thinkingB}It's definitely having an impact. {disgustB}I passed out a couple times. Just {thinkingA}feeling like shit in general. But {fearA}I've got time. {normalD}Let's not worry about it.
+152)  LEE
+{disgustB}I'm fine; what's {normalC}done is done. We {thinkingB}have to focus on finding Clementine.
+153)  LEE
+{thinkingB}It comes in waves. I {fearA}took a couple spills {normalD}getting back here, so keep an eye on me.
+161)  BEN
+{angryB}Kicked the shit out of {sadB}BOTH of us...
+162)  BEN
+{fearB}That guy with his crew of sick people! They {thinkingB}took the boat, {angryB}they're gone.
+163)  BEN
+{fearB}No. He seemed pissed {sadB}you guys lost her and... {sadA}well, they took it; {fearA}they're gone.
+164)  KENNY
+{disgustA}BEN you are {angryC}WORTHLESS.
+165)  CHRISTA
+{angryA}Relax! Ben, {fearA}what happened?
+166)  BEN
+{fearB}Don't get mad... {sadB}the boat's gone.
+167)  KENNY
+{angryD}WHAT ARE YOU DOING?
+168)  BEN
+{disgustA}They were waiting for me in here.
+169)  KENNY
+{angryB}No shit it's gone!
+170)  BEN
+Vernon. {surprisedA}His whole crew.
+171)  CHRISTA
+{fearA}Who?
+172)  LEE
+{thinkingB}It was an accident. A{disgustB} small, stupid thing. {normalC}But yeah.
+208)  LEE
+{thinkingB}It was an accident. A{disgustB} small, stupid thing. {normalC}But yeah.
+211)  LEE
+{thinkingB}It was an accident. A{disgustB} small, stupid thing. {normalC}But yeah.
+223)  LEE
+{thinkingB}It was an accident. A{disgustB} small, stupid thing. {normalC}But yeah.
+232)  LEE
+{thinkingB}It was an accident. A{disgustB} small, stupid thing. {normalC}But yeah.
+240)  LEE
+{thinkingB}It was an accident. A{disgustB} small, stupid thing. {normalC}But yeah.
+296)  LEE
+{thinkingB}It was an accident. A{disgustB} small, stupid thing. {normalC}But yeah.
+307)  LEE
+{thinkingB}It was an accident. A{disgustB} small, stupid thing. {normalC}But yeah.
+337)  LEE
+{thinkingB}It was an accident. A{disgustB} small, stupid thing. {normalC}But yeah.
+346)  LEE
+{thinkingB}It was an accident. A{disgustB} small, stupid thing. {normalC}But yeah.
+173)  KENNY
+{fearA}Oh, my God....
+206)  KENNY
+{fearA}Oh, my God....
+234)  KENNY
+{fearA}Oh, my God....
+239)  KENNY
+{fearA}Oh, my God....
+297)  KENNY
+{fearA}Oh, my God....
+308)  KENNY
+{fearA}Oh, my God....
+174)  KENNY
+{fearC}[shocked beyond belief] ...What?
+209)  KENNY
+{fearC}[shocked beyond belief] ...What?
+235)  KENNY
+{fearC}[shocked beyond belief] ...What?
+238)  KENNY
+{fearC}[shocked beyond belief] ...What?
+295)  KENNY
+{fearC}[shocked beyond belief] ...What?
+305)  KENNY
+{fearC}[shocked beyond belief] ...What?
+175)  LEE
+{angryA}I was bitten...
+207)  LEE
+{angryA}I was bitten...
+210)  LEE
+{angryA}I was bitten...
+225)  LEE
+{angryA}I was bitten...
+233)  LEE
+{angryA}I was bitten...
+236)  LEE
+{angryA}I was bitten...
+294)  LEE
+{angryA}I was bitten...
+304)  LEE
+{angryA}I was bitten...
+335)  LEE
+{angryA}I was bitten...
+344)  LEE
+{angryA}I was bitten...
+176)  KENNY
+{disgustA}What the fuck {fearB}is that on your wrist?
+237)  KENNY
+{disgustA}What the fuck {fearB}is that on your wrist?
+293)  KENNY
+{disgustA}What the fuck {fearB}is that on your wrist?
+177)  LEE
+{surpriseA}Was Clementine {fearB}with them?!
+178)  BEN
+{fearC}[to lee] What happened to {surprisedA}your arm?
+179)  KENNY
+{angryB}We cut it off. {disgustA}Ben I could just {angryC}KILL you right now.
+180)  KENNY
+{disgustA}He was bitten and {angryA}we cut it off.
+181)  BEN
+{fearC}What?!
+188)  BEN
+{fearC}What?!
+182)  BEN
+{fearB}Where's Lee's arm.
+183)  KENNY
+{disgustA}I can't believe you didn't even put up a fight.
+184)  BEN
+{sadB}How is Lee feeling?
+185)  KENNY
+{angryB}Don't change the subject.
+189)  KENNY
+{angryB}Don't change the subject.
+186)  BEN
+{surprisedA}Whoa, what's {fearB}that on Lee's wrist?
+187)  CHRISTA
+{sadB}He was bitten.
+195)  OMID
+{angryA}Vernon. His entire crew. {sadA}They took the boat.
+325)  OMID
+{angryA}Vernon. His entire crew. {sadA}They took the boat.
+196)  CHRISTA
+{angryA}They jumped us. They didn't have Clementine. The took the {sadA}boat and locked us in here.
+327)  CHRISTA
+{angryA}They jumped us. They didn't have Clementine. The took the {sadA}boat and locked us in here.
+199)  BEN
+[to himself] Come on... please....
+200)  CHRISTA
+[trying to open a door] OPEN, DAMMIT.
+203)  CHRISTA
+[trying to open a door] OPEN, DAMMIT.
+201)  KENNY
+[to himself, furious, trying to open a door] YOU MOTHERFUCKERS...
+202)  KENNY
+[to himself, furious, trying to open a door] YOU MOTHERFUCKERS...
+204)  KENNY
+[to himself, furious, trying to open a door] YOU MOTHERFUCKERS...
+205)  LEE
+{angryA}Yeah.
+212)  CHRISTA
+{sadA}Wait, what the {fearB}fuck is that on your wrist?
+334)  CHRISTA
+{sadA}Wait, what the {fearB}fuck is that on your wrist?
+213)  OMID
+{fearA}[shocked beyond belief] ...What?
+221)  OMID
+{fearA}[shocked beyond belief] ...What?
+336)  OMID
+{fearA}[shocked beyond belief] ...What?
+345)  OMID
+{fearA}[shocked beyond belief] ...What?
+214)  CHRISTA
+{angryB}You fucker! God, we {fearB}would've gone with you...
+224)  CHRISTA
+{angryB}You fucker! God, we {fearB}would've gone with you...
+250)  CHRISTA
+{angryB}You fucker! God, we {fearB}would've gone with you...
+254)  CHRISTA
+{angryB}You fucker! God, we {fearB}would've gone with you...
+300)  CHRISTA
+{angryB}You fucker! God, we {fearB}would've gone with you...
+311)  CHRISTA
+{angryB}You fucker! God, we {fearB}would've gone with you...
+340)  CHRISTA
+{angryB}You fucker! God, we {fearB}would've gone with you...
+349)  CHRISTA
+{angryB}You fucker! God, we {fearB}would've gone with you...
+215)  CHRISTA
+{worriedA}Before we split up?
+220)  CHRISTA
+{worriedA}Before we split up?
+249)  CHRISTA
+{worriedA}Before we split up?
+253)  CHRISTA
+{worriedA}Before we split up?
+298)  CHRISTA
+{worriedA}Before we split up?
+309)  CHRISTA
+{worriedA}Before we split up?
+338)  CHRISTA
+{worriedA}Before we split up?
+347)  CHRISTA
+{worriedA}Before we split up?
+216)  LEE
+{normalD}Yes.
+222)  LEE
+{normalD}Yes.
+251)  LEE
+{normalD}Yes.
+252)  LEE
+{normalD}Yes.
+299)  LEE
+{normalD}Yes.
+310)  LEE
+{normalD}Yes.
+339)  LEE
+{normalD}Yes.
+348)  LEE
+{normalD}Yes.
+217)  CHRISTA
+{fearB}What the hell {worriedA}happened to you?!
+341)  CHRISTA
+{fearB}What the hell {worriedA}happened to you?!
+218)  OMID
+{fearB}Seriously?!
+343)  OMID
+{fearB}Seriously?!
+226)  LEE
+{surpriseB}What the...
+282)  LEE
+{surpriseB}What the...
+241)  LEE
+{angryC}She's with someone else. Her {fearA}parents were in Savannah and I {angryA}think someone used that against her.
+289)  LEE
+{angryC}She's with someone else. Her {fearA}parents were in Savannah and I {angryA}think someone used that against her.
+242)  KENNY
+{angryB}FUCK.
+286)  KENNY
+{angryB}FUCK.
+243)  LEE
+{fearB}Did they have Clementine?
+287)  LEE
+{fearB}Did they have Clementine?
+244)  OMID
+{disgustA}No. Definitely not. {fearA}She's not with you?
+288)  OMID
+{disgustA}No. Definitely not. {fearA}She's not with you?
+245)  CHRISTA
+{angryA}It was Vernon. They were {fearA}waiting for us and {angryA}jumped us. They were {angryB}armed and just--
+285)  CHRISTA
+{angryA}It was Vernon. They were {fearA}waiting for us and {angryA}jumped us. They were {angryB}armed and just--
+246)  CHRISTA
+{fearA}Well, we're {worriedA}going after her, right?
+290)  CHRISTA
+{fearA}Well, we're {worriedA}going after her, right?
+247)  LEE
+Yeah, of course.
+291)  LEE
+Yeah, of course.
+248)  OMID
+{sadA}[shocked] No way...
+306)  OMID
+{sadA}[shocked] No way...
+255)  KENNY
+{fearA}[sigh] God... {disgustA}everything just{sadA}... [sigh]
+292)  KENNY
+{fearA}[sigh] God... {disgustA}everything just{sadA}... [sigh]
+256)  KENNY
+{sadA}This is not happening... {disgustA}everything is so fucked...
+257)  CHRISTA
+[pickup1] [emphatic] Clementine is still out there.
+258)  CHRISTA
+{angryA}Vernon probably planned this out the {disgustA}second he laid {angryA}eyes on that boat.
+259)  OMID
+{normalB}He says he feels bad about leaving Clementine behind, but the {sadA}boat was an opportunity they couldn't pass up.
+260)  CHRISTA
+{fearA}Then don't. {angryA}Go your own way.
+261)  LEE
+[pickup1] We're all gonna end up one of two ways.
+262)  
+Look At
+263)  
+Open
+264)  
+Doors
+265)  CHRISTA
+{thinkingA}[pickup1] He's right; they're not invalids. {angryA}They're just people. {worriedA}People who have been dealing with shitty situations even {sadA}longer than we have. {disgustA}No wonder they got the jump on us.
+331)  CHRISTA
+{thinkingA}[pickup1] He's right; they're not invalids. {angryA}They're just people. {worriedA}People who have been dealing with shitty situations even {sadA}longer than we have. {disgustA}No wonder they got the jump on us.
+266)  KENNY
+{surprisedA}[pickup1] I don't give {angryB}a fuck if their Make-A-Wish was a {angryD}fuckin' boat ride, {surprisedA}when I find ‘em  {angryC}I'm gonna rip their throats out.
+332)  KENNY
+{surprisedA}[pickup1] I don't give {angryB}a fuck if their Make-A-Wish was a {angryD}fuckin' boat ride, {surprisedA}when I find ‘em  {angryC}I'm gonna rip their throats out.
+267)  CHRISTA
+{angryA}[pickup1] We'll never find them.
+333)  CHRISTA
+{angryA}[pickup1] We'll never find them.
+268)  
+Fuck 'em.
+350)  
+Fuck 'em.
+269)  
+We would've done the same.
+353)  
+We would've done the same.
+270)  
+I can't believe they did this.
+360)  
+I can't believe they did this.
+271)  LEE
+{angryA}[pickup1] Fuck 'em. {thinkingB}Cancer, no cancer, {fearA}saints, sinners, {angryA}who gives a shit. They're {thinkingB}people who knew what they were doin'.
+351)  LEE
+{angryA}[pickup1] Fuck 'em. {thinkingB}Cancer, no cancer, {fearA}saints, sinners, {angryA}who gives a shit. They're {thinkingB}people who knew what they were doin'.
+272)  KENNY
+{disgustA}[pickup1] Yeah. {angryB}SCREWING us. [they knew what they were doing...]
+352)  KENNY
+{disgustA}[pickup1] Yeah. {angryB}SCREWING us. [they knew what they were doing...]
+273)  LEE
+{disgustB}[pickup1] We would've done the same.
+354)  LEE
+{disgustB}[pickup1] We would've done the same.
+274)  KENNY
+{angryC}[pickup1] Not like this! We {disgustA}wouldn't leave good people to rot!
+355)  KENNY
+{angryC}[pickup1] Not like this! We {disgustA}wouldn't leave good people to rot!
+275)  LEE
+{fearA}[pickup1] We've taken food, {sadA}we've killed to survive, {thinkingB}what's the difference?
+356)  LEE
+{fearA}[pickup1] We've taken food, {sadA}we've killed to survive, {thinkingB}what's the difference?
+276)  KENNY
+{angryB}[pickup1] It's DIFFERENT.
+357)  KENNY
+{angryB}[pickup1] It's DIFFERENT.
+277)  LEE
+{sadA}[pickup1] Things have {thinkingB}changed.
+359)  LEE
+{sadA}[pickup1] Things have {thinkingB}changed.
+278)  KENNY
+{angryB}[pickup1] Says the guy who {disgustA}wouldn't take a box of food from an abandoned car.
+358)  KENNY
+{angryB}[pickup1] Says the guy who {disgustA}wouldn't take a box of food from an abandoned car.
+279)  CHRISTA
+{angryB}[pickup1] They didn't "use" shit -- {fearA}they did what anybody would've done. {thinkingA}They've been living like ghosts forever and {disgustA}they were fed up. That's it.
+363)  CHRISTA
+{angryB}[pickup1] They didn't "use" shit -- {fearA}they did what anybody would've done. {thinkingA}They've been living like ghosts forever and {disgustA}they were fed up. That's it.
+280)  KENNY
+{surprisedA}[pickup1] It's sick! It {disgustA}really is. They use your {angryB}goddamn SYMPATHY for {disgustA}sick folks and then {angryC}stab us right in the back.
+362)  KENNY
+{surprisedA}[pickup1] It's sick! It {disgustA}really is. They use your {angryB}goddamn SYMPATHY for {disgustA}sick folks and then {angryC}stab us right in the back.
+281)  LEE
+{angryA}[pickup1] I can't believe they did this to us.
+361)  LEE
+{angryA}[pickup1] I can't believe they did this to us.
+312)  CHRISTA
+[pickup1] That's great, that you can be tough about it, but how do you FEEL?
+313)  LEE
+[pickup1] I lived through it; which is a start. And, well...
+314)  CHRISTA
+[pickup1] Look. I agree with you, I think out in the country is the safest place to be. But you're not dead yet, so put a pin in that, okay?
+315)  CHRISTA
+[pickup1] We all do -- even you. Quit talking like you're already dead.
+316)  LEE
+[pickup1] Gotta have hope.
+317)  CHRISTA
+[pickup1] Boats, towns, hopes... Lee, people end up dead chasing impossible things.
+318)  CHRISTA
+[pickup1] I know you're probably preoccupied, but don't stop thinking about the future, okay?
+320)  KENNY
+{disgustA}Lee should've left you in Crawford.
+364)  
+Walker

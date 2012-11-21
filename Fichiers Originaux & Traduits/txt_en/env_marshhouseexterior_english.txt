@@ -1,0 +1,214 @@
+1)  
+Use Cleaver On
+8)  
+Use Cleaver On
+9)  
+Use Cleaver On
+11)  
+Use Cleaver On
+13)  
+Use Cleaver On
+14)  
+Use Cleaver On
+16)  
+Use Cleaver On
+17)  
+Use Cleaver On
+19)  
+Use Cleaver On
+20)  
+Use Cleaver On
+22)  
+Use Cleaver On
+23)  
+Use Cleaver On
+25)  
+Use Cleaver On
+26)  
+Use Cleaver On
+28)  
+Use Cleaver On
+29)  
+Use Cleaver On
+31)  
+Use Cleaver On
+32)  
+Use Cleaver On
+34)  
+Use Cleaver On
+35)  
+Use Cleaver On
+37)  
+Use Cleaver On
+38)  
+Use Cleaver On
+40)  
+Use Cleaver On
+41)  
+Use Cleaver On
+43)  
+Use Cleaver On
+44)  
+Use Cleaver On
+46)  
+Use Cleaver On
+47)  
+Use Cleaver On
+49)  
+Use Cleaver On
+50)  
+Use Cleaver On
+52)  
+Use Cleaver On
+53)  
+Use Cleaver On
+55)  
+Use Cleaver On
+56)  
+Use Cleaver On
+58)  
+Use Cleaver On
+59)  
+Use Cleaver On
+61)  
+Use Cleaver On
+62)  
+Use Cleaver On
+64)  
+Use Cleaver On
+65)  
+Use Cleaver On
+67)  
+Use Cleaver On
+68)  
+Use Cleaver On
+70)  
+Use Cleaver On
+71)  
+Use Cleaver On
+73)  
+Use Cleaver On
+74)  
+Use Cleaver On
+76)  
+Use Cleaver On
+77)  
+Use Cleaver On
+79)  
+Use Cleaver On
+80)  
+Use Cleaver On
+82)  
+Use Cleaver On
+83)  
+Use Cleaver On
+85)  
+Use Cleaver On
+86)  
+Use Cleaver On
+88)  
+Use Cleaver On
+89)  
+Use Cleaver On
+91)  
+Use Cleaver On
+92)  
+Use Cleaver On
+94)  
+Use Cleaver On
+95)  
+Use Cleaver On
+97)  
+Use Cleaver On
+98)  
+Use Cleaver On
+100)  
+Use Cleaver On
+101)  
+Use Cleaver On
+103)  
+Use Cleaver On
+104)  
+Use Cleaver On
+106)  
+Use Cleaver On
+107)  
+Use Cleaver On
+2)  
+Use Shard On
+7)  
+Use Shard On
+10)  
+Use Shard On
+12)  
+Use Shard On
+15)  
+Use Shard On
+18)  
+Use Shard On
+21)  
+Use Shard On
+24)  
+Use Shard On
+27)  
+Use Shard On
+30)  
+Use Shard On
+33)  
+Use Shard On
+36)  
+Use Shard On
+39)  
+Use Shard On
+42)  
+Use Shard On
+45)  
+Use Shard On
+48)  
+Use Shard On
+51)  
+Use Shard On
+54)  
+Use Shard On
+57)  
+Use Shard On
+60)  
+Use Shard On
+63)  
+Use Shard On
+66)  
+Use Shard On
+69)  
+Use Shard On
+72)  
+Use Shard On
+75)  
+Use Shard On
+78)  
+Use Shard On
+81)  
+Use Shard On
+84)  
+Use Shard On
+87)  
+Use Shard On
+90)  
+Use Shard On
+93)  
+Use Shard On
+96)  
+Use Shard On
+99)  
+Use Shard On
+102)  
+Use Shard On
+105)  
+Use Shard On
+3)  
+Don't look.
+4)  
+Don't go over there!
+5)  
+Don't stop moving.
+6)  LEE
+[pickup1] [trying to be very quiet] Clem, don't...

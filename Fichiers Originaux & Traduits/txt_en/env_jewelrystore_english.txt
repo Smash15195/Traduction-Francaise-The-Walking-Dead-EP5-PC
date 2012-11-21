@@ -1,0 +1,712 @@
+1)  CLEMENTINE
+{fearb}[out of breath] Lee, wake up! Please don't be dead, please no.
+2)  
+I know.
+3)  
+Come here.
+118)  
+Come here.
+4)  
+It's a good thing.
+5)  LEE
+{sada}I know. They didn't get to you, right?
+6)  CLEMENTINE
+{sadb}No. We got away.
+7)  LEE
+{sada}Come here, sweet pea.
+8)  CLEMENTINE
+{sadb}[being hugged] They're dead, they really are.
+9)  CLEMENTINE
+{sadc}[so so sad] They're dead for sure.
+14)  CLEMENTINE
+{sadc}[so so sad] They're dead for sure.
+10)  LEE
+{normald}It's a good thing.
+11)  CLEMENTINE
+[doesnt hold it together] {sadc}Lee, they're dead. They really are!
+12)  LEE
+{normalb}But you KNOW. {sada}You're going to be sad for a very long time, but you know what happened to them. {normald}When we get you somewhere safe, then just let it all out.
+13)  CLEMENTINE
+{sada}[trying to hold it together] Okay. Okay.
+15)  LEE
+Clementine, we have to get out of here as fast as we can.
+16)  CLEMENTINE
+{fearb}We can't! There's thousands of them outside.
+17)  LEE
+{normald}We have to. {normalb}I'll protect you; we'll push through them.
+18)  CLEMENTINE
+{sadb}No, that's crazy! I saved you; we're safe here, I locked us in.
+19)  LEE
+{sada}Get that door open.
+20)  CLEMENTINE
+{sada}I can't!
+21)  LEE
+{angrya}Do it!
+22)  LEE
+{normalb}Pull on three. {angrya}One. Two. THREEE...
+23)  LEE
+{angryb}[just totally beaten, pulling up on the gate]
+24)  CLEMENTINE
+{angrya}[pulling with all of her might to open the gate]
+25)  LEE
+{paina}[totally gassed after exertion. sick. dying.]
+26)  CLEMENTINE
+{sada}[out of breath] See?
+27)  LEE
+{sada}[exhausted] Clementine. Honey.
+28)  
+I'm sorry.
+29)  
+It's going to be okay.
+30)  
+There's no time to be upset.
+31)  CLEMENTINE
+{fearb}[disbelief] What... what... wh-what happened?
+32)  CLEMENTINE
+{fearc}[shock. lee is bitten.] No. No, that's not[can't say it].... {fearb}No. No. NO. NO!
+33)  LEE
+{sada}Yes, Clem, it is.
+34)  LEE
+{normald}[deliberate. explaining it to her.] My arm is gone because I cut it off.
+35)  CLEMENTINE
+{sada}[wary] Why would you do that...?
+36)  LEE
+[deliberate still] {normalb}Because I was bitten, Clem.
+37)  CLEMENTINE
+{sadb}[just found out ]Please, no. No. That's not true.
+38)  LEE
+{sada}Yes, it is. [true]
+39)  CLEMENTINE
+[trying not to cry 5 seconds ]
+40)  CLEMENTINE
+[you fail at trying not to cry 5 seconds ]
+41)  CLEMENTINE
+[you pull yourself together]
+42)  CLEMENTINE
+{sada}It's like Larry, isn't it?
+43)  LEE
+{sada}[yeah it's like larry] Yeah, Clem. It is; so you understand we can't be in here.
+44)  CLEMENTINE
+{sada}[stops crying]
+45)  LEE
+{sada}It's going to be okay. You are going to be okay. {normalb}We just have to think and work together.
+46)  CLEMENTINE
+{sada}[chokes back tears] Okay.
+47)  LEE
+{sada}I'm sorry, Clementine. I'm supposed to take care of you. I can't now.
+48)  CLEMENTINE
+{sada}[so sad. "i know you can't and that's why everything is horrible"] I know.
+49)  LEE
+{sada}[stopping himself from crying] There's no time to be upset.
+50)  CLEMENTINE
+{sada}[crying] Okay. I'll try not to be.
+51)  CLEMENTINE
+{sadA}[upset. really trying though] I think there might be a way out over there.
+52)  LEE
+{normala}Good. Good girl. {normalb}Let's go. I might be a little slow.
+53)  CLEMENTINE
+{normalb}I'll help you.
+54)  CLEMENTINE
+{fearc}[gasp - lee stumbles]
+55)  LEE
+{paina}[dying, trying to walk. you stumble.]
+56)  CLEMENTINE
+{normalb}I got you. You can lean on me if you have to.
+57)  LEE
+{sadb}[dying, trying to walk, recovering from a stumble] I'm okay, I'm okay....
+58)  
+You couldn't have known.
+59)  CLEMENTINE
+{sada}[sad, apologetic] I thought I was helping by bringing you in here.
+60)  
+You did. It's awful out there.
+61)  
+Never let yourself get trapped.
+62)  LEE
+{sada}[dying, trying to walk] You couldn't have known... I should've told you....
+63)  LEE
+{normald}[dying, trying to walk] Yeah.
+64)  CLEMENTINE
+{sadb}[sad] It was scary at the hotel.
+65)  LEE
+{sada}[dying, trying to walk]  Oh, you did, honey. It's awful out there, they woulda chewed me up.
+66)  CLEMENTINE
+{sadb}[sad] It was hard. [getting lee to safety]
+67)  LEE
+{normald}[dying, trying to walk] I don't know how you did it but you did good, okay?
+68)  LEE
+{paina}[dying, trying to walk]  {sada}We'll get out of here and just don't do it again.
+69)  CLEMENTINE
+{normalb}I won't.
+70)  LEE
+{sada}[dying, trying to walk]   You're just learnin', hon. Never let yourself get trapped, okay?
+71)  CLEMENTINE
+{sada}[emphatic] Okay, I won't. I won't.
+72)  CLEMENTINE
+[sad] {sada}Keep going; we're almost there.
+73)  CLEMENTINE
+{sadb}[sad] But I wasn't. It's all my fault.
+74)  LEE
+{paina}[collapsing and sliding down the wall to seated]
+75)  CLEMENTINE
+{sada}[sad] Get up, Lee, the door's right here.
+76)  LEE
+{paina}[dying, trying to stand up]
+77)  LEE
+{paina}[unable to get up]
+78)  LEE
+{sadb}[dying, realizing he can't move] I can't.
+79)  LEE
+{sada}[he really can't get up] Clem... I can't move. This is it for me here.
+80)  CLEMENTINE
+{sadc}[upset. pleading] Please try to get up.
+81)  LEE
+{paina}[tries again to move. even less this time]{sada} I can't.
+82)  LEE
+{sadb}You don't have much time. You gotta do something, fast.
+83)  CLEMENTINE
+{sadb}[sad. emphatic] You have to.
+84)  
+You need to get out of here.
+85)  
+Keep away from me.
+86)  
+You have to make sure I don't turn.
+87)  CLEMENTINE
+{sadc}[can barely ask] Like what?
+88)  CLEMENTINE
+{sadc}[upset] I can't leave you.
+89)  LEE
+{sada}Just work on getting out, okay?
+90)  LEE
+{sada} You need to get out of here as soon as you can.
+91)  CLEMENTINE
+{sadb}[upset response to "you have to"]
+92)  LEE
+{sada}You have to keep away from me.
+93)  CLEMENTINE
+{sadb}[upset] But... Lee....
+94)  LEE
+{normalc}Do whatever you have to do to keep me away from you. {sada}You have to.
+95)  LEE
+{sada}You're going to have to make sure I don't turn.
+96)  LEE
+{sada}Clem, I will. You know what you have to do.
+97)  CLEMENTINE
+{sadb}[upset] You won't, though.
+98)  CLEMENTINE
+{sadb}[upset] No. I can't. There's no way.
+99)  LEE
+{paina}Just...{normalb}start by getting that door open.
+100)  CLEMENTINE
+{sada}[upset] Lee... {sadb}I don't know what to do.
+101)  CLEMENTINE
+{normalb}It's locked.
+102)  LEE
+{normalb}It's no big deal. It's just a glass window.
+103)  CLEMENTINE
+{angrya}[punching the window] Mmph!
+104)  CLEMENTINE
+{sadb}[hurts her hand] Ow!
+105)  LEE
+{normalb}Not with your hand.
+106)  CLEMENTINE
+[trying to open a door handle. locked]
+107)  CLEMENTINE
+[trying to open a door handle. locked. really wrenching on it.]
+113)  CLEMENTINE
+[trying to open a door handle. locked. really wrenching on it.]
+108)  LEE
+{normalb}The way out's through there, Clem.
+347)  LEE
+{normalb}The way out's through there, Clem.
+109)  CLEMENTINE
+{normala}I know.
+348)  CLEMENTINE
+{normala}I know.
+110)  CLEMENTINE
+[idle of you scared, sad]
+111)  LEE
+{normalb}We'll figure it all out. Don't worry.
+112)  LEE
+{normala}Keep pulling, it might give.
+114)  LEE
+{thinkinga}That window's just regular glass.
+115)  CLEMENTINE
+{normalb}[upset. tired. just killed walker] I did it. I got him.
+116)  CLEMENTINE
+{fearb}[just killed a walker on her own. barely escaped with her life, upset breathing]
+117)  
+Great, Clem.
+119)  
+You can take care of yourself.
+120)  LEE
+{normalb}[relieved. about to die] Great...Clem.{happya} Good job.
+121)  LEE
+{sada}[about to die] Come here.
+122)  CLEMENTINE
+{feara}[scared] You said keep away from you.
+123)  LEE
+[tired. about to die] {sada}Yeah...{normalb}but you did this. [jangles the handcuffs he's secured with.]{happya} Smart.
+124)  LEE
+[tired. about to die] {sada}Just... for a second, sweet pea.
+125)  CLEMENTINE
+{feara}[upset] No, not all the time.
+126)  LEE
+{normala}[about to die] You can take care of yourself, see?
+127)  LEE
+[about to die. reassuring her] {normala}Yeah, you can. {normalb}Don't worry.
+128)  CLEMENTINE
+{feara}[upset. feeling alone. just killed a zombie.]
+129)  LEE
+{normalb}[getting ready for final goodbye. she walks over to you] Hey.
+130)  
+You have to shoot me.
+131)  
+Leave me.
+132)  LEE
+{sada}[dying] You have to shoot me, honey.
+133)  CLEMENTINE
+{sadc}[so upset. he's asked you to shoot him] Lee, no....
+134)  LEE
+{normalb}[dying, assuring her] It's okay. It's okay.
+135)  CLEMENTINE
+{sadb}[upset, realizing she's going to have to shoot Lee] Lee...
+136)  LEE
+{normalb}[telling her a story to reassure her. on your way out] When I went out to rescue that boy Glenn, we met a girl. She'd been bitten, too. All she wanted was to not come back as a walker.
+171)  LEE
+{normalb}[telling her a story to reassure her. on your way out] When I went out to rescue that boy Glenn, we met a girl. She'd been bitten, too. All she wanted was to not come back as a walker.
+137)  LEE
+{sada}[telling her a story to reassure her. on your way out]  You don't want to see me like one of them.
+149)  LEE
+{sada}[telling her a story to reassure her. on your way out]  You don't want to see me like one of them.
+138)  CLEMENTINE
+{sadc}[so sad] Yeah, I do. [remember]
+173)  CLEMENTINE
+{sadc}[so sad] Yeah, I do. [remember]
+139)  LEE
+{sada}[telling her a story to reassure her. on your way out] In Macon... the first days we met, do you remember?
+172)  LEE
+{sada}[telling her a story to reassure her. on your way out] In Macon... the first days we met, do you remember?
+140)  LEE
+{sada}[telling her a story to reassure her. on your way out]  And I remember how hard it was to do that. {normalb}But I'm glad I did.
+141)  CLEMENTINE
+{sadb}[totally losing it. she has to kill Lee] Okay, Lee... I can do it. I can.
+142)  LEE
+[dying.] {normalb}Clem... when I was standing over Duck, holding the gun... {sada}it was so hard. {sadb}I'm sorry you're in that position now. I'd give anything for you not to be.
+143)  LEE
+[dying.]  {sada}But you just have to point it at me, close your eyes, and be thankful you never have to see me as one of them. {normalb}You can do it. I know you can.
+144)  CLEMENTINE
+{sada}[upset, panicked] It is like Larry, huh? I know you did it to protect me.
+145)  LEE
+[dying.] {sada}It's your for safety, Clem. If you don't get out in time.
+146)  LEE
+[dying.] {normalc}No, honey. You can't. {sada}You can't risk it.
+147)  LEE
+[dying] {sada}Yes. You just have to do it. It'll be okay.
+148)  CLEMENTINE
+{sada}[upset, panicked] But I can wait until then.
+150)  LEE
+{sadb}It was terrible, sweetie. {sada}You just have to do it. I know you can.
+151)  CLEMENTINE
+{sadb}[so upset. through tears] I didn't know that.
+152)  LEE
+{sada}Back in Macon, honey, I had to kill my brother after he'd turned.
+153)  LEE
+{sada}I hated seeing him like one of them. {sadb}And I don't want you to see me like that. {sada}And I don't want to... hurt you. {sadb}Please, Clem.
+154)  CLEMENTINE
+{sada}[so upset, through tears] But....
+155)  CLEMENTINE
+{sadb}[so sad] You can come with me.
+156)  LEE
+{sada}[dyin] Clem, it's time to go. You gotta get out of here.
+157)  LEE
+{normalc}[dyin] You have to go, now.
+158)  LEE
+{sadb}[dyin] I don't want you to have to do that.
+159)  CLEMENTINE
+{sadc}[so sad] Please?
+160)  CLEMENTINE
+{sada}[so sad] Maybe... maybe... I shouldn't let you turn.
+161)  LEE
+[dyin] {sada}No, honey, I can't. It's okay.
+162)  
+Shooting people changes you.
+163)  LEE
+[dyin] {normalc}Shooting things... {sada}it changes you, sweetie. {sadb}I don't want you to get used to it.
+164)  
+You can remember me alive.
+165)  
+Save the bullet.
+166)  
+The noise.
+167)  LEE
+[dyin] {normalb}This way you can just remember me talkin' to you and sayin' goodbye. {normala}Nothing else.
+168)  LEE
+{normalb}[dyin] Save the bullet. I'm not going anywhere. You have to always think about what you might need later.
+169)  LEE
+{sada}The noise, sweet pea. They already know we're in here. You don't need more of them.
+170)  CLEMENTINE
+{sadb}[so so so upset] I understand.
+174)  LEE
+{sada}[dyin] I couldn't bring myself to give her the gun... I didn't want to see death then, and I know we've seen so much of it, but you shouldn't have to see it now.
+175)  LEE
+{normalb}It's like with Larry, honey. {sada}He was goin', one way or another. But at that moment I couldn't do more violence. {normalb}You have to be careful about that. It'll consume you.
+176)  LEE
+{normalc}Only do it when you absolutely have to. {sada}Otherwise....
+177)  LEE
+{sada}You had to shoot that man before, Clem... I don't want you getting used to it. Do you understand?
+178)  CLEMENTINE
+{sada}[so upset] Yeah, Lee, I do.
+179)  LEE
+{sadb}The first time, the most. {normalc}Don't do it unless you absolutely have to.
+180)  LEE
+{sada}Pulling the trigger of a gun and ending a life, Clem... you feel yourself lose something every time.
+181)  CLEMENTINE
+[upset. thinking about what to do] I...I...
+182)  CLEMENTINE
+{sada}[upset, has to go] I'll go. I'll... leave you. I'll go as fast as I can.
+183)  LEE
+[dyin] {sada}And as safe as you can. Always be safe.
+184)  
+Find Omid and Christa.
+185)  LEE
+[dyin for real 1] {paina}Find Omid... and... Christa.
+186)  LEE
+[dyin for real 1] {normald}They're looking for a boat. Find them.
+187)  LEE
+[dyin for real 1] {normalb}They're probably lookin' for us right now. Stay on high ground. Don't go too far. You'll find them.
+188)  CLEMENTINE
+[panicked] {feara}Yes. [i remember]
+189)  LEE
+{paina}[dyin for real 1] They're outside of town...{normalb}by the train. You remember how to get back there?
+190)  LEE
+[dyin for real 1] {normald}Good.
+191)  
+Don't trust anybody.
+192)  
+Find a group.
+193)  LEE
+[dying1] {normala}They'll take good care of you.
+194)  LEE
+{feara}[dying 1. some panic. ] And Clem....
+195)  
+Stay away from cities.
+196)  
+Always keep moving.
+197)  
+Keep that hair short.
+198)  
+I'll miss you.
+199)  
+Don't be afraid.
+200)  
+You'll be okay.
+201)  LEE
+{sada}It's going to stay bad out there until it gets better. But it will, one day. Until then, though, don't trust anyone.
+202)  LEE
+{normala}You have so much more growing up to do. {normalb}People will see how small you are and try to take advantage of you and try to get you to do things you shouldn't.
+203)  LEE
+[dying 1] {normald}Good.
+204)  CLEMENTINE
+{sada}[saying goodbye] I won't let them.
+205)  LEE
+[dying]{normala}Yes. That's how you'll know. {sada}If you don't see anyone like that, run.
+206)  LEE
+[dying] {sada}Try to find a group of good people. Look for someone like Katjaa with them. {normalb}You know what I mean?
+207)  CLEMENTINE
+{sada}[saying goodbye] Someone nice.
+208)  CLEMENTINE
+{sadc}[wave of emotion, saying goodbye]
+210)  CLEMENTINE
+{sadc}[wave of emotion, saying goodbye]
+209)  LEE
+{sadb}[dying. too sad to say goodbye]
+211)  LEE
+{sadb}[dying. too sad to say goodbye]
+212)  CLEMENTINE
+[goodbye2] {normalb}Definitely.
+213)  LEE
+[dying 2] {normalc}They're just not worth the risk.
+214)  LEE
+[dying 2] {sada}And stay away from cities.
+215)  LEE
+[dying2] {sada}Always keep moving. {normalc}You're going want to find someplace like the motor inn, but that's just not safe.
+216)  CLEMENTINE
+[saying goodbye] {sada}Why not?
+217)  LEE
+[dying2] {normalc}Those places are just targets. {angrya}Move. {sada}As much as you can.
+218)  LEE
+[dying2] {normala}Great. {normald}Good.
+219)  LEE
+[dying2] {normalb}Keep that hair short.
+220)  CLEMENTINE
+[goodbye 2]{sada} I will. I'll cut it myself.
+221)  LEE
+{paina}[dying for actual real now. one more goodbye left] No, don't worry. {normald}All right... [here we go]
+222)  LEE
+[dying for actual real now. one more goodbye left]
+223)  CLEMENTINE
+{sadb}[can't say goodbye] Me, too.
+224)  LEE
+{sada}[dying for actual real now. one more goodbye left] I'll miss you.
+225)  LEE
+{sada}[dying for actual real now. one more goodbye left] Don't be afraid.
+226)  LEE
+{normala}[dying for actual real now. one more goodbye left] You'll be okay.
+227)  LEE
+{sada}[dying for actual real now. one more goodbye left. for silence, sean note]
+228)  LEE
+{sada}[panicked, wants more time] And also...{paina}[starts to drift off. pain]
+229)  CLEMENTINE
+{fearb}[panicked, lee is dying] What, what is it?
+230)  LEE
+[breaths in]
+231)  CLEMENTINE
+{fearb}[one little noise -- you've got the gun up and can't make any words]
+232)  CLEMENTINE
+{sadb}[lee is closing his eyes. really small] Don't go....
+350)  CLEMENTINE
+{sadb}[lee is closing his eyes. really small] Don't go....
+233)  CLEMENTINE
+{sadb}[leaving lee. starts to move away]
+234)  LEE
+{paina}[sfx about to die]
+237)  LEE
+{paina}[sfx about to die]
+235)  LEE
+[dies]
+236)  LEE
+[dies]
+238)  CLEMENTINE
+{sadc}[leaving lee. starts to move away]
+239)  LEE
+{sada}[can't move] Grab the chair, Clem. Use it to reach in, to the lock.
+240)  LEE
+{normalb}[can't move] You can open it; the walker in there is trapped. We'll figure out what to do, together.
+241)  LEE
+{paina}[can't move] {sada}Clem, open it.
+242)  CLEMENTINE
+{sada}[scared] He's...he's trapped.
+243)  LEE
+{normala}[can't move] This'll be easy, then... {normalb}he's got keys, probably to that door, and everything you need.
+244)  CLEMENTINE
+{sada}[tentative] Okay....
+245)  LEE
+{normalb}[can't move] Use the bat to shatter that window, so you can reach in, okay?
+246)  LEE
+[can't move] {feara}Watch out for broken glass.
+247)  CLEMENTINE
+[looking at a walker right in front of you]
+248)  LEE
+[can't move] Good job.
+249)  LEE
+[can't move] Don't be afraid of him, honey. You're smart. He isn't. You're smarter than all of them.
+250)  LEE
+{normalb}There's a baseball bat under the counter, Clem. You can use that.
+251)  
+Kick
+252)  LEE
+{paina}[ pained effor. clem in trouble. reaching for something] {angryb}Arrrrrgh! [cant get it]
+253)  LEE
+{paina}[lunges for the baseball bat, for clem]
+254)  LEE
+{paina}[struggling to kick something just out of reach towards Clementine]
+255)  LEE
+[tired/dying but clem is in a fight] {fearb}The bat, Clem! Get the bat!
+256)  CLEMENTINE
+{sada}[bashing a walkers head in with a baseball bat 1]
+257)  CLEMENTINE
+{angrya}[bashing a walkers head in with a baseball bat 2]
+258)  CLEMENTINE
+{feara}[bashing a walkers head in with a baseball bat 3]
+259)  CLEMENTINE
+{sada}[bashing a walkers head in with a baseball bat 4]
+260)  CLEMENTINE
+{angrya}[bashing a walkers head in with a baseball bat. final. big and horrible]
+261)  CLEMENTINE
+{angrya}Grrr....[ at a walker that is trapped but threatening you]
+262)  LEE
+{normald}[tired. dying] There are handcuffs on the ground. Get them.
+263)  CLEMENTINE
+{normalb}[not sure what lee wants her to do with those] ...Okay, Lee.
+264)  LEE
+{normald}[tired, dying, telling clem what to do] Put the handcuffs on me. Attach me to this.
+265)  CLEMENTINE
+{fearb}[surprised, sad] What?{feara} Why?
+266)  LEE
+[tired, dying, telling clem what to do] {normald}Just do it, sweetie.
+267)  CLEMENTINE
+{sada}[doesnt want to ] I don't know....
+268)  LEE
+{sada}[tired, dying, telling clem what to do] No matter what happens, you're safe then.
+269)  LEE
+{normalb}[tired, dying, telling clem what to do] You have to handcuff the walker. You can kill it easy then.
+270)  CLEMENTINE
+{feara}[scared] I don't know, Lee.
+271)  LEE
+{normala}[tired, dying, telling clem what to do] You can do it.
+272)  CLEMENTINE
+{fearb}[scared] Lee....
+273)  LEE
+{normalb}[tired, dying, telling clem what to do] You can do it. Just be careful. Move around the side and jump away if he gets close.
+274)  LEE
+{normald}[tired, dying, telling clem what to do] There's keys and a gun... you're going to need both of those.
+275)  LEE
+[tired, dying, telling clem what to do] Watch out!
+276)  LEE
+{fearc}[tired, dying, telling clem what to do] Clem, NO!
+277)  LEE
+[tired, dying, telling clem what to do] NOOO! [clem bit] NOOOO!!!
+354)  LEE
+[tired, dying, telling clem what to do] NOOO! [clem bit] NOOOO!!!
+278)  LEE
+[tired, dying, telling clem what to do] Get him! GET HIM.
+279)  LEE
+[tired, dying, telling clem what to do] GRAB IT!
+280)  LEE
+[tired, dying, telling clem what to do] GET AWAY!
+281)  LEE
+{sada}[tired, dying, telling clem what to do] We'll get you in there; don't worry, you're doing good.
+282)  LEE
+{sada}[tired, dying, telling clem what to do] And don't be scared of the walker. {normalb}You'll be fine.
+283)  LEE
+[tired, dying, telling clem what to do]{normala} You're doing really good.
+284)  CLEMENTINE
+{normala}[not sure of herself] I do.
+285)  LEE
+[tired, dying, telling clem what to do] {normald}Killing them's not easy, {normala}but you know what to do.
+286)  CLEMENTINE
+[upset]{sada} I don't want to do this.
+287)  LEE
+{normalb}[tired, dying, telling clem what to do] Make sure they're tight.
+288)  LEE
+[tired, dying, telling clem what to do]{sadb} You have to. It'll keep you safe.
+289)  LEE
+[tired, dying, telling clem what to do] {sada}You only have to deal with him now.
+290)  LEE
+[tired, dying, telling clem what to do] {angrya}Yeah, the keys and the gun. {normald}Just don't be afraid.{normalb} If anything gets dangerous, you're faster than he is.
+291)  CLEMENTINE
+[scared] {feara}The keys and then the gun.
+292)  LEE
+{normalc}[tired, dying, telling clem what to do] He's trapped over there... {normalb}if you're careful you can get what you need from him.
+293)  CLEMENTINE
+{feara}[scared] What should I get first?
+294)  LEE
+[tired, dying, telling clem what to do] {feara}Get the gun, Clem. Always the gun.
+295)  LEE
+[tired, dying, telling clem what to do] {feara}The keys. In case you have to make a run for it.
+296)  CLEMENTINE
+[scared]{fearb} I'll try.
+297)  LEE
+[tired, dying, telling clem what to do] {feara}You're so close; just get them both.
+298)  CLEMENTINE
+[doesn't get an answer from Lee] {feara}Lee?... I'll just try to get them both....
+299)  CLEMENTINE
+{fearc}[surprised shriek!]
+300)  CLEMENTINE
+{fearc}[surprised shriek!]
+301)  LEE
+[clem being attacked by zombie] {fearc}RUN, CLEM!
+302)  LEE
+[clem being attacked by zombie] {fearc}KILL IT! YOU HAVE TO KILL IT!
+303)  
+Handcuff
+304)  
+Handcuffs
+305)  
+Baseball Bat
+306)  
+Chair
+307)  
+Office Door
+308)  
+Look At
+314)  
+Look At
+346)  
+Look At
+309)  
+Grab
+310)  
+Use
+315)  
+Use
+311)  
+Smash
+312)  
+Open
+313)  
+Lee
+316)  
+Display Stand
+317)  CLEMENTINE
+[pickup1] [scared] It was only a little open when I found it.  I closed it to keep us safe.
+318)  CLEMENTINE
+[pickup1] Lee! I was so scared... I-- I thought you left me... I... I... [almost bawls] [I saw my parents]
+319)  LEE
+[pickup1] [dyin] There's a chair over there.
+349)  LEE
+[pickup1] [dyin] There's a chair over there.
+320)  
+I might turn, honey.
+321)  
+You're not safe.
+322)  
+You're strong, Clem.
+323)  LEE
+[pickup1][lee dying] I might turn, honey. And if I do... it won't be good.
+324)  LEE
+[pickup1][lee dying] Trust me Clem, I don't want to. I'm trying. I'm trying.
+327)  LEE
+[pickup1][lee dying] Trust me Clem, I don't want to. I'm trying. I'm trying.
+325)  CLEMENTINE
+[pickup1][lee dying] No, you can't. You can't do that.
+328)  CLEMENTINE
+[pickup1][lee dying] No, you can't. You can't do that.
+326)  LEE
+[pickup1][lee dying] You're not safe. Not 'til... not 'til you're away from me if I turn.
+329)  CLEMENTINE
+[pickup1][lee dying] But... I'm little.
+330)  LEE
+[pickup1][lee dying] You're strong, Clem. You... you can do anything.
+331)  LEE
+[pickup1][lee dying] Doesn't mean nothin. You're going to see bad stuff, but it's okay.
+332)  CLEMENTINE
+[pickup1][lee dying] Lee... what are we going to do?
+333)  CLEMENTINE
+[pickup1][lee dying] My parents. It's so horrible.
+334)  LEE
+[pickup1][lee dying] I can't imagine, sweet pea.
+335)  CLEMENTINE
+[pickup1][lee dying]I don't know if I can.
+336)  CLEMENTINE
+[pickup1][lee dying]And now... you? PLEASE... please[asking again] don't be one of them. Please don't become a walker.
+337)  LEE
+[pickup1][lee dying] There's only one thing you can do. You know that.
+338)  CLEMENTINE
+[pickup1][lee dying]Leeee...
+339)  LEE
+[pickup1] You can leave me. It's okay.
+340)  LEE
+[pickup1][lee dying] It's okay. It won't be me.
+341)  CLEMENTINE
+[pickup1] You'll be just like them
+342)  CLEMENTINE
+[pickup1][lee dying] Are you... are you sure?
+343)  
+Try to get the gun.
+344)  
+Snatch the keys.
+345)  
+Try to get them both.
+351)  CLEMENTINE
+we're almost there.
+352)  CLEMENTINE
+Keep going;
+353)  CLEMENTINE
+I saw my parents.
+355)  LEE
+Pull on three. One. Two.
+356)  LEE
+THREEE...

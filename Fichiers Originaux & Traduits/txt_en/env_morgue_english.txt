@@ -1,0 +1,1596 @@
+1)  LEE
+{angryD}You're fucking DEAD.{fearB} I don't know who you are but I will kill you, {angryC}do you understand?
+2)  CAMPMAN
+I know you will. She knows you will.
+3)  LEE
+{fearA}What do you want from me? {sadA}Whatever it is, I'll do it and {sadB}you can let her go.
+4)  CAMPMAN
+[what do you WANT?] I want you to never hurt anybody again. [a beat] This isn't a kidnapping, Lee.
+5)  
+Then what is it?
+6)  
+I'm going to hurt YOU.
+7)  
+I don't care what it is.
+8)  CAMPMAN
+A rescue.
+9)  LEE
+{thinkingB}Then what is it?
+10)  CAMPMAN
+[a long sigh. "have it your way you sorry s.o.b."]
+11)  LEE
+{angryA}I don't care WHAT it is. {angryC}Just let her go.
+12)  LEE
+{angryC}I can think of one more person I'm going to hurt, motherfucker. {angryA}I'm gonna--
+13)  CAMPMAN
+[snaps] No, you're not.
+14)  CAMPMAN
+I suppose you're letting that sink in. Think about it.
+15)  LEE
+{fearC}Please don't hurt her.
+16)  CAMPMAN
+Hurt her?  I'm not the one who hurts people.
+17)  CAMPMAN
+Smart. I guess if you don't have anything nice to say, don't say anything at all.
+18)  CHRISTA
+[quietly]{angryB}That son of a bitch.
+19)  BEN
+[are you going to say anything?]{fearA}Lee?
+20)  CAMPMAN
+Say goodbye.
+21)  CLEMENTINE
+[being made to say it] Goodbye--
+22)  CAMPMAN
+There's an ocean of dead between you and me and her, and if I can thank God for anything anymore, it's that.
+23)  CAMPMAN
+There's an ocean of dead between you and me and her, and if I can thank God for anything anymore, it's that.
+24)  CAMPMAN
+I guess you REALLY don't care, do you? I had you all wrong...  [radio cut off]
+25)  
+...Fuck.
+150)  
+...Fuck.
+26)  
+He better not hurt her.
+27)  
+Hold on, Clem.
+28)  LEE
+{thinkingB}...Fuck. [frustrated sigh]
+29)  LEE
+{fearA}He better not fucking hurt her. I swear...
+30)  LEE
+[short, to himself] {fearA}Just hold on, Clementine. {sadA}I'm coming for you.
+31)  KENNY
+[reassuring] {thinkingA}Don't worry, pal. We'll get her back.
+34)  KENNY
+[reassuring] {thinkingA}Don't worry, pal. We'll get her back.
+43)  KENNY
+[reassuring] {thinkingA}Don't worry, pal. We'll get her back.
+47)  KENNY
+[reassuring] {thinkingA}Don't worry, pal. We'll get her back.
+32)  CHRISTA
+{sadA}We don't have much time.
+44)  CHRISTA
+{sadA}We don't have much time.
+33)  KENNY
+{thinkingA}We're about to have a lot less! We'll all make sure nothing gets in. {happyA}You're still the smartest fucker outta' all of us --{thinkingA} try to find another way out of here.
+45)  KENNY
+{thinkingA}We're about to have a lot less! We'll all make sure nothing gets in. {happyA}You're still the smartest fucker outta' all of us --{thinkingA} try to find another way out of here.
+35)  BEN
+{fearA}Maybe he's not that bad...
+36)  KENNY
+{angryB}Don't get me fucking STARTED on you and good intentions.
+37)  LEE
+{fearA}Easy. [like, whoa there]
+38)  KENNY
+{fearA}Shit, like we need more motivation to get out of here.
+39)  CHRISTA
+{fearA}This is bad, but we can deal with it together. {thinkingA} We're going to need to hurry.
+46)  CHRISTA
+{fearA}This is bad, but we can deal with it together. {thinkingA} We're going to need to hurry.
+40)  CHRISTA
+{fearA}We don't have a lot of time.
+616)  CHRISTA
+{fearA}We don't have a lot of time.
+41)  OMID
+{fearA}We're about to have a lot less....
+74)  OMID
+{fearA}We're about to have a lot less....
+42)  CHRISTA
+{angryA}We three will stop them getting in.
+48)  KENNY
+{angryA}We ain't flush with time, but...
+49)  KENNY
+{thinkingA}Fuck. We got less than I thought. {angryA}I'll be ready to kill anything that tries to get in.
+50)  LEE
+{thinkingA}You got it by yourself?
+51)  KENNY
+{happyB}Damn right; {angryA}you just try to find another way out of here.
+52)  LEE
+{thinkingA}Got it.
+53)  KENNY
+{fearA}And Lee... {happyB}I'm glad I didn't let you come alone.
+54)  BEN
+{sadB}What do you want to do?
+55)  CHRISTA
+{sadA}How's that feeling?
+72)  CHRISTA
+{sadA}How's that feeling?
+82)  CHRISTA
+{sadA}How's that feeling?
+88)  CHRISTA
+{sadA}How's that feeling?
+56)  
+Fine.
+57)  
+Doesn't matter.
+58)  
+Not great.
+59)  LEE
+[remembering] {thinkingB}No. It wasn't.
+66)  LEE
+[remembering] {thinkingB}No. It wasn't.
+75)  LEE
+[remembering] {thinkingB}No. It wasn't.
+83)  LEE
+[remembering] {thinkingB}No. It wasn't.
+60)  LEE
+{fearA}Fine. Don't worry about it.
+68)  LEE
+{fearA}Fine. Don't worry about it.
+77)  LEE
+{fearA}Fine. Don't worry about it.
+85)  LEE
+{fearA}Fine. Don't worry about it.
+61)  OMID
+{fearA}It wasn't a full chomp...
+67)  OMID
+{fearA}It wasn't a full chomp...
+76)  OMID
+{fearA}It wasn't a full chomp...
+84)  OMID
+{fearA}It wasn't a full chomp...
+62)  LEE
+{angryA}It doesn't matter. It is what it is.
+69)  LEE
+{angryA}It doesn't matter. It is what it is.
+78)  LEE
+{angryA}It doesn't matter. It is what it is.
+86)  LEE
+{angryA}It doesn't matter. It is what it is.
+63)  OMID
+{fearA}Yeah, {happyA}totally.
+71)  OMID
+{fearA}Yeah, {happyA}totally.
+79)  OMID
+{fearA}Yeah, {happyA}totally.
+64)  LEE
+{fearA}Not great. My hand is hot {thinkingA}and it's thumping a little bit.
+70)  LEE
+{fearA}Not great. My hand is hot {thinkingA}and it's thumping a little bit.
+81)  LEE
+{fearA}Not great. My hand is hot {thinkingA}and it's thumping a little bit.
+87)  LEE
+{fearA}Not great. My hand is hot {thinkingA}and it's thumping a little bit.
+65)  KENNY
+{FearA}You seem okay for now.
+80)  KENNY
+{FearA}You seem okay for now.
+73)  CHRISTA
+{fearA}We'll stop them if we have to. {angryA}Lee -- find a way out of here!
+89)  LEE
+[to himself] {thinkingA}Through here seems like the only way out.
+90)  LEE
+[over his shoulder] {happyA}Hey, I think I found a way out.
+91)  
+I'm awake!
+99)  
+I'm awake!
+281)  
+I'm awake!
+336)  
+I'm awake!
+367)  
+I'm awake!
+411)  
+I'm awake!
+466)  
+I'm awake!
+92)  
+Don't kill me!
+101)  
+Don't kill me!
+283)  
+Don't kill me!
+338)  
+Don't kill me!
+369)  
+Don't kill me!
+413)  
+Don't kill me!
+468)  
+Don't kill me!
+93)  
+WHOA!
+103)  
+WHOA!
+285)  
+WHOA!
+340)  
+WHOA!
+371)  
+WHOA!
+415)  
+WHOA!
+470)  
+WHOA!
+94)  LEE
+{fearD}I'm awake!
+100)  LEE
+{fearD}I'm awake!
+282)  LEE
+{fearD}I'm awake!
+337)  LEE
+{fearD}I'm awake!
+368)  LEE
+{fearD}I'm awake!
+412)  LEE
+{fearD}I'm awake!
+467)  LEE
+{fearD}I'm awake!
+95)  LEE
+{fearD}Don't kill me!
+102)  LEE
+{fearD}Don't kill me!
+284)  LEE
+{fearD}Don't kill me!
+339)  LEE
+{fearD}Don't kill me!
+370)  LEE
+{fearD}Don't kill me!
+414)  LEE
+{fearD}Don't kill me!
+469)  LEE
+{fearD}Don't kill me!
+96)  LEE
+{fearD}WHOA! [what are you doing?! stop!!!]
+104)  LEE
+{fearD}WHOA! [what are you doing?! stop!!!]
+286)  LEE
+{fearD}WHOA! [what are you doing?! stop!!!]
+341)  LEE
+{fearD}WHOA! [what are you doing?! stop!!!]
+372)  LEE
+{fearD}WHOA! [what are you doing?! stop!!!]
+416)  LEE
+{fearD}WHOA! [what are you doing?! stop!!!]
+471)  LEE
+{fearD}WHOA! [what are you doing?! stop!!!]
+97)  CHRISTA
+{FearB}STOP! He's awake!
+342)  CHRISTA
+{FearB}STOP! He's awake!
+98)  KENNY
+{thinkingA}He's still bitten!
+300)  KENNY
+{thinkingA}He's still bitten!
+105)  BEN
+{surprisedA}Stop! He's awake! He's awake!!!
+287)  BEN
+{surprisedA}Stop! He's awake! He's awake!!!
+106)  KENNY
+{fearA}This about trying to SAVE him! {sadB}At the very least buy him some time.
+298)  KENNY
+{fearA}This about trying to SAVE him! {sadB}At the very least buy him some time.
+107)  CHRISTA
+{SadA}SO?!
+299)  CHRISTA
+{SadA}SO?!
+108)  OMID
+{fearA}Do we know it works?
+252)  OMID
+{fearA}Do we know it works?
+302)  OMID
+{fearA}Do we know it works?
+348)  OMID
+{fearA}Do we know it works?
+109)  KENNY
+{angryA}Damn right. Let's do this. [turns to Lee] {fearA}If there's a chance it stops you from turning, we have to take it.
+303)  KENNY
+{angryA}Damn right. Let's do this. [turns to Lee] {fearA}If there's a chance it stops you from turning, we have to take it.
+110)  BEN
+Is there going to be a lot of blood?
+194)  BEN
+Is there going to be a lot of blood?
+250)  BEN
+Is there going to be a lot of blood?
+111)  CHRISTA
+{fearA}Then the rest of us go after Clementine {angryA}and get the hell out of Savannah.[after "what if he dies]
+251)  CHRISTA
+{fearA}Then the rest of us go after Clementine {angryA}and get the hell out of Savannah.[after "what if he dies]
+304)  CHRISTA
+{fearA}Then the rest of us go after Clementine {angryA}and get the hell out of Savannah.[after "what if he dies]
+112)  OMID
+{fearA}What if he dies?
+253)  OMID
+{fearA}What if he dies?
+305)  OMID
+{fearA}What if he dies?
+346)  OMID
+{fearA}What if he dies?
+113)  CHRISTA
+{fearA}There's going to be a shitload of blood. [is there going to be a lot blood]
+254)  CHRISTA
+{fearA}There's going to be a shitload of blood. [is there going to be a lot blood]
+306)  CHRISTA
+{fearA}There's going to be a shitload of blood. [is there going to be a lot blood]
+347)  CHRISTA
+{fearA}There's going to be a shitload of blood. [is there going to be a lot blood]
+114)  KENNY
+{angryA}We don't know anything.
+195)  KENNY
+{angryA}We don't know anything.
+301)  KENNY
+{angryA}We don't know anything.
+115)  KENNY
+What do you think?
+206)  KENNY
+What do you think?
+307)  KENNY
+What do you think?
+116)  LEE
+{thinkingA}Fuck it. {disgustA}Cut it off.
+207)  LEE
+{thinkingA}Fuck it. {disgustA}Cut it off.
+255)  LEE
+{thinkingA}Fuck it. {disgustA}Cut it off.
+308)  LEE
+{thinkingA}Fuck it. {disgustA}Cut it off.
+349)  LEE
+{thinkingA}Fuck it. {disgustA}Cut it off.
+394)  LEE
+{thinkingA}Fuck it. {disgustA}Cut it off.
+445)  LEE
+{thinkingA}Fuck it. {disgustA}Cut it off.
+117)  LEE
+[he is sure] {thinkingA}Yeah.
+209)  LEE
+[he is sure] {thinkingA}Yeah.
+257)  LEE
+[he is sure] {thinkingA}Yeah.
+310)  LEE
+[he is sure] {thinkingA}Yeah.
+350)  LEE
+[he is sure] {thinkingA}Yeah.
+397)  LEE
+[he is sure] {thinkingA}Yeah.
+447)  LEE
+[he is sure] {thinkingA}Yeah.
+118)  CHRISTA
+{fearB}Seriously?
+256)  CHRISTA
+{fearB}Seriously?
+311)  CHRISTA
+{fearB}Seriously?
+351)  CHRISTA
+{fearB}Seriously?
+119)  
+Let's do it.
+186)  
+Let's do it.
+266)  
+Let's do it.
+321)  
+Let's do it.
+353)  
+Let's do it.
+404)  
+Let's do it.
+451)  
+Let's do it.
+120)  
+What are you talking about?!
+188)  
+What are you talking about?!
+270)  
+What are you talking about?!
+325)  
+What are you talking about?!
+357)  
+What are you talking about?!
+407)  
+What are you talking about?!
+453)  
+What are you talking about?!
+121)  
+I'm right here...
+191)  
+I'm right here...
+276)  
+I'm right here...
+330)  
+I'm right here...
+362)  
+I'm right here...
+122)  CHRISTA
+{sadA}It's a big risk.
+267)  CHRISTA
+{sadA}It's a big risk.
+322)  CHRISTA
+{sadA}It's a big risk.
+356)  CHRISTA
+{sadA}It's a big risk.
+123)  LEE
+[re cutting off your arm]{fearA}Let's do it. Maybe it'll work.
+187)  LEE
+[re cutting off your arm]{fearA}Let's do it. Maybe it'll work.
+269)  LEE
+[re cutting off your arm]{fearA}Let's do it. Maybe it'll work.
+324)  LEE
+[re cutting off your arm]{fearA}Let's do it. Maybe it'll work.
+354)  LEE
+[re cutting off your arm]{fearA}Let's do it. Maybe it'll work.
+405)  LEE
+[re cutting off your arm]{fearA}Let's do it. Maybe it'll work.
+452)  LEE
+[re cutting off your arm]{fearA}Let's do it. Maybe it'll work.
+124)  OMID
+{fearA}Yeah... we're down here without a lot of options...
+268)  OMID
+{fearA}Yeah... we're down here without a lot of options...
+323)  OMID
+{fearA}Yeah... we're down here without a lot of options...
+355)  OMID
+{fearA}Yeah... we're down here without a lot of options...
+125)  BEN
+We thought maybe... with your bite... if we removed it, you might live.
+190)  BEN
+We thought maybe... with your bite... if we removed it, you might live.
+274)  BEN
+We thought maybe... with your bite... if we removed it, you might live.
+126)  LEE
+{surpriseB}Jesus, what are you guys talking about?
+189)  LEE
+{surpriseB}Jesus, what are you guys talking about?
+275)  LEE
+{surpriseB}Jesus, what are you guys talking about?
+328)  LEE
+{surpriseB}Jesus, what are you guys talking about?
+361)  LEE
+{surpriseB}Jesus, what are you guys talking about?
+127)  CHRISTA
+{sadA}I know it's drastic.
+271)  CHRISTA
+{sadA}I know it's drastic.
+326)  CHRISTA
+{sadA}I know it's drastic.
+358)  CHRISTA
+{sadA}I know it's drastic.
+128)  CHRISTA
+{sadA}But what if it works? It might be the only way.
+272)  CHRISTA
+{sadA}But what if it works? It might be the only way.
+327)  CHRISTA
+{sadA}But what if it works? It might be the only way.
+359)  CHRISTA
+{sadA}But what if it works? It might be the only way.
+129)  LEE
+{angryA}You think? [sarc]
+273)  LEE
+{angryA}You think? [sarc]
+329)  LEE
+{angryA}You think? [sarc]
+360)  LEE
+{angryA}You think? [sarc]
+130)  LEE
+{angryA}Uh, hey, {fearA}I'm laying right here.
+192)  LEE
+{angryA}Uh, hey, {fearA}I'm laying right here.
+280)  LEE
+{angryA}Uh, hey, {fearA}I'm laying right here.
+331)  LEE
+{angryA}Uh, hey, {fearA}I'm laying right here.
+366)  LEE
+{angryA}Uh, hey, {fearA}I'm laying right here.
+131)  CHRISTA
+{sadB}It's not really our call anymore.
+277)  CHRISTA
+{sadB}It's not really our call anymore.
+334)  CHRISTA
+{sadB}It's not really our call anymore.
+364)  CHRISTA
+{sadB}It's not really our call anymore.
+132)  LEE
+{thinkingA}Yeah, no shit.
+278)  LEE
+{thinkingA}Yeah, no shit.
+333)  LEE
+{thinkingA}Yeah, no shit.
+365)  LEE
+{thinkingA}Yeah, no shit.
+133)  KENNY
+{fearA}Sorry.
+193)  KENNY
+{fearA}Sorry.
+335)  KENNY
+{fearA}Sorry.
+134)  OMID
+{fearA}If we take the arm off and you don't die of blood loss, well,{SadA} maybe you won't die from the bite.
+279)  OMID
+{fearA}If we take the arm off and you don't die of blood loss, well,{SadA} maybe you won't die from the bite.
+332)  OMID
+{fearA}If we take the arm off and you don't die of blood loss, well,{SadA} maybe you won't die from the bite.
+363)  OMID
+{fearA}If we take the arm off and you don't die of blood loss, well,{SadA} maybe you won't die from the bite.
+135)  OMID
+{sadA}But {sadB}you're going to die.
+259)  OMID
+{sadA}But {sadB}you're going to die.
+316)  OMID
+{sadA}But {sadB}you're going to die.
+388)  OMID
+{sadA}But {sadB}you're going to die.
+136)  KENNY
+{fearB}Are you sure?
+213)  KENNY
+{fearB}Are you sure?
+312)  KENNY
+{fearB}Are you sure?
+398)  KENNY
+{fearB}Are you sure?
+137)  LEE
+[heavy] {sadA}Yeah, {angryA}but not in here.
+211)  LEE
+[heavy] {sadA}Yeah, {angryA}but not in here.
+261)  LEE
+[heavy] {sadA}Yeah, {angryA}but not in here.
+313)  LEE
+[heavy] {sadA}Yeah, {angryA}but not in here.
+389)  LEE
+[heavy] {sadA}Yeah, {angryA}but not in here.
+400)  LEE
+[heavy] {sadA}Yeah, {angryA}but not in here.
+448)  LEE
+[heavy] {sadA}Yeah, {angryA}but not in here.
+138)  LEE
+{thinkingA}No. We leave it.
+212)  LEE
+{thinkingA}No. We leave it.
+262)  LEE
+{thinkingA}No. We leave it.
+314)  LEE
+{thinkingA}No. We leave it.
+385)  LEE
+{thinkingA}No. We leave it.
+399)  LEE
+{thinkingA}No. We leave it.
+450)  LEE
+{thinkingA}No. We leave it.
+139)  LEE
+{thinkingA}Yeah. I feel like I've got time; {fearA}just keep an eye on me. {angryA}If I get my hands on the bastard who's got Clem, I'm going to be happy to have them both.
+210)  LEE
+{thinkingA}Yeah. I feel like I've got time; {fearA}just keep an eye on me. {angryA}If I get my hands on the bastard who's got Clem, I'm going to be happy to have them both.
+260)  LEE
+{thinkingA}Yeah. I feel like I've got time; {fearA}just keep an eye on me. {angryA}If I get my hands on the bastard who's got Clem, I'm going to be happy to have them both.
+315)  LEE
+{thinkingA}Yeah. I feel like I've got time; {fearA}just keep an eye on me. {angryA}If I get my hands on the bastard who's got Clem, I'm going to be happy to have them both.
+386)  LEE
+{thinkingA}Yeah. I feel like I've got time; {fearA}just keep an eye on me. {angryA}If I get my hands on the bastard who's got Clem, I'm going to be happy to have them both.
+401)  LEE
+{thinkingA}Yeah. I feel like I've got time; {fearA}just keep an eye on me. {angryA}If I get my hands on the bastard who's got Clem, I'm going to be happy to have them both.
+449)  LEE
+{thinkingA}Yeah. I feel like I've got time; {fearA}just keep an eye on me. {angryA}If I get my hands on the bastard who's got Clem, I'm going to be happy to have them both.
+140)  CHRISTA
+{SadA}I think we should do it. {fearA}We'll be smart about it and any chance is better than none.
+263)  CHRISTA
+{SadA}I think we should do it. {fearA}We'll be smart about it and any chance is better than none.
+317)  CHRISTA
+{SadA}I think we should do it. {fearA}We'll be smart about it and any chance is better than none.
+392)  CHRISTA
+{SadA}I think we should do it. {fearA}We'll be smart about it and any chance is better than none.
+141)  CHRISTA
+{sadA}Okay?
+265)  CHRISTA
+{sadA}Okay?
+320)  CHRISTA
+{sadA}Okay?
+393)  CHRISTA
+{sadA}Okay?
+142)  KENNY
+{angryA}To hell with it -- {sadB}I'm not letting you die. {angryA}Come on, let's get it done.
+214)  KENNY
+{angryA}To hell with it -- {sadB}I'm not letting you die. {angryA}Come on, let's get it done.
+318)  KENNY
+{angryA}To hell with it -- {sadB}I'm not letting you die. {angryA}Come on, let's get it done.
+402)  KENNY
+{angryA}To hell with it -- {sadB}I'm not letting you die. {angryA}Come on, let's get it done.
+143)  LEE
+[over his shoulder] {normalD}I'll have these doors open in two seconds!
+144)  LEE
+[wave of nausea...] {FearB}Uhhoh...hmmph...
+146)  LEE
+[wave of nausea...] {FearB}Uhhoh...hmmph...
+145)  LEE
+[to himself] {thinkingB}I'm fucking out of here...
+147)  LEE
+[sigh. oh boy.]{disgustA}
+148)  LEE
+[sigh. oh boy.]{disgustA}
+208)  LEE
+[sigh. oh boy.]{disgustA}
+215)  LEE
+[sigh. oh boy.]{disgustA}
+258)  LEE
+[sigh. oh boy.]{disgustA}
+264)  LEE
+[sigh. oh boy.]{disgustA}
+309)  LEE
+[sigh. oh boy.]{disgustA}
+319)  LEE
+[sigh. oh boy.]{disgustA}
+352)  LEE
+[sigh. oh boy.]{disgustA}
+390)  LEE
+[sigh. oh boy.]{disgustA}
+395)  LEE
+[sigh. oh boy.]{disgustA}
+403)  LEE
+[sigh. oh boy.]{disgustA}
+446)  LEE
+[sigh. oh boy.]{disgustA}
+149)  
+It'll be over before I know it.
+151)  
+Don't cut too high.
+152)  LEE
+[to himself] {FearB}It'll be over before you know it. Just gotta get through.
+153)  LEE
+{fearC}...Fuck this... Fuck. {fearA}Just gotta do it. Goddamn.
+154)  LEE
+[having had the thought to himself] {fearA}Don't cut too high, okay? {fearC}Just get through the thinnest part you think is best.
+155)  LEE
+[easy "woo-saaaw" breathing. this is going to fucking hurt. a lot.]{fearA}{thinkingB}
+156)  CHRISTA
+{angryA}Oh, Jesus, FINE.
+157)  LEE
+{sadB}Tell me about it.
+158)  KENNY
+{FearA}This ain't gonna be fun.
+159)  CHRISTA
+{fearB}I'll go as fast as I can.
+160)  CHRISTA
+{fearB}I'll go as fast as I can.
+161)  
+You can do it.
+162)  
+Fast would be good.
+218)  
+Fast would be good.
+163)  
+If I don't live through it...
+220)  
+If I don't live through it...
+164)  LEE
+{fearA}You can do it. You got {FearD}thi--AHHHHHHHH! [stabbed in the arm]
+165)  LEE
+{fearA}Fast would be good. Look, you're gonna want--{fearD}AHHHHHHH! [stabbed]
+219)  LEE
+{fearA}Fast would be good. Look, you're gonna want--{fearD}AHHHHHHH! [stabbed]
+166)  LEE
+{fearA}If I don't live through this, I need to know you'll--{fearD}AHHHHHHHH! [stabbed in the arm]
+221)  LEE
+{fearA}If I don't live through this, I need to know you'll--{fearD}AHHHHHHHH! [stabbed in the arm]
+167)  CHRISTA
+[sigh] {fearB}I don't know if I'd rather be me or you right now.
+168)  LEE
+[grit teeth horrible stabbing pain. worst of your life.]{fearD}
+222)  LEE
+[grit teeth horrible stabbing pain. worst of your life.]{fearD}
+169)  CHRISTA
+[cutting off Lee's arm, through grit teeth] {FearB}TRY TO STAY STILL!
+170)  LEE
+[screaming horrible pain, arm getting cut off]  {fearD}GRRRRAHHHH!!! [grit teeth horribleness] [2]
+239)  LEE
+[screaming horrible pain, arm getting cut off]  {fearD}GRRRRAHHHH!!! [grit teeth horribleness] [2]
+171)  CHRISTA
+[cutting off Lee's arm] {worriedA}Gotta tighten the tourniquet! [fast]
+172)  LEE
+[screaming horrible pain, arm getting cut off]  {fearD}RRRAHHHHH!!! [3]
+238)  LEE
+[screaming horrible pain, arm getting cut off]  {fearD}RRRAHHHHH!!! [3]
+173)  CHRISTA
+[cutting off Lee's arm]{fearB} Fuckfuckfuckfuck...
+174)  LEE
+[screaming horrible pain, arm getting cut off] {fearD}AHRHRAHH! [1]
+237)  LEE
+[screaming horrible pain, arm getting cut off] {fearD}AHRHRAHH! [1]
+175)  LEE
+[screaming horrible pain, arm getting cut off]  {fearD}AHHHH-- [comes to a sharp drown out as you pass out]
+243)  LEE
+[screaming horrible pain, arm getting cut off]  {fearD}AHHHH-- [comes to a sharp drown out as you pass out]
+176)  
+FUHHHHH...!!!
+226)  
+FUHHHHH...!!!
+177)  
+STOP!!!
+228)  
+STOP!!!
+178)  
+OH GOD
+230)  
+OH GOD
+179)  LEE
+{fearD}FUHHHHH..!!! [arm chop]
+227)  LEE
+{fearD}FUHHHHH..!!! [arm chop]
+180)  LEE
+{FearD}STOP!!! [getting his arm sawed off]
+229)  LEE
+{FearD}STOP!!! [getting his arm sawed off]
+181)  CHRISTA
+{fearB}I CAN'T! HOLD ON! [sawing off lee's arm]
+182)  LEE
+{FearD}OH GOD!!! [getting his arm sawed off]
+231)  LEE
+{FearD}OH GOD!!! [getting his arm sawed off]
+183)  CHRISTA
+{fearB}I KNOW! [sawing lee's arm off]
+184)  CHRISTA
+{fearB}I'm sorry.
+185)  LEE
+[lee grits his teeth as his arm continues to be sawed through]{fearD} GRRRRRR...
+232)  LEE
+[lee grits his teeth as his arm continues to be sawed through]{fearD} GRRRRRR...
+196)  KENNY
+{FearA}It was easier when I thought he was out.
+197)  KENNY
+{thinkingA}It's a helluva risk, {fearA}but... you never know. [it might work]
+406)  KENNY
+{thinkingA}It's a helluva risk, {fearA}but... you never know. [it might work]
+198)  LEE
+{thinkingA}I might also die a lot faster in a pool of my own blood.
+409)  LEE
+{thinkingA}I might also die a lot faster in a pool of my own blood.
+454)  LEE
+{thinkingA}I might also die a lot faster in a pool of my own blood.
+199)  KENNY
+{angryA}Look, you haven't been bitten long. {thinkingA}It's away from your heart and your head. {fearA}We take the arm and maybe we save your life.
+408)  KENNY
+{angryA}Look, you haven't been bitten long. {thinkingA}It's away from your heart and your head. {fearA}We take the arm and maybe we save your life.
+200)  KENNY
+{angryA}Uh, ya think? [to himself] Dipshit.
+201)  BEN
+{sadA}Now that he's awake, maybe Lee should make the call.
+202)  KENNY
+{angryA}A shit load.
+203)  KENNY
+{thinkingA}Then you and I go and find Clementine. {angryB}But right now, my opinion is we do this. [turns to Lee] {fearA}If there's a chance it stops you from turning we have to take it.
+204)  BEN
+{fearB}What...what... if he dies?
+205)  BEN
+{sadB}Do we know we won't kill him?
+216)  KENNY
+You sure?
+396)  KENNY
+You sure?
+746)  
+You sure?
+217)  
+You got this.
+223)  LEE
+{fearA}You got this. You'll---{fearD}AHHHHHHH! [stabbed in the arm]
+224)  KENNY
+{fearA}All right you tough son of a bitch...
+225)  CHRISTA
+{fearB}Just HOLD ON! [arm chop]
+233)  KENNY
+{fearB}HOLD ON, MAN! [arm chop]
+234)  KENNY
+{sadB}A LITTLE TOO LATE FOR THAT, PAL. [arm chop]
+235)  KENNY
+{sadB}I KNOW, I KNOW!!! [arm chop]
+236)  KENNY
+{sadA}YOU'RE DOING GREAT! [arm chop]
+240)  KENNY
+{surprisedA}HOLY SHIT HOLY SHIT! [arm chop]
+241)  KENNY
+{fearC}FUCK, THE TOURNIQUET! [arm chop]
+242)  KENNY
+{sadB}KEEP STILL! TRY TO KEEP STILL! [arm chop]
+244)  KENNY
+{angryA}Well FUCK. We're in here now and I'm not going to let you die. You hear me? {fearB}I think we gotta take it off.
+245)  KENNY
+{surprisedA}You son of a bitch! {angryB}How the hell could you not tell us?!
+246)  BEN
+{sadB}When?! How did it happen?!
+247)  KENNY
+{angryB}I thought you had a fucking stroke or something; taking a dive like that.
+248)  LEE
+{sadA}I'm sorry.
+249)  LEE
+{SadA}It happened right before, everything.
+288)  OMID
+{sadA}He's bitten; {fearA}we've still gotta do something.
+289)  BEN
+{fearB}Do we have to cut it off, though?
+759)  BEN
+{fearB}Do we have to cut it off, though?
+290)  CHRISTA
+{FearA}We're trying to save him! {sadB}At the very least buy him some time.
+291)  BEN
+{thinkingA}But THIS way...?
+292)  OMID
+Sorry...
+293)  OMID
+{fearA}If there's any chance this saves his life, we have to take it.
+381)  OMID
+{fearA}If there's any chance this saves his life, we have to take it.
+294)  CHRISTA
+Of course not.
+378)  CHRISTA
+Of course not.
+295)  CHRISTA
+{sadA}What do you think?
+384)  CHRISTA
+{sadA}What do you think?
+296)  CHRISTA
+Are you sure?
+387)  CHRISTA
+Are you sure?
+297)  CHRISTA
+{sadB}Let's go. [chop your arm off]
+391)  CHRISTA
+{sadB}Let's go. [chop your arm off]
+343)  OMID
+By chopping his arm off...
+344)  OMID
+We thought if we took off the bitten arm you'd have a shot.
+382)  OMID
+We thought if we took off the bitten arm you'd have a shot.
+345)  OMID
+We know there's gonna be a lot of blood.
+379)  OMID
+We know there's gonna be a lot of blood.
+373)  OMID
+{fearA}HON, {happyA}he's awake!
+374)  OMID
+{fearA}I'm with you, just, look at him!
+375)  CHRISTA
+{FearA}We've got to save him; we need every second we have.
+376)  CHRISTA
+{fearA}We have to deal with this bite right NOW.
+377)  OMID
+{sadA}Yeah, I know. {sadB}We've gotta take the arm.
+380)  CHRISTA
+Then you and I go after Clementine and get the hell out of Savannah.[after "what if he dies]
+383)  OMID
+Sorry, man.
+410)  
+That sounds like bullshit.
+456)  
+That sounds like bullshit.
+417)  KENNY
+[HUGE Relief] {happyA}Thanks, God...
+418)  KENNY
+{angryB}I found your goddamn secret you dumb son of a bitch. [gets emotional] {sadB}You were BITTEN? {angryB}Fuck, man. When were you... {sadB}God.
+419)  LEE
+{sadA}It happened before.
+444)  LEE
+{sadA}It happened before.
+420)  LEE
+{thinkingA}What? What are you talking about?
+455)  LEE
+{thinkingA}What? What are you talking about?
+421)  KENNY
+{angryA}We gotta try SOMETHING.
+422)  KENNY
+{fearB}YEAH, we do.
+423)  LEE
+{angryA}Do we?
+457)  LEE
+{angryA}Do we?
+424)  LEE
+{thinkingA}That sounds like bullshit.
+458)  LEE
+{thinkingA}That sounds like bullshit.
+425)  KENNY
+{thinkingA}We've gotta try something. {FearA}Come on, Lee.
+426)  KENNY
+{fearB}Look, I know it sounds fucking impossible... but we gotta try.
+427)  KENNY
+[pleading] {sadB}Come on, Lee.
+428)  KENNY
+[pleading] {sadB}Come on, Lee.
+429)  
+I'm sorry I didn't say anything.
+459)  
+I'm sorry I didn't say anything.
+430)  
+It doesn't change anything.
+462)  
+It doesn't change anything.
+431)  
+We gotta do something about it.
+464)  
+We gotta do something about it.
+432)  LEE
+[sigh] {sadA}I don't know.
+460)  LEE
+[sigh] {sadA}I don't know.
+433)  KENNY
+{angryA}Well look. [beat] I'm pissed, {sadA}but, well, I'm glad you're not alone.
+441)  KENNY
+{angryA}Well look. [beat] I'm pissed, {sadA}but, well, I'm glad you're not alone.
+434)  LEE
+{sadA}I'm sorry I didn't say anything.
+461)  LEE
+{sadA}I'm sorry I didn't say anything.
+435)  KENNY
+{angryA}You fucking better be. {fearA}What are you doing keeping that to yourself?!
+436)  LEE
+{thinkingA}It doesn't change anything; {angryA}we're still just going after Clementine.
+463)  LEE
+{thinkingA}It doesn't change anything; {angryA}we're still just going after Clementine.
+437)  KENNY
+{thinkingA}Except when we find her you're not going to be around to take care of her.
+438)  KENNY
+{sadA}Maybe we can...do something.
+439)  LEE
+{thinkingA}We gotta do something about it. {fearB}I don't want to be dead before getting to Clementine.
+465)  LEE
+{thinkingA}We gotta do something about it. {fearB}I don't want to be dead before getting to Clementine.
+440)  KENNY
+{fearA}I'm with ya.
+442)  KENNY
+{fearA}I was...uh... gonna try to do a little surgery before you woke up.
+443)  KENNY
+Lee. You'll die.
+648)  KENNY
+Lee. You'll die.
+472)  LEE
+What the fuck are you doing, Ben?
+473)  BEN
+[huge relief] {happyA}Oh, thank God!
+474)  BEN
+{sadA}How... when...?
+475)  BEN
+{fearA}You fell over and I thought you had a stroke or something! I was looking for the cause of it and{sadB}... and... I found...[upset] I found the bite.
+476)  BEN
+{sadA}I just can't believe it... why didn't you tell us?! Maybe they woulda stayed too!
+477)  BEN
+I didn't know what to do.
+478)  BEN
+{sadA}But... but... when we find her, you're not going to be around to take care of her.
+479)  BEN
+{fearB}Is there anything we can DO?
+480)  BEN
+{thinkingA}Okay. OKAY.
+481)  BEN
+{thinkingA}What do we do? We have to do something; {sadB}I can't watch you die.
+482)  BEN
+{sadA}I don't think I could've done it anyway.
+483)  BEN
+{FearA}Taken your arm, that is. {sadA}I just... I don't know... I thought it might save you.
+484)  BEN
+{fearA}I'm... I'm not sure I can.
+485)  BEN
+{sadB}Well we've gotta try something, right?
+487)  BEN
+{sadB}Well we've gotta try something, right?
+486)  BEN
+{fearA}Uh... cutting off the arm. Just above the bite. I thought maybe then you wouldn't die.
+488)  BEN
+{fearA}Of course!
+489)  BEN
+{sadB}Come on, Lee!
+491)  BEN
+{sadB}Come on, Lee!
+490)  BEN
+{sadA}I know it sounds impossible but we've GOT to try something.
+492)  LEE
+{thinkingB}Jesus....
+493)  BEN
+{FearA}What if I pass out half-way through?
+494)  LEE
+{angryA}Are you fucking kidding me?
+495)  BEN
+{sadA}Are you sure?
+496)  BEN
+{sadA}Now that you're awake... maybe. [sigh] {surprisedA}LOOK, I just don't think I can do it. I'll hold the tourniquet or something.
+497)  BEN
+{fearB}But...you'll die.
+498)  BEN
+{sadB}Are you sure?
+499)  LEE
+It's what we're doing.
+500)  BEN
+{fearA}But...
+517)  BEN
+{fearA}But...
+501)  BEN
+{fearA}Lee... do you want to do this?
+502)  BEN
+{SadA}Okay... Let's just hope we make it in time.
+503)  LEE
+{fearA}Fuck... [uh... god, general frustration]
+504)  LEE
+[contemplating how bad his condition is/ to himself] {fearB}It's getting worse.
+505)  LEE
+[overwhelmed] {thinkingA}Hell, no.... [to himself, not gonna do it]
+506)  LEE
+{normalD}Just some surgical supplies.
+507)  LEE
+{thinkingB}I think it's some sort of spreading device. {disgustA}Grosses me out just looking at it.
+508)  LEE
+{disgustA}I think they call it a chest-cracker. Oof.
+509)  LEE
+[to himself]{thinkingB}This might be useful.
+510)  LEE
+{thinkingA}Maybe it's not too late. [to himself]
+511)  LEE
+[stabbing himself in the arm for the first time. horrible]{fearC}
+512)  LEE
+{thinkingA}Okay, you can do this. {fearA}You can do this.
+513)  LEE
+{angryA}Two.
+514)  LEE
+Here we go. {FearB}One.
+515)  LEE
+{angryC}THREE.
+516)  LEE
+{fearA}I'll just take my time.
+518)  LEE
+{angryA}I don't want to hear it; it's not your arm.
+519)  BEN
+{sadB}Okay.
+520)  LEE
+[cutting your own arm off. mad. ben did something dumb]{fearD}
+521)  LEE
+[sawing your arm off 1]{fearC}
+522)  LEE
+[sawing your arm off 2]{fearD}
+523)  LEE
+[sawing your arm off 3 with a horrible shriek at the end]{fearD}
+524)  LEE
+{thinkingA}You guys keep an eye on that door and I'll work on getting us out of here.
+527)  LEE
+{thinkingA}You guys keep an eye on that door and I'll work on getting us out of here.
+532)  LEE
+{thinkingA}You guys keep an eye on that door and I'll work on getting us out of here.
+533)  LEE
+{thinkingA}You guys keep an eye on that door and I'll work on getting us out of here.
+538)  LEE
+{thinkingA}You guys keep an eye on that door and I'll work on getting us out of here.
+525)  LEE
+{thinkingB}No. This is what we're doing {normalD}and I don't want to hear anything else, okay?
+528)  LEE
+{thinkingB}No. This is what we're doing {normalD}and I don't want to hear anything else, okay?
+531)  LEE
+{thinkingB}No. This is what we're doing {normalD}and I don't want to hear anything else, okay?
+534)  LEE
+{thinkingB}No. This is what we're doing {normalD}and I don't want to hear anything else, okay?
+536)  LEE
+{thinkingB}No. This is what we're doing {normalD}and I don't want to hear anything else, okay?
+539)  LEE
+{thinkingB}No. This is what we're doing {normalD}and I don't want to hear anything else, okay?
+526)  CHRISTA
+{sadA}Lee--
+530)  CHRISTA
+{sadA}Lee--
+535)  CHRISTA
+{sadA}Lee--
+537)  CHRISTA
+{sadA}Lee--
+529)  KENNY
+Lee--
+541)  KENNY
+Lee--
+540)  LEE
+{thinkingB}Now, keep an eye on that door, will you? I'll get these elevator doors open.
+542)  LEE
+{thinkingB}Now, keep an eye on that door, will you? I'll get these elevator doors open.
+543)  BEN
+{normalB}Okay. [unsure]
+544)  LEE
+{normalC}Good.
+545)  LEE
+{fearA}I need to get out of here. Fast.
+546)  LEE
+{sadA}...Fuck. [returning to conciousness]
+547)  LEE
+[returning to conciousness, in a lot of pain] {SadC}Ugh...
+548)  LEE
+{fearA}Yeah. [definitive. yep. lets get the fuck out of here]
+552)  LEE
+{fearA}Yeah. [definitive. yep. lets get the fuck out of here]
+554)  LEE
+{fearA}Yeah. [definitive. yep. lets get the fuck out of here]
+562)  LEE
+{fearA}Yeah. [definitive. yep. lets get the fuck out of here]
+565)  LEE
+{fearA}Yeah. [definitive. yep. lets get the fuck out of here]
+569)  LEE
+{fearA}Yeah. [definitive. yep. lets get the fuck out of here]
+573)  LEE
+{fearA}Yeah. [definitive. yep. lets get the fuck out of here]
+549)  KENNY
+{happyB}Good. The elevator's open. Let's go.
+551)  KENNY
+{happyB}Good. The elevator's open. Let's go.
+560)  KENNY
+{happyB}Good. The elevator's open. Let's go.
+568)  KENNY
+{happyB}Good. The elevator's open. Let's go.
+550)  CHRISTA
+{fearA}Do you think you'll be able to travel? You lost some blood.
+555)  CHRISTA
+{fearA}Do you think you'll be able to travel? You lost some blood.
+563)  CHRISTA
+{fearA}Do you think you'll be able to travel? You lost some blood.
+566)  CHRISTA
+{fearA}Do you think you'll be able to travel? You lost some blood.
+553)  KENNY
+{fearB}You going to be able to get goin'? {FearA}I think we gotta move.
+570)  KENNY
+{fearB}You going to be able to get goin'? {FearA}I think we gotta move.
+556)  BEN
+[stressed] Uh guys, the elevator's open; let's go.
+557)  LEE
+{FearA}I'll bring up the rear; I don't want to bleed on anyone.
+558)  LEE
+{FearA}I'll bring up the rear; I don't want to bleed on anyone.
+559)  LEE
+{FearA}I'll bring up the rear; I don't want to bleed on anyone.
+561)  LEE
+{FearA}I'll bring up the rear; I don't want to bleed on anyone.
+564)  LEE
+{FearA}I'll bring up the rear; I don't want to bleed on anyone.
+567)  OMID
+{sadA}Then let's move as fast as you can; the elevator's open!
+571)  LEE
+{fearA}You go first; I don't want to bleed on you.
+572)  KENNY
+{happyA}You are some kinda somethin'.
+574)  BEN
+{fearB}Oh, thank Jesus you're alive. {sadC}Oh, God. {fearB}I woke up and you were there {FearC}and your arm was over there and the BLOOD...
+575)  BEN
+{fearA}Can we go?
+576)  LEE
+{angryA}Yeah... yeah... it was MY arm.
+577)  BEN
+{fearB}I got the elevator open. We should be able to find a way out.
+578)  LEE
+{normalD}Thanks for the help.
+579)  BEN
+{fearB}It's just the blood...
+580)  BEN
+{sadB}Thanks.... [awk]
+581)  LEE
+[fucking tired, lost a lot of blood] {fearA}Now... okay... gotta get out of here. [to himself]
+582)  LEE
+[to himself] {thinkingB}I'm not going to shoot my way through.
+583)  LEE
+[to himself] {thinkingB}I can't get my hands in between the doors.
+584)  LEE
+[to himself, about to do something very difficult with one arm] {normalD}Here we go.
+585)  LEE
+[one armed, cranking open a big heavy door] GRRRAHHHH!!! AAAEEEOOWWW!! GRRRR...AH!
+586)  LEE
+{happyA}We're lucky there's no axe holding that door closed, huh?
+587)  BEN
+{sadB}Oh, shut up.
+588)  LEE
+{thinkingB}How sturdy's that door?
+589)  BEN
+{fearB}I don't know; I don't want to be around for its breaking point.
+590)  BEN
+{fearB}Any luck with those elevator doors?
+591)  LEE
+{thinkingB}Working on it.
+592)  LEE
+[I'm] {thinkingB}Lookin'.
+593)  BEN
+{fearB}Found a way out yet?
+594)  LEE
+{thinkingA}I should work on getting that elevator open.
+599)  LEE
+{thinkingA}I should work on getting that elevator open.
+604)  LEE
+{thinkingA}I should work on getting that elevator open.
+613)  LEE
+{thinkingA}I should work on getting that elevator open.
+595)  BEN
+{fearA}Yeah, as quick as you can. [agreeing]
+596)  LEE
+{ThinkingB}I should keep looking for a way out.
+600)  LEE
+{ThinkingB}I should keep looking for a way out.
+605)  LEE
+{ThinkingB}I should keep looking for a way out.
+614)  LEE
+{ThinkingB}I should keep looking for a way out.
+597)  KENNY
+{angryA}Yeah, Ben hasn't screwed the pooch yet.
+598)  LEE
+{normalD}Everything okay over here?
+601)  KENNY
+{happyA}Yeah, get to it.
+602)  LEE
+{thinkingB}You going to be able to hold them back if that door pops?
+671)  LEE
+{thinkingB}You going to be able to hold them back if that door pops?
+603)  KENNY
+{thinkingA}No promises.
+672)  KENNY
+{thinkingA}No promises.
+606)  OMID
+{happyA}We've got your back 'til then, {fearA}but hurry.
+607)  LEE
+{normalD}Any trouble?
+673)  LEE
+{normalD}Any trouble?
+608)  OMID
+{fearA}There's thousands of dead filling the sewers and God only knows how many up top,{thinkingA} so, ya know.
+674)  OMID
+{fearA}There's thousands of dead filling the sewers and God only knows how many up top,{thinkingA} so, ya know.
+609)  OMID
+{happyA}Good, gotta hustle.
+610)  LEE
+{thinkingA}I'll get us out of here.
+611)  LEE
+{normalD}Hey....
+612)  CHRISTA
+{fearA}We'll have time to chit chat later.
+615)  CHRISTA
+{fearA}That's what I'm sayin'.
+617)  
+Look At
+638)  
+Look At
+618)  
+Pick Up
+619)  
+Open
+639)  
+Open
+620)  
+Arm
+621)  
+Elevator
+622)  LEE
+{normalD}Looks like Vernon and his people cleared their shit out of here in a hurry.
+623)  CHRISTA
+{fearB}Where the hell did they go?
+624)  KENNY
+{angryA}Well, Clementine isn't with them, so fuck 'em.
+625)  LEE
+[with growing frustration] {thinkingB}Couldn't they have left ANYTHING useful?!
+626)  LEE
+[slightly frustrated, mild projection]{thinkingB}This led to the stairs...[Although the exit is welded shut, It's actually a good thing]{fearA} Looks like it's flooded with walkers up there.
+627)  CHRISTA
+[commenting on the stairwell entrance being welded shut][slight Projection]{angryA}Guess it's a good thing they're sealed up then.
+628)  KENNY
+[commenting on the stairwell entrance being welded shut][Slight Projection]{FearA}Vernon's group's got the place sealed up pretty tight.
+629)  LEE
+[looking at a door thats been welded shut]{thinkingB}Not gettin' out that way.
+630)  LEE
+[looking at the door to the sewers, zombies are behind it]{angryA}Can't those things let up for a fucking minute?!
+631)  BEN
+{thinkingA}That door should hold 'em back for a while, {fearA}but we've gotta get out of here soon.
+632)  CHRISTA
+[responding to Lee saying : Can't those things let up for a fucking minute?!]{thinkingA}That'd be too easy, huh?
+633)  KENNY
+[responding to Lee saying : Can't those things let up for a fucking minute?!]{angryA}Just keep looking for another way out.  I got this.
+634)  LEE
+{thinkingB}That door's not gonna last forever.
+635)  LEE
+[After Elevator][to himself -looking at a hanging scale]{thinkingB}I don't think I can pry open the doors with this.
+636)  KENNY
+[frustrated]{angryA}Shit, this is a morgue!  {thinkingA}There's gotta be SOMETHING in here we can use!
+637)  LEE
+[to Himself- looking at a hanging scale]{normalD}This isn't gonna help.
+640)  LEE
+[After pushing against a door thats been welded shut]{thinkingB}Nothing's gettin' through these.  In OR out.
+641)  LEE
+[after Elevator][Frustrated - Looking for something useful to open the elevator with]{normalD}Nothing useful in here.
+642)  LEE
+{normalC}Nothing through here.
+643)  KENNY
+{thinkingA}Damn.  I was kinda hoping they'd dug some secret tunnels or something.
+644)  LEE
+[a bit woozy, in pain and frustrated] [to himself]{thinkingB}Shit.  This thing is gonna be a fucking problem.
+645)  
+Rib Spreader
+646)  
+Shoot
+647)  
+Use Rib Spreader On
+649)  LEE
+{thinkingB}How's that door holding up?
+660)  LEE
+{thinkingB}How's that door holding up?
+650)  KENNY
+[making Ben feel shitty]{thinkingA}Good thing there's not a hatchet keeping it shut, huh?
+651)  LEE
+[stern]{thinkingA}You keep on this door until I get us a way out.
+652)  BEN
+{happyA}I won't let you down.
+653)  KENNY
+{happyA}Are you fucking serious?  {angryA}That's your speciality!
+654)  LEE
+[annoyed with the bickering]{angryA}Knock it off. {thinkingB}Just make sure nothing comes through there.
+655)  LEE
+{thinkingB}Whatever happens,{fearA} don't let anything through that door; {normalD}got it?
+656)  BEN
+[without conviction, not believeing in himself very much]{fearB}I got it.
+657)  LEE
+[stern]{angryA}Ben, I'm serious. {angryA}Clementine is out there and I NEED to get to her.  {fearA}Don't. Fuck. Up.
+658)  BEN
+[with renewed confidence, realizing how important this is to Lee] {happyA}Okay.
+659)  BEN
+{FearB}So far so good, but there are a LOT of walkers out there.  You've gotta hurry!
+661)  KENNY
+{angryA}No shit.
+790)  KENNY
+{angryA}No shit.
+662)  OMID
+{fearA}There's no going back at ALL if you don't find another way out of here. {happyA}We've got this, you keep looking.
+663)  LEE
+{thinkingB}Guess there's no going back the way we came.
+788)  LEE
+{thinkingB}Guess there's no going back the way we came.
+664)  LEE
+{thinkingB}Are you sure you can handle this?
+665)  KENNY
+{fearA}I'm fine, Lee.  {angryA}It's this guy [Ben]you gotta worry about.  {thinkingA}Remind me again why you thought it'd be a good idea to bring this shit along?
+666)  LEE
+[frustrated] {thinkingB}Just... watch that door.
+667)  KENNY
+[sincere, but without a lot of emotion]{happyA}It's been me and you, pal, since the very beginning.
+668)  KENNY
+[getting back to business, not wanting to have this discussion]{happyA}Hey, Clementine needs you.  Get back to it.
+669)  LEE
+{happyA}Hey, thanks for having my back.
+670)  LEE
+[solemn]{thinkingA}...Yeah.
+675)  KENNY
+{thinkingA}Don't worry about this door right now, we've got it.
+676)  LEE
+{thinkingA}I'm working on it.
+677)  CHRISTA
+{happyA}Good, hurry!
+678)  OMID
+{happyA}You find a way out yet?
+679)  KENNY
+{thinkingA}To do that you've gotta get us another way out!
+680)  CHRISTA
+{sadA}Hey, don't worry, we'll find Clementine.
+681)  LEE
+{angryA}Damn right we will. [despite the fact that he's bitten]{thinkingB}No matter what.
+682)  LEE
+{thinkingA}Yeah, we just have to get the hell out of here.
+683)  CHRISTA
+{sadA}You okay, Lee?
+684)  LEE
+{thinkingB}I think we can get out through the elevator shaft, {fearA}but the doors are stuck shut!
+685)  KENNY
+{thinkingA}Well, there's gotta be SOMETHING around here you can pry 'em open with!  {angryA}Look around!
+686)  CHRISTA
+{angryA}Well, do it then.  This door won't hold forever.
+687)  LEE
+{thinkingB}Not yet... the doors are shut tight! I need to find something to pry them open.
+688)  CHRISTA
+{thinkingA}Any luck opening that elevator?
+689)  
+Coolers
+690)  KENNY
+[taking a deep breath... not really wanting to do this...psyching himself up] {fearB}...okay...
+698)  KENNY
+[taking a deep breath... not really wanting to do this...psyching himself up] {fearB}...okay...
+700)  KENNY
+[taking a deep breath... not really wanting to do this...psyching himself up] {fearB}...okay...
+704)  KENNY
+[taking a deep breath... not really wanting to do this...psyching himself up] {fearB}...okay...
+691)  KENNY
+[taking a deep breath... not really wanting to do this...psyching himself up] {fearA}...This has to be done...
+697)  KENNY
+[taking a deep breath... not really wanting to do this...psyching himself up] {fearA}...This has to be done...
+699)  KENNY
+[taking a deep breath... not really wanting to do this...psyching himself up] {fearA}...This has to be done...
+703)  KENNY
+[taking a deep breath... not really wanting to do this...psyching himself up] {fearA}...This has to be done...
+692)  KENNY
+[taking a deep breath... not really wanting to do this...psyching himself up]{sadB}...Sorry, pal, I gotta do it...
+696)  KENNY
+[taking a deep breath... not really wanting to do this...psyching himself up]{sadB}...Sorry, pal, I gotta do it...
+701)  KENNY
+[taking a deep breath... not really wanting to do this...psyching himself up]{sadB}...Sorry, pal, I gotta do it...
+702)  KENNY
+[taking a deep breath... not really wanting to do this...psyching himself up]{sadB}...Sorry, pal, I gotta do it...
+693)  OMID
+{sadA}... Jesus, are you sure this will help?
+707)  OMID
+{sadA}... Jesus, are you sure this will help?
+694)  CHRISTA
+{sadA}You got any better ideas?
+706)  CHRISTA
+{sadA}You got any better ideas?
+695)  CHRISTA
+[taking a deep breath... not really wanting to do this...psyching herself up]{thinkingA}...Okay... It's now or never...
+705)  CHRISTA
+[taking a deep breath... not really wanting to do this...psyching herself up]{thinkingA}...Okay... It's now or never...
+708)  BEN
+[taking a deep breath... not really wanting to do this...psyching himself up]{fearB}...here goes.
+709)  BEN
+[ ... not really wanting to do this...psyching himself up]{thinkingA}...Okay... I can do this.
+710)  BEN
+{fearA}...Oh God, what am I doing?!
+711)  OMID
+{fearA}...this is bad...
+712)  CHRISTA
+{sadC}Help me move him!
+720)  CHRISTA
+{sadC}Help me move him!
+713)  CHRISTA
+{fearA}Shit.
+714)  KENNY
+{fearB}Fuuuck!
+715)  KENNY
+{fearA}Fuck!  Is he alive?
+719)  KENNY
+{fearA}Fuck!  Is he alive?
+716)  CHRISTA
+{sadA}Yeah, just passed out. [stressed]
+717)  KENNY
+{fearA}What the fuck?!  {fearB}He's BITTEN?!
+718)  OMID
+{FearA}Dude... look at his arm.
+721)  OMID
+{FearA}Christ!  What the hell happened?
+727)  OMID
+{FearA}Christ!  What the hell happened?
+722)  CHRISTA
+{sadA}It's the bite.
+723)  OMID
+{fearB}Well... {fearA}what can we do?
+724)  CHRISTA
+[looking around the room for help]{sadA}I don't know...
+725)  CHRISTA
+{sadB}Help me move him!
+726)  CHRISTA
+{fearA}I don't know... He passed out.
+728)  CHRISTA
+{sadB}Come on, help me move him.
+729)  OMID
+{sadA}Passed out?
+730)  CHRISTA
+[seeing Lee's bite for the first time]{fearB}Shit. He's bitten.
+731)  KENNY
+[seeing Lee's bite for the first time/ horrified/ to himself]{SurprisedA}Oh, fuck me...when the hell did that happen?!  {fearB}God dammit, Lee!
+732)  KENNY
+{fearA}LEE!  Wake up!  What the fuck happened?! You all right?
+733)  BEN
+[panicing]  {fearA}Lee?  Lee!?   {sadB}Oh, god.  Please be alive! I... I can't ....
+734)  
+Cabinet
+735)  
+Sewer Door
+736)  
+Stairwell Door
+737)  
+Scale
+738)  
+Operating Table
+739)  
+Crank
+740)  OMID
+{fearA}You seem okay right now.
+741)  LEE
+[mild sarcasm/annoyance because Ben didn't help cut the arm off][note this is a separate read from the normal one]{thinkingA}You go first; I don't want to bleed on you.
+742)  LEE
+{thinkingA}We get her back.
+743)  LEE
+{fearA}Focus, Ben. I'll find another way out of here; you stay on that door and kill anything that comes through it. {angryA}Got it?
+744)  BEN
+{fearA}Oh shit!
+745)  BEN
+{fearB}I can handle it.
+747)  
+You better.
+748)  
+I know you can.
+749)  LEE
+{normalD}You sure?
+750)  LEE
+{normalD}You better, or we're both dead.
+751)  LEE
+{happyA}Good man.
+752)  BEN
+{fearA}I got it!
+753)  BEN
+{fearA}I got it!
+754)  BEN
+You just get us out of here!
+755)  BEN
+You just get us out of here!
+756)  BEN
+You just get us out of here!
+757)  BEN
+You just get us out of here!
+758)  LEE
+[to himself]{thinkingA}Damn.
+760)  CAMPMAN
+Hello, Lee.
+761)  LEE
+{angryA}Vernon! Get out here! There doesn't have to be any trouble here, all I want is the girl! Give her back and nobody needs to get hurt!
+762)  CLEMENTINE
+Lee?
+763)  LEE
+{fearA}Clementine! {fearB}Are you all right? Where are you?
+764)  LEE
+{angryA}Vernon, you son of a bitch.
+765)  CAMPMAN
+[pickup][eerily calm] [short, a hint of meanness] Clementine's fine. But if I were you, I'd choose my next words VERY carefully.
+766)  CAMPMAN
+This isn't Vernon. And you should really watch your tone.
+767)  LEE
+{angryA}Where have you taken her?
+768)  LEE
+{angryA}Who is this?
+769)  CAMPMAN
+[pickup] It's not Vernon, if that's what you're thinking. And you should really watch your tone.
+770)  LEE
+{angryA}Vernon, put Clementine back on, {fearA}I want to talk to her!
+771)  CAMPMAN
+Cat got your tongue? In case you haven't figured it out yet -- this isn't Vernon.
+772)  BEN
+[seeing Lee's bite for the first time]{fearC}...Oh, shit!  You're bitten.
+773)  LEE
+[pickup1] [heavy, hard breathing for about 30 seconds, verbal pain in the breaths out - heavy pain - you've cut into your arm a third time, and you're starting to whimper]
+774)  LEE
+[pickup1] Looks like a car jack... I don't want to imagine this being used on a body.
+775)  LEE
+{paina}[pickup1] [moving your arm, looking at the mess] Man. Ugh... fuck... I hope this helped.
+776)  LEE
+{paina}[pickup1] [moving his chopped arm for the first time] Oww. Ugh. {fearb}Holy shit...
+777)  KENNY
+{feara}[pickup1] Holy hell, we thought maybe we lost you. You been out a while, man.
+778)  CHRISTA
+{worrieda}[pickup1] Oh my god, you're alive. It was getting to the point where we figured you weren't coming back.
+779)  BEN
+{fearA}[pickup1][relieved] Finally. Oh man. I can't believe you lived through that.
+780)  
+Good riddance.
+781)  
+My arm is on fire.
+782)  
+What the hell did we do...
+783)  LEE
+{paina}[pickup1] [feeling the pain for a second] It hurts so bad, but maybe now I've got more time.
+784)  LEE
+{paina}[pickup1] [feeling the pain; half to yourself] My arm's on fire. I can still feel my fingers. Holy hell... Ugh, this hurts more than you can believe.
+785)  LEE
+{paina}[pickup1][feeling the pain] Ugh... what the hell did we do.... [whince] Jesus, this hurts so goddamn bad. [to himself] I hope it helps.
+786)  LEE
+{paina}[pickup1] [whince]
+787)  CHRISTA
+[pickup1] Well... you're still alive. That's something.
+789)  KENNY
+[pickup1] With all this shit around, I'm sure we can come up with somethin'.
+791)  LEE
+[pickup1] I think I can find a way out, somehow.
+792)  CHRISTA
+[pickup1] Yeah, there has to be something here that will help.
+793)  
+Surgical Supplies
+794)  
+Remove arm.
+795)  
+Walk away.
+796)  CHRISTA
+{thinkingA}Lee -- find a way out of here!
+797)  KENNY
+{angryA}Find another way out; Ben and I are on the door!
+798)  LEE
+Randy Tudor. Good man. DAMN fine man. Powerful 'stache. One of the greats.

@@ -1,0 +1,276 @@
+1)  KENNY
+[tense]They shouldn't be able to get into the backyard, right?
+2)  KENNY
+[dread, action] Maybe not.
+3)  CHRISTA
+We can secure this place!
+4)  
+Front room windows!
+5)  
+Upstairs!
+16)  
+Upstairs!
+6)  
+Weapons!
+19)  
+Weapons!
+7)  LEE
+Get on the windows in the front room. Check the boards.
+8)  CHRISTA
+[urgent] Got it.
+9)  LEE
+Get upstairs; make sure nobody's here!
+10)  CHRISTA
+[urgent] On it.
+12)  CHRISTA
+[urgent] On it.
+11)  LEE
+Search the house for weapons!
+13)  CHRISTA
+[urgent, slight frustration] Gah, I'm checking the living room. Everyone else, look for weapons!
+14)  LEE
+Christa! [giving orders]
+15)  LEE
+Kenny! [giving orders]
+17)  LEE
+Go upstairs! Secure whatever you can and make sure we're alone!
+18)  KENNY
+Done!
+20)  LEE
+Look for weapons! Gather anything you can find!
+21)  
+Move furniture!
+29)  
+Move furniture!
+22)  
+Help Christa!
+26)  LEE
+Help Christa!
+30)  
+Help Christa!
+32)  LEE
+Help Christa!
+23)  KENNY
+Will do!
+27)  KENNY
+Will do!
+24)  LEE
+Move anything you can up against the doors and windows.
+31)  LEE
+Move anything you can up against the doors and windows.
+25)  KENNY
+That's what I was thinking! [urgent]
+28)  KENNY
+[urgent/frustrated] I'm going to keep the front room locked down!
+33)  
+Go upstairs!
+34)  LEE
+Go upstairs!
+35)  BEN
+And do what?!
+36)  LEE
+Just go!
+37)  
+Kill anything that gets in!
+38)  LEE
+Kill anything that gets in!
+39)  BEN
+You know you're talking to ME, right?
+40)  LEE
+Ben, just DO it.
+41)  BEN
+I'll just, uh, do... SOMETHING! [urgent, runs off]
+42)  LEE
+Ben! [giving orders]
+43)  LEE
+What is it? [urgent!]
+44)  LEE
+Omid! [giving orders]
+45)  
+FRONT DOORS!
+46)  
+EVERYONE HELP OMID!
+47)  
+GO!!!
+48)  OMID
+Everyone help me! [running towards door]
+49)  LEE
+[yelling for everyone to help] FRONT DOORS!
+50)  LEE
+EVERYONE HELP OMID! NOW!
+51)  LEE
+[yelling for everyone to help] GO! NOW! FRONT HALLWAY!
+52)  LEE
+[falling, hitting the ground] UGH!
+53)  LEE
+[being grabbed as you go to run away] AHH!
+54)  LEE
+[sharp, fast panicked kick]
+55)  LEE
+[sharp, fast panicked kick 2]
+56)  LEE
+[sharp, fast panicked kick 3]
+57)  LEE
+[sharp, fast panicked kick 4, final, free]
+58)  KENNY
+LEE, HELP!
+59)  CHRISTA
+Cut their fucking arms off!
+60)  CHRISTA
+HURRY!
+61)  LEE
+[grabbing something in a panic]
+62)  KENNY
+Take their goddamn arms off!
+63)  CHRISTA
+What are you doing?! CUT THEM OFF!
+64)  KENNY
+[shoving something in front of a door] Ugh!
+65)  BEN
+[catching breath]
+66)  CHRISTA
+[catching breath]
+68)  KENNY
+[catching breath]
+67)  OMID
+[catching breath] Now what?
+69)  
+Get ready to fight.
+72)  LEE
+Get ready to fight.
+70)  
+This place will hold.
+71)  
+Shh. We hide.
+73)  CHRISTA
+This place seems sturdy to me. [having just caught breath, high tension] I think we're fine.
+74)  LEE
+This is a big, sturdy house. It'll hold.
+75)  CHRISTA
+[having caught breath, high tension though] Yeah, I think so, too.
+76)  LEE
+Shhh. Everybody. We have to hide and then find a way out.
+77)  CHRISTA
+Lee's right; this place is secure. We're patient and then we get going.
+78)  OMID
+SHIT!
+79)  LEE
+Sturdy my ass!
+80)  LEE
+Fuck! New plan!
+81)  OMID
+[getting thrown from the door!] OOF!
+82)  KENNY
+[getting knocked back] UGH!
+83)  CHRISTA
+[getting thrown from the door] AH!
+84)  LEE
+Get upstairs!
+85)  KENNY
+GO!
+119)  LEE
+GO!
+86)  CHRISTA
+Everyone get to the end of the hallway!
+87)  KENNY
+GUYS, help me with this!
+88)  BEN
+What do we do now?!
+89)  KENNY
+[holding door] Come on, help!
+90)  BEN
+[holding door] Get 'em, Lee!
+91)  CHRISTA
+[holding door] Chop their damn arms off!
+92)  OMID
+[holding door] They're strong as shit!
+93)  LEE
+[starting to push a heavy thing] GRR...
+94)  KENNY
+[pushing a desk] This'll slow 'em down. [Grr...] We get to the end of the hallway...[grr] and take a fucking stand.
+99)  KENNY
+[pushing a desk] This'll slow 'em down. [Grr...] We get to the end of the hallway...[grr] and take a fucking stand.
+95)  LEE
+[continuing to push desk] Grrrarrrrarrr...
+96)  KENNY
+[pushing a thing] Goddammit, Lee!
+97)  OMID
+He's only got one fucking arm!
+98)  KENNY
+None of that's about to matter!
+100)  KENNY
+How many bullets do you all have?
+101)  KENNY
+Let's get as many as we can.
+102)  CHRISTA
+And when we see an opening we go for it.
+103)  LEE
+Eight.
+104)  LEE
+We can't get let ourselves get trapped.
+105)  OMID
+Fourteen.
+106)  CHRISTA
+Twenty.
+107)  BEN
+Eleven.
+108)  CHRISTA
+[tense] Get ready.
+109)  KENNY
+Ya'll know where to aim.
+110)  CHRISTA
+UP!
+114)  CHRISTA
+UP!
+111)  KENNY
+There's no goddamn opening!
+115)  KENNY
+There's no goddamn opening!
+112)  LEE
+OUT.
+113)  OMID
+Fuck, where do we go?!
+117)  OMID
+Fuck, where do we go?!
+116)  KENNY
+Me too!
+118)  CHRISTA
+I'm out!
+120)  CHRISTA
+[jumping up to grab something] Mmph!
+121)  LEE
+[jumping up to grab something] Mmph!
+122)  OMID
+[pickup1][Mark Edit] [panic] There's gotta be a knife or something in there!!
+123)  BEN
+Got it!
+124)  
+Dog Door
+125)  
+Rope
+126)  
+Fingers
+127)  
+Wrist
+128)  
+Desk
+129)  
+Cabinet
+130)  
+Drawer
+131)  
+Arm
+132)  CHRISTA
+[pickup1] Three.
+133)  LEE
+[pickup1] Five.
+134)  OMID
+[pickup1] Four.
+135)  LEE
+[pickup1] Four.
+136)  BEN
+[pickup1] Two.
+137)  KENNY
+[pickup1] And when we see an opening, we go for it.
+138)  
+Brie

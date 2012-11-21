@@ -1,0 +1,20 @@
+1)  
+Use X / R1 on your controller to fire!
+2)  
+Use A / RT on your controller to fire!
+3)  
+Climb to the bell tower.
+4)  
+Press UP on the Left Stick to climb.
+5)  
+Use the W key to climb.
+9)  
+Use the W key to climb.
+6)  
+Press DOWN on the Left Stick to return.
+7)  
+Press the S key on the to return.
+8)  
+Move across the sign to the other side.
+10)  
+Touch and drag with your finger to climb.

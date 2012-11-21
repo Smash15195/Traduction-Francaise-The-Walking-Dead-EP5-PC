@@ -1,0 +1,126 @@
+1)  
+Carley
+2)  
+Clementine
+3)  
+Doug
+4)  
+Duck
+5)  
+Kenny
+6)  
+Lilly
+7)  
+Katjaa
+8)  
+Look At
+9)  
+Talk To
+10)  
+Use
+11)  
+Take
+12)  
+Open
+13)  
+Move To
+14)  
+Push
+15)  
+Unlock
+16)  
+Search
+17)  
+Look Through
+18)  
+Exit
+30)  
+Exit
+19)  
+Examine
+20)  
+Move
+21)  
+Help
+22)  
+Hit
+23)  
+Pick Up
+24)  
+Pull
+25)  
+...
+26)  
+Stomp
+27)  
+TO BE CONTINUED...
+28)  
+Ben
+29)  
+Chop
+31)  
+Close
+32)  
+Eat
+33)  
+Look Under
+34)  
+Back
+35)  
+Shoot
+36)  
+Grab
+37)  
+Yell To
+38)  
+Look In
+39)  
+Boost
+40)  
+Kick
+41)  
+Punch
+42)  
+Christa
+43)  
+Omid
+44)  
+Give
+45)  
+Shove
+46)  
+Jab
+47)  
+Fight
+48)  
+Back Off
+49)  
+Walk To
+50)  
+Enter
+51)  
+Pry
+52)  
+Block
+53)  
+Toggle
+54)  
+Turn
+55)  
+Chuck
+56)  
+Jump Over
+57)  
+Attach
+58)  
+Climb
+59)  
+Put Down
+60)  
+Walker
+61)  
+Smash
+62)  
+Cross
+63)  
+Attack

@@ -1,0 +1,510 @@
+1)  
+Balcony Door
+2)  
+Look At
+5)  
+Look At
+8)  
+Look At
+3)  
+Open
+6)  
+Open
+9)  
+Open
+4)  
+Door
+7)  
+Window
+10)  
+Okay.
+11)  
+Hell no!
+12)  
+Gate
+13)  CHRISTA
+{thinkingA}This place seems pretty sealed off.
+14)  BEN
+[smelling] {fearA}Ugh.
+15)  KENNY
+{angryA}Everyone keep a goddamn eye out.
+16)  KENNY
+[overwhelmed] {fearB}God... [gathinger himself] [sigh]
+17)  CHRISTA
+{sadA}Well. [looking at suicidal couple]
+18)  
+Might've been the right choice...
+19)  
+Let's keep moving.
+20)  
+How could they do this...
+21)  LEE
+Smart. Think of all the people we've seen go... they got to do it their own way. Together.
+22)  KENNY
+[quiet, to himself] {thinkingA}Got at least one shot left.
+23)  LEE
+{normalD}Let's keep moving. We gotta go.
+24)  CHRISTA
+[distant] Yeah. [a pause] {sadA}We've seen so many people... {sadB}I don't know why these ones break my heart.
+25)  OMID
+We should move.
+26)  CHRISTA
+[distant] {fearA}Yeah.
+27)  KENNY
+{thinkingA}Looks like we can stay off the streets all the way to River Street if we're careful.
+28)  CHRISTA
+{happyB}Let's go.
+29)  BEN
+Go ahead.
+30)  CHRISTA
+{thinkingA}Let's clear the room before we move on. {normalB}Lee, figure out where we're headed.
+31)  CHRISTA
+{thinkingA}Nothing other than personal items in here.
+32)  LEE
+{thinkingA}Might be the way out.
+33)  LEE
+{thinkingA}This house is overrun, too.
+34)  LEE
+[to the group, not too loud] {fearA}House is full, too. Stay quiet.
+35)  LEE
+{fearA}The streets are full. {thinkingA}Hundreds of them.
+36)  LEE
+{fearA}We're not going out this window.
+37)  OMID
+It's sick, but... think of all the pain they avoided.
+38)  CHRISTA
+{thinkingA}I guess Crawford would've gotten them, anyway.
+39)  KENNY
+[pickup1][preempting Lee] Don't ask me how I'm doing -- let's just keep going.
+40)  LEE
+{sadA}You still with us, Ben?
+41)  BEN
+Yeah, Lee. I just want to help.
+42)  KENNY
+[helping lee over] Here you go.
+43)  LEE
+Thanks.
+44)  CHRISTA
+Let's keep going. Be careful up here.
+45)  OMID
+They haven't learned to climb yet, right?
+46)  LEE
+Ben!
+47)  BEN
+[hitting the ground] UGHAHHH!
+48)  BEN
+[falling, surprised] Wa-AHHH!
+49)  OMID
+Holy fuck! [to the group]What are we gonna do?!
+50)  CHRISTA
+Be care--
+51)  CHRISTA
+Shit.
+52)  BEN
+[wrecked, in shock] Oww...uh... I'm okay....[a little too loud]
+53)  
+Shh!
+54)  
+Are you okay?!
+63)  LEE
+Are you okay?!
+55)  
+God dammit, Ben...
+65)  LEE
+God dammit, Ben...
+56)  LEE
+Shh! QUIET, Ben, or they'll be on top of us.
+57)  BEN
+[wrecked, in shock] I'm okay, just get me out of here...
+58)  BEN
+[wrecked, in shock] I just slipp--OWWW!
+59)  KENNY
+[grumbling] How the fuck did this happen?
+60)  BEN
+[wrecked, in shock] Please, just get me up!
+61)  KENNY
+Yeah, try to keep your mouth shut! [shh]
+62)  BEN
+[wrecked, in shock] I'm sorry, just get me up... my leg's hurt, I think.
+64)  KENNY
+What the fuck happened, Ben?
+66)  BEN
+[wrecked, in shock] I'm sor-sorry, I'm sorry.
+67)  KENNY
+Just don't panic.
+68)  KENNY
+We're gonna get your ass up.
+69)  BEN
+[wrecked, in shock] Really? I thought you --
+70)  KENNY
+Fucking hell...
+71)  BEN
+[wrecked, in shock] What is it? I'm okay... I'm okay....
+72)  KENNY
+We can get you up. We can...
+73)  BEN
+[being moved] OWWWW!!! UGHH...
+74)  
+He's screwed.
+77)  LEE
+He's screwed.
+75)  
+Yank him off.
+78)  KENNY
+He's NOT screwed. He can't die down here.
+79)  LEE
+What do you want to do, Ken? We can't--
+80)  LEE
+Just yank him off that thing. Fast, like a Band-Aid.
+81)  BEN
+WHAT?!
+82)  KENNY
+Do you think--
+83)  
+He can stay quiet.
+84)  
+If he'd be quiet, MAYBE.
+85)  LEE
+He's quiet. We can take our time and save his life.
+86)  BEN
+[panicked, wounded] I can be super qui--
+87)  LEE
+IF he'd be quiet, then MAYBE, but Kenny, this is fucking serious. He could die just by moving him wrong.
+88)  BEN
+[panicked, injured] I won't move!
+89)  KENNY
+BEN!
+90)  BEN
+[injured] Please!
+91)  KENNY
+Well, we gotta do something!
+92)  BEN
+OH GOD DON'T LET THEM GET TO ME!
+93)  KENNY
+FUCK!
+94)  KENNY
+Do you have any bullets left?! This has only got one left in it.
+95)  LEE
+I'm out!
+96)  KENNY
+Shit!
+97)  LEE
+What are you gonna do?
+98)  KENNY
+GIVE THEM TO ME AND GET THE HELL OUT OF HERE!
+99)  LEE
+I'm not leaving you!
+100)  KENNY
+GO!
+101)  KENNY
+Give them to me.
+102)  LEE
+Just a few.
+103)  KENNY
+Get the fuck out of here.
+104)  LEE
+What?!
+105)  KENNY
+GO BACK. She needs you, Lee!
+106)  KENNY
+Give it to me.
+107)  KENNY
+Fuck, that's not enough.
+108)  LEE
+Just one!
+109)  KENNY
+You're not doing shit! YOU are going after Clem!
+110)  LEE
+KENNY!
+111)  LEE
+What? We gotta do something!
+112)  KENNY
+THIS IS NOT A DISCUSSION.
+113)  LEE
+Okay, here!
+114)  KENNY
+Get back up there!
+115)  KENNY
+NOW!
+116)  LEE
+Okay, I'm going!
+117)  KENNY
+GOOD.
+118)  
+What are you gonna do?!?
+121)  LEE
+What are you gonna do?!?
+119)  
+This is suicide!
+120)  
+LEAVE HIM, KEN!
+122)  LEE
+This is suicide, Kenny! You can't do this!
+123)  LEE
+[can't go, 2nd guessing himself] Fuck, LEAVE HIM, Ken. I can't let you do this!
+124)  KENNY
+FUCKING GO!
+125)  LEE
+Hell no, man! I'm not leaving.
+126)  KENNY
+WHAT DID I JUST SAY?
+127)  LEE
+Let's get Ben and get out of here!
+128)  KENNY
+DON'T JUST STAND THERE!
+129)  LEE
+[lee struggles to open the locked gate in vain, pounding it and threatening kenny]{angryA}
+130)  LEE
+[lee struggles to open the locked gate in vain, pounding it and threatening kenny 2] {angryA}GOD DAMMIT!!!
+131)  KENNY
+BACK YOU SONS OF BITCHES!
+132)  KENNY
+[fighting off walkers]
+133)  BEN
+[screaming in horror, zombies on him] AHHHFUCK! KENNY PLEEE--
+134)  KENNY
+[getting eaten by walkers]
+135)  KENNY
+[pushing zombies off himself]
+136)  KENNY
+[getting eaten then dying]
+137)  KENNY
+[get off me]
+138)  CHRISTA
+What happened?!?
+139)  
+They're gone.
+140)  
+I tried to help.
+141)  
+I couldn't do anything.
+142)  LEE
+[kenny has been killed along with Ben] God...DAMN...[catching his breath] God.
+143)  OMID
+...They're gone.
+144)  LEE
+They're gone. [kenny and ben eaten]
+145)  LEE
+[kenny ben killed] I... I tried to help.
+146)  LEE
+There just... there were too many of them. Ben was really messed up...[sigh] I don't know. There's nothing else.
+147)  CHRISTA
+What the fuck happened?!
+148)  CHRISTA
+I heard a shot.
+149)  LEE
+I couldn't do anything. Ben was really... messed up. Kenny couldn't leave him. [deep breath] It was just fucked.
+150)  CHRISTA
+I heard a couple shots...
+151)  OMID
+[floored] Wha--
+255)  OMID
+[floored] Wha--
+152)  LEE
+It was Ben's... biggest fear, you know?
+253)  LEE
+It was Ben's... biggest fear, you know?
+153)  LEE
+Kenny made sure... that Ben didn't feel any more pain than he had to.
+256)  LEE
+Kenny made sure... that Ben didn't feel any more pain than he had to.
+154)  
+Kenny took Ben out.
+155)  
+Kenny spared Ben, then himself.
+156)  
+He was fighting them off.
+157)  
+We needed more bullets.
+160)  LEE
+We needed more bullets.
+158)  LEE
+He was fighting them off... trying to, at least. It...[trails off] [sigh]
+159)  CHRISTA
+You needed a miracle. It's not your fault Lee.
+161)  OMID
+I can't believe...
+162)  
+Balcony
+163)  LEE
+[pickup1]Yeah. [I'm okay, just sad about the dead people]
+164)  CHRISTA
+[pickup1][seeing lee staring at the dead couple]Lee?  You okay?
+165)  CHRISTA
+[pickup1]Let's keep at it.
+166)  LEE
+[pickup1][looking at the dead couple.  Nothing left to say] [Sighs]
+167)  CHRISTA
+[pickup1]Hey, my parents' house looked a lot like this, and they watched kung fu movies.
+168)  OMID
+[pickup1]Judging by the decor of this room, I'd guess they were PBS watchers.
+169)  CHRISTA
+[pickup1]Just sayin'. [don't judge]
+170)  LEE
+[pickup1][looking at a painting][to himself] Hard to believe the world once felt this peaceful.
+171)  KENNY
+[pickup1] Don't you say that.
+172)  KENNY
+[pickup1] You stick it out as long as you can. You do whatever you have to. [a beat] I could've done more.
+173)  
+You did everything you could.
+185)  
+You did everything you could.
+174)  
+We all could've done more.
+175)  
+There's no use dwelling on it.
+176)  LEE
+[pickup1] You did everything you could.
+187)  LEE
+[pickup1] You did everything you could.
+177)  LEE
+[pickup1] We all could've done more. Myself included.
+178)  LEE
+[pickup1] There's no use dwelling on it. You know that.
+190)  LEE
+[pickup1] There's no use dwelling on it. You know that.
+179)  KENNY
+[pickup1] I could've been a better husband... a better father... could've been a better friend.  So let's figure a way outta here, get that little girl.
+180)  KENNY
+[pickup1] No, Lee. [leads into "been a better husband"]
+181)  KENNY
+[pickup1] No, Lee. [leads into "been a better husband"]
+186)  KENNY
+[pickup1] No, Lee. [leads into "been a better husband"]
+189)  KENNY
+[pickup1] No, Lee. [leads into "been a better husband"]
+182)  CHRISTA
+[pickup1] Yeah. [a pause] {sadA}We've seen so many people.... {sadB}I don't know why these two break my heart.
+183)  KENNY
+[pickup1] What's heartbreakin' is not givin' yourself a chance.
+184)  KENNY
+[pickup1] It's what Katjaa did.
+195)  KENNY
+[pickup1] It's what Katjaa did.
+188)  
+There's no use dwelling on the past.
+191)  
+I'm sorry, Ken.
+192)  LEE
+[pickup1] Jesus... I'm sorry, Ken.
+193)  KENNY
+[pickup1] She left me... my son... people that cared about us....  I forgive her, but it don't make it any less wrong.  You don't just end it cause it's hard.  You stick it out, and you help the folks you care about.  [beat] So let's figure a way outta here and get that little girl.
+194)  LEE
+[pickup1] How could they do this?
+196)  LEE
+[pickup1][looking at some wall art]What do you call this thing?
+197)  OMID
+[pickup1] ["what do you call this thing?"]Art?
+198)  KENNY
+[pickup1]["what do you call this thing?"]An eyesore.
+199)  KENNY
+[pickup1]Me and my fuckin' mouth....
+200)  
+Kenny and I've got this.
+201)  
+Someone's gotta stay back. In case.
+202)  
+Keep a lookout.
+203)  LEE
+[pickup1]And if all this goes bad, you might be Clementine's last hope.
+210)  LEE
+[pickup1]And if all this goes bad, you might be Clementine's last hope.
+204)  CHRISTA
+[pickup1][begrudingly] We'll keep an eye out.
+211)  CHRISTA
+[pickup1][begrudingly] We'll keep an eye out.
+205)  LEE
+[pickup1]	Kenny and I can handle this.
+206)  LEE
+[pickup1]Even more reason we all don't need to risk it.  You worry about her.
+207)  OMID
+[pickup1]	Dude, let me help you; you're already hurt.
+208)  LEE
+[pickup1] Someone's gotta stay back. In case.
+209)  OMID
+[pickup1] Come on, man!
+212)  CHRISTA
+[pickup1]Be-
+217)  CHRISTA
+[pickup1]Be-
+213)  CHRISTA
+[pickup1] ...careful.
+218)  CHRISTA
+[pickup1] ...careful.
+214)  OMID
+[pickup1]Okay, but I can't see much from up here.
+215)  LEE
+[pickup1]Just let us know if they start coming down the alley.  We'll be back.
+216)  LEE
+[pickup1] Stay up here.  Keep an eye out.
+219)  OMID
+[pickup1][frustrated] We'll let you know if we see trouble.
+220)  LEE
+[pickup1] DAMMIT, KENNY!!!
+221)  KENNY
+[pickup1] [calm] Lee. Lee, it's okay.
+222)  
+Dead Couple
+223)  
+Medallion
+224)  
+Painting
+225)  
+Television
+226)  
+No, Ken!
+227)  
+Okay. Goodbye.
+228)  LEE
+[pickup1] What the fuck, Kenny?! [kenny is choosing to die for ben]
+229)  KENNY
+[pickup1] [calm] It's just somethin' I gotta do. You know that.
+230)  LEE
+[pickup1] No, KEN! No, it's not!
+231)  KENNY
+[pickup1] Shut up, pal. It'll be fine. Just go.
+232)  LEE
+[pickup1] [leaving kenny] All right. Goodbye, Ken. I'm sorry.
+233)  
+Katjaa wouldn't want this.
+234)  KEN
+[pickup1] Yeah, she would. I either save the kid or I getta see her. Either way. Now get back up there.
+235)  LEE
+[pickup1] Katjaa wouldn't want this... Dammit, Ken!
+236)  KENNY
+[pickup1] You get it, doc. I gotta do it. Now get on up there.
+237)  KENNY
+[pickup1] [leaving, in control though] Go get that girl!
+238)  CHRISTA
+[pickup1] You saw them die?
+239)  OMID
+[pickup1] They're dead...?
+240)  LEE
+[pickup1] Nobody was getting out of there.
+241)  CHRISTA
+[pickup1] I'm sorry, Lee.
+242)  
+He did what he had to.
+243)  
+Well, maybe he got away.
+244)  
+He wasn't a bad guy.
+245)  LEE
+[pickup1] He did what he had to. All the way to the end.
+246)  LEE
+[pickup1][reconsidering] Well, maybe he DID get away. I don't know. [solemn]
+247)  LEE
+[pickup1] He wasn't a bad guy. A lot of folks might not have always agreed. Maybe even me.
+248)  LEE
+[pickup1] [solemn] Right behind you.
+249)  CHRISTA
+[pickup1] We should go.
+250)  BEN
+[scream of pain]
+251)  LEE
+Kenny had one bullet and that's how he used it.
+252)  LEE
+God, poor fucking kid.
+254)  LEE
+God, poor fucking kid.

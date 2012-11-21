@@ -1,0 +1,92 @@
+1)  
+Christa will remember that.
+24)  
+Christa will remember that.
+2)  
+Omid will remember that.
+25)  
+Omid will remember that.
+3)  
+Kenny will remember that.
+4)  
+Ben will remember that.
+5)  
+They will remember that.
+6)  
+Christa appreciates that.
+7)  
+Omid appreciates that.
+8)  
+Kenny appreciates that.
+9)  
+Ben appreciates that.
+10)  
+Christa disliked that.
+11)  
+Omid disliked that.
+12)  
+Kenny didn't like that.
+13)  
+Ben disliked that.
+14)  
+You chose to keep your arm.
+15)  
+Christa noted your silence.
+16)  
+Omid noted your silence.
+17)  
+Kenny noted your silence.
+18)  
+Ben noted your silence.
+19)  
+Christa noticed your panic.
+20)  
+Kenny likes that.
+21)  
+Omid likes that.
+22)  
+Omid and Christa like that.
+23)  
+Christa noticed that.
+26)  
+Omid agrees.
+27)  
+You allowed Kenny to save Ben from his greatest fear.
+28)  
+You tried to stay with Kenny and Ben.
+29)  
+Kenny noticed your panic.
+30)  
+Christa noticed your indecision.
+31)  
+Omid and Christa will remember that.
+32)  
+Clementine will remember this.
+33)  
+Clementine will remember.
+34)  
+Ben noticed your skepticism.
+35)  
+Ben noted your optimism.
+36)  
+Kenny will remember your skepticism.
+37)  
+Kenny noticed your optimism.
+38)  
+Christa noted your skepticism.
+39)  
+Christa noticed your optimism.
+40)  
+Christa likes that.
+41)  
+Christa doesn't like that.
+42)  
+Christa isn't sure about that.
+43)  
+Kenny understands.
+44)  
+This is going to hurt.
+45)  
+This is going to hurt.
+46)  
+Kenny noticed that.
