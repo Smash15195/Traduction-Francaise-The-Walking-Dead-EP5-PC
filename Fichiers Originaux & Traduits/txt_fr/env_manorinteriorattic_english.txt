@@ -1,0 +1,816 @@
+1)  KENNY
+[gathering himself]{FearA} Ca aurait pu mieux se passer.
+2)  CHRISTA
+{FearA} Tout le monde va bien ?
+3)  KENNY
+{ThinkingA} Lee a toujours sa morsure.
+4)  CHRISTA
+{AngryA} Ferme-la.
+5)  OMID
+{NormalA} Ok, sortons d'ici et tirons-nous.
+6)  KENNY
+{ThinkingA} Le gamin a raison, on doit se tirer d'ici. {FearA} Tu penses que nous avons une chance de récupérer Clém {AngryA} et rattraper ces foutus voleurs ?
+7)  LEE
+[pickup1] [re-record so lee doesn't sound too healthy]{NormalD} Je ne sais pas. {NormalC} Peut-être.
+8)  OMID
+{ThinkingA} Bon, nous ne sortirons pas par cette fenêtre. {NormalB} Pas de loquets, pas d'accès au toit et un dénivelé de 10 mètres.
+9)  
+Nous n'aurions pas du monter ici.
+10)  
+Il doit y avoir un autre moyen.
+11)  
+Nous nous frayons un passage à travers la maison.
+12)  LEE
+[pickup1] [re-record so lee doesn't sound too healthy]{NormalD} Nous n'aurions pas du monter ici.
+13)  KENNY
+{ThinkingA} Où aurions-nous pu aller d'autre ? {FearA} Les rues sont remplies de rôdeurs et il en arrive de tous les côtés.
+14)  CHRISTA
+{FearA} Morts, nous ne pourrons rien faire pour Clémentine.
+22)  CHRISTA
+{FearA} Morts, nous ne pourrons rien faire pour Clémentine.
+15)  LEE
+[pickup1] [re-record so lee doesn't sound too healthy]{NormalD} Il doit y avoir un autre moyen.
+16)  CHRISTA
+{NormalA} Regarde sur le sol s'il y a un autre accès, {FearA} une évacuation, n'importe quoi.
+24)  CHRISTA
+{NormalA} Regarde sur le sol s'il y a un autre accès, {FearA} une évacuation, n'importe quoi.
+17)  KENNY
+{NormalB} Ou nous restons en hauteur en attendant que la maison se vide.
+18)  LEE
+[pickup1] [re-record so lee doesn't sound too healthy] On pourrait peut-être se frayer un passage à travers la maison ? J'ai une arme, {NormalD} qu'avons-nous d'autre ?
+19)  CHRISTA
+{FearA} Pas grand chose.
+20)  KENNY
+{ThinkingA} Ce serait un sacré bordel de retourner là en-bas.
+21)  BEN
+{FearA} J'irai.
+23)  KENNY
+{NormalB} Bon, nous devons faire quelque chose. Nous sommes en vie, mais {ThinkingA} on va devenir dingue si on reste ici.
+25)  KENNY
+{FearA} Oh, Lee, ça va ?
+26)  LEE
+{NormalD} Ouais, ouais, je --
+27)  LEE
+Il faut... que je...
+28)  LEE
+[cough]
+29)  CHRISTA
+{FearA} Hé...
+30)  CHRISTA
+{NormalA} Tu n'as pas l'air bien. Et tu es brûlant.
+31)  
+Laisse-moi. Je vais bien.
+32)  
+Ca va. Ne t'inquiète pas.
+33)  
+Ne t'occupe pas de moi. Je vais bien.
+34)  LEE
+{NormalC} Laisse-moi, je --
+35)  LEE
+{NormalB} Je vais bien, ne --
+36)  LEE
+{NormalD} Hé, ne comm--
+37)  CHRISTA
+{NormalB} Je suis sûre que tu--
+38)  CLEMENTINE
+[radio process hushed] Lee, Lee, Lee, je vais bien, je suis là où mes parents-- oh non !
+39)  CLEMENTINE
+[sfx processed] Lee.
+40)  CLEMENTINE
+[sfx processed] Lee.
+41)  CLEMENTINE
+[sfx processed that turns to just straight radio voice like the other branch] Lee ! Lee ! Lee ! Je vais bien, je suis là où mes parents-- oh non !
+42)  CHRISTA
+{AngryB} Il nous faut des SOLUTIONS, {FearA} pas des plaisanteries stupides.
+43)  CHRISTA
+[apologizing for the tone she just took.] {SadA} Je suis désolée.
+44)  KENNY
+{ThinkingA} Donc personne n'a une idée.
+45)  CHRISTA
+{AngryA} OMID.
+46)  OMID
+{AngryA} CHRISTA. J'essaye juste de détendre l'atmosphère.
+47)  CHRISTA
+{NormalB} Arrête.
+48)  OMID
+{HappyA} Dixon Kent le IIIe, industri--
+49)  OMID
+{HappyB} Je parie que ce mec en a une.
+50)  OMID
+{HappyA} Il a l'air plutôt ingénieux.
+51)  KENNY
+{ThinkingA} Quelqu'un a une idée ?
+52)  CHRISTA
+[urgent] {FearA} Qu'est-ce que ça voulait dire ?
+53)  LEE
+[pickup1] [re-record -- BIG BIG REALIZATION, not so urgent] {NormalB} Elle est à l'hôtel dans lequel ses parents étaient descendus, {HappyA} il ne l'a pas déplacée.
+54)  KENNY
+{AngryA} Pas encore.
+55)  CHRISTA
+{FearA} Oui, pas encore.
+56)  
+Nous devons y aller, MAINTENANT.
+57)  
+Stop. Il ne faut pas s'affoler.
+59)  BEN
+{FearA} Lee, lève-toi !
+60)  KENNY
+{FearA} Vous avez entendu ?
+61)  LEE
+{NormalC} Oui.
+62)  
+Mais putain, pourquoi sommes-nous montés ici ?
+63)  
+Continue à chercher un moyen de sortir !
+64)  
+Alors je me battrai SEUL pour sortir.
+65)  LEE
+[frustrated]{FearA} Nous devons y aller, MAINTENANT. {NormalC} Sans perdre une seconde.
+66)  KENNY
+[emp] {ThinkingA} OU, Lee ? Allons ! Nous sommes coincés.
+67)  LEE
+[frustrated] {NormalC} Arrête ça. On ne peut pas se permettre de paniquer.
+68)  LEE
+[frustrated]{NormalC} Nous n'aurions pas du monter ici. {NormalD} Nous sommes coincés.
+69)  CHRISTA
+{AngryA} Du calme.
+73)  CHRISTA
+{AngryA} Du calme.
+70)  KENNY
+{FearA} Lee a raison.
+71)  LEE
+[frustrated]{NormalB} Comme je l'ai déjà dit, tout le monde doit{NormalC} continuer à chercher un moyen de sortir, nom de dieu. {NormalD} Nous sommes coincés ici.
+72)  LEE
+[frustrated]{AngryA} Alors je suppose que je me battrai SEUL pour sortir.
+74)  LEE
+[frustrated]{AngryB} Ne me dis pas de me calmer. {FearA} Nous sommes coincés, bordel !
+75)  KENNY
+{ThinkingA} Lee a raison, Christa.
+76)  KENNY
+{ThinkingA} Il ne faut pas seulement penser à Clémentine, nous avons une autre{AngryA} petite... urgence.
+77)  OMID
+{ThinkingA} Que veux-tu dire ?
+78)  KENNY
+{NormalB} Comment allons-nous sortir d'ici ?
+79)  OMID
+{NormalB} C'est bien là la question, on n'en sait rien.
+80)  KENNY
+[more urgent] {ThinkingA} Ok, maintenant ta vie en dépend. {AngryA} Comment allons-nous sortir d'ici ?
+81)  OMID
+{DisgustA} Je ne sais pas.{ThinkingA} Je n'en ai pas la moindre idée.
+82)  CHRISTA
+{FearA} Moi bien.
+83)  KENNY
+{FearA} Tu penses qu'il nous reste combien de temps ?
+84)  LEE
+{ThinkingA} Quoi ? {FearA} Je... Je ne sais pas.
+85)  LEE
+{NormalD} J'ai pensé le couper, {NormalC}mais je ne l'ai pas fait.
+86)  KENNY
+{ThinkingA} Nous aurions du le couper. {FearA} Au moins comme ça il y aurait eu une chance.
+87)  LEE
+{NormalC}Bon, tu ne l'as pas fait et il est trop tard maintenant.
+88)  CHRISTA
+{FearA} Nous aurions du te forcer à le couper.
+89)  BEN
+{FearA} J'aurais peut-être du te forcer à le couper...
+90)  KENNY
+{ThinkingA} Tu aurais pu le couper ?!
+91)  BEN
+{SadA} Oui. Il y avait des outils. {FearA} Lee n'a pas voulu.
+92)  KENNY
+{ThinkingA} Tu penses que ça a marché ?
+93)  LEE
+{NormalC} Je... Je ne sais pas. {NormalD} J'espère.
+94)  KENNY
+{ThinkingA} Je pense que nous devrions avoir... une conversation d'adultes à propose de{FearA} ce qui se passera si Lee s'évanouit de nouveau.
+95)  KENNY
+{ThinkingA} Nous pourrions avoir le même problème qu'avec Larry.
+96)  CHRISTA
+{DisgustA} Qui est Larry ?
+97)  KENNY
+{AngryA} Ca n'a pas d'importance.
+98)  OMID
+{SickA} Hé, écoutez...
+99)  OMID
+{ThinkingA} Je trouve qu'il a l'air plutôt bien... [nervous]
+100)  
+Il n'est pas nécessaire d'en parler.
+101)  
+Occupons-nous de Clém.
+102)  
+Bien, que veux-tu faire ?
+103)  
+C'est ça, merci beaucoup.
+104)  
+Mon bras n'est pas le problème.
+105)  
+Et si c'était DUCK là-dehors ?
+106)  
+Alors tuez-moi !
+107)  
+Tu ne me toucheras pas.
+108)  
+Je suis désolé ! Ok ?!
+109)  LEE
+{NormalC} Il n'est pas nécessaire d'en parler.
+110)  KENNY
+{ThinkingA} Je pense pourtant qu'il le faut.
+111)  LEE
+{AngryA} Et moi je te dis que non.
+112)  CHRISTA
+{FearA} Les gars.
+113)  LEE
+{NormalC} Ok, qu'est-ce que tu veux faire ?
+114)  KENNY
+{FearA} Simplement... en parler.
+115)  LEE
+{AngryB} Et on arrête cette conversation au moment où un truc me tombe sur la tête ?
+116)  KENNY
+{AngryB}Espèce de--
+117)  CHRISTA
+{ThinkingA} Je ne sais pas ce qui s'est passé avant qu'Omid et moi arrivions, {FearA} mais nous pourrons dépasser cette épreuve quand elle se présentera.
+118)  KENNY
+{FearA} Lee, je ne préconise rien là...
+119)  KENNY
+{ThinkingA} Mais comment dire que ce n'est rien ? {FearA}Nous nous soucions tous tellement de Clémentine que {AngryA} nous en oublions ce qu'il t'arrive à toi !
+120)  LEE
+{NormalC} Je suis vraiment content que tu te préoccupes de moi, de Clém. {AngryA} C'est un putain de réconfort.
+121)  KENNY
+{AngryB} Doucement, Lee.[getting pissed]
+122)  LEE
+{AngryC} Mon bras n'est pas le problème. Je ne suis pas le problème. Les 500 rôdeurs dans la maison et l'absence d'issue dans cette pièce, {AngryA} voilà les foutus PROBLEMES.
+123)  LEE
+{ThinkingB} Et si c'était toi et que Duck était là-dehors ?
+124)  KENNY
+{AngryB} Oh là, mon pote.
+125)  LEE
+{NormalD} Je parie que tu te focaliserais sur le problème {AngryB} et sur le fait de ne pas avoir les gens contre toi.
+126)  OMID
+{DisgustA} Ca dérape complétement...
+127)  KENNY
+{AngryC} Parce que je ne me suis pas résigné à mourir {AngryB} à cause de notre stupidité.
+128)  KENNY
+{AngryC} Tu vas m'écouter.
+129)  KENNY
+{AngryB} Nous retrouverons Clémentine, avec ou sans toi.
+130)  LEE
+{AngryC} Alors tue-moi, espèce de fils de pute, ok ? {AngryD} Sans une putain d'hésitation.
+131)  KENNY
+{AngryC} JE LE FERAI.
+132)  LEE
+{AngryB} Je suis désolé, ok ! {AngryC} Merde ! On ne peut pas faire ça !
+133)  KENNY
+{AngryB} Il le faudra !
+134)  LEE
+[throwing a heavy thing in anger] GRRAH !
+135)  KENNY
+[throwing a heavy thing in anger] GRRAH !
+136)  OMID
+{NormalB} Tu as bousillé le visage de ce mec.
+137)  CHRISTA
+{NormalB} La ferme, chéri. {FearA} Regarde.
+138)  KENNY
+{HappyA} C'est complètement corrodé.
+139)  CHRISTA
+{ThinkingA} Qu'y a-t-il derrière ce mur, une chute de 10 mètres ?
+140)  OMID
+{ThinkingA} Non, cette maison est contre celle d'à côté.
+141)  KENNY
+{HappyA} Si le reste est aussi délabré, ce ne sera peut-être pas nécessaire.
+142)  CHRISTA
+{FearA} Nous ne sommes pas des condamnés d'Alcatraz, {ThinkingA} on ne peut pas passer les 3 prochains mois à faire un trou dans ce mur.
+143)  KENNY
+[this could be a good idea] {HappyB} Ca pourrait marcher.
+144)  KENNY
+{ThinkingA} Voyons ça...
+145)  KENNY
+{HappyA} Oui. On peut le faire.
+146)  KENNY
+[semi to himself] Il faudra travailler rapidement.
+147)  LEE
+[relieved] {HappyA} Ok.
+148)  KENNY
+{NormalB} Nous travaillerons à tour de rôle. Omid, Christa et moi. {ThinkingA} Lee, toi tu te reposes.
+149)  
+Je suis désolé.
+150)  
+Ne m'approche pas avec ce truc.
+151)  
+Je n'allais pas te faire de mal.
+152)  KENNY
+{SadA} Moi aussi. {NormalC} Je comprends. Va t'asseoir.
+153)  LEE
+{NormalD} Je suis désolé.
+154)  LEE
+{AngryA} Ne m'approche pas avec ce truc.
+155)  KENNY
+[sincere] {NormalB} Bien sûr, mon pote. Je sais.
+156)  LEE
+{NormalD} Je n'allais pas te faire de mal.
+157)  LEE
+{HappyA} Ce mur est trop solide.
+158)  OMID
+{ThinkingA} C'est vraiment possible... ?
+159)  CHRISTA
+Nous t'aurions probablement laissé continuer seul si tu ne nous l'avais pas dit. {FearA} Ca aurait été une erreur.
+160)  CHRISTA
+{NormalA} Je suis contente que tu nous aies parlé de la morsure, tu aurais pu ne pas le faire.
+161)  LEE
+{NormalD} Ouais, eh bien...
+162)  CHRISTA
+Je n'arrive pas à croire que tu ne nous aies pas dit que tu avais été mordu.
+163)  
+Je ne voulais effrayer personne.
+166)  LEE
+Je ne voulais effrayer personne.
+164)  
+Tu n'aurais rien pu y faire de toute façon.
+173)  LEE
+Tu n'aurais rien pu y faire de toute façon.
+165)  
+C'était mon problème.
+177)  LEE
+C'était mon problème.
+167)  CHRISTA
+Parce que toi aussi tu avais peur.
+168)  LEE
+J'ai été mordu pas un rôdeur
+169)  CHRISTA
+Tu pensais que nous t'aurions rejeté.
+170)  LEE
+Evidemment. [sure, why wouldn't you]
+171)  CHRISTA
+Je suis sûre que c'est ce que ce gars, Larry, a dit.
+172)  LEE
+Il n'avait pas été mordu. C'était différent.
+174)  CHRISTA
+Non. A part s'assurer que quelqu'un qui n'allait pas mourir en cours de route ira chercher Clémentine.
+175)  LEE
+Je n'aurais pas permis que ça arrive.
+176)  CHRISTA
+Pas le nôtre ? Pas celui de Clémentine ?
+178)  CHRISTA
+Eh bien, c'était stupide. Tu as vu qui nous sommes réellement, Omid et moi. Tu aurais pu nous faire confiance.
+179)  CHRISTA
+Tu étais effrayé. Je comprends.
+180)  OMID
+Je serais mort de peur.
+181)  
+J'ai compris qui il est. Et pourquoi il l'a fait.
+182)  
+Nous récupérons Clémentine. C'est tout.
+183)  OMID
+{DisgustA} A ta place j'aurais été mort de peur.
+184)  
+Je l'étais.
+185)  
+Je le suis.
+186)  
+Si tu étais moi tu serais plus grand de 30 centimètres.
+187)  LEE
+{NormalD} Je l'étais. {NormalC} Cette saloperie... {FearA} c'est arrivé si vite. {ThinkingA} Vous voyez, quand on évite un piéton de justesse ?
+188)  OMID
+{HappyA} De justesse... ?
+189)  CHRISTA
+{HappyA} On lui a retiré son permi de conduire. {ThinkingA} Deux fois.
+190)  LEE
+{NormalC} C'est juste que... {SurpriseA} d'un coup, cette {NormalC} chose était sur moi. Je ne l'ai pas vu venir, il est sorti de nulle part.
+191)  LEE
+{NormalD} J'ai paniqué. {SadA} Mais maintenant... je le sens en moi. Comme quand on couve la grippe.
+192)  OMID
+{SadA} C'est horrible.
+193)  LEE
+{NormalD} Je le suis.
+194)  OMID
+{DisgustA} Quand est-ce arrivé ?
+195)  LEE
+{NormalB} Et environ 25kg de plus. {HappyA} Tu, euh, ne serais pas aussi effrayé. [with a wink]
+196)  OMID
+{HappyA} Avec ton bras et ma jambe, {ThinkingA} on pourrait faire un combat d'infirmes, mon pote.
+197)  OMID
+{ThinkingA} Eh !
+198)  LEE
+{HappyA} Si tu étais moi tu serais plus grand de 30 centimètres.
+199)  LEE
+{HappyA} J'aurais du te le couper pour {ThinkingA} au moins te donner une chance.
+200)  LEE
+{HappyA} J'ai encore celle-là. Je peux mettre ma paume droite sur ton front{HappyC} et te laisser frapper dans le vide.
+201)  OMID
+{HappyA} Ha, d'accord... tu gagnes, pauvre type.
+202)  CHRISTA
+{HappyA} Je ne sais pas, mon chéri, {ThinkingA} il y a tellement de petites choses qui t'effrayent. Je préfère imaginer que{HappyA} tu pourrais surmonter les gros problèmes.
+203)  OMID
+{ThinkingA} Hum, euh, ouais, merci.
+204)  CHRISTA
+{FearA} Tu regrettes de ne pas l'avoir coupé ?
+205)  LEE
+{NormalD} Je crois que ça n'a plus beaucoup d'importance maintenant.
+206)  LEE
+J'ai perdu beaucoup de sensibilité dans mon bras.
+207)  OMID
+[concerned] {SadA} Vraiment ?
+208)  LEE
+{NormalC} Oui. C'est brûlant, comme une fracture, {NormalD} mais ça picote comme quand c'est endormi.
+209)  OMID
+{ThinkingA} Alors quand on aura attrapé ce mec... {AngryA} tu en penses quoi ?
+210)  LEE
+[sigh, ah well. so it goes.]
+211)  CHRISTA
+{SadA} Tu n'es pas sérieux.
+212)  CHRISTA
+{FearA} A ton avis, quelles sont nos chances ?
+213)  LEE
+{NormalD} Aucune idée. {NormalC} Je sais que tout le monde se pose la question. {NormalB} Même si ça ne fait que ralentir un peu le processus, c'est déjà ça de pris.
+214)  CHRISTA
+{DisgustA} C'est tellement bizarre. Chaque fois que je regarde ton bras, je m'attends à ce qu'il soit là.
+215)  LEE
+{NormalD} J'espère que tout ce qu'il y avait dans cette morsure est parti également.
+216)  
+Nous ferons ce qu'il faut pour qu'il ne recommence jamais.
+217)  LEE
+{NormalC} Nous ferons tout ce qui sera nécessaire.
+218)  LEE
+{NormalB}Il faut retrouver Clémentine, c'est tout ce qui compte. {NormalC} Malgré ce que je ressens, {NormalD} ça ne doit pas devenir une vengence.
+219)  OMID
+{NormalB} Bien sûr, mais si ce n'était pas aussi facile...
+220)  LEE
+{ThinkingA} Est-il possible de survivre sans jamais avoir quelque chose à se reprocher ?
+221)  LEE
+{ThinkingA} Nous devons découvrir qui est ce gars et {ThinkingB} pourquoi il a fait ça. {NormalB} Nous pouvons secourir Clém, {NormalD} mais elle ne sera jamais en sécurité si on ne l'arrête pas définitivement.
+222)  OMID
+{ThinkingA} Vote groupe a déjà eu de gros problèmes avant notre rencontre ?
+223)  LEE
+{NormalC} Nous nous arrangerons pour qu'il ne s'en prenne plus à personne. {NormalB} Le monde est déjà peuplé de trop de démons.
+224)  OMID
+{NormalB} ... Eh bien, tu te souviens de ce que j'ai dit tout à l'heure. {AngryA} Ce mec devra payer.
+225)  OMID
+{NormalB} Bien, j'ai confiance en toi, tu feras ce qui est juste.
+226)  OMID
+{SadA} Et... tu sais... {DisgustA} quoi qu'il t'arrive... euh...
+227)  CHRISTA
+{AngryA} Allons, ce serait possible {SadA} d'arrêter de dire ça ?
+228)  CHRISTA
+{NormalB} Pendant tout ce temps à l'hôpital {SadA} je sentais bien que tu pensais que tu allais mourir.
+229)  LEE
+{NormalD} J'ai été mordu, Christa. {NormalC} Nous savons tous comment ça va se terminer.
+230)  CHRISTA
+{FearA} Il doit bien y avoir quelque chose à faire.
+231)  LEE
+{NormalC} Je ne me suis pas résigné.
+232)  LEE
+{NormalC} A quoi ça sert de croire que ça va marcher ?
+233)  CHRISTA
+{FearA} Et en quoi se résigner va t'aider ?
+234)  LEE
+{NormalD} J'ai été mordu, Christa.
+235)  CHRISTA
+{DisgustA} Tu l'as coupé.
+236)  
+Je veux que vous l'emmeniez avec vous.
+237)  
+Je veux que Kenny prenne soin d'elle.
+238)  
+Il faut lui trouver une famille, ok ?
+239)  LEE
+{NormalD} C'est ça que je veux. Ok ?
+240)  LEE
+{NormalD} Je veux que vous l'emmeniez avec vous.
+241)  CHRISTA
+{SadA} Arrête ça.
+247)  CHRISTA
+{SadA} Arrête ça.
+242)  LEE
+{NormalC} Je suis sérieux. {NormalB} Elle serait en sécurité et plutôt heureuse avec vous deux.
+243)  CHRISTA
+{SadA} On ne va pas faire ça maintenant.
+244)  OMID
+{NormalB} Christa.
+245)  OMID
+{SadA} Ecoute-le.
+246)  LEE
+{NormalD} Je veux que Kenny prenne soin d'elle.
+248)  LEE
+{NormalC} Vous m'entendez ?
+249)  OMID
+{ThinkingA} Tu es sûr, mec ?
+250)  LEE
+{NormalB} Vous ne l'avez pas vu avec sa famille. {NormalC} Ce qu'il a fait pour les protéger.
+251)  LEE
+{NormalD} Il faut lui trouver une famille, ok ? {NormalC} Un endroit où elle sera en sécurité.
+252)  CHRISTA
+{DisgustA} Ne fais pas ça.
+253)  LEE
+{NormalC} Je veux que vous m'écoutiez.
+254)  CHRISTA
+{FearA} Je t'écoute, mais je {AngryA} ne veux pas avoir cette conversation.
+255)  OMID
+{DisgustA}Christa.
+256)  OMID
+{HappyA} Nous pourrions prendre soin d'elle.
+257)  LEE
+{NormalB} Du moment qu'elle trouve une famille. Vous m'entendez ?
+258)  OMID
+{NormalB} Oui. Bien sûr. [solemn]
+259)  OMID
+[staring a new subject] {HappyA} Nous ferons tout pour qu'elle soit en sécurité, Lee. {NormalB} Si c'est ça qui te préoccupe.
+260)  CHRISTA
+{SadA} Il n'est pas. {AngryA} Je ne veux pas encore en parler de ça.
+261)  OMID
+{ThinkingA}Et pour lui ?
+262)  
+Il se débrouillera bien tout seul.
+263)  
+Qu'est-ce que vous en pensez ?
+264)  
+Nous devons l'aider.
+265)  LEE
+{NormalB} Il arrivera bien à se débrouiller tout seul.
+266)  CHRISTA
+{ThinkingA} Tu veux dire quoi par là ?
+267)  LEE
+{NormalC} Ou bien il se ressaisit ou bien {NormalD} il va lui arriver des bricoles.
+268)  CHRISTA
+{DisgustA} Et c'est tout ?
+269)  LEE
+{NormalB} Qu'est-ce qu'on peut dire de plus ?
+270)  LEE
+{ThinkingA} Qu'est-ce que vous en pensez tous les deux ?
+271)  CHRISTA
+{ThinkingA} Il représente un risque pour le groupe, mais--
+272)  OMID
+{SadA} Je me sens mal pour lui.
+273)  CHRISTA
+{SadA} Oui, moi aussi je me sens mal pour lui.
+274)  LEE
+{NormalB} Nous devons l'aider. Ce n'est encore qu'un gamin, {NormalD} on a tendance à l'oublier.
+275)  CHRISTA
+{SadA} Pauvre gamin. {ThinkingA} Même s'il est parfois un peu crétin.
+276)  CHRISTA
+{NormalB} C'est bien qu'il l'ait fait, {AngryA} Kenny ne pouvait pas me raconter ces conneries.
+277)  OMID
+{DisgustA} Il perd souvent les pédales comme ça ?
+278)  LEE
+{NormalB} Non, c'était la première fois.
+279)  
+Le gamin a tué la famille de Kenny.
+280)  
+Kenny a été très dur avec lui.
+281)  
+Il ferait mieux de ne pas recommencer.
+282)  LEE
+{NormalB} Le fils de Kenny a été mordu pendant l'attaque d'une bande que Ben avait secrètement aidée. {NormalC} Ils l'avaient utilisé. {NormalD} La femme de Kenny... {NormalC} est morte à cause de leur fils.
+283)  CHRISTA
+{SadA} Mon dieu...
+284)  LEE
+{NormalD} Le gamin a tué sa famille, {NormalB} ça explique les tensions.
+285)  OMID
+{DisgustA} Vraiment...? {ThinkingA} Que s'est-il passé ?
+286)  LEE
+{NormalC} Kenny a été dur avec lui. {NormalB} Pour lui, Ben est responsable de la mort de sa famille et... {NormalD} c'est plus compliqué que ça.
+287)  OMID
+{SadA} Pourtant tu te sens mal pour lui, n'est-ce pas ?
+288)  LEE
+{NormalB} Il ferait mieux de ne pas recommencer. {NormalC} Il a détruit la vie de Kenny ; de tels accès de violence ne sont vraiment pas appropriés.
+289)  OMID
+{NormalB} Eh bien, on dirait que ça a atteint Kenny. {NormalA} Si ça peut servir à quelque chose.
+290)  OMID
+{NormalB} Bien sûr, si tu ne tiens pas compte d'une jambe infectée.
+291)  CHRISTA
+{NormalB} Tu veux que je le fasse ?
+292)  OMID
+{NormalA} Non, hum, tu continueras après moi.
+293)  KENNY
+[tired from exertion] {NormalB} Bon, j'en peux plus.
+294)  KENNY
+[turns to omid] {ThinkingA} Tu as l'air bien reposé.
+295)  KENNY
+[sitting down] Ca ne devrait plus être très long. C'est une bonne chose d'avoir du faire une pause.
+296)  KENNY
+{SadA} J'aurais fait la même chose.
+297)  KENNY
+{ThinkingA} C'était gonflé. {SadA} Je ne pense pas que je l'aurais fait.
+298)  KENNY
+{ThinkingA} J'ai entendu dire que vous reprochiez à Lee d'avoir caché sa morsure.
+299)  CHRISTA
+{ThinkingA} Oui, évidemment.
+300)  CHRISTA
+{ThinkingA} Au-moins il nous l'a dit.
+301)  KENNY
+{SadA} Je n'arrive toujours pas à croire que tu te sois fait mordre. {AngryA} Quelle... merde.
+302)  CHRISTA
+[softens] {SadA} Ca va ?
+303)  KENNY
+{SadC} La famille de Lee est morte aussi.
+304)  CHRISTA
+Tu as perdu plus que nous.
+305)  KENNY
+{ThinkingA} Je... {SadC} Je ne sais pas quoi dire.
+306)  CHRISTA
+{SadA} Je suis désolée.
+307)  CHRISTA
+{NormalB} Eh bien, autant que les autres.
+308)  
+Ca va aller, Ken.
+309)  
+Il n'est pas nécessaire de devenir sentimental.
+310)  
+Il va bien, ok ?
+311)  LEE
+{NormalD} Ca va aller, Ken.
+312)  KENNY
+[subject change] {NormalB} Quoi qu'il en soit, je vous remercie, tous les deux.{SadA}  Beaucoup d'entre nous ont perdu leurs familles.
+313)  KENNY
+{NormalB} Pourquoi fais-tu comme si {AngryA} rien ne s'était passé ?
+314)  CHRISTA
+{AngryA} Je lui demande simplement comment il va.
+315)  KENNY
+{NormalB} Lee a raison. [dir looks over his shoulder] {ThinkingA} Ton petit copain avance bien, soyons prêts à partir.
+316)  CHRISTA
+[sigh] {SadA} C'est vrai. {FearA} Je voulais juste dire que vous avez tous perdu beaucoup. {NormalB}Pourtant, nous sommes encore ici.
+317)  LEE
+{NormalC} Il n'est pas nécessaire de devenir sentimental.
+318)  KENNY
+{NormalB} Quoi qu'il en soit, merci d'avoir demandé.
+319)  CHRISTA
+{AngryA} On se calme. {NormalB} Je sais que tu veux sortir d'ici. [dir: looks over] Omid avance bien.
+320)  KENNY
+{SadC} Je vais [emph] bien. [to christa] {SadB} Ma famille me manque. C'est tout.
+321)  LEE
+{NormalC} Il va bien, ok ?
+322)  
+Tu devrais peut-être y aller doucement avec lui maintenant.
+323)  
+Tu as raison de le détester.
+324)  
+Il veut mourir.
+325)  KENNY
+{FearA} Peut-être. {AngryA} Peut-être pas.
+326)  LEE
+{NormalB} Pas sur lui.
+327)  KENNY
+{AngryA} Je suis vraiment en colère.
+328)  LEE
+{NormalD} Tu devrais peut-être y aller doucement avec lui maintenant.
+329)  LEE
+{NormalB} Tu as raison de le détester, tu sais ?
+330)  KENNY
+{AngryA} Peut-être. {SadA} Mais à quoi ça sert ? {SadC} Ca ne va pas les ramener.
+331)  KENNY
+{NormalB} Ouais. [flat]Comme pour nous tous.
+332)  CHRISTA
+{NormalB} Ca n'a pas été facile pour lui.
+333)  KENNY
+{ThinkingA} Je suis soulagé que tu aies pris la décision et pas moi.
+334)  KENNY
+{NormalB} Qu'est-ce qu'il y a encore ? [intimate]
+335)  KENNY
+{SadA} Ah, mon dieu... [to himself]
+336)  KENNY
+[sigh] {NormalB} Ah, bien. [to himself, coming back to earth]
+337)  CHRISTA
+{ThinkingA} Quelques unes.
+338)  KENNY
+{ThinkingA} Et il t'a raconté beaucoup de choses sur ce qu'on a traversé ?
+339)  KENNY
+{NormalC} Avant vous, il y a eu cette femme {ThinkingA} Lilly. Dieu sait où elle est maintenant. {NormalB} Quoi qu'il en soit, nous avons du... {FearA} prendre des décisions difficiles à propos de son père. {NormalB} Elle avait un certain talent pour se mettre entre Lee et moi, et il y a eu un paquet de nuits où {ThinkingA} j'ai détesté [gestures towards lee] ce gars.
+340)  LEE
+{NormalD} Quoi ? [intimate]
+341)  KENNY
+{NormalB} Oui. [sad] {SadA} Je n'y ai jamais vraiment pensé comme ça.
+342)  LEE
+{NormalD} Tu l'as entendu à l'extérieur.
+343)  KENNY
+Le jour où je l'ai rencontré, {AngryA} j'ai tout de suite pensé que ce mec était un connard.
+344)  CHRISTA
+{ThinkingA} Et ça a beaucoup changé ?
+345)  KENNY
+{NormalB} Ouais. {SadB} Ma familles est... morte. {SadC} Mais je sais qu'il est possible de se sentir encore plus seul.
+346)  KENNY
+{NormalB} Ca ferait de moi un monstre, mais je {SadA} souhaiterais que mon fils soit {SadB} en vie quelque part.
+347)  KENNY
+{SadA} Non, pas vraiment. Mais,{NormalB} Lee....
+348)  LEE
+{NormalC} Oui ?
+349)  KENNY
+{NormalB} Je n'ai pas souvent été d'accord avec toi, mais {ThinkingA} tout ce que tu essayes de faire pour Clém ? Je suis avec toi sur le coup.
+350)  KENNY
+{NormalB} Tu vois cette boule sur son visage ?
+351)  KENNY
+[regretful] {SadA} Possible.
+352)  CHRISTA
+{ThinkingA} C'est toi qui a fait ça ?
+353)  LEE
+{NormalB} Eh !
+354)  KENNY
+{HappyA} Aussi mou qu'un fruit pourri.
+355)  CHRISTA
+{ThinkingA} Vous ne trouvez pas qu'on a déjà assez de problèmes sans vous foutre sur la gueule tous les deux ?
+356)  KENNY
+{NormalB} Eh, il a fallu qu'il me ramène à la raison avant qu'on vous rencontre dans le train.
+357)  KENNY
+{HappyA} Eh bien, il lui faut une raison pour se battre.
+358)  CHRISTA
+[sarc] {HappyA} Regarde-le.
+359)  KENNY
+{NormalC} Nous étions plein de resources.
+360)  CHRISTA
+{FearA} Larry ne s'en est pas sorti ?
+361)  KENNY
+{NormalB} Non, lui pas. Nous bien.
+362)  KENNY
+{ThinkingA} Le gars qui s'appelait "Larry" ? {NormalB} Tu vois, Lee et moi avons été enfermés avec lui dans une chambre froide. {ThinkingA} Il a eu une crise cardiaque. Donc il y avait ce mec qui était, {AngryA}disons, bâti comme une armoire à glace, et nous avions{FearA} peur qu'il revienne et qu'il se mette à tous nous bouffer.
+363)  CHRISTA
+{ThinkingA} Qu'est-ce que tu as fait ?
+364)  
+C'est du passé.
+365)  
+Eh, tu es quand même un sale con.
+366)  
+Je suis désolé pour le mal que j'ai pu faire.
+367)  LEE
+{NormalB} Tout ça c'est du passé. {NormalD} Il faut aller de l'avant maintenant.
+368)  LEE
+{NormalB} Après tout ça, tu restes quand même {NormalC} un sale con, tu sais, Ken ?
+369)  KENNY
+{NormalC} J'ai entendu ça toute ma vie, doc.
+370)  LEE
+{NormalD} Je suis désolé si je t'ai blessé, Kenny. {NormalC} Un jour ou l'autre on fait du mal à quelqu'un, c'est inévitable,{ThinkingA} mais parfois je ne peux m'empêcher de me demander {SadA} si j'aurais pu en faire moins.
+371)  KENNY
+{SadA} Toi et moi, doc.
+372)  CHRISTA
+{NormalB} Maintenant vous êtes ici tous les deux, et vous essayez de vous entraider.
+373)  KENNY
+[takes a glug of whiskey]
+374)  KENNY
+{SadA} Eh bien, santé.
+375)  LEE
+[glug of whiskey]
+376)  LEE
+{NormalB} Non.
+377)  KENNY
+[alt use if acting doesn't cover] {ThinkingA} Comme tu veux.
+378)  OMID
+[offscreen, cardio] {HappyA} Ca y est !
+379)  CHRISTA
+[taking a swing of whiskey]
+380)  OMID
+{HappyA} Pas de rôdeurs.
+381)  OMID
+{HappyB} La situation s'améliore.
+382)  
+Casser
+383)  
+Bien sûr.
+384)  
+Non.
+385)  
+Porte manteau
+386)  
+Mur
+387)  LEE
+[pickup1] [grimace]
+388)  KENNY
+[pickup1] [doubtful] {SadA} Ce, euh... {ThinkingA}est un peu moins douloureux ?
+389)  KENNY
+[pickup1] {ThinkingA} Je n'insinue pas que tu es {NormalC}une sorte de super héros.
+390)  LEE
+[pickup1] {NormalC} A ton avis, Kenny ? [not too mean]
+391)  
+A ton avis ?
+392)  
+C'est toujours... "fraîchement découpé".
+393)  LEE
+[pickup1] {NormalD} C'est toujours fraîchement découpé. {NormalC} Alors, non, Kenny. {ThinkingB} Ca fait aussi mal que tu peux l'imaginer.
+394)  
+Je peux gèrer.
+395)  LEE
+[pickup1] {NormalD} Je supporte {NormalC} la douleur, voilà. {NormalD} Je suis juste épuisé.
+396)  KENNY
+[pickup1] {ThinkingA} Je ne m'attends pas à ce que tu dises que tu es en pleine forme.
+397)  LEE
+[pickup1] {NormalC} Je me sens comme quelqu'un qui a été mordu. Ni{NormalD} plus, ni moins.
+398)  KENNY
+[pickup1] {NormalC} Je veux dire, tu penses que{ThinkingA} ça a marché ?  {SadA} Est-ce que ça a servi à quelque chose ?
+399)  LEE
+[pickup1] {AngryA} Ca n'arrivera pas.
+400)  LEE
+[pickup1] {NormalC} Je pense qu'on ferait mieux de se préoccuper de Clém pour l'instant.
+401)  KENNY
+[pickup1] {DisgustA} Comment tu sais ça ?
+402)  KENNY
+[pickup1] {ThinkingA} Nous ne pourrons pas l'aider {AngryA}si tu nous attaques.
+403)  KENNY
+[pickup1] {AngryA} Ouais, pour l'instant peut-être... mais {ThinkingA}qui peut dire quand ça deviendra un problème.  Et à ce moment, {AngryB}il sera peut-être trop tard pour faire quelque chose!
+404)  KENNY
+[pickup1][responding to lee's steely calm but you break]{AngryC} Tu pourrais devenir l'un d'eux. {AngryB} Tu comprends ? {AngryD} Comment peux-tu rester calme en sachant ça !
+405)  LEE
+[pickup1] {AngryA} J'ai dit, c'est compris ?
+406)  LEE
+[pickup1] [steely calm] {AngryB} Tu ne me touches pas. {AngryA} Tu comprends ? {AngryB} Tu sais EXACTEMENT quoi faire si je me transforme et c'est assez. {AngryC} C'est compris ?
+407)  BEN
+[pickup1] {SadB} Tiens, hum... {FearA}Je ne suis pas très doué avec ces trucs. {NormalB}Tu l'as laissé tombé là-bas.
+408)  LEE
+[pickup1] {NormalD} Il voulait mourir... à Crawford.
+409)  LEE
+[pickup1] {NormalC} Quand je les ai eu là... dans ma main. {NormalD} Il a voulu que je le laisse tomber. {NormalC} Il me l'a demandé.
