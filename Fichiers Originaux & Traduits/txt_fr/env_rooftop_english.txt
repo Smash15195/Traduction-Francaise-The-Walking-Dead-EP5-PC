@@ -1,0 +1,1510 @@
+1)  KENNY
+{thinkingA} Tu te souviens quand Savannah était désert ?
+27)  KENNY
+{thinkingA} Tu te souviens quand Savannah était désert ?
+59)  KENNY
+{thinkingA} Tu te souviens quand Savannah était désert ?
+148)  KENNY
+{thinkingA} Tu te souviens quand Savannah était désert ?
+2)  CHRISTA
+{disgustA} Les larbins de Crawford ont fait au moins un truc bien, j'imagine.
+60)  CHRISTA
+{disgustA} Les larbins de Crawford ont fait au moins un truc bien, j'imagine.
+87)  CHRISTA
+{disgustA} Les larbins de Crawford ont fait au moins un truc bien, j'imagine.
+118)  CHRISTA
+{disgustA} Les larbins de Crawford ont fait au moins un truc bien, j'imagine.
+3)  KENNY
+{disgustA} Il y en a des milliers.
+26)  KENNY
+{disgustA} Il y en a des milliers.
+61)  KENNY
+{disgustA} Il y en a des milliers.
+4)  BEN
+{thinkingA} Ils nous ont suivi ?
+30)  BEN
+{thinkingA} Ils nous ont suivi ?
+89)  BEN
+{thinkingA} Ils nous ont suivi ?
+5)  KENNY
+{fearA} On dirait bien.
+29)  KENNY
+{fearA} On dirait bien.
+62)  KENNY
+{fearA} On dirait bien.
+6)  CHRISTA
+{worriedA} C'est dingue. Ils peuvent pas PISTER. Ils errent juste.
+63)  CHRISTA
+{worriedA} C'est dingue. Ils peuvent pas PISTER. Ils errent juste.
+88)  CHRISTA
+{worriedA} C'est dingue. Ils peuvent pas PISTER. Ils errent juste.
+121)  CHRISTA
+{worriedA} C'est dingue. Ils peuvent pas PISTER. Ils errent juste.
+7)  KENNY
+{disgustA} Vraiment ? Le train n'était pas très discret.
+28)  KENNY
+{disgustA} Vraiment ? Le train n'était pas très discret.
+64)  KENNY
+{disgustA} Vraiment ? Le train n'était pas très discret.
+8)  OMID
+{disgustA} Et on fait quoi maintenant ?
+65)  OMID
+{disgustA} Et on fait quoi maintenant ?
+9)  
+Il faut descendre de ce toit.
+32)  
+Il faut descendre de ce toit.
+68)  
+Il faut descendre de ce toit.
+90)  
+Il faut descendre de ce toit.
+127)  
+Il faut descendre de ce toit.
+152)  
+Il faut descendre de ce toit.
+165)  
+Il faut descendre de ce toit.
+10)  
+On peut guetter une ouverture.
+35)  
+On peut guetter une ouverture.
+74)  
+On peut guetter une ouverture.
+96)  
+On peut guetter une ouverture.
+133)  
+On peut guetter une ouverture.
+154)  
+On peut guetter une ouverture.
+167)  
+On peut guetter une ouverture.
+11)  
+Clémentine est là-bas.
+38)  
+Clémentine est là-bas.
+80)  
+Clémentine est là-bas.
+100)  
+Clémentine est là-bas.
+139)  
+Clémentine est là-bas.
+157)  
+Clémentine est là-bas.
+12)  KENNY
+[changing tone, looking out on to savannah] {thinkingA} On descend et {disgustA} on retrouve une fillette là-dedans. [to lee] {thinkingA} Ok, vieux ?
+66)  KENNY
+[changing tone, looking out on to savannah] {thinkingA} On descend et {disgustA} on retrouve une fillette là-dedans. [to lee] {thinkingA} Ok, vieux ?
+364)  KENNY
+[changing tone, looking out on to savannah] {thinkingA} On descend et {disgustA} on retrouve une fillette là-dedans. [to lee] {thinkingA} Ok, vieux ?
+13)  KENNY
+{fearA} Faisons le point.
+31)  KENNY
+{fearA} Faisons le point.
+67)  KENNY
+{fearA} Faisons le point.
+365)  KENNY
+{fearA} Faisons le point.
+14)  LEE
+{fearA} Il faut descendre d'ici aussi vite que possible.
+34)  LEE
+{fearA} Il faut descendre d'ici aussi vite que possible.
+69)  LEE
+{fearA} Il faut descendre d'ici aussi vite que possible.
+92)  LEE
+{fearA} Il faut descendre d'ici aussi vite que possible.
+128)  LEE
+{fearA} Il faut descendre d'ici aussi vite que possible.
+153)  LEE
+{fearA} Il faut descendre d'ici aussi vite que possible.
+166)  LEE
+{fearA} Il faut descendre d'ici aussi vite que possible.
+15)  CHRISTA
+{sadA} C'est risqué en bas. Impossible de traverser les rues.
+70)  CHRISTA
+{sadA} C'est risqué en bas. Impossible de traverser les rues.
+93)  CHRISTA
+{sadA} C'est risqué en bas. Impossible de traverser les rues.
+129)  CHRISTA
+{sadA} C'est risqué en bas. Impossible de traverser les rues.
+16)  LEE
+{disgustA} T'attends d'avoir des ailes ?
+33)  LEE
+{disgustA} T'attends d'avoir des ailes ?
+71)  LEE
+{disgustA} T'attends d'avoir des ailes ?
+91)  LEE
+{disgustA} T'attends d'avoir des ailes ?
+130)  LEE
+{disgustA} T'attends d'avoir des ailes ?
+17)  CHRISTA
+{happyA} C'est vraiment très tentant de faire une vanne là-dessus, venant d'un manchot.
+72)  CHRISTA
+{happyA} C'est vraiment très tentant de faire une vanne là-dessus, venant d'un manchot.
+94)  CHRISTA
+{happyA} C'est vraiment très tentant de faire une vanne là-dessus, venant d'un manchot.
+131)  CHRISTA
+{happyA} C'est vraiment très tentant de faire une vanne là-dessus, venant d'un manchot.
+18)  LEE
+{normalD} Ce sera plus drôle quand on saura si ça a marché.
+73)  LEE
+{normalD} Ce sera plus drôle quand on saura si ça a marché.
+95)  LEE
+{normalD} Ce sera plus drôle quand on saura si ça a marché.
+132)  LEE
+{normalD} Ce sera plus drôle quand on saura si ça a marché.
+19)  LEE
+{normalD} On peut guetter une ouverture.
+36)  LEE
+{normalD} On peut guetter une ouverture.
+75)  LEE
+{normalD} On peut guetter une ouverture.
+98)  LEE
+{normalD} On peut guetter une ouverture.
+134)  LEE
+{normalD} On peut guetter une ouverture.
+155)  LEE
+{normalD} On peut guetter une ouverture.
+168)  LEE
+{normalD} On peut guetter une ouverture.
+20)  KENNY
+{thinkingA} Quelqu'un sait où est la maison et à quelle distance ? {disgustA} On devrait commencer par là.
+77)  KENNY
+{thinkingA} Quelqu'un sait où est la maison et à quelle distance ? {disgustA} On devrait commencer par là.
+21)  LEE
+{thinkingA} C'est entre nous et River Street, alors on peut s'y arrêter au besoin, rebrousser chemin et se diriger vers l'hôtel où allaient les parents de Clem.
+37)  LEE
+{thinkingA} C'est entre nous et River Street, alors on peut s'y arrêter au besoin, rebrousser chemin et se diriger vers l'hôtel où allaient les parents de Clem.
+78)  LEE
+{thinkingA} C'est entre nous et River Street, alors on peut s'y arrêter au besoin, rebrousser chemin et se diriger vers l'hôtel où allaient les parents de Clem.
+99)  LEE
+{thinkingA} C'est entre nous et River Street, alors on peut s'y arrêter au besoin, rebrousser chemin et se diriger vers l'hôtel où allaient les parents de Clem.
+137)  LEE
+{thinkingA} C'est entre nous et River Street, alors on peut s'y arrêter au besoin, rebrousser chemin et se diriger vers l'hôtel où allaient les parents de Clem.
+156)  LEE
+{thinkingA} C'est entre nous et River Street, alors on peut s'y arrêter au besoin, rebrousser chemin et se diriger vers l'hôtel où allaient les parents de Clem.
+164)  LEE
+{thinkingA} C'est entre nous et River Street, alors on peut s'y arrêter au besoin, rebrousser chemin et se diriger vers l'hôtel où allaient les parents de Clem.
+22)  LEE
+{sadA} Clémentine est là-bas, quelque part, {sadC} perdue dans tout ça.
+39)  LEE
+{sadA} Clémentine est là-bas, quelque part, {sadC} perdue au milieu de tout ça.
+81)  LEE
+{sadA} Clémentine est là-bas, quelque part, {sadC} perdue au milieu de tout ça.
+102)  LEE
+{sadA} Clémentine est là-bas, quelque part, {sadC} perdue au milieu de tout ça.
+140)  LEE
+{sadA} Clémentine est là-bas, quelque part, {sadC} perdue au milieu de tout ça.
+158)  LEE
+{sadA} Clémentine est là-bas, quelque part, {sadC} perdue au milieu de tout ça.
+23)  CHRISTA
+{worriedA} On la retrouvera, Lee. {angryA} A n'importe quel prix.
+82)  CHRISTA
+{worriedA} On la retrouvera, Lee. {angryA} A n'importe quel prix.
+101)  CHRISTA
+{worriedA} On la retrouvera, Lee. {angryA} A n'importe quel prix.
+141)  CHRISTA
+{worriedA} On la retrouvera, Lee. {angryA} A n'importe quel prix.
+24)  KENNY
+{thinkingA} Ecoute, [trying to motivate]on fait le point et on essaye de trouver un moyen de travers la ville. Ca te va ?
+40)  KENNY
+{thinkingA} Ecoute, [trying to motivate]on fait le point et on essaye de trouver un moyen de travers la ville. Ca te va ?
+83)  KENNY
+{thinkingA} Ecoute, [trying to motivate]on fait le point et on essaye de trouver un moyen de travers la ville. Ca te va ?
+25)  KENNY
+{happyA} Bien.
+41)  KENNY
+{happyA} Bien.
+84)  KENNY
+{happyA} Bien.
+109)  CHRISTA
+{happyA} Bien.
+143)  CHRISTA
+{happyA} Bien.
+42)  BEN
+{fearA} Mais comment ?! {fearB} Ils sont idiots, non ? C'est dingue qu'ils puissent nous SUIVRE.
+43)  KENNY
+{fearA} When haven't we been screwed. {disgustA} Let's just try not to screw each other.
+44)  BEN
+{sadE} Il doit y avoir tous les marcheurs des environs... {fearB} on est foutu.
+45)  KENNY
+{thinkingA} On descend tout de suite et {disgustA} on retrouve une petit fille là-bas. [to lee] {thinkingA} Pas vrai, vieux ?
+46)  BEN
+{thinkingA} Mais c'est risqué en bas. {fearA} Impossible de traverser les rues à pieds.
+47)  KENNY
+{thinkingA} Ben, si amputer Lee n'a pas arrêté l'infection de la morsure {disgustA}ce n'est pas drôle du tout.
+48)  BEN
+{happyA} ...Tu veux dire "des ailes" ?
+49)  BEN
+{sadA} Je sais pas... On pourrait attendre LONGTEMPS.
+51)  BEN
+{sadA} Je sais pas... On pourrait attendre LONGTEMPS.
+97)  BEN
+{sadA} Je sais pas... On pourrait attendre LONGTEMPS.
+50)  KENNY
+{thinkingA} Quand même, Lee a raison. On ne perd pas de temps et on y va.
+52)  KENNY
+{thinkingA} Quand même, Lee a raison. On ne perd pas de temps et on y va.
+76)  KENNY
+{thinkingA} Quand même, Lee a raison. On ne perd pas de temps et on y va.
+53)  KENNY
+{thinkingA} Ok.
+54)  KENNY
+{disgustA} Ok.
+79)  KENNY
+{disgustA} Ok.
+55)  LEE
+{normalD} Ouais, je sais.
+56)  KENNY
+{sadA} On la retrouvera, Lee. {fearA} A n'importe quel prix.
+57)  KENNY
+{disgustA} Sauf si c'est trop flippant pour toi.
+58)  KENNY
+{normalC} Lee, tu sais où se trouve la maison ? {thinkingA} On devrait commencer par là.
+85)  OMID
+{fearA} On pourrait attendre LONGTEMPS.
+86)  OMID
+{thinkingA} Ils ne nous ont pas suivi, hein ?
+103)  OMID
+{surpriseA} Il y en a des milliers...
+120)  OMID
+{surpriseA} Il y en a des milliers...
+104)  OMID
+{angryA} Elle était pas DESERTE {thinkingA} cette ville au départ ?
+119)  OMID
+{angryA} Elle était pas DESERTE {thinkingA} cette ville au départ ?
+105)  CHRISTA
+{thinkingA} Il faut sans doute ne pas perdre de temps et y aller. {worriedA} Plus on attend, plus Clémentine sera loin de nous.
+135)  CHRISTA
+{thinkingA} Il faut sans doute ne pas perdre de temps et y aller. {worriedA} Plus on attend, plus Clémentine sera loin de nous.
+106)  OMID
+{normalB} On devrait commencer à partir de la maison, non ? {fearA} C'est par où 
+136)  OMID
+{normalB} On devrait commencer à partir de la maison, non ? {fearA} C'est par où 
+107)  CHRISTA
+{thinkingA} Ca semble bien.
+138)  CHRISTA
+{thinkingA} Ca semble bien.
+108)  CHRISTA
+{thinkingA} Ecoute, [trying to motivate]on fait le point et on essaye de trouver un moyen de travers la ville. Ca te va ?
+142)  CHRISTA
+{thinkingA} Ecoute, [trying to motivate]on fait le point et on essaye de trouver un moyen de travers la ville. Ca te va ?
+110)  BEN
+{sadE} Ouais, pourquoi pas ?
+111)  BEN
+{disgustA} Ce n'était pas calme.
+112)  CHRISTA
+{fearA} Tu crois que ça les a tous attiré vers nous ?
+124)  CHRISTA
+{fearA} Tu crois que ça les a tous attiré vers nous ?
+113)  OMID
+{surpriseA} Il SEMBLERAIT mais c'est impossible, {fearA} n'est-ce pas ?
+114)  CHRISTA
+{angryA} Et le train ?
+123)  CHRISTA
+{angryA} Et le train ?
+115)  OMID
+{thinkingA} Et le train ?
+122)  OMID
+{thinkingA} Et le train ?
+116)  CHRISTA
+[sigh] {worriedA} Il faut descendre d'ici et retrouver une fillette effrayée.
+125)  CHRISTA
+[sigh] {worriedA} Il faut descendre d'ici et retrouver une fillette effrayée.
+117)  CHRISTA
+{thinkingA} Faisons le point.
+126)  CHRISTA
+{thinkingA} Faisons le point.
+144)  OMID
+{fearA} Combien de temps on va attendre ? Ca peut durer un moment....
+145)  OMID
+C'était pas vraiment des murmures.
+146)  OMID
+{thinkingA} Oui.
+147)  OMID
+{surpriseB} On dirait qu'ils nous ont suivi, {fearA} mais c'est impossible, hein ?
+149)  KENNY
+{happyA} Ca fait six heures.
+150)  LEE
+{happyA} Oh, on y retourne ? [sarc]
+151)  LEE
+{disgustA} Il y a eu du changement entre-temps.
+159)  KENNY
+{normalC} Je suis avec toi. {thinkingA} Il faut qu'on trouve un moyen de traverser la ville sans danger.
+160)  KENNY
+{sadA} On devrait attendre un peu. {thinkingA} Mais tu as raison, on devrait pas perdre de temps et y aller.
+161)  KENNY
+{sadA} Je sais, Lee. On va la ramener. {disgustA} Quoiqu'il arrive.
+162)  KENNY
+{thinkingA} C'est quelques marcheurs, ça va aller. {normalC} Suffit de rester en mouvement.
+163)  KENNY
+{thinkingA} Il faut d'abord savoir où on va. Je vote pour retourner à la maison. {disgustA} Même si j'en suis malade.
+169)  
+Garde ça pour toi, pour une fois.
+170)  BEN
+[looking at the herd] {sadA} Il y en a... des milliers. {fearB} Qu'est-ce qu'on fait maintenant ?
+171)  LEE
+{disgustA} Damn right she would. {happyA} All fifty pounds of her.
+172)  BEN
+{sadE} Ok... mais çe ne me dit rien d'être en bas.
+173)  LEE
+{thinkingA} Tu vas devoir te faire une raison.
+174)  BEN
+{thinkingA} Clémentine. {thinkingB} Elle le ferait pour moi.
+175)  LEE
+{thinkingA} Par exemple. {disgustA} On peut pas rester ici.
+176)  BEN
+{sadA} Je sais. Il faut partir. {fearA} On doit trouver un moyen.
+177)  BEN
+{disgustA} Et quoi, on court ?
+178)  BEN
+{happyA} Heu, je crois pas.
+179)  LEE
+{disgustA} I don't think we're at risk if someone running off with you.
+180)  BEN
+{thinkingB} Tu as raison. {sadA} Elle viendrait me chercher si c'était moi qui avait disparu.
+181)  LEE
+{angryA} Oublie ça, pour commencer. Clémentine est quelque part au milieu de ce bazar.
+182)  BEN
+{fearA} C'est juste quelques marcheurs, hein ? C'est pas compliqué de passer à travers.
+183)  BEN
+{thinkingA} On doit bien choisir une direction, pas vrai ? Je suis un peu chamboulé depuis les égoûts.
+184)  BEN
+{disgustA} Comme, où est la maison ?
+185)  LEE
+[to himself] [sigh] {fearA} Il faut que je trouve un moyen de descendre et de traverser la ville. {thinkingA} Je vais peut-être repartir de la maison et la chercher depuis là-bas...
+186)  LEE
+[to himself] {surpriseB} Putain... il y en a des milliers.
+187)  LEE
+[to himself] L'hôpital a du manquer de docteurs.
+188)  LEE
+[to himself] Un pauvre gars a fait le grand saut.
+189)  KENNY
+[about 25 feet away] {fearA} Ouais, on dirait que celui qui a peint l'inscription a fait un vol plané !
+190)  LEE
+[himself] Il ou elle a du s'écarter d'un danger quelconque... mais ça n'a pas d'importance.
+191)  LEE
+[to himself] Je parie que ça fait un mal de chien.
+192)  LEE
+[to himself] Ils se massent vers le pied de l'immeuble.
+193)  LEE
+[to himself] Ca devrait m'aider à traverser.
+194)  CHRISTA
+{worriedA} J'aime pas ça du tout.
+195)  LEE
+{normalD} Ca prendra deux secondes.
+196)  KENNY
+{sadA} On va la tenir de notre côté.
+197)  KENNY
+{sadA} On va la tenir de notre côté.
+198)  LEE
+{thinkingA} Bien.
+392)  KENNY
+{thinkingA} Bien.
+199)  BEN
+Je vais essayer de la stabiliser d'ici.
+200)  CHRISTA
+{fearA} Vite.
+201)  KENNY
+[nervous] {fearA} Ouais, c'est ça.
+202)  KENNY
+{fearA} Reviens vite.
+203)  LEE
+{disgustA} C'est l'idée. [hurry back, okay]
+204)  BEN
+{disgustA} C'est plus haut que je pensais.
+205)  KENNY
+{angryA} Ouais, c'est utile qu'il entende ça maintenant. [sarc]
+206)  LEE
+[to himself] C'est une échelle coulissante.
+207)  LEE
+[to himself] Le dernier qui s'en est servi a valdingué.
+208)  LEE
+[picking up a ladder] [exertion, maybe a little pain]
+209)  KENNY
+[20 ft distance] {fearA} Tu veux que je t'aide avec ça ?
+210)  LEE
+[exert.] {thinkingA} J'ai trouvé.
+211)  OMID
+{fearA} Je crois pas qu'on peut ignorer ce qui est arrivé à Lee.
+274)  OMID
+{fearA} Je crois pas qu'on peut ignorer ce qui est arrivé à Lee.
+304)  OMID
+{fearA} Je crois pas qu'on peut ignorer ce qui est arrivé à Lee.
+334)  OMID
+{fearA} Je crois pas qu'on peut ignorer ce qui est arrivé à Lee.
+212)  KENNY
+[to lee] {disgustA} Si tu sens que tu vas tourner de l'oeil ou {sadA} pire... dis-le nous.
+231)  KENNY
+[to lee] {disgustA} Si tu sens que tu vas tourner de l'oeil ou {sadA} pire... dis-le nous.
+275)  KENNY
+[to lee] {disgustA} Si tu sens que tu vas tourner de l'oeil ou {sadA} pire... dis-le nous.
+213)  OMID
+{sadA} Il a perdu pas mal de sang en bas.
+276)  OMID
+{sadA} Il a perdu pas mal de sang en bas.
+305)  OMID
+{sadA} Il a perdu pas mal de sang en bas.
+335)  OMID
+{sadA} Il a perdu pas mal de sang en bas.
+214)  
+On s'en fout. Je vais bien.
+234)  
+On s'en fout. Je vais bien.
+280)  
+On s'en fout. Je vais bien.
+309)  
+On s'en fout. Je vais bien.
+340)  
+On s'en fout. Je vais bien.
+368)  
+On s'en fout. Je vais bien.
+396)  
+On s'en fout. Je vais bien.
+215)  
+D'accord. Je vais y aller doucement.
+232)  
+D'accord. Je vais y aller doucement.
+277)  
+D'accord. Je vais y aller doucement.
+306)  
+D'accord. Je vais y aller doucement.
+337)  
+D'accord. Je vais y aller doucement.
+366)  
+D'accord. Je vais y aller doucement.
+394)  
+D'accord. Je vais y aller doucement.
+216)  
+C'était pas ma main préférée de toute façon.
+237)  
+C'était pas ma main préférée de toute façon.
+285)  
+C'était pas ma main préférée de toute façon.
+314)  
+C'était pas ma main préférée de toute façon.
+345)  
+C'était pas ma main préférée de toute façon.
+371)  
+C'était pas ma main préférée de toute façon.
+398)  
+C'était pas ma main préférée de toute façon.
+217)  LEE
+{normalD} D'accord. {sadA} Je vais y aller mollo. Je sais qu'on peut plus se permettre de morts. {disgustB} Alors ne faites pas comme si je l'étais.
+233)  LEE
+{normalD} D'accord. {sadA} Je vais y aller mollo. Je sais qu'on peut plus se permettre de morts. {disgustB} Alors ne faites pas comme si je l'étais.
+278)  LEE
+{normalD} D'accord. {sadA} Je vais y aller mollo. Je sais qu'on peut plus se permettre de morts. {disgustB} Alors ne faites pas comme si je l'étais.
+307)  LEE
+{normalD} D'accord. {sadA} Je vais y aller mollo. Je sais qu'on peut plus se permettre de morts. {disgustB} Alors ne faites pas comme si je l'étais.
+338)  LEE
+{normalD} D'accord. {sadA} Je vais y aller mollo. Je sais qu'on peut plus se permettre de morts. {disgustB} Alors ne faites pas comme si je l'étais.
+367)  LEE
+{normalD} D'accord. {sadA} Je vais y aller mollo. Je sais qu'on peut plus se permettre de morts. {disgustB} Alors ne faites pas comme si je l'étais.
+395)  LEE
+{normalD} D'accord. {sadA} Je vais y aller mollo. Je sais qu'on peut plus se permettre de morts. {disgustB} Alors ne faites pas comme si je l'étais.
+218)  CHRISTA
+{sadA} Promis.
+279)  CHRISTA
+{sadA} Promis.
+308)  CHRISTA
+{sadA} Promis.
+339)  CHRISTA
+{sadA} Promis.
+219)  CHRISTA
+{disgustA} Et maintenant ?
+271)  CHRISTA
+{disgustA} Et maintenant ?
+220)  LEE
+{thinkingA} Rien à foutre. {disgustA} J'ai l'air d'avoir besoin d'un traitement de faveur ?
+235)  LEE
+{thinkingA} Rien à foutre. {disgustA} J'ai l'air d'avoir besoin d'un traitement de faveur ?
+281)  LEE
+{thinkingA} Rien à foutre. {disgustA} J'ai l'air d'avoir besoin d'un traitement de faveur ?
+310)  LEE
+{thinkingA} Rien à foutre. {disgustA} J'ai l'air d'avoir besoin d'un traitement de faveur ?
+341)  LEE
+{thinkingA} Rien à foutre. {disgustA} J'ai l'air d'avoir besoin d'un traitement de faveur ?
+369)  LEE
+{thinkingA} Rien à foutre. {disgustA} J'ai l'air d'avoir besoin d'un traitement de faveur ?
+397)  LEE
+{thinkingA} Rien à foutre. {disgustA} J'ai l'air d'avoir besoin d'un traitement de faveur ?
+221)  OMID
+{SadA} Et bien... [uh yeah actually you do look like you need help]
+283)  OMID
+{SadA} Et bien... [uh yeah actually you do look like you need help]
+313)  OMID
+{SadA} Et bien... [uh yeah actually you do look like you need help]
+344)  OMID
+{SadA} Et bien... [uh yeah actually you do look like you need help]
+222)  CHRISTA
+{worriedA} Oui.
+227)  CHRISTA
+{worriedA} Oui.
+284)  CHRISTA
+{worriedA} Oui.
+288)  CHRISTA
+{worriedA} Oui.
+312)  CHRISTA
+{worriedA} Oui.
+316)  CHRISTA
+{worriedA} Oui.
+342)  CHRISTA
+{worriedA} Oui.
+349)  CHRISTA
+{worriedA} Oui.
+223)  LEE
+{angryA} Tu aurais pu m'enlever une jambe {thinkingB} que ça ne m'aurait pas ralenti. {disgustA}Tu comprends ?
+236)  LEE
+{angryA} Tu aurais pu m'enlever une jambe {thinkingB} que ça ne m'aurait pas ralenti. {disgustA}Tu comprends ?
+282)  LEE
+{angryA} Tu aurais pu m'enlever une jambe {thinkingB} que ça ne m'aurait pas ralenti. {disgustA}Tu comprends ?
+311)  LEE
+{angryA} Tu aurais pu m'enlever une jambe {thinkingB} que ça ne m'aurait pas ralenti. {disgustA}Tu comprends ?
+343)  LEE
+{angryA} Tu aurais pu m'enlever une jambe {thinkingB} que ça ne m'aurait pas ralenti. {disgustA}Tu comprends ?
+370)  LEE
+{angryA} Tu aurais pu m'enlever une jambe {thinkingB} que ça ne m'aurait pas ralenti. {disgustA}Tu comprends ?
+224)  LEE
+{disgustA} C'était pas ma main préférée de toute façon.
+238)  LEE
+{disgustA} C'était pas ma main préférée de toute façon.
+286)  LEE
+{disgustA} C'était pas ma main préférée de toute façon.
+315)  LEE
+{disgustA} C'était pas ma main préférée de toute façon.
+346)  LEE
+{disgustA} C'était pas ma main préférée de toute façon.
+372)  LEE
+{disgustA} C'était pas ma main préférée de toute façon.
+399)  LEE
+{disgustA} C'était pas ma main préférée de toute façon.
+225)  KENNY
+{happyA} T'as pas perdu ton sens de l'humour.
+240)  KENNY
+{happyA} T'as pas perdu ton sens de l'humour.
+289)  KENNY
+{happyA} T'as pas perdu ton sens de l'humour.
+373)  KENNY
+{happyA} T'as pas perdu ton sens de l'humour.
+226)  LEE
+{thinkingA} Sans rire, ne me traitez pas différement. Je n'ai qu'un objectif, {disgustA}vous comprenez ?
+239)  LEE
+{thinkingA} Sans rire, ne me traitez pas différement. Je n'ai qu'un objectif, {disgustA}vous comprenez ?
+287)  LEE
+{thinkingA} Sans rire, ne me traitez pas différement. Je n'ai qu'un objectif, {disgustA}vous comprenez ?
+317)  LEE
+{thinkingA} Sans rire, ne me traitez pas différement. Je n'ai qu'un objectif, {disgustA}vous comprenez ?
+348)  LEE
+{thinkingA} Sans rire, ne me traitez pas différement. Je n'ai qu'un objectif, {disgustA}vous comprenez ?
+374)  LEE
+{thinkingA} Sans rire, ne me traitez pas différement. Je n'ai qu'un objectif, {disgustA}vous comprenez ?
+400)  LEE
+{thinkingA} Sans rire, ne me traitez pas différement. Je n'ai qu'un objectif, {disgustA}vous comprenez ?
+228)  KENNY
+{thinkingA} Monsieur veut récupérer Clémentine. Avec {disgustA}ou sans bras.
+241)  KENNY
+{thinkingA} Monsieur veut récupérer Clémentine. Avec {disgustA}ou sans bras.
+291)  KENNY
+{thinkingA} Monsieur veut récupérer Clémentine. Avec {disgustA}ou sans bras.
+229)  OMID
+{sadA} Qui ne dit mot, {thinkingA} consent, je crois.
+292)  OMID
+{sadA} Qui ne dit mot, {thinkingA} consent, je crois.
+318)  OMID
+{sadA} Qui ne dit mot, {thinkingA} consent, je crois.
+352)  OMID
+{sadA} Qui ne dit mot, {thinkingA} consent, je crois.
+230)  CHRISTA
+{worriedA} Ouais.
+290)  CHRISTA
+{worriedA} Ouais.
+242)  BEN
+{sadE} On va parler de ce qui c'est passé en bas ?
+243)  BEN
+{fearB} Il a perdu beaucoup de sang.
+244)  LEE
+{thinkingA} J'ai perdu l'équilibre. C'est tout.
+258)  LEE
+{thinkingA} J'ai perdu l'équilibre. C'est tout.
+298)  LEE
+{thinkingA} J'ai perdu l'équilibre. C'est tout.
+323)  LEE
+{thinkingA} J'ai perdu l'équilibre. C'est tout.
+358)  LEE
+{thinkingA} J'ai perdu l'équilibre. C'est tout.
+377)  LEE
+{thinkingA} J'ai perdu l'équilibre. C'est tout.
+403)  LEE
+{thinkingA} J'ai perdu l'équilibre. C'est tout.
+245)  
+J'ai perdu l'équilibre.
+257)  
+J'ai perdu l'équilibre.
+297)  
+J'ai perdu l'équilibre.
+322)  
+J'ai perdu l'équilibre.
+357)  
+J'ai perdu l'équilibre.
+376)  
+J'ai perdu l'équilibre.
+402)  
+J'ai perdu l'équilibre.
+246)  
+C'est la morsure.
+259)  
+C'est la morsure.
+299)  
+C'est la morsure.
+324)  
+C'est la morsure.
+359)  
+C'est la morsure.
+378)  
+C'est la morsure.
+404)  
+C'est la morsure.
+247)  
+C'était une démo.
+261)  
+C'était une démo.
+301)  
+C'était une démo.
+326)  
+C'était une démo.
+361)  
+C'était une démo.
+380)  
+C'était une démo.
+406)  
+C'était une démo.
+248)  LEE
+{sadA} Je sais. {disgustA} C'était juste eu le vertige. {thinkingA} Je vais bien.
+255)  LEE
+{sadA} Je sais. {disgustA} C'était juste eu le vertige. {thinkingA} Je vais bien.
+293)  LEE
+{sadA} Je sais. {disgustA} C'était juste eu le vertige. {thinkingA} Je vais bien.
+321)  LEE
+{sadA} Je sais. {disgustA} C'était juste eu le vertige. {thinkingA} Je vais bien.
+354)  LEE
+{sadA} Je sais. {disgustA} C'était juste eu le vertige. {thinkingA} Je vais bien.
+375)  LEE
+{sadA} Je sais. {disgustA} C'était juste eu le vertige. {thinkingA} Je vais bien.
+401)  LEE
+{sadA} Je sais. {disgustA} C'était juste eu le vertige. {thinkingA} Je vais bien.
+249)  KENNY
+{sadA} Il faut que tu nous dises quand ça va pas, tu sais ?
+256)  KENNY
+{sadA} Il faut que tu nous dises quand ça va pas, tu sais ?
+296)  KENNY
+{sadA} Il faut que tu nous dises quand ça va pas, tu sais ?
+250)  CHRISTA
+{worriedA} Aussi fort que vous êtes.
+295)  CHRISTA
+{worriedA} Aussi fort que vous êtes.
+320)  CHRISTA
+{worriedA} Aussi fort que vous êtes.
+353)  CHRISTA
+{worriedA} Aussi fort que vous êtes.
+251)  LEE
+{normalD} Ouais. Aussi fort que je suis.
+294)  LEE
+{normalD} Ouais. Aussi fort que je suis.
+319)  LEE
+{normalD} Ouais. Aussi fort que je suis.
+356)  LEE
+{normalD} Ouais. Aussi fort que je suis.
+252)  LEE
+{normalD} C'est la morsure. Il faut faire avec.
+260)  LEE
+{normalD} C'est la morsure. Il faut faire avec.
+300)  LEE
+{normalD} C'est la morsure. Il faut faire avec.
+325)  LEE
+{normalD} C'est la morsure. Il faut faire avec.
+360)  LEE
+{normalD} C'est la morsure. Il faut faire avec.
+379)  LEE
+{normalD} C'est la morsure. Il faut faire avec.
+405)  LEE
+{normalD} C'est la morsure. Il faut faire avec.
+253)  LEE
+{disgustA} C'était une démo {happyA}de mes compétences acrobatiques. Comme au bon vieux temps.
+262)  LEE
+{disgustA} C'était une démo {happyA}de mes compétences acrobatiques. Comme au bon vieux temps.
+302)  LEE
+{disgustA} C'était une démo {happyA}de mes compétences acrobatiques. Comme au bon vieux temps.
+327)  LEE
+{disgustA} C'était une démo {happyA}de mes compétences acrobatiques. Comme au bon vieux temps.
+362)  LEE
+{disgustA} C'était une démo {happyA}de mes compétences acrobatiques. Comme au bon vieux temps.
+381)  LEE
+{disgustA} C'était une démo {happyA}de mes compétences acrobatiques. Comme au bon vieux temps.
+407)  LEE
+{disgustA} C'était une démo {happyA}de mes compétences acrobatiques. Comme au bon vieux temps.
+254)  KENNY
+{thinkingA} Allez, Lee.... [give us a break, light hearted but you're actually concerned about him]
+263)  KENNY
+{thinkingA} Allez, Lee.... [give us a break, light hearted but you're actually concerned about him]
+303)  KENNY
+{thinkingA} Allez, Lee.... [give us a break, light hearted but you're actually concerned about him]
+332)  CHRISTA
+{thinkingA} Allez, Lee.... [give us a break, light hearted but you're actually concerned about him]
+363)  CHRISTA
+{thinkingA} Allez, Lee.... [give us a break, light hearted but you're actually concerned about him]
+382)  KENNY
+{thinkingA} Allez, Lee.... [give us a break, light hearted but you're actually concerned about him]
+264)  LEE
+{angryA} C'est vrai.[firm]
+265)  BEN
+{sadA} Si tu le dis.
+266)  BEN
+{disgustA} En fait... [uh yeah actually you do look like you need help]
+267)  KENNY
+{sadA} Oui.
+269)  KENNY
+{sadA} Oui.
+268)  BEN
+{thinkingA} Et maintenant ?
+270)  BEN
+{disgustA} Donc... Ouais... [lee isn't answering]
+272)  OMID
+{fearA} Et maintenant ?
+273)  OMID
+{fearA} Et maintenant ?
+328)  CHRISTA
+{sadA} Omid a raison. {disgustA} Si tu te sens mal ou... tu sais, si ça n'a pas marché, {worriedA} ralenti un peu.
+336)  CHRISTA
+{sadA} Omid a raison. {disgustA} Si tu te sens mal ou... tu sais, si ça n'a pas marché, {worriedA} ralenti un peu.
+329)  CHRISTA
+{angryA} Ferme-la, Omid.
+350)  CHRISTA
+{angryA} Ferme-la, Omid.
+330)  OMID
+{surpriseA} Vraiment ? {thinkingA} Sans ma vieille gauche, je serais foutu.
+347)  OMID
+{surpriseA} Vraiment ? {thinkingA} Sans ma vieille gauche, je serais foutu.
+331)  CHRISTA
+{thinkingA} Il veut ramener Clémentine, c'est tout.
+351)  CHRISTA
+{thinkingA} Il veut ramener Clémentine, c'est tout.
+333)  CHRISTA
+{sadA} Dis nous si tu te sens bizarre. Genre s'il se passe un truc.
+355)  CHRISTA
+{sadA} Dis nous si tu te sens bizarre. Genre s'il se passe un truc.
+383)  KENNY
+{sadA} Tu veux qu'on parle de ce qui c'est passé là-bas ?
+384)  KENNY
+{fearA} Tu as perdu beaucoup de sang.
+385)  KENNY
+[to lee] {sadA} Si tu sens que tu vas tourner de l'oeil ou... {disgustA} pire, préviens moi.
+386)  KENNY
+{thinkingA} Jamais.
+387)  KENNY
+{sadA} Ouais, mon vieux.
+389)  KENNY
+{sadA} Ouais, mon vieux.
+388)  KENNY
+{fearA} Honnêtement...
+390)  KENNY
+{thinkingA} J'ai compris. Tu veux ramener Clémentine. {disgustA} Avec ou sans bras.
+391)  KENNY
+{sadA} Préviens moi si tu te sens bizarre.
+393)  KENNY
+{normalC} D'accord.
+422)  BEN
+{normalC} D'accord.
+408)  BEN
+{disgustA} Hé, {fearB} tu veux parler de ce qui c'est passé là-bas ?
+409)  BEN
+{fearA} Alors, si ton coeur s'emballe ou... si un truc plus grave arrive, préviens moi. {normalC} Je t'aiderais.
+410)  BEN
+{sadB} Tu as perdu beaucoup de sang...
+411)  BEN
+{fearA} Non, bien sûr que non.
+412)  BEN
+{disgustA} Et bien...
+413)  LEE
+{angryA} Tu aurais pu m'enlever une jambe que ça ne m'aurait pas ralenti pour autant. {disgustA}Tu comprends ?
+414)  BEN
+[gulp] {sadA} Ouaip. Cinq sur cinq.
+415)  LEE
+{happyA} C'est bien. [joking around]
+416)  BEN
+{happyA} Hé, tu cherchais une excuse pour gagner tout ce temps ?
+417)  BEN
+{sadA} Ouais. Vraiment.
+418)  BEN
+{fearB} J'imagine que tu veux vraiment ramener Clémentine. Je suis content de t'aider. {thinkingA} Je vais tenter de pas te traiter différemment même si tu n'as plus qu'un bras.
+419)  BEN
+{sadA} Allez, Lee.... [give us a break, light hearted but you're actually concerned about him]
+420)  LEE
+{normalD} Bien, aussi fort que je peux être.
+421)  BEN
+{fearA} Et bien, préviens moi si tu te sens bizarre ou... {sadA} autre chose, tu vois.
+423)  LEE
+{thinkingA} Faisons le point et réfléchissons à la suite.
+424)  BEN
+{normalC} Ca me semble bien.
+425)  OMID
+[20 ft distance] {surpriseA} Tu veux un coup de main ?
+426)  BEN
+[20 ft distance] Je peux t'aider ?
+427)  LEE
+[setting a ladder down]
+428)  LEE
+[to himself] {disgustA} Pas moyen que je saute ça.
+429)  LEE
+[to himself] Ca va être chaud de passer ça.
+430)  LEE
+[to himself] {thinkingA} C'est un clocher comme Molly se servait pour disperser les marcheurs en ville.
+431)  LEE
+[to himself] {thinkingA} Le clocher est de ce côté de l'hôpital... et la maison par là-bas... {angryA} Il y a peut-être un moyen de partir d'ici.
+432)  LEE
+[to himself] {thinkingA} Si j'atteins ce clocher, je peux attirer les marcheurs de ce côté de l'hôpital. {disgustA} Ils sont des milliers mais ils libéreront les rues entre ici, la maison et River Street, {thinkingA} même si c'est juste pour quelques minutes.
+688)  LEE
+[to himself] {thinkingA} Si j'atteins ce clocher, je peux attirer les marcheurs de ce côté de l'hôpital. {disgustA} Ils sont des milliers mais ils libéreront les rues entre ici, la maison et River Street, {thinkingA} même si c'est juste pour quelques minutes.
+433)  KENNY
+{thinkingA} T'es sûr que tu devrais y aller ?
+448)  KENNY
+{thinkingA} T'es sûr que tu devrais y aller ?
+452)  KENNY
+{thinkingA} T'es sûr que tu devrais y aller ?
+473)  KENNY
+{thinkingA} T'es sûr que tu devrais y aller ?
+434)  LEE
+{thinkingA} Alors on est d'accord.
+446)  LEE
+{thinkingA} Alors on est d'accord.
+451)  LEE
+{thinkingA} Alors on est d'accord.
+459)  LEE
+{thinkingA} Alors on est d'accord.
+435)  LEE
+{disgustB} Si quelqu'un doit prendre un tel risque, cela doit être celui {sadA} qui a le moins à perdre.
+442)  LEE
+{disgustB} Si quelqu'un doit prendre un tel risque, cela doit être celui {sadA} qui a le moins à perdre.
+455)  LEE
+{disgustB} Si quelqu'un doit prendre un tel risque, cela doit être celui {sadA} qui a le moins à perdre.
+462)  LEE
+{disgustB} Si quelqu'un doit prendre un tel risque, cela doit être celui {sadA} qui a le moins à perdre.
+465)  LEE
+{disgustB} Si quelqu'un doit prendre un tel risque, cela doit être celui {sadA} qui a le moins à perdre.
+474)  LEE
+{disgustB} Si quelqu'un doit prendre un tel risque, cela doit être celui {sadA} qui a le moins à perdre.
+483)  LEE
+{disgustB} Si quelqu'un doit prendre un tel risque, cela doit être celui {sadA} qui a le moins à perdre.
+436)  OMID
+{surpriseA} Ma jambe va mieux, laisse moi faire.
+447)  OMID
+{surpriseA} Ma jambe va mieux, laisse moi faire.
+458)  OMID
+{surpriseA} Ma jambe va mieux, laisse moi faire.
+484)  OMID
+{surpriseA} Ma jambe va mieux, laisse moi faire.
+437)  LEE
+{disgustA} Qu'est-ce qui peut m'arriver de pire ? Me faire encore mordre ?
+443)  LEE
+{disgustA} Qu'est-ce qui peut m'arriver de pire ? Me faire encore mordre ?
+449)  LEE
+{disgustA} Qu'est-ce qui peut m'arriver de pire ? Me faire encore mordre ?
+463)  LEE
+{disgustA} Qu'est-ce qui peut m'arriver de pire ? Me faire encore mordre ?
+467)  LEE
+{disgustA} Qu'est-ce qui peut m'arriver de pire ? Me faire encore mordre ?
+475)  LEE
+{disgustA} Qu'est-ce qui peut m'arriver de pire ? Me faire encore mordre ?
+485)  LEE
+{disgustA} Qu'est-ce qui peut m'arriver de pire ? Me faire encore mordre ?
+438)  LEE
+{thinkingA} Ouais, on pourrait gagner du temps. On en attire un maximum par ici, {disgustA} puis on descend de l'autre côté et on met le turbo juqu'à la maison.
+445)  LEE
+{thinkingA} Ouais, on pourrait gagner du temps. On en attire un maximum par ici, {disgustA} puis on descend de l'autre côté et on met le turbo juqu'à la maison.
+453)  LEE
+{thinkingA} Ouais, on pourrait gagner du temps. On en attire un maximum par ici, {disgustA} puis on descend de l'autre côté et on met le turbo juqu'à la maison.
+457)  LEE
+{thinkingA} Ouais, on pourrait gagner du temps. On en attire un maximum par ici, {disgustA} puis on descend de l'autre côté et on met le turbo juqu'à la maison.
+466)  LEE
+{thinkingA} Ouais, on pourrait gagner du temps. On en attire un maximum par ici, {disgustA} puis on descend de l'autre côté et on met le turbo juqu'à la maison.
+472)  LEE
+{thinkingA} Ouais, on pourrait gagner du temps. On en attire un maximum par ici, {disgustA} puis on descend de l'autre côté et on met le turbo juqu'à la maison.
+481)  LEE
+{thinkingA} Ouais, on pourrait gagner du temps. On en attire un maximum par ici, {disgustA} puis on descend de l'autre côté et on met le turbo juqu'à la maison.
+439)  CHRISTA
+{fearA} Les cloches...
+444)  CHRISTA
+{fearA} Les cloches...
+460)  CHRISTA
+{fearA} Les cloches...
+482)  CHRISTA
+{fearA} Les cloches...
+440)  BEN
+{fearA} Je vais le faire.
+454)  BEN
+{fearA} Je vais le faire.
+461)  BEN
+{fearA} Je vais le faire.
+441)  KENNY
+{disgustA} Ouais, Ben va le faire.
+450)  KENNY
+{disgustA} Ouais, Ben va le faire.
+456)  BEN
+{sadE} Tu vas te servir du clocher pour les amener par ici ?
+468)  BEN
+{sadE} Tu vas te servir du clocher pour les amener par ici ?
+464)  CHRISTA
+{worriedA} Quelqu'un d'autre devrait y aller.
+488)  CHRISTA
+{worriedA} Quelqu'un d'autre devrait y aller.
+469)  LEE
+{thinkingA} Non.
+470)  BEN
+{fearA} Laisse moi y aller.
+471)  BEN
+{sadA} Sois prudent.
+476)  LEE
+{sadB} S'il m'arrive quelque chose, te es sa dernière chance.
+480)  LEE
+{sadB} S'il m'arrive quelque chose, tu es sa dernière chance.
+477)  KENNY
+{fearA} Sois prudent.
+486)  OMID
+{fearA} Sois prudent.
+478)  KENNY
+{disgustA} Laisse-moi faire.
+479)  KENNY
+{thinkingA} Le clocher ?
+487)  LEE
+{sadB} S'il m'arrive quelque chose, vous êtes sa dernière chance.
+489)  CHRISTA
+Je vais y aller.
+490)  LEE
+[to himself] {disgustA} Ok, Lee. C'est pas le moment de te ramasser encore.
+491)  LEE
+[to himself] J'aimerai pouvoir nous dégager le passage...
+492)  LEE
+[to himself a little louder, same] River Street doit être par là.
+493)  LEE
+[to himself, a little louder] C'est l'église dans la rue de la maison.
+494)  LEE
+Ouais.
+495)  LEE
+Ouais.
+496)  CHRISTA
+On doit faire marche arrière. On s'arrêtera à la maison comme tu as dit et on s'assure qu'on a rien oublié.
+497)  LEE
+[to himself] Il faut trouver un moyen de partir d'ici...
+498)  LEE
+[to himself] On dirait le quartier de Crawford là-bas.
+499)  KENNY
+{angryA} J'emmerde cet endroit.
+500)  KENNY
+[coming off "fuck that place"] {thinkingA} Did fix up our boat, though. We get Clementine and get right back...
+501)  LEE
+{sadA} Assure-toi qu'elle porte son gilet de sauvetage, ok ? Je suis sûr {sadB}qu'elle voudra pas.
+502)  LEE
+[to himself] {fearB} Les marcheurs viennent tous par ici. Faut que je parte de cette tour.
+503)  LEE
+[to himself] {thinkingA} En tirant là dessus, ils seront des milliers en bas.
+504)  LEE
+[to himself] {fearA} Putain. Je sais pas si je vais y arriver.
+505)  LEE
+[to himself, pysching himself up] Allez, ce n'est pas si haut...
+506)  LEE
+[to himself] {fearA} C'est fermé. Merde.
+507)  LEE
+[trying to pull open a locked hatch] MERDE.
+508)  LEE
+[to himself, exasperated] Je passerais pas à travers.
+509)  LEE
+[to himself] {disgustA} Jamais. C'est plus haut, pour commencer.
+510)  LEE
+[a small, panicked leap at the last minute]
+511)  LEE
+{thinkingA} On peut descendre ici.
+512)  KENNY
+{thinkingA} Ouais, si la moitié des morts de Géorgie traînait pas dans le coin.
+514)  CHRISTA
+{thinkingA} Ouais, si la moitié des morts de Géorgie traînait pas dans le coin.
+513)  BEN
+{thinkingA} Mais il y a encore {disgustA}un million de marcheurs en bas...
+515)  LEE
+Ca mène à la rue en contrebas.
+516)  LEE
+[to himself] J'y retourne pas.
+517)  CHRISTA
+{fearA} Ils viennent par là !
+518)  OMID
+{surpriseB} Il y en a des tonnes ! {surpriseC} Putain !
+519)  CHRISTA
+{worriedA} Reviens maintenant !
+520)  KENNY
+{fearB} Ca a marché, vieux. Reviens maintenant !
+521)  LEE
+[calling out over his shoulder] {fearB} La porte est fermée !
+522)  LEE
+[to himself, frustrated] Ah, putain.
+523)  BEN
+Ils viennent par ici ! Comment tu vas t'en aller de là ?!
+524)  OMID
+[30 ft away] {fearA} Cherche un autre moyen de partir de là !
+525)  KENNY
+[30 ft away] {fearA} Cherche un autre moyen de partir de là !
+526)  BEN
+[30 ft away] {fearA} Cherche un autre moyen de partir de là !
+527)  LEE
+[pulling himself up onto a roof and you've only got one arm, it's horrible]
+528)  LEE
+[hitting the roof after leaping to grab it] 
+529)  LEE
+[hitting the roof after leaping to grab it] 
+530)  LEE
+[pulling himself onto a roof with two arms]
+531)  KENNY
+{happyC} C'est un putain de bon saut, mon pote.
+532)  CHRISTA
+{happyB} Joli !
+533)  BEN
+{surprisedA} Ca va ?
+534)  LEE
+[faling to your death]
+535)  LEE
+[recovering from a gnarly jump] {sadB} Ca va, on y va.
+536)  KENNY
+[exertion, pulling lee up and over a roof edge]
+705)  CHRISTA
+[exertion, pulling lee up and over a roof edge]
+708)  BEN
+[exertion, pulling lee up and over a roof edge]
+537)  LEE
+[getting grabbed by his friend before he can fall] 
+538)  LEE
+[pained, getting pulled up]
+539)  KENNY
+[grabbed Lee before he can fall] {fearC} JE TE TIENS !
+540)  KENNY
+{fearB} Barrons-nous d'ici !
+541)  CHRISTA
+{fearB} Et maintenant on se casse d'ici !
+542)  BEN
+{fearB} Ok, faudrait se barrer là.
+543)  
+C'est pas si loin.
+544)  
+Et voilà.
+545)  
+Je suis baisé.
+546)  LEE
+[jumping with all of your might]
+547)  LEE
+{fearA} C'est pas si loin. C'est à deux pas.
+548)  LEE
+{thinkingA} Et voilà. {thinkingB} Et voilà, trouduc.
+549)  LEE
+{fearB} Je l'ai dans le cul.
+550)  LEE
+[pysching himself up breathing] {fearA}
+551)  LEE
+[a little (more) psyching yourself up breathing] {fearA}
+552)  LEE
+[to himself] {fearB} Je vais devoir sauter. Bordel.
+553)  LEE
+[across the gap] {fearC} Je vais devoir sauter ! Pas le choix !
+554)  KENNY
+{fearA} Tu peux y arriver ! C'est pas si loin !
+555)  CHRISTA
+{fearB} Putain, fais gaffe !
+556)  BEN
+{fearC} QUOI ?!
+557)  LEE
+{fearA} C'est le seul moyen !
+558)  KENNY
+[yelling across the gap] C'est juste un grand saut !
+559)  KENNY
+[yelling across the gap] C'est bon, Lee !
+560)  KENNY
+[yelling across the gap] SAUTE !
+561)  KENNY
+[yelling across the gap] Qu'est-ce que t'attends ?!
+562)  KENNY
+[yelling across the gap] Tu peux le faire, vieux !
+563)  OMID
+[yelling across a gap] Tu peux le faire !
+569)  BEN
+[yelling across a gap] Tu peux le faire !
+564)  OMID
+[yelling across a gap] Regarde pas en bas !
+565)  OMID
+[yelling across a gap] Saute !
+566)  OMID
+[yelling across a gap] Réfléchis pas !
+567)  OMID
+[yelling across a gap]  Vas-y ! Saute !
+568)  BEN
+[yelling across a gap] C'est, heu, pas si loin !
+570)  BEN
+[yelling across a gap] J'ai confiance en toi !
+571)  BEN
+[yelling across a gap] Dépêche !
+572)  BEN
+[yelling across a gap] Un, deux, TROIS !
+573)  LEE
+{normalb}Tu vois quelque chose ?
+658)  LEE
+{normalb}Tu vois quelque chose ?
+574)  BEN
+{thinkinga}Il y a une issue de secours ici, {sada}c'est tout.
+575)  LEE
+{normalc}Hé, Ben.
+576)  
+Tu es venu avec moi.
+577)  
+Tu veux toujours mourir ?
+578)  BEN
+{sada}J'ai peur {sadb}que quelqu'un d'autre se fasse tuer.
+579)  LEE
+{angrya}Tu veux toujours mourir ?
+580)  BEN
+{feara}J'ai toujours peur de me faire bouffer. Plus que jamais.
+581)  LEE
+{sada}Et bien, tu es là. {angrya}Ne ME fais pas tuer.
+582)  
+Tu es là. Ne me fais pas tuer.
+583)  LEE
+{normalb}Tu as peur ?
+584)  BEN
+{sada}Promis.
+585)  
+S'il ne reste plus que toi et Clem...
+586)  BEN
+{angrya}Ne dis pas ça.
+587)  LEE
+{sadb}Vu les circonstances, {angrya}j'ai pas le choix, Ben.
+588)  LEE
+{angrya}Quand tout sera fini et s'il ne reste plus que toi et Clémentine, {sada}tu auras toutes les raisons de vouloir vivre.
+589)  
+Je m'assurerai que ça n'arrive pas.
+590)  BEN
+{fearb}Sérieux... ?
+591)  LEE
+{happya}C'est pas si mal de se faire mordre.
+592)  LEE
+{normalc}Je ferais mon possible pour que ça n'arrive pas.
+593)  BEN
+{sada}Merci... {sadb}moi inclus ?
+594)  LEE
+{angrya}Non. Tu es condamné à mort. {sadb}C'est horrible. {angrya}Mais ne t'en fais pas.
+595)  BEN
+{sada}...Je crois que rien ne pourra y changer.
+596)  LEE
+{thinkinga}Tu es venu avec moi.
+597)  BEN
+{sada}Tu pensais pas que je le ferais ?
+598)  BEN
+{normala}Comme tu l'as dit, {happya}Clementine a été ma plus grande... {sadb}et bien... seule vraie fan. {angrya}J'aurais été une grosse ordure de pas le faire.
+599)  BEN
+{sada}Avec {thinkinga}tout ce qu'on a vécu, {sadb}cela semblait la seule chose sensée à faire.
+600)  LEE
+{thinkinga}Si on atteint ce clocher {happya}on pourrait faire quelque chose pour ces marcheurs dehors.
+601)  BEN
+{fearb}Mais après on court simplement dans la rue ? {sada}Je sais pas...
+602)  LEE
+{angrya}Si on se sert de ce clocher pour attirer les marcheurs de ce côté de l'hôpital, {happya}la route vers la maison et River Street devrait être plus facile.
+603)  BEN
+{sada}Ouais, d'accord... {angrya}mais il faut encore y aller.
+604)  BEN
+{fearb}Je pense que je contemple mon pire cauchemar. {disgusta}Un nuage mortel poussiérieux.
+605)  LEE
+{thinkinga}Tu penses à quoi ?
+606)  LEE
+{angrya}Arrête de gamberger. Il faut qu'on quitte ce toit.
+607)  LEE
+Du neuf par ici ?
+608)  CHRISTA
+{sada}Honnêtement, je vois pas grand chose. {angrya}Ca doit être mes allergies ou toutes ces {disgusta}merdes que les marcheurs remuent.
+609)  LEE
+{sada}Hé.
+635)  LEE
+{sada}Hé.
+610)  
+Des allergies. Marrant.
+611)  LEE
+{normalb}Il y a un clocher par là-bas.
+612)  CHRISTA
+{feara}Tu crois que tu peux y attirer tous ces cons ?
+613)  LEE
+{angrya}J'espère, ouais. {thinkinga}Pour dégager l'autre côté.
+614)  LEE
+{normalb}La maison est par là.
+615)  LEE
+{angrya}Si on se sert du clocher pour les attirer de ce côté de l'hôpital, {sada}ce sera pas facile de retourner à River Street, {happya}mais ce sera mieux que rien.
+616)  CHRISTA
+{happya}Je suis d'accord. {worrieda}Il faut partir d'ici.
+617)  CHRISTA
+{normalb}Ouais.
+618)  LEE
+{sada}Je sais. C'est cette histoire avec Clem... tout ça... {angrya}ça me fout les nerfs {angryb}comme jamais.
+619)  LEE
+{surpriseb}J'avais des allergies aussi avant. {normalb}Et puis... {thinkinga}merde. C'était qui ce type ?
+620)  CHRISTA
+{worrieda}Quelqu'un avec des priorités ?
+621)  LEE
+{sada}Des allergies... merde. Les gens en ont toujours eu.
+622)  CHRISTA
+{happya}Je sais, d'accord. {worrieda}Tu n'as jamais vu quelqu'un avoir le rhume de foins dans une histoire de fin du monde.
+623)  CHRISTA
+{happya}C'est pas le moment d'être mélancolique. [she doesn't meant it]
+624)  
+Je m'inquiétais que tu ne viennes pas avec moi.
+625)  LEE
+{thinkinga}Je croyais que toi et Omid ne viendraient pas avec moi.
+626)  LEE
+{happya}J'apprécie.
+724)  LEE
+{happya}J'apprécie.
+627)  LEE
+{happyb}Vous avez été forts depuis le premier jour.
+722)  LEE
+{happyb}Vous avez été forts depuis le premier jour.
+628)  CHRISTA
+{sada}On se surveille l'un l'autre, {angrya}mais on te laissera jamais partir tout seul, {worrieda}pas avec cette bombe à retardement dans ton bras.
+629)  CHRISTA
+{happya}On est quoi là, troisième ? Quatrième jour ?
+723)  CHRISTA
+{happya}On est quoi là, troisième ? Quatrième jour ?
+630)  CHRISTA
+{worrieda}Vous avez pris soin de nous, on fait pareil.
+631)  LEE
+{happya}J'apprécie.
+632)  LEE
+{normalb}Quoi de neuf par ici ?
+633)  OMID
+{happya}Un clocher. Voilà.
+634)  LEE
+{surpriseb}{happya}Ouais. Ca pourrait marcher.
+636)  
+Je crois que t'es le chouchou de Clem.
+637)  OMID
+{angryb}Quand on tiendra ce fumier, on te laissera tranquille, seul avec lui.
+638)  OMID
+Tu m'as compris ?
+639)  LEE
+{happya}Ouais, c'est une grande fan. {thinkinga}You get away with shit I never would.
+640)  LEE
+{happya}Je t'ai compris.
+641)  OMID
+{angrya}On va la ramener, Lee. Tu le sais, ça, non ?
+642)  LEE
+{happyb}Je crois que t'es le chouchou de Clem, tu le sais ça ?
+643)  LEE
+{angrya}Ouais.
+644)  OMID
+{happyb}Sérieux ?
+645)  
+Je vais voir si on peut atteindre ce clocher.
+646)  
+Comment va ta jambe ?
+647)  LEE
+{happya}Merci.
+648)  LEE
+{angrya}Je vais voir si on peut atteindre ce clocher.
+649)  OMID
+{sada}Ok, mais sois prudent. Je veux pas que tu nous laisses plus tôt que prévu.
+650)  LEE
+{sada}Comment va ta jambe ?
+651)  OMID
+{happya}Ouais.
+652)  LEE
+{happya}Elle est incroyable, hein ?
+653)  OMID
+{happya}C'est bon. {angrya}Ca aurait eu un sens si tu n'avais pas laissé clem avec moi quand vous êtes parti à Crawford. {sadb}Cette gamine m'a sauvé la vie.
+654)  OMID
+{happya}Ouais. {sada}T'en fais pas plus que nécessaire pour elle, ok ?
+655)  OMID
+{happya}Ca va beaucoup mieux. Merci d'être allé à Crawford pour moi, {sada}même si ce n'était pas QUE pour moi. {happyb}Clémentine aussi. {angrya}C'est un roc.
+656)  LEE
+{sada}N'est-ce pas ?
+657)  KENNY
+{sada}Nan. {angrya}J'ai besoin {sada}d'une minute, en fait. {sadb}Désolé, je sais que j'aurais pas dû.
+659)  LEE
+{happya}Hé, Ken.
+660)  
+Que se passe-t-il ?
+661)  KENNY
+{sada}Tout. {angryb}Putain. {sadc}Tu vois.
+662)  LEE
+{thinkinga}Que se passe-t-il ?
+663)  LEE
+{sada}Oui.
+664)  KENNY
+{sada}Je te remercierais jamais assez pour ce que t'as fait pour Duck. {sadb}Je sais pas comment j'aurais fait si tu--
+665)  LEE
+{sada}Te bile pas.
+666)  LEE
+{sadb}Ken--
+667)  KENNY
+[pulls out of it]{angrya} Non. Je suis désolé. Il faut se magner de partir d'ici, c'est pas le moment. {sada}Désolé. {angrya}Ca va.
+668)  KENNY
+{feara}Quand je vois où on en est, maintenant, {angryb}je vois pas {sadb}Kat et Duck au milieu de ce merdier.
+669)  KENNY
+{sada}Je suis... fier de l'avoir fait. Je peux me dire, à jamais, que je lui ai épargné le pire.
+670)  LEE
+{normalb}Ouais, ça pourrait nous aider à traverser les rues.
+671)  LEE
+{thinkinga}Il y a un clocher par là.
+672)  KENNY
+{normalb}On sait ce que ça fait.
+673)  KENNY
+{surpriseda}Ouais.
+674)  KENNY
+{happya}Je peux le faire, ouais.
+675)  LEE
+{normalb}La maison est par là, {normalc}le clocher par là, si on descend du toit par le côté opposé, {happya}on pourrait y arriver sans trop de problèmes.
+676)  LEE
+{sada}Des idées sur... autre chose ?
+677)  KENNY
+{sada}Nan, ça va. Faut que je prenne une seconde. {angrya}Je surveille par ici. {happya}Désolé.
+678)  
+Y'en a combien en dessous à ton avis ?
+679)  LEE
+{sada}Ouais, c'est ce que je pensais.
+680)  LEE
+{feara}A ton avis, y'en a combien qui errent en dessous ?
+681)  KENNY
+{feara}Dehors ? {sada}Regarde cette poussière. {angrya}Qui peux le dire, putain ?
+682)  KENNY
+{surpriseda}A l'hôpital ? Des milliers. {thinkinga}Qui sait ? Y'avait plein de morts avant, non ?
+683)  
+Echelle
+684)  
+Corde
+685)  
+Porte
+686)  
+Regarder
+689)  
+Regarder
+687)  
+Sauter
+690)  
+Ramasser
+691)  
+Grimper
+692)  
+Utiliser Echelle Sur
+711)  
+Utiliser Echelle Sur
+693)  
+Clocher
+694)  
+Issue de secours
+695)  
+Empreintes de pas
+696)  
+Ecart
+697)  
+Trappe
+698)  LEE
+[as the ladder slips away and he falls to his death!] Putain ! Non ! Non !!
+699)  LEE
+[falling to his death]
+700)  LEE
+[as the extension ladder fails and it starts retracting toward lee as he moves!]Oh, merde !
+701)  LEE
+[non verbals of Lee scrambling to get across a ladder bridge before it falls!]
+702)  
+Horizon
+703)  
+Rebord
+704)  
+Poignée
+706)  CHRISTA
+[Quick exertion, grabb Lee before he can fall] {fearB}
+707)  BEN
+[Panic] {fearC} Oh putain ! C'était moins une !!
+709)  
+Peinture
+710)  
+Inscription
+712)  
+Cloche
+713)  LEE
+[Leaping from the bell tower to the roof of the hospital, realizing you're not quite gonna make it] Oh mer--
+714)  OMID
+[relieved that Christa caught Lee before he fell to his death!] {surpriseC} Bon sang, c'était moins une !!
+715)  LEE
+[Mark edit]	{angryb}... Pas le choix.
+716)  LEE
+[Mark edit]{normalb}Tu as une idée pour traverser {thinkinga}le troupeau ?
+717)  CHRISTA
+[Mark edit]{worrieda}J'y travaille.  [hesitates, concerned about Lee's condition] {sada}Tu vas tenir le coup ?
+718)  KENNY
+[mark edit][if no one killed Duck and they left him behind] {sada}Je... Je {fearb}n'arrête pas de penser à Duck, tu vois ?  {sadc}Je veux dire on--
+719)  <<ID
+{ECC990C5-364B-4FAF-9A71-5F86FD5427BC}>>
+720)  <<ID
+{D86C0324-D0CE-492F-A6ED-350F56EB4548}>>
+721)  CHRISTA
+[pickup1] On se surveille l'un l'autre.
+725)  LEE
+[pickup1] [general grunting and cussing as you manuever a ladder with one arm]
+726)  OMID
+[pickup1][30 ft away] {surpriseB} Putain de merde !
+727)  CHRISTA
+[pickup1][30 ft away] {fearB} Ca va ?!
+728)  LEE
+[pickup1][30 ft away] {fearA} Ouais... Ca va.
+731)  LEE
+[pickup1][30 ft away] {fearA} Ouais... Ca va.
+732)  LEE
+[pickup1][30 ft away] {fearA} Ouais... Ca va.
+729)  LEE
+[pickup1] [30 ft] {disgustA} J'aimerai avoir mon autre main.
+735)  LEE
+[pickup1] [30 ft] {disgustA} J'aimerai avoir mon autre main.
+736)  LEE
+[pickup1] [30 ft] {disgustA} J'aimerai avoir mon autre main.
+730)  OMID
+[pickup1] [30ft] {fearA} Sans déconner !
+733)  KENNY
+[pickup1] {surprisedA} Bon dieu, tu vas bien ?
+734)  BEN
+[pickup1][30ft] {surprisedA} Putain, c'était moins une ! Ca va ?!
+737)  KENNY
+[pickup1][30 ft away] {fearA} Sans déconner.
+738)  BEN
+[pickup1][30 ft away] {fearA} Je l'aurai parié !
+739)  LEE
+[pickup1] {disgustA} Parce que le manchot insiste. Maintenant fermez la.
+740)  KENNY
+[pickup1] {disgustA} Putain mais pourquoi on laisse le manchot prendre tous les risques ?
+741)  LEE
+[pickup1] {disgustB} Garde tes conneries pour toi la prochaine fois.
+742)  KENNY
+[pickup1]  {thinkingA} C'est un peu maigre.
+743)  KENNY
+[pickup1] {normalB} Ouaip.
+744)  LEE
+[pickup1] {disgustA} Quoi ? Tu veux le faire ?
+745)  BEN
+[pickup1] {sadB} Non, simplement... {thinkingA} laisse tomber.
+746)  BEN
+[pickup1] {fearB} T'es sûr que tu devrais faire ça ?
+747)  OMID
+[pickup1] {fearA} C'est équitable.
+748)  OMID
+[pickup1] {disgustA} On devrait demander à quelqu'un de plus... physiquement capable. {sadA} T'es sûr que ça ira, Lee ?
+749)  LEE
+[pickup1] {angryA} Pose la question encore une fois et tu vas voir.
+750)  
+Des idées sur notre situation ?
+751)  
+Il y a un clocher par là.
+752)  
+Des idées à propos de l'attroupement ?
+753)  
+Il y a un clocher...
+754)  
+Tu penses à quoi ?
+755)  
+Tu as vu ce clocher ?
