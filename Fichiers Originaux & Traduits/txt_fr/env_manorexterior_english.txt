@@ -1,0 +1,728 @@
+1)  KENNY
+Ouvre ça tout de suite ! Quels enfoirés ! Putain, LEE !
+2)  LEE
+{thinkingB}Hello ? Qui est {angryA}là-dedans ?
+3)  LEE
+{thinkingB}Kenny ? 
+4)  KENNY
+OUVRE CETTE PORTE !
+5)  KENNY
+[muffled] Putain ! Merde ! Fils de...
+6)  CHRISTA
+{fearB}Mon Dieu...
+7)  KENNY
+{surprisedA}Putain, qu'est-ce que ?!
+194)  KENNY
+{surprisedA}Putain, qu'est-ce que ?!
+324)  KENNY
+{surprisedA}Putain, qu'est-ce que ?!
+8)  
+C'était Vernon.
+9)  
+L'enfoiré... à la radio...
+10)  
+Clémentine lui a donné le bateau ?
+11)  CHRISTA
+{worriedA}Bon, nous ne {thinkingA}reviendrons plus ici {sadA}quand nous aurons retrouvé Clém.
+12)  KENNY
+{surprisedA}Qui ? {sadA}Merde ! Comment {angryB}ça a pu arriver ?
+13)  OMID
+Eh les gars...
+14)  KENNY
+{disgustA}C'est pas... vrai... {angryB}mais c'est {angryD}PAS VRAI...
+15)  CHRISTA
+{disgustA}Tu penses ?
+16)  LEE
+{angryA}C'était Vernon.
+17)  LEE
+{surpriseB}[a little panicked] C'est le gars à la radio, {fearC}celui qui a emmené Clém... ils sont partis...{fearA} Merde ils sont partis...
+18)  LEE
+{fearA}[panicked] Clémentine... {disgustB}elle lui a donné le bateau... {fearB}elle...
+19)  KENNY
+{angryB}C'est pas possible !
+191)  KENNY
+{angryB}C'est pas possible !
+326)  KENNY
+{angryB}C'est pas possible !
+20)  OMID
+{normalB}Lee a raison. C'était {fearA}Vernon et son groupe de soutien.
+21)  KENNY
+{angryC}Ils nous ont baisés.
+129)  KENNY
+{angryC}Ils nous ont baisés.
+154)  KENNY
+{angryC}Ils nous ont baisés.
+192)  KENNY
+{angryC}Ils nous ont baisés.
+228)  KENNY
+{angryC}Ils nous ont baisés.
+283)  KENNY
+{angryC}Ils nous ont baisés.
+330)  KENNY
+{angryC}Ils nous ont baisés.
+22)  OMID
+{normalB}Il a dit qu'il regrettait. De nous abandonner {sadA}Clémentine et nous.
+23)  OMID
+{sadA}Non, ce n'était pas le gars à la radio. {angryA}C'était Vernon.
+24)  OMID
+{normalB}Non, Clémentine n'est pas avec le bateau. {angryA}Vernon et son groupe l'ont pris.
+25)  OMID
+{normalB}Leurs actions, euh, {thinkingA}ne correspondent pas trop à cette description, mais, {sadA}oui, c'étaient les invalides.
+193)  OMID
+{normalB}Leurs actions, euh, {thinkingA}ne correspondent pas trop à cette description, mais, {sadA}oui, c'étaient les invalides.
+329)  OMID
+{normalB}Leurs actions, euh, {thinkingA}ne correspondent pas trop à cette description, mais, {sadA}oui, c'étaient les invalides.
+26)  KENNY
+{disgustA}[continued...]LES INVALIDES ?!?
+190)  KENNY
+{disgustA}[continued...]LES INVALIDES ?!?
+328)  KENNY
+{disgustA}[continued...]LES INVALIDES ?!?
+27)  OMID
+{normalB}Oui.
+198)  OMID
+{normalB}Oui.
+28)  CHRISTA
+{thinkingA}Omid, tu pourrais passer au-dessus de la clôture {normalB}et nous faire entrer dans l'arrière-cour ? Nous ne {fearA}devrions pas rester {angryA}à découvert.
+197)  CHRISTA
+{thinkingA}Omid, tu pourrais passer au-dessus de la clôture {normalB}et nous faire entrer dans l'arrière-cour ? Nous ne{fearA}devrions pas rester {angryA}à découvert.
+29)  KENNY
+{angryA}Personne ne te l'a demandé.
+30)  BEN
+Oui, je pense que c'est une bonne idée.
+31)  KENNY
+{disgustA}Ne fais pas le malin avec moi, BEN.
+32)  BEN
+C'est ce que tu viens de faire.
+33)  CHRISTA
+{angryA}Il faut fuir les villes. Je {worriedA}n'en peux plus des villes. Allons {fearA}à la campagne et faisons en sorte que ça marche.
+97)  CHRISTA
+{angryA}Il faut fuir les villes. Je {worriedA}n'en peux plus des villes. Allons {fearA}à la campagne et faisons en sorte que ça marche.
+34)  CHRISTA
+{angryB}Du calme.
+35)  KENNY
+{disgustA}Donc nous retrouvons Clémentine {angryA}et après ?!
+98)  KENNY
+{disgustA}Donc nous retrouvons Clémentine {angryA}et après ?!
+36)  
+Nous devons rester unis.
+37)  
+Le problème du bateau viendra après.
+38)  
+Christa a raison.
+39)  KENNY
+{angryB}Tu te souviens que nous avions un bateau ?! {angryC}UN BATEAU !
+40)  LEE
+{fearA}Nous devons rester unis. {thinkingB}Rien n'a changé, n'est-ce pas ?
+41)  LEE
+{angryA}Je veux dire à l'instant présent. On {normalD}garde le cap. Il ne faut pas {disgustB}se tourner les uns contre les autres.
+42)  KENNY
+{surprisedA}Rien n'a changé ?!?
+43)  LEE
+{thinkingA}Je te suggère, de {normalD}te calmer.
+44)  BEN
+{disgustA}Oui, cool.
+50)  BEN
+{disgustA}Oui, cool.
+45)  LEE
+{angryA}On s'occupera du bateau après. Tu pourrais {thinkingB}parcourir toute la foutue côte à leur recherche.
+46)  KENNY
+{disgustA}Cet enfoiré {angryA}va regretter {disgustA}de ne pas être mort du cancer.
+47)  KENNY
+{surprisedA}Repenser ?! Et si on {disgustA}commençait déjà par PENSER.
+48)  LEE
+{normalC}Christa a raison. Le {angryA}bateau était une illusion ; on {disgustB}continue à chercher Clém, ensuite {thinkingB}on se tire de Savannah et on repense tout le plan.
+49)  LEE
+{surpriseA}C'est ce que {fearB}nous ferons ! {angryA}Calme-toi, Kenny.
+51)  BEN
+Reprends-toi !
+52)  CHRISTA
+{thinkingA}On peut faire ça à la campagne.
+53)  KENNY
+{angryB}Ben, je te jure que...
+54)  LEE
+{thinkingB}Absolument.
+55)  CHRISTA
+{sadA}Relax...
+56)  CHRISTA
+{sadA}Je ne pense pas qu'elle ferait ça...
+57)  BEN
+{sadB}Oui, calme-toi, Kenny.
+58)  CHRISTA
+{fearA}[to lee, aside] Qu'allons-nous faire sans bateau ?
+59)  
+Allez à la campagne.
+103)  
+Allez à la campagne.
+60)  
+Trouvez une petite ville.
+104)  
+Trouvez une petite ville.
+61)  
+Trouvez-en un autre un autre.
+108)  
+Trouvez-en un autre un autre.
+62)  CHRISTA
+{sadA}Tu sais que je partage cette idée.
+323)  CHRISTA
+{sadA}Tu sais que je partage cette idée.
+63)  LEE
+{fearA}Allez à la campagne. Nous nous {disgustB}sommes pris la tête avec les villes, le côtes et {angryA}les bateaux trop longtemps. {sadA}Sortez-la d'ici et {fearA}essayez de vivre le plus en sécurité possible, ok ?
+321)  LEE
+{fearA}Allez à la campagne. Nous nous {disgustB}sommes pris la tête avec les villes, le côtes et {angryA}les bateaux trop longtemps. {sadA}Sortez-la d'ici et {fearA}essayez de vivre le plus en sécurité possible, ok ?
+64)  OMID
+{normalA}Oui, nous devons {sadA}aller vers des espaces verts.
+322)  OMID
+{normalA}Oui, nous devons {sadA}aller vers des espaces verts.
+65)  OMID
+{fearA}Lee a raison, Christa. Nous {angryA}craignons les étrangers depuis si longtemps mais {fearA}à un moment, il {disgustA}faut prendre des risques, non ?
+107)  OMID
+{fearA}Lee a raison, Christa. Nous {angryA}craignons les étrangers depuis si longtemps mais {fearA}à un moment, il {disgustA}faut prendre des risques, non ?
+66)  LEE
+{normalD}Trouvez un petit village, peut-être {thinkingB}un qui n'a pas été trop saccagé. A {disgustB}un moment, les gens devront commencer à reconstruire et {fearA}vous les gars, avec Clém, devriez en faire partie.
+106)  LEE
+{normalD}Trouvez un petit village, peut-être {thinkingB}un qui n'a pas été trop saccagé. A {disgustB}un moment, les gens devront commencer à reconstruire et {fearA}vous les gars, avec Clém, devriez en faire partie.
+67)  CHRISTA
+{disgustA}Je ne sais pas...
+105)  CHRISTA
+{disgustA}Je ne sais pas...
+68)  LEE
+{fearA}Ce sera mieux que de se faire dévorer {sadA}tout seul, là-dehors.
+109)  LEE
+{fearA}Ce sera mieux que de se faire dévorer {sadA}tout seul, là-dehors.
+69)  LEE
+{thinkingB}Ce n'était pas le dernier bateau d'Amérique. L'idée {normalC}qui était valable avant le reste encore maintenant. Le {disgustB}continent est dévasté et nous n'avons aucune {fearA}idée de ce qui se trouve ailleurs.
+111)  LEE
+{thinkingB}Ce n'était pas le dernier bateau d'Amérique. L'idée {normalC}qui était valable avant le reste encore maintenant. Le {disgustB}continent est dévasté et nous n'avons aucune {fearA}idée de ce qui se trouve ailleurs.
+70)  OMID
+{disgustA}Je ne veux pas risquer nos vies {angryA}pour une mission impossible.
+110)  OMID
+{disgustA}Je ne veux pas risquer nos vies {angryA}pour une mission impossible.
+71)  KENNY
+{angryB}Comment tu oses dire ça ?
+76)  KENNY
+{angryB}Comment tu oses dire ça ?
+72)  BEN
+{disgustA}Je dis simplement que nous devrions TOUS rester cools, {fearB}pas seulement toi.
+77)  BEN
+{disgustA}Je dis simplement que nous devrions TOUS rester cools, {fearB}pas seulement toi.
+73)  KENNY
+{angryC}COOL ? {happyD}"Eh, les voleurs, COOL, {angryB}tenez, voilà des médicaments !" {surprisedA}"Vernon, {happyD}COOL, vas-y prends {angryC}notre putain de BATEAU."
+74)  BEN
+{angryB}Ce n'est pas de ma faute.
+75)  KENNY
+{angryB}Je n'arrive pas à trouver {angryC}UN SEUL truc qui {angryB}nous est arrivé et qui n'est pas {angryD}au-moins un peu de ta faute.
+78)  KENNY
+CHILL? {surprisedA}Lee a été mordu et Dieu {disgustA}seul sait combien de temps il LUI reste, {surprisedA}Clémentine est {angryB}on ne sait où et on nous {angryC}a volé le seul espoir qui nous restait.
+79)  BEN
+{angryB}Donc ?
+80)  KENNY
+Donc Lee {angryD}aurait du te laisser à Crawford. {disgustA}On a eu assez de problèmes.
+81)  BEN
+{angryD}VA TE FAIRE FOUTRE, KENNY! [hurt, damaged, choking back tears. he's pushed you to your limit]
+319)  BEN
+{angryD}VA TE FAIRE FOUTRE, KENNY! [hurt, damaged, choking back tears. he's pushed you to your limit]
+82)  
+Oh, Ben.
+83)  
+Doucement...
+84)  
+Kenny, arrête.
+85)  LEE
+{surpriseA}Oh, {fearA}Ben--
+86)  CHRISTA
+{fearA}Non, laisse-le.
+88)  CHRISTA
+{fearA}Non, laisse-le.
+90)  CHRISTA
+{fearA}Non, laisse-le.
+87)  LEE
+{surpriseA}Doucement les g--
+89)  LEE
+{surpriseA}Kenny, {fearA}arrête --
+91)  BEN
+{thinkingA}Je suis tellement, tellement {fearB}désolé pour {sadC}Katjaa et Duck, {fearC}VRAIMENT. {surprisedA}Et je sais que {sadD}j'ai merdé, mais {surprisedA}ARRETE de me mettre la pression, {fearC}ARRETE de souhaiter ma mort.
+92)  BEN
+{angryB}NON ! Tu {surprisedA}sais comment ils {disgustA}sont morts. Tu as pu leur dire {sadE}AU REVOIR. Je n'ai jamais eu l'occasion de {sadC}revoir ma famille, mes parents, ma {sadD}petite soeur... tu comprends ? Ta {fearB}famille est morte, mais {sadA}au moins tu les as vu partir.
+93)  BEN
+{disgustA}Je ne suis jamais rentré chez moi. Ils pourraient être {fearB}en vie ou {sadE}morts ou {sadC}des rôdeurs ou {surprisedA}PIRE et {angryB}JE N'EN SAIS RIEN. ALORS {angryC}FICHE-MOI LA PAIX.
+94)  KENNY
+{fearB}Euh, Ben, je--
+95)  CHRISTA
+{fearB}Oh merde, ils arrivent.
+96)  OMID
+{fearC}Dans la maison !
+99)  KENNY
+{fearB}Je ne veux pas retourner {sadA}là-dehors.
+100)  KENNY
+{surprisedA}Tu pratiques le "chacun {angryB}pour soi" tant que ton petit copain {disgustA}et toi n'avez {angryC}besoin de rien.
+101)  CHRISTA
+[pssh, whatever] Tu n'aurais pas eu un bateau à perdre {fearA}si nous n'étions pas là, alors {angryA}ferme-la, ok ?
+102)  CHRISTA
+{thinkingA}Qu'est-ce que tu en penses, Lee, qu'allons-nous {fearA}faire maintenant sans bateau ?
+112)  KENNY
+{angryA}Quoi, vous avez caché le bateau quelque part ?
+113)  KENNY
+{angryB}Ouais, je sais que c'est votre première préoccupation. [awk] {thinkingA}Et votre {disgustA}seconde, {angryB}c'est vous-mêmes.
+114)  OMID
+{disgustA}Ferme-la, vieux.
+115)  KENNY
+{disgustA}Mon cul, ouais.
+116)  OMID
+{sadA}Ce n'est pas comme ça, mec.
+117)  OMID
+{angryA}Il y a d'autres enjeux, ok ?
+118)  CHRISTA
+{angryA}Ne le provoque pas, Omid.
+119)  KENNY
+{angryB}Fais gaffe à ce que tu dis.
+120)  LEE
+Exactement.
+121)  KENNY
+{thinkingA}Au moins Lee réfléchit. Tu as {angryA}tout à fait raison, il faut trouver un autre bateau.
+122)  OMID
+{disgustA}On n'oublie pas le {fearA}plus important, là ? Clémentine est notre {angryA}objectif. C'est tout.
+123)  CHRISTA
+{angryA}Mais pas ici.
+124)  KENNY
+{angryA}Ce sont des conneries ; il {fearB}pourrait ne même plus être là, alors -- {sadA}avec tout le respect que je te dois, Lee -- son {thinkingA}opinion n'a pas vraiment de poids.
+125)  CHRISTA
+{thinkingA}Ecoute, nous savons ce que pense Lee.
+126)  CHRISTA
+{thinkingA}[to Lee, closer] Sors de la ville au{disgustA} moins, d'accord ?
+127)  CHRISTA
+Eh. Sa {fearA}petite fille est toujours là-dehors. {disgustA}C'est notre première préoccupation. Alors on {angryA}arrête là, ok ?
+128)  KENNY
+Mais et pour--
+130)  KENNY
+{angryB}Vernon ! Il {surprisedA}n'a pas Clém. Alors {thinkingA}bordel où elle est ?!
+156)  KENNY
+{angryB}Vernon ! Il {surprisedA}n'a pas Clém. Alors {thinkingA}bordel où elle est ?!
+131)  OMID
+{disgustA}Attends, les {sadA}cancéreux ont fait ça ?
+159)  OMID
+{disgustA}Attends, les {sadA}cancéreux ont fait ça ?
+132)  KENNY
+{disgustA}Ouais, ils n'attendaient que ça. {thinkingA}Ils en avaient marre de vivre sous terre, je suppose. Ils m'ont {surprisedA}tabassé {angryA}et ensuite balancé là-dedans.
+160)  KENNY
+{disgustA}Ouais, ils n'attendaient que ça. {thinkingA}Ils en avaient marre de vivre sous terre, je suppose. Ils m'ont {surprisedA}tabassé {angryA}et ensuite balancé là-dedans.
+133)  LEE
+{angryC}Avec quelqu'un d'autre. {thinkingB}Nous irons la chercher.
+157)  LEE
+{angryC}Avec quelqu'un d'autre. {thinkingB}Nous irons la chercher.
+134)  LEE
+{surpriseB}Quoi ?! {fearB}QUI ?
+155)  LEE
+{surpriseB}Quoi ?! {fearB}QUI ?
+227)  LEE
+{surpriseB}Quoi ?! {fearB}QUI ?
+284)  LEE
+{surpriseB}Quoi ?! {fearB}QUI ?
+135)  KENNY
+{angryB}Merde, {disgustA}c'est...{angryB}Mon Dieu.
+158)  KENNY
+{angryB}Merde, {disgustA}c'est...{angryB}Mon Dieu.
+136)  KENNY
+{fearA}ATTENDS; mais {fearB}qu'est-ce qu'il t'est arrivé ?!
+230)  KENNY
+{fearA}ATTENDS; mais {fearB}qu'est-ce qu'il t'est arrivé ?!
+301)  KENNY
+{fearA}ATTENDS; mais {fearB}qu'est-ce qu'il t'est arrivé ?!
+137)  LEE
+{normalC}Coupe-le.
+219)  LEE
+{normalC}Coupe-le.
+231)  LEE
+{normalC}Coupe-le.
+302)  LEE
+{normalC}Coupe-le.
+342)  LEE
+{normalC}Coupe-le.
+138)  KENNY
+{surprisedA}Vraiment ?
+229)  KENNY
+{surprisedA}Vraiment ?
+303)  KENNY
+{surprisedA}Vraiment ?
+139)  
+J'ai pensé que ça pourrait me faire gagner un peu de temps.
+140)  
+Ca pourrait me sauver la vie.
+141)  
+Je me suis évanoui à cause de la morsure.
+142)  LEE
+{thinkingB}J'ai pensé que ça pourrait me faire gagner un peu de temps ; {fearA}tu sais, avec de la chance, en retirant cette morsure de mon corps {normalD}les effets seront retardés.
+143)  LEE
+{disgustB}J'ai pensé que ça pourrait me sauver la vie. J'ai {normalB}eu de la chance d'être mordu au poignet, {thinkingB}loin des organes importants. {normalD}Mais qui sait.
+144)  LEE
+{disgustB}Je me suis évanoui et j'ai réalisé que {normalC}la morsure allait juste me ralentir. {thinkingB}Peut-être que je suis foutu, mais {fearA}honnêtement je me sens mieux.
+145)  KENNY
+{fearB}[sigh] {sadA}Mon Dieu...
+146)  KENNY
+{fearA}Comment vas-tu {thinkingA}, avec... {sadA}tout ce qui se passe ici ?
+147)  CHRISTA
+Nous... allions le couper, mais Lee s'y est opposé.
+148)  
+Ca a clairement des effets.
+149)  
+Je vais bien, ce n'est pas grand chose.
+150)  
+Ca me submerge par vagues.
+151)  LEE
+{thinkingB}Ca a clairement des effets. {disgustB}Je me suis évanoui quelques fois. Et je {thinkingA}me sens globalement très mal. Mais {fearA}il me reste du temps. {normalD}Il ne faut pas s'inquiéter.
+152)  LEE
+{disgustB}Je vais bien ; ce qui est {normalC}fait est fait. Nous {thinkingB}devons avant tout trouver Clémentine.
+153)  LEE
+{thinkingB}Ca me submerge par vagues.. Je {fearA}me suis effondré quelques fois {normalD}pour arriver ici, alors surveillez-moi.
+161)  BEN
+{angryB}Nous avons pris une raclée {sadB}tous les deux...
+162)  BEN
+{fearB}Ce mec et son équipe de malades ! Ils {thinkingB}ont pris le bateau, {angryB}ils sont partis.
+163)  BEN
+{fearB}Non. Il avait l'air énervé {sadB}que vous l'ayez perdue et... {sadA}eh bien, ils l'ont pris ; {fearA}ils sont partis.
+164)  KENNY
+{disgustA}BEN tu es {angryC}INUTILE.
+165)  CHRISTA
+{angryA}Doucement ! Ben, {fearA}que s'est-il passé ?
+166)  BEN
+{fearB}Ne vous fâchez pas... {sadB}le bateau n'est plus là.
+167)  KENNY
+{angryD}MAIS QU'EST-CE QUE TU AS FAIT ?
+168)  BEN
+{disgustA}Ils m'attendaient ici.
+169)  KENNY
+{angryB}Ca se voit qu'il n'est plus là !
+170)  BEN
+Vernon. {surprisedA}Toute son équipe.
+171)  CHRISTA
+{fearA}Qui ?
+172)  LEE
+{thinkingB}C'était un accident. Un{disgustB} truc vraiment con. {normalC}Mais c'est arrivé.
+208)  LEE
+{thinkingB}C'était un accident. Un{disgustB} truc vraiment con. {normalC}Mais c'est arrivé.
+211)  LEE
+{thinkingB}C'était un accident. Un{disgustB} truc vraiment con. {normalC}Mais c'est arrivé.
+223)  LEE
+{thinkingB}C'était un accident. Un{disgustB} truc vraiment con. {normalC}Mais c'est arrivé.
+232)  LEE
+{thinkingB}C'était un accident. Un{disgustB} truc vraiment con. {normalC}Mais c'est arrivé.
+240)  LEE
+{thinkingB}C'était un accident. Un{disgustB} truc vraiment con. {normalC}Mais c'est arrivé.
+296)  LEE
+{thinkingB}C'était un accident. Un{disgustB} truc vraiment con. {normalC}Mais c'est arrivé.
+307)  LEE
+{thinkingB}C'était un accident. Un{disgustB} truc vraiment con. {normalC}Mais c'est arrivé.
+337)  LEE
+{thinkingB}C'était un accident. Un{disgustB} truc vraiment con. {normalC}Mais c'est arrivé.
+346)  LEE
+{thinkingB}C'était un accident. Un{disgustB} truc vraiment con. {normalC}Mais c'est arrivé.
+173)  KENNY
+{fearA}Oh, mon Dieu...
+206)  KENNY
+{fearA}Oh, mon Dieu...
+234)  KENNY
+{fearA}Oh, mon Dieu...
+239)  KENNY
+{fearA}Oh, mon Dieu...
+297)  KENNY
+{fearA}Oh, mon Dieu...
+308)  KENNY
+{fearA}Oh, mon Dieu...
+174)  KENNY
+{fearC}[shocked beyond belief] ...Quoi ?
+209)  KENNY
+{fearC}[shocked beyond belief] ...Quoi ?
+235)  KENNY
+{fearC}[shocked beyond belief] ...Quoi ?
+238)  KENNY
+{fearC}[shocked beyond belief] ...Quoi ?
+295)  KENNY
+{fearC}[shocked beyond belief] ...Quoi ?
+305)  KENNY
+{fearC}[shocked beyond belief] ...Quoi ?
+175)  LEE
+{angryA}J'ai été mordu...
+207)  LEE
+{angryA}J'ai été mordu...
+210)  LEE
+{angryA}J'ai été mordu...
+225)  LEE
+{angryA}J'ai été mordu...
+233)  LEE
+{angryA}J'ai été mordu...
+236)  LEE
+{angryA}J'ai été mordu...
+294)  LEE
+{angryA}J'ai été mordu...
+304)  LEE
+{angryA}J'ai été mordu...
+335)  LEE
+{angryA}J'ai été mordu...
+344)  LEE
+{angryA}J'ai été mordu...
+176)  KENNY
+{disgustA}C'est quoi ce truc {fearB}sur ton poignet ?
+237)  KENNY
+{disgustA}C'est quoi ce truc {fearB}sur ton poignet ?
+293)  KENNY
+{disgustA}C'est quoi ce truc {fearB}sur ton poignet ?
+177)  LEE
+{surpriseA}Et Clémentine était {fearB}avec eux ?!
+178)  BEN
+{fearC}[to lee] Qu'est-il arrivé {surprisedA}à ton bras ?
+179)  KENNY
+{angryB}Nous l'avons coupé. {disgustA}Ben je pourrais {angryC}TE TUER là, maintenant.
+180)  KENNY
+{disgustA}Il a été mordu et {angryA}nous l'avons coupé.
+181)  BEN
+{fearC}Quoi ?!
+188)  BEN
+{fearC}Quoi ?!
+182)  BEN
+{fearB}Où est le bras de Lee ?
+183)  KENNY
+{disgustA}Je n'arrive pas à croire que tu n'aies même pas résisté.
+184)  BEN
+{sadB}Comment se sent Lee ?
+185)  KENNY
+{angryB}Ne change pas de sujet.
+189)  KENNY
+{angryB}Ne change pas de sujet.
+186)  BEN
+{surprisedA}Oh, c'est quoi {fearB}sur le poignet de Lee ?
+187)  CHRISTA
+{sadB}Il a été mordu.
+195)  OMID
+{angryA}Vernon. Toute son équipe. {sadA}Ils ont pris le bateau.
+325)  OMID
+{angryA}Vernon. Toute son équipe. {sadA}Ils ont pris le bateau.
+196)  CHRISTA
+{angryA}Ils nous sont tombés dessus. Ils n'avaient pas Clémentine. Ils ont pris le {sadA}bateau et nous ont enfermés ici.
+327)  CHRISTA
+{angryA}Ils nous sont tombés dessus. Ils n'avaient pas Clémentine. Ils ont pris le {sadA}bateau et nous ont enfermés ici.
+199)  BEN
+[to himself] Allez... s'il vous plait....
+200)  CHRISTA
+[trying to open a door] OUVRE, BORDEL.
+203)  CHRISTA
+[trying to open a door] OUVRE, BORDEL.
+201)  KENNY
+[to himself, furious, trying to open a door] ESPECE D'ENCULES...
+202)  KENNY
+[to himself, furious, trying to open a door] ESPECE D'ENCULES...
+204)  KENNY
+[to himself, furious, trying to open a door] ESPECE D'ENCULES...
+205)  LEE
+{angryA}Ouais.
+212)  CHRISTA
+{sadA}Attends, c'est quoi {fearB}ce truc sur ton poignet ?
+334)  CHRISTA
+{sadA}Attends, c'est quoi {fearB}ce truc sur ton poignet ?
+213)  OMID
+{fearA}[shocked beyond belief] ...Quoi ?
+221)  OMID
+{fearA}[shocked beyond belief] ...Quoi ?
+336)  OMID
+{fearA}[shocked beyond belief] ...Quoi ?
+345)  OMID
+{fearA}[shocked beyond belief] ...Quoi ?
+214)  CHRISTA
+{angryB}Mais quel con ! Bon sang, nous {fearB}serions partis avec toi...
+224)  CHRISTA
+{angryB}Mais quel con ! Bon sang, nous {fearB}serions partis avec toi...
+250)  CHRISTA
+{angryB}Mais quel con ! Bon sang, nous {fearB}serions partis avec toi...
+254)  CHRISTA
+{angryB}Mais quel con ! Bon sang, nous {fearB}serions partis avec toi...
+300)  CHRISTA
+{angryB}Mais quel con ! Bon sang, nous {fearB}serions partis avec toi...
+311)  CHRISTA
+{angryB}Mais quel con ! Bon sang, nous {fearB}serions partis avec toi...
+340)  CHRISTA
+{angryB}Mais quel con ! Bon sang, nous {fearB}serions partis avec toi...
+349)  CHRISTA
+{angryB}Mais quel con ! Bon sang, nous {fearB}serions partis avec toi...
+215)  CHRISTA
+{worriedA}Avant qu'on se sépare ?
+220)  CHRISTA
+{worriedA}Avant qu'on se sépare ?
+249)  CHRISTA
+{worriedA}Avant qu'on se sépare ?
+253)  CHRISTA
+{worriedA}Avant qu'on se sépare ?
+298)  CHRISTA
+{worriedA}Avant qu'on se sépare ?
+309)  CHRISTA
+{worriedA}Avant qu'on se sépare ?
+338)  CHRISTA
+{worriedA}Avant qu'on se sépare ?
+347)  CHRISTA
+{worriedA}Avant qu'on se sépare ?
+216)  LEE
+{normalD}Oui.
+222)  LEE
+{normalD}Oui.
+251)  LEE
+{normalD}Oui.
+252)  LEE
+{normalD}Oui.
+299)  LEE
+{normalD}Oui.
+310)  LEE
+{normalD}Oui.
+339)  LEE
+{normalD}Oui.
+348)  LEE
+{normalD}Oui.
+217)  CHRISTA
+{fearB}Mais que {worriedA}t'est-il arrivé ?!
+341)  CHRISTA
+{fearB}Mais que {worriedA}t'est-il arrivé ?!
+218)  OMID
+{fearB}C'est vrai ?!
+343)  OMID
+{fearB}C'est vrai ?!
+226)  LEE
+{surpriseB}Qu'est-ce que...
+282)  LEE
+{surpriseB}Qu'est-ce que...
+241)  LEE
+{angryC}Elle est avec quelqu'un d'autre. Ses {fearA}parents étaient à Savannah et je {angryA}pense que quelqu'un a utilisé ça contre elle.
+289)  LEE
+{angryC}Elle est avec quelqu'un d'autre. Ses {fearA}parents étaient à Savannah et je {angryA}pense que quelqu'un a utilisé ça contre elle.
+242)  KENNY
+{angryB}MERDE.
+286)  KENNY
+{angryB}MERDE.
+243)  LEE
+{fearB}Ils ont Clémentine?
+287)  LEE
+{fearB}Ils ont Clémentine?
+244)  OMID
+{disgustA}Non. Pas du tout. {fearA}Elle n'est pas avec toi ?
+288)  OMID
+{disgustA}Non. Pas du tout. {fearA}Elle n'est pas avec toi ?
+245)  CHRISTA
+{angryA}C'était Vernon. Ils nous {fearA}attendaient et {angryA}ils nous sont tombés dessus. Ils étaient {angryB}armés et--
+285)  CHRISTA
+{angryA}C'était Vernon. Ils nous {fearA}attendaient et {angryA}ils nous sont tombés dessus. Ils étaient {angryB}armés et--
+246)  CHRISTA
+{fearA}Nous allons {worriedA}la chercher, n'est-ce pas ?
+290)  CHRISTA
+{fearA}Nous allons {worriedA}la chercher, n'est-ce pas ?
+247)  LEE
+Oui, bien sûr.
+291)  LEE
+Oui, bien sûr.
+248)  OMID
+{sadA}[shocked] Pas question...
+306)  OMID
+{sadA}[shocked] Pas question...
+255)  KENNY
+{fearA}[sigh] Mon Dieu... {disgustA}tout est{sadA}... [sigh]
+292)  KENNY
+{fearA}[sigh] Mon Dieu... {disgustA}tout est{sadA}... [sigh]
+256)  KENNY
+{sadA}C'est pas possible... {disgustA}tout est foutu...
+257)  CHRISTA
+[pickup1] [emphatic] Clémentine est toujours là-dehors.
+258)  CHRISTA
+{angryA}Vernon a probablement plannifié ça {disgustA}depuis le moment {angryA}où il a vu ce bateau.
+259)  OMID
+{normalB}Il a dit qu'il était désolé d'abandonner Clémentine à son sort, mais que {sadA}le bateau était une opportunité qu'ils ne pouvaient pas laisser passer.
+260)  CHRISTA
+{fearA}C'est ton choix. {angryA}Fais comme tu le sens.
+261)  LEE
+[pickup1] Il faudra choisir l'un ou l'autre.
+262)  
+Regarder
+263)  
+Ouvrir
+264)  
+Portes
+265)  CHRISTA
+{thinkingA}[pickup1] Il a raison ; ce ne sont pas des invalides. {angryA}Ce sont juste des gens. {worriedA}Des gens qui ont du gérer des situations de merde {sadA}bien plus longtemps que nous. {disgustA}Ce n'est pas étonnant qu'ils nous soient tombés dessus.
+331)  CHRISTA
+{thinkingA}[pickup1] Il a raison ; ce ne sont pas des invalides. {angryA}Ce sont juste des gens. {worriedA}Des gens qui ont du gérer des situations de merde {sadA}bien plus longtemps que nous. {disgustA}Ce n'est pas étonnant qu'ils nous soient tombés dessus.
+266)  KENNY
+{surprisedA}[pickup1] J'en ai rien à {angryB}foutre qu'ils avaient envie {angryD}de faire un tour en bateau, {surprisedA}quand je les trouverai {angryC}je les massacrerai.
+332)  KENNY
+{surprisedA}[pickup1] J'en ai rien à {angryB}foutre qu'ils avaient envie {angryD}de faire un tour en bateau, {surprisedA}quand je les trouverai {angryC}je les massacrerai.
+267)  CHRISTA
+{angryA}[pickup1] Nous ne les retrouverons jamais.
+333)  CHRISTA
+{angryA}[pickup1] Nous ne les retrouverons jamais.
+268)  
+Je les emmerde.
+350)  
+Je les emmerde.
+269)  
+Nous aurions fait la même chose.
+353)  
+Nous aurions fait la même chose.
+270)  
+Je n'arrive pas à croire qu'ils aient fait ça.
+360)  
+Je n'arrive pas à croire qu'ils aient fait ça.
+271)  LEE
+{angryA}[pickup1] Je les emmerde. {thinkingB}Cancer, ou pas, {fearA}saints, pécheurs, {angryA}on s'en fout. Ce sont {thinkingB}des gens qui savaient ce qu'ils faisaient.
+351)  LEE
+{angryA}[pickup1] Je les emmerde. {thinkingB}Cancer, ou pas, {fearA}saints, pécheurs, {angryA}on s'en fout. Ce sont {thinkingB}des gens qui savaient ce qu'ils faisaient.
+272)  KENNY
+{disgustA}[pickup1] Ouais. {angryB}Nous BAISER. [they knew what they were doing...]
+352)  KENNY
+{disgustA}[pickup1] Ouais. {angryB}Nous BAISER. [they knew what they were doing...]
+273)  LEE
+{disgustB}[pickup1] Nous aurions fait la même chose.
+354)  LEE
+{disgustB}[pickup1] Nous aurions fait la même chose.
+274)  KENNY
+{angryC}[pickup1] Pas comme ça ! Nous {disgustA}n'aurions pas laissé des gens biens moisir ici !
+355)  KENNY
+{angryC}[pickup1] Pas comme ça ! Nous {disgustA}n'aurions pas laissé des gens biens moisir ici !
+275)  LEE
+{fearA}[pickup1] Nous avons pris de la nourriture, {sadA}nous avons tué pour survivre, {thinkingB}en quoi est-ce différent ?
+356)  LEE
+{fearA}[pickup1] Nous avons pris de la nourriture, {sadA}nous avons tué pour survivre, {thinkingB}en quoi est-ce différent ?
+276)  KENNY
+{angryB}[pickup1] C'est DIFFERENT.
+357)  KENNY
+{angryB}[pickup1] C'est DIFFERENT.
+277)  LEE
+{sadA}[pickup1] Les choses {thinkingB}ont changé.
+359)  LEE
+{sadA}[pickup1] Les choses {thinkingB}ont changé.
+278)  KENNY
+{angryB}[pickup1] Pourtant tu {disgustA}ne voulais pas prendre une boîte pleine de nourriture dans cette voiture abandonnée.
+358)  KENNY
+{angryB}[pickup1] Pourtant tu {disgustA}ne voulais pas prendre une boîte pleine de nourriture dans cette voiture abandonnée.
+279)  CHRISTA
+{angryB}[pickup1] Ils ont utilisé que dalle -- {fearA}Ils ont fait ce qu'aurait fait n'importe qui. {thinkingA}Ils ont vécu comme des fantômes depuis toujours et {disgustA}ils en avaient marre. C'est tout.
+363)  CHRISTA
+{angryB}[pickup1] Ils ont utilisé que dalle -- {fearA}Ils ont fait ce qu'aurait fait n'importe qui. {thinkingA}Ils ont vécu comme des fantômes depuis toujours et {disgustA}ils en avaient marre. C'est tout.
+280)  KENNY
+{surprisedA}[pickup1] C'est dégueulasse ! {disgustA}Vraiment. Ils ont utilisé {angryB}ta foutue COMPASSION {disgustA}envers les gens malades pour {angryC}nous poignarder dans le dos ensuite.
+362)  KENNY
+{surprisedA}[pickup1] C'est dégueulasse ! {disgustA}Vraiment. Ils ont utilisé {angryB}ta foutue COMPASSION {disgustA}envers les gens malades pour {angryC}nous poignarder dans le dos ensuite.
+281)  LEE
+{angryA}[pickup1] Je ne peux pas croire qu'ils nous aient fait ça.
+361)  LEE
+{angryA}[pickup1] Je ne peux pas croire qu'ils nous aient fait ça.
+312)  CHRISTA
+[pickup1] C'est très bien de jouer au gros dur, mais comment te sens-tu vraiment?
+313)  LEE
+[pickup1] J'y ai survécu ; c'est déjà ça. Et, bon...
+314)  CHRISTA
+[pickup1] Ecoute. je suis d'accord avec toi, je pense que la campagne est l'endroit le plus sûr. Tu n'es pas encore mort, alors accroche-toi à cette idée, ok ?
+315)  CHRISTA
+[pickup1] Nous tous -- même toi. Arrête de faire comme si tu étais déjà mort.
+316)  LEE
+[pickup1] Nous devons garder espoir.
+317)  CHRISTA
+[pickup1] Bateaux, villes, espoir... les gens meurent en poursuivant des choses impossibles, Lee.
+318)  CHRISTA
+[pickup1] Je sais que tu es préoccupé, mais n'arrête pas de penser au futur, ok ?
+320)  KENNY
+{disgustA}Lee aurait du te laisser à Crawford.
+364)  
+Rôdeur
