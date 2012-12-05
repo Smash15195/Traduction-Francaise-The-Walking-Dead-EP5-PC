@@ -1,0 +1,532 @@
+136)  KENNY
+{fearB}Tu es sûr ?
+213)  KENNY
+{fearB}Tu es sûr ?
+312)  KENNY
+{fearB}Tu es sûr ?
+398)  KENNY
+{fearB}Tu es sûr ?
+137)  LEE
+[heavy] {sadA}Oui, {angryA}mais pas ici.
+211)  LEE
+[heavy] {sadA}Oui, {angryA}mais pas ici.
+261)  LEE
+[heavy] {sadA}Oui, {angryA}mais pas ici.
+313)  LEE
+[heavy] {sadA}Oui, {angryA}mais pas ici.
+389)  LEE
+[heavy] {sadA}Oui, {angryA}mais pas ici.
+400)  LEE
+[heavy] {sadA}Oui, {angryA}mais pas ici.
+448)  LEE
+[heavy] {sadA}Oui, {angryA}mais pas ici.
+138)  LEE
+{thinkingA}Non. On le laisse.
+212)  LEE
+{thinkingA}Non. On le laisse.
+262)  LEE
+{thinkingA}Non. On le laisse.
+314)  LEE
+{thinkingA}Non. On le laisse.
+385)  LEE
+{thinkingA}Non. On le laisse.
+399)  LEE
+{thinkingA}Non. On le laisse.
+450)  LEE
+{thinkingA}Non. On le laisse.
+139)  LEE
+{thinkingA}Oui. J'ai l'impression d'avoir encore du temps ; {fearA}il faut juste me tenir à l'oeil. {angryA}Si je mets la main sur celui qui a enlevé Clém, j'aurai besoin de mes deux bras.
+210)  LEE
+{thinkingA}Oui. J'ai l'impression d'avoir encore du temps ; {fearA}il faut juste me tenir à l'oeil. {angryA}Si je mets la main sur celui qui a enlevé Clém, j'aurai besoin de mes deux bras.
+260)  LEE
+{thinkingA}Oui. J'ai l'impression d'avoir encore du temps ; {fearA}il faut juste me tenir à l'oeil. {angryA}Si je mets la main sur celui qui a enlevé Clém, j'aurai besoin de mes deux bras.
+315)  LEE
+{thinkingA}Oui. J'ai l'impression d'avoir encore du temps ; {fearA}il faut juste me tenir à l'oeil. {angryA}Si je mets la main sur celui qui a enlevé Clém, j'aurai besoin de mes deux bras.
+386)  LEE
+{thinkingA}Oui. J'ai l'impression d'avoir encore du temps ; {fearA}il faut juste me tenir à l'oeil. {angryA}Si je mets la main sur celui qui a enlevé Clém, j'aurai besoin de mes deux bras.
+401)  LEE
+{thinkingA}Oui. J'ai l'impression d'avoir encore du temps ; {fearA}il faut juste me tenir à l'oeil. {angryA}Si je mets la main sur celui qui a enlevé Clém, j'aurai besoin de mes deux bras.
+449)  LEE
+{thinkingA}Oui. J'ai l'impression d'avoir encore du temps ; {fearA}il faut juste me tenir à l'oeil. {angryA}Si je mets la main sur celui qui a enlevé Clém, j'aurai besoin de mes deux bras.
+140)  CHRISTA
+{SadA}Je pense qu'on devrait le faire. {fearA}Il faut se rendre à l'évidence, une chance vaut mieux que pas du tout.
+263)  CHRISTA
+{SadA}Je pense qu'on devrait le faire. {fearA}Il faut se rendre à l'évidence, une chance vaut mieux que pas du tout.
+317)  CHRISTA
+{SadA}Je pense qu'on devrait le faire. {fearA}Il faut se rendre à l'évidence, une chance vaut mieux que pas du tout.
+392)  CHRISTA
+{SadA}Je pense qu'on devrait le faire. {fearA}Il faut se rendre à l'évidence, une chance vaut mieux que pas du tout.
+141)  CHRISTA
+{sadA}Ok ?
+265)  CHRISTA
+{sadA}Ok ?
+320)  CHRISTA
+{sadA}Ok ?
+393)  CHRISTA
+{sadA}Ok ?
+142)  KENNY
+{angryA}Et merde -- {sadB}Je ne vais pas te laisser mourir. {angryA}Allez, faisons-le.
+214)  KENNY
+{angryA}Et merde -- {sadB}Je ne vais pas te laisser mourir. {angryA}Allez, faisons-le.
+318)  KENNY
+{angryA}Et merde -- {sadB}Je ne vais pas te laisser mourir. {angryA}Allez, faisons-le.
+402)  KENNY
+{angryA}Et merde -- {sadB}Je ne vais pas te laisser mourir. {angryA}Allez, faisons-le.
+143)  LEE
+[over his shoulder] {normalD}Les portes seront ouvertes dans deux secondes !
+144)  LEE
+[wave of nausea...] {FearB}Uhhoh...hmmph...
+146)  LEE
+[wave of nausea...] {FearB}Uhhoh...hmmph...
+145)  LEE
+[to himself] {thinkingB}Je me casse d'ici...
+147)  LEE
+[sigh. oh boy.]{disgustA}
+148)  LEE
+[sigh. oh boy.]{disgustA}
+208)  LEE
+[sigh. oh boy.]{disgustA}
+215)  LEE
+[sigh. oh boy.]{disgustA}
+258)  LEE
+[sigh. oh boy.]{disgustA}
+264)  LEE
+[sigh. oh boy.]{disgustA}
+309)  LEE
+[sigh. oh boy.]{disgustA}
+319)  LEE
+[sigh. oh boy.]{disgustA}
+352)  LEE
+[sigh. oh boy.]{disgustA}
+390)  LEE
+[sigh. oh boy.]{disgustA}
+395)  LEE
+[sigh. oh boy.]{disgustA}
+403)  LEE
+[sigh. oh boy.]{disgustA}
+446)  LEE
+[sigh. oh boy.]{disgustA}
+149)  
+Ce sera fini avant que je m'en rende compte.
+151)  
+Ne coupe pas trop haut.
+152)  LEE
+[to himself] {FearB}Ce sera fini avant que je m'en rende compte. Je dois simplement tenir le coup.
+153)  LEE
+{fearC}...Fait chier... Bordel. {fearA}Il faut le faire. Putain.
+154)  LEE
+[having had the thought to himself] {fearA}Ne coupe pas trop haut, ok ? {fearC}Coupe à l'endroit qui te semble le plus fin.
+155)  LEE
+[easy "woo-saaaw" breathing. this is going to fucking hurt. a lot.]{fearA}{thinkingB}
+156)  CHRISTA
+{angryA}Oh, mon Dieu, D'ACCORD.
+157)  LEE
+{sadB}Comme tu dis.
+158)  KENNY
+{FearA}Ca ne va pas être marrant.
+159)  CHRISTA
+{fearB}J'irai aussi vite que possible.
+160)  CHRISTA
+{fearB}J'irai aussi vite que possible.
+161)  
+Tu peux le faire.
+162)  
+Vite c'est bien.
+218)  
+Vite c'est bien.
+163)  
+Si je n'y survis pas...
+220)  
+Si je n'y survis pas...
+164)  LEE
+{fearA}Tu peux le faire. Tu as {FearD}le--AHHHHHHHH! [stabbed in the arm]
+165)  LEE
+{fearA}Vite c'est bien. Ecoute, tu voudr--{fearD}AHHHHHHH! [stabbed]
+219)  LEE
+{fearA}Vite c'est bien. Ecoute, tu voudr--{fearD}AHHHHHHH! [stabbed]
+166)  LEE
+{fearA}Si je n'y survis pas, je dois être sûr que tu--{fearD}AHHHHHHHH! [stabbed in the arm]
+221)  LEE
+{fearA}Si je n'y survis pas, je dois être sûr que tu--{fearD}AHHHHHHHH! [stabbed in the arm]
+167)  CHRISTA
+[sigh] {fearB}Je ne sais pas si je préfère être toi ou moi à cet instant précis.
+168)  LEE
+[grit teeth horrible stabbing pain. worst of your life.]{fearD}
+222)  LEE
+[grit teeth horrible stabbing pain. worst of your life.]{fearD}
+169)  CHRISTA
+[cutting off Lee's arm, through grit teeth] {FearB}ESSAYE DE NE PAS BOUGER !
+170)  LEE
+[screaming horrible pain, arm getting cut off]  {fearD}GRRRRAHHHH!!! [grit teeth horribleness] [2]
+239)  LEE
+[screaming horrible pain, arm getting cut off]  {fearD}GRRRRAHHHH!!! [grit teeth horribleness] [2]
+171)  CHRISTA
+[cutting off Lee's arm] {worriedA}Il faut serrer le garrot ! [fast]
+172)  LEE
+[screaming horrible pain, arm getting cut off]  {fearD}RRRAHHHHH!!! [3]
+238)  LEE 
+[screaming horrible pain, arm getting cut off]  {fearD}RRRAHHHHH!!! [3]
+173)  CHRISTA
+[cutting off Lee's arm]{fearB} Merdemerdemerdemerde...
+174)  LEE
+[screaming horrible pain, arm getting cut off] {fearD}AHRHRAHH! [1]
+237)  LEE
+[screaming horrible pain, arm getting cut off] {fearD}AHRHRAHH! [1]
+175)  LEE
+[screaming horrible pain, arm getting cut off]  {fearD}AHHHH-- [comes to a sharp drown out as you pass out]
+243)  LEE
+[screaming horrible pain, arm getting cut off]  {fearD}AHHHH-- [comes to a sharp drown out as you pass out]
+176)  
+BORDHHHHH... !!!
+226)  
+BORDHHHHH... !!!
+177)  
+ARRETE !!!
+228)  
+ARRETE !!!
+178)  
+OH MON DIEU
+230)  
+OH MON DIEU
+179)  LEE
+{fearD}BORDHHHHH.. !!! [arm chop]
+227)  LEE
+{fearD}BORDHHHHH.. !!! [arm chop]
+180)  LEE
+{FearD}ARRETE !!! [getting his arm sawed off]
+229)  LEE
+{FearD}ARRETE !!! [getting his arm sawed off]
+181)  CHRISTA
+{fearB}JE NE PEUX PAS ! TIENS BON ! [sawing off lee's arm]
+182)  LEE
+{FearD}OH MON DIEU !!! [getting his arm sawed off]
+231)  LEE
+{FearD}OH MON DIEU !!! [getting his arm sawed off]
+183)  CHRISTA
+{fearB}JE SAIS ! [sawing lee's arm off]
+184)  CHRISTA
+{fearB}Je suis désolée.
+185)  LEE
+[lee grits his teeth as his arm continues to be sawed through]{fearD} GRRRRRR...
+232)  LEE
+[lee grits his teeth as his arm continues to be sawed through]{fearD} GRRRRRR...
+196)  KENNY
+{FearA}C'était plus simple quand je pensais qu'il était inconscient.
+197)  KENNY
+{thinkingA}C'est un sacré risque, {fearA}mais... on ne sait jamais. [it might work]
+406)  KENNY
+{thinkingA}C'est un sacré risque, {fearA}mais... on ne sait jamais. [it might work]
+198)  LEE
+{thinkingA}Il se pourrait aussi que je meure encore plus vite en baignant dans mon propre sang.
+409)  LEE
+{thinkingA}Il se pourrait aussi que je meure encore plus vite en baignant dans mon propre sang.
+454)  LEE
+{thinkingA}Il se pourrait aussi que je meure encore plus vite en baignant dans mon propre sang.
+199)  KENNY
+{angryA}Ecoute, ce n'est pas une grande morsure. {thinkingA}Et elle est loin de ton coeur et de ta tête. {fearA}En amputant ton bras on te sauvera peut-être la vie.
+408)  KENNY
+{angryA}Ecoute, ce n'est pas une grande morsure. {thinkingA}Et elle est loin de ton coeur et de ta tête. {fearA}En amputant ton bras on te sauvera peut-être la vie.
+200)  KENNY
+{angryA}Euh, tu crois ? [to himself] Quelle merde.
+201)  BEN
+{sadA}Maintenant qu'il est réveillé, Lee devrait peut-être prendre lui-même la décision.
+202)  KENNY
+{angryA}Un sacré paquet.
+203)  KENNY
+{thinkingA}Ensuite toi et moi, nous irons chercher Clémentine. {angryB}Mais avant ça, on va devoir le faire. [turns to Lee] {fearA}S'il y a une chance d'empêcher que tu te transformes, nous devons tenter le coup.
+204)  BEN
+{fearB}Quoi...quoi... s'il meurt ?
+205)  BEN
+{sadB}Nous sommes sûrs de ne pas le tuer ?
+216)  KENNY
+Tu es sûr ?
+396)  KENNY
+Tu es sûr ?
+746)  
+Tu es sûr ?
+217)  
+C'est d'accord.
+223)  LEE
+{fearA}C'est d'accord. Tu vas---{fearD}AHHHHHHH! [stabbed in the arm]
+224)  KENNY
+{fearA}Ok gros balaise...
+225)  CHRISTA
+{fearB}TIENS BON ! [arm chop]
+233)  KENNY
+{fearB}TIENS BON, MEC ! [arm chop]
+234)  KENNY
+{sadB}C'EST UN PEU TROP TARD POUR CA, MON POTE. [arm chop]
+235)  KENNY
+{sadB}JE SAIS, JE SAIS !!! [arm chop]
+236)  KENNY
+{sadA}TU T'EN SORS BIEN ! [arm chop]
+240)  KENNY
+{surprisedA}BORDEL DE MERDE ! [arm chop]
+241)  KENNY
+{fearC}PUTAIN, LE GARROT ! [arm chop]
+242)  KENNY
+{sadB}NE BOUGE PAS ! ESSAYE DE NE PAS BOUGER ! [arm chop]
+244)  KENNY
+{angryA}Et puis MERDE. On est ici maintenant et je ne te laisserai pas mourir. Tu m'entends ? {fearB}Je pense qu'il faut l'enlever.
+245)  KENNY
+{surprisedA}Fils de pute ! {angryB}Pourquoi tu ne nous as rien dit ?!
+246)  BEN
+{sadB}Quand ?! Comment c'est arrivé ?!
+247)  KENNY
+{angryB}J'ai cru que tu avais eu une attaque ou un truc comme ça quand tu as fait le plongeon.
+248)  LEE
+{sadA}Je suis désolé.
+249)  LEE
+{SadA}C'est arrivé juste avant, tout ça.
+288)  OMID
+{sadA}Il a été mordu ; {fearA}il faut faire quelque chose.
+289)  BEN
+{fearB}On va quand même devoir l'amputer ?
+759)  BEN
+{fearB}On va quand même devoir l'amputer ?
+290)  CHRISTA
+{FearA}On essaye de le sauver ! {sadB}Ou au moins lui faire gagner un peu de temps.
+291)  BEN
+{thinkingA}De CETTE manière... ?
+292)  OMID
+Désolé...
+293)  OMID
+{fearA}S'il y a une chance de lui sauver la vie, il faut prendre le risque.
+381)  OMID
+{fearA}S'il y a une chance de lui sauver la vie, il faut prendre le risque.
+294)  CHRISTA
+Bien sûr que non.
+378)  CHRISTA
+Bien sûr que non.
+295)  CHRISTA
+{sadA}Qu'est-ce que tu en penses ?
+384)  CHRISTA
+{sadA}Qu'est-ce que tu en penses ?
+296)  CHRISTA
+Tu es sûr ?
+387)  CHRISTA
+Tu es sûr ?
+297)  CHRISTA
+{sadB}Allons-y. [chop your arm off]
+391)  CHRISTA
+{sadB}Allons-y. [chop your arm off]
+343)  OMID
+En lui coupant le bras...
+344)  OMID
+Nous avons pensé que tu aurais une chance si nous amputions le bras mordu.
+382)  OMID
+Nous avons pensé que tu aurais une chance si nous amputions le bras mordu.
+345)  OMID
+Nous savons qu'il va y avoir beaucoup de sang.
+379)  OMID
+Nous savons qu'il va y avoir beaucoup de sang.
+373)  OMID
+{fearA}Eh, {happyA}il est réveillé !
+374)  OMID
+{fearA}Je suis d'accord avec toi, mais, regarde-le !
+375)  CHRISTA
+{FearA}Nous devons le sauver ; il ne faut pas perdre de temps.
+376)  CHRISTA
+{fearA}Il faut faire quelque chose pour cette morsure MAINTENANT.
+377)  OMID
+{sadA}Oui, je sais. {sadB}Nous devons amputer son bras.
+380)  CHRISTA
+Alors toi et moi, nous irons chercher Clémentine et nous nous tirrons de Savannah.[after "what if he dies]
+383)  OMID
+Désolé, mec.
+410)  
+Ce sont des conneries.
+456)  
+Ce sont des conneries.
+417)  KENNY
+[HUGE Relief] {happyA}Merci, mon Dieu...
+418)  KENNY
+{angryB}J'ai découvert ton secret espèce de crétin débile. [gets emotional] {sadB}Tu as été MORDU ? {angryB}Fais chier, mec. Mais où étais-tu... {sadB}mon Dieu.
+419)  LEE
+{sadA}C'est arrivé avant.
+444)  LEE
+{sadA}C'est arrivé avant.
+420)  LEE
+{thinkingA}Quoi? Mais de quoi tu parles ?
+455)  LEE
+{thinkingA}Quoi? Mais de quoi tu parles ?
+421)  KENNY
+{angryA}Nous devons essayer QUELQUE CHOSE.
+422)  KENNY
+{fearB}OUAIS, vraiment.
+423)  LEE
+{angryA}Vraiment ?
+457)  LEE
+{angryA}Vraiment ?
+424)  LEE
+{thinkingA}Ce sont des conneries.
+458)  LEE
+{thinkingA}Ce sont des conneries.
+425)  KENNY
+{thinkingA}Nous devons essayer quelque chose. {FearA}Allez, Lee.
+426)  KENNY
+{fearB}Ecoute, je sais que ça a l'air impossible... mais il faut essayer.
+427)  KENNY
+[pleading] {sadB}Allez, Lee.
+428)  KENNY
+[pleading] {sadB}Allez, Lee.
+429)  
+Je suis désolé de ne pas l'avoir dit.
+459)  
+Je suis désolé de ne pas l'avoir dit.
+430)  
+Ca ne change rien.
+462)  
+Ca ne change rien.
+431)  
+Nous devons faire quelque chose.
+464)  
+Nous devons faire quelque chose.
+432)  LEE
+[sigh] {sadA}Je ne sais pas.
+460)  LEE
+[sigh] {sadA}Je ne sais pas.
+433)  KENNY
+{angryA}Bon écoute. [beat] J'ai les boules, {sadA}mais, je suis content que tu ne sois pas seul.
+441)  KENNY
+{angryA}Bon écoute. [beat] J'ai les boules, {sadA}mais, je suis content que tu ne sois pas seul.
+434)  LEE
+{sadA}Je suis désolé de ne pas l'avoir dit.
+461)  LEE
+{sadA}Je suis désolé de ne pas l'avoir dit.
+435)  KENNY
+{angryA}Tu as intérêt à l'être. {fearA}Mais pourquoi tu as gardé ça pour toi ?!
+436)  LEE
+{thinkingA}Ca ne change rien ; {angryA}retrouver Clémentine c'est tout ce qui compte.
+463)  LEE
+{thinkingA}Ca ne change rien ; {angryA}retrouver Clémentine c'est tout ce qui compte.
+437)  KENNY
+{thinkingA}Sauf que quand nous l'aurons trouvée, tu ne seras plus là pour t'occuper d'elle.
+438)  KENNY
+{sadA}On peut peut-être... faire quelque chose.
+439)  LEE
+{thinkingA}Nous devons faire quelque chose. {fearB}Je ne veux pas mourir avant d'avoir trouvé Clémentine.
+465)  LEE
+{thinkingA}Nous devons faire quelque chose. {fearB}Je ne veux pas mourir avant d'avoir trouvé Clémentine.
+440)  KENNY
+{fearA}Je suis avec toi.
+442)  KENNY
+{fearA}J'allais... euh... essayer de faire un peu de chirurgie avant que tu te réveilles.
+443)  KENNY
+Lee. Tu vas mourir.
+648)  KENNY
+Lee. Tu vas mourir.
+472)  LEE
+Mais qu'est-ce que tu fouts, Ben ? 
+473)  BEN
+[huge relief] {happyA}Oh, Dieu merci !
+474)  BEN
+{sadA}Comment... quand... ?
+475)  BEN
+{fearA}Tu es tombé et j'ai pensé que tu avais une attaque ou un truc du genre ! J'en cherchais la cause et{sadB}... et... j'ai trouvé...[upset] j'ai trouvé la morsure.
+476)  BEN
+{sadA}Je n'arrive pas à y croire... pourquoi tu ne l'as pas dit ?! Ils seraient peut-être aussi restés !
+477)  BEN
+Je ne savais pas quoi faire.
+478)  BEN
+{sadA}Mais... mais... quand nous l'aurons trouvée, tu ne seras plus là pour t'occuper d'elle.
+479)  BEN
+{fearB}Il y a quelque chose que nous pouvons faire ?
+480)  BEN
+{thinkingA}Ok. OK.
+481)  BEN
+{thinkingA}Qu'est-ce qu'on fait ? On doit faire quelque chose ; {sadB}je ne peux pas te regarder mourir.
+482)  BEN
+{sadA}De toute façon, je ne pense pas que j'aurais pu le faire.
+483)  BEN
+{FearA}J'ai amputé ton bras, voilà. {sadA}C'est que... Je ne sais pas... J'ai pensé que ça pourrait te sauver.
+484)  BEN
+{fearA}Je... Je ne suis pas sûr de pouvoir.
+485)  BEN
+{sadB}Bon il faut essayer quelque chose, hein ?
+487)  BEN
+{sadB}Bon il faut essayer quelque chose, hein ?
+486)  BEN
+{fearA}Euh... j'ai coupé le bras. Juste au-dessus de la morsure. J'ai pensé que peut-être comme ça tu ne mourrais pas.
+488)  BEN
+{fearA}Bien sûr !
+489)  BEN
+{sadB}Allez, Lee!
+491)  BEN
+{sadB}Allez, Lee!
+490)  BEN
+{sadA}Je sais que ça a l'air impossible mais il FAUT essayer.
+492)  LEE
+{thinkingB}Mon Dieu...
+493)  BEN
+{FearA}Et si je m'évanouis en cours de route ?
+494)  LEE
+{angryA}Tu te fouts de moi ?
+495)  BEN
+{sadA}Tu es sûr ?
+496)  BEN
+{sadA}Maintenant que tu es réveillé... peut-être. [sigh] {surprisedA}ECOUTE, je ne peux pas faire ça. Je tiendrai le garrot ou un truc comme ça.
+497)  BEN
+{fearB}Mais... tu vas mourir.
+498)  BEN
+{sadB}Tu es sûr ?
+499)  LEE
+C'est ce qu'on fait.
+500)  BEN
+{fearA}Mais...
+517)  BEN
+{fearA}Mais...
+501)  BEN
+{fearA}Lee... tu veux le faire ?
+502)  BEN
+{SadA}Ok... Espérons qu'il ne soit pas trop tard.
+503)  LEE
+{fearA}Bordel... [uh... god, general frustration]
+504)  LEE
+[contemplating how bad his condition is/ to himself] {fearB}Ca empire.
+505)  LEE
+[overwhelmed] {thinkingA}Oh, non.... [to himself, not gonna do it]
+506)  LEE
+{normalD}Quelques instruments chirurgicaux.
+507)  LEE
+{thinkingB}Je pense que c'est une sorte d'écarteur. {disgustA}Ca me dégoûte rien qu'à le regarder.
+508)  LEE
+{disgustA}Je pense qu'ils appellent ça un écarteur thoracique. Beuh.
+509)  LEE
+[to himself]{thinkingB}Ca pourrait être utile.
+510)  LEE
+{thinkingA}Il n'est peut-être pas trop tard. [to himself]
+511)  LEE
+[stabbing himself in the arm for the first time. horrible]{fearC}
+512)  LEE
+{thinkingA}Ok, tu peux le faire. {fearA}Tu peux le faire.
+513)  LEE
+{angryA}Deux.
+514)  LEE
+On y va. {FearB}Un.
+515)  LEE
+{angryC}TROIS.
+516)  LEE
+{fearA}Je vais prendre mon temps.
+518)  LEE
+{angryA}Je ne veux pas entendre ça ; ce n'est pas ton bras.
+519)  BEN
+{sadB}Ok.
+520)  LEE
+[cutting your own arm off. mad. ben did something dumb]{fearD}
+521)  LEE
+[sawing your arm off 1]{fearC}
+522)  LEE
+[sawing your arm off 2]{fearD}
+523)  LEE
+[sawing your arm off 3 with a horrible shriek at the end]{fearD}
+524)  LEE
+{thinkingA}Gardez un oeil sur cette porte les gars et je me charge de nous sortir d'ici.
+527)  LEE
+{thinkingA}Gardez un oeil sur cette porte les gars et je me charge de nous sortir d'ici.
+532)  LEE
+{thinkingA}Gardez un oeil sur cette porte les gars et je me charge de nous sortir d'ici.
+533)  LEE
+{thinkingA}Gardez un oeil sur cette porte les gars et je me charge de nous sortir d'ici.
+538)  LEE
+{thinkingA}Gardez un oeil sur cette porte les gars et je me charge de nous sortir d'ici.
