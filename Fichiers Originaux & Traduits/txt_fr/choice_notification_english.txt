@@ -1,0 +1,92 @@
+1)  
+Christa s'en souviendra.
+24)  
+Christa s'en souviendra.
+2)  
+Omid s'en souviendra.
+25)  
+Omid s'en souviendra.
+3)  
+Kenny s'en souviendra.
+4)  
+Ben s'en souviendra.
+5)  
+Ils s'en souviendront.
+6)  
+Christa a appréciée.
+7)  
+Omid a apprécié.
+8)  
+Kenny a apprécié.
+9)  
+Ben a apprécié.
+10)  
+Christa n'a pas appréciée.
+11)  
+Omid n'a pas apprécié.
+12)  
+Kenny n'aime pas ça.
+13)  
+Ben n'a pas apprécié.
+14)  
+Vous avez choisi de garder votre arme.
+15)  
+Christa a remarqué votre silence.
+16)  
+Omid a remarqué votre silence.
+17)  
+Kenny a remarqué votre silence.
+18)  
+Ben a remarqué votre silence.
+19)  
+Christa a remarquée votre panique.
+20)  
+Kenny apprécie.
+21)  
+Omid apprécie.
+22)  
+Omid et Christa ont apprécié.
+23)  
+Christa l'a remarqué.
+26)  
+Omid est d'accord.
+27)  
+Vous autorisez Kenny a sauver Ben de sa plus grande peur.
+28)  
+Vous essayez de rester avec Kenny et Ben.
+29)  
+Kenny a remarqué votre panique.
+30)  
+Christa note votre hésitation.
+31)  
+Omid et Christa s'en souviendront.
+32)  
+Clémentine s'en souviendra.
+33)  
+Clémentine s'en souviendra.
+34)  
+Ben note votre scepticisme.
+35)  
+Ben note votre optimisme.
+36)  
+Kenny se souviendra de votre scepticisme.
+37)  
+Kenny remarque votre optimisme.
+38)  
+Christa remarque votre scepticisme.
+39)  
+Christa remarque votre optimisme.
+40)  
+Christa apprécie.
+41)  
+Christa n'apprécie pas.
+42)  
+Christa n'est pas sûr de ça.
+43)  
+Kenny comprends.
+44)  
+Ca va faire mal.
+45)  
+Ca va faire mal.
+46)  
+Kenny l'a remarqué.

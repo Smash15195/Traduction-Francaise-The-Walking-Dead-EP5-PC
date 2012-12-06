@@ -1,497 +1,497 @@
 1)  LEE
-{angryD}You're fucking DEAD.{fearB} I don't know who you are but I will kill you, {angryC}do you understand?
+{angryD}Vous êtes un putain de MORT en sursis.{fearB} Je sais pas qui vous êtes mais je vais vous tuer, {angryC}vous comprenez ?
 2)  CAMPMAN
-I know you will. She knows you will.
+Je vous en sais capable. Elle vous en sait capable.
 3)  LEE
-{fearA}What do you want from me? {sadA}Whatever it is, I'll do it and {sadB}you can let her go.
+{fearA}Qu'est-ce que que vous voulez ? {sadA}Que quoi ce soit, je le ferais et {sadB}vous la laisserez partir.
 4)  CAMPMAN
-[what do you WANT?] I want you to never hurt anybody again. [a beat] This isn't a kidnapping, Lee.
+[what do you WANT?] Je veux que vous ne fassiez plus de mal à personne. [a beat] Ce n'est pas un kidnapping, Lee.
 5)  
-Then what is it?
+C'est quoi alors ?
 6)  
-I'm going to hurt YOU.
+Je vais VOUS faire du mal.
 7)  
-I don't care what it is.
+Je me fous de ce que c'est.
 8)  CAMPMAN
-A rescue.
+Un sauvetage.
 9)  LEE
-{thinkingB}Then what is it?
+{thinkingB}C'est quoi alors ?
 10)  CAMPMAN
 [a long sigh. "have it your way you sorry s.o.b."]
 11)  LEE
-{angryA}I don't care WHAT it is. {angryC}Just let her go.
+{angryA}Je me fous que ce que C'EST. {angryC}Laissez la partir.
 12)  LEE
-{angryC}I can think of one more person I'm going to hurt, motherfucker. {angryA}I'm gonna--
+{angryC}J'ai en tête une personne de plus a qui faire du mal, fils de putain. {angryA}Je vais--
 13)  CAMPMAN
-[snaps] No, you're not.
+[snaps] Non, vous ne le ferais pas.
 14)  CAMPMAN
-I suppose you're letting that sink in. Think about it.
+Je suppose que vous avez besoin de réaliser. Je vous laisse y penser.
 15)  LEE
-{fearC}Please don't hurt her.
+{fearC}Je vous en prie, ne lui faites rien.
 16)  CAMPMAN
-Hurt her?  I'm not the one who hurts people.
+Lui faire quelque chose ?  Je ne suis pas quelqu'un de ce genre.
 17)  CAMPMAN
-Smart. I guess if you don't have anything nice to say, don't say anything at all.
+Très intelligent. Si vous n'avez rien de gentil à dire, ne dites rien du tout.
 18)  CHRISTA
-[quietly]{angryB}That son of a bitch.
+[quietly]{angryB}Quel fils de pute.
 19)  BEN
-[are you going to say anything?]{fearA}Lee?
+[are you going to say anything?]{fearA}Lee ?
 20)  CAMPMAN
-Say goodbye.
+Dis au revoir.
 21)  CLEMENTINE
-[being made to say it] Goodbye--
+[being made to say it] Au revoir--
 22)  CAMPMAN
-There's an ocean of dead between you and me and her, and if I can thank God for anything anymore, it's that.
+Il y a un océan de morts entre vous, moi et elle et si je peux remercier Dieu pour quelque chose, c'est bien pour ça.
 23)  CAMPMAN
-There's an ocean of dead between you and me and her, and if I can thank God for anything anymore, it's that.
+Il y a un océan de morts entre vous, moi et elle et si je peux remercier Dieu pour quelque chose, c'est bien pour ça.
 24)  CAMPMAN
-I guess you REALLY don't care, do you? I had you all wrong...  [radio cut off]
+J'imagine que vous en avez VRAIMENT a faire, hein ? Si j'ai tout faux...  [radio cut off]
 25)  
-...Fuck.
+...Merde.
 150)  
-...Fuck.
+...Merde.
 26)  
-He better not hurt her.
+Il ferait mieux de ne pas la toucher.
 27)  
-Hold on, Clem.
+Tiens le coup, Clém.
 28)  LEE
-{thinkingB}...Fuck. [frustrated sigh]
+{thinkingB}...Merde. [frustrated sigh]
 29)  LEE
-{fearA}He better not fucking hurt her. I swear...
+{fearA}Il ferait mieux de ne pas la toucher. Je jure que...
 30)  LEE
-[short, to himself] {fearA}Just hold on, Clementine. {sadA}I'm coming for you.
+[short, to himself] {fearA}Tiens le coup, Clémentine. {sadA}Je viens te chercher.
 31)  KENNY
-[reassuring] {thinkingA}Don't worry, pal. We'll get her back.
+[reassuring] {thinkingA}T'en fais pas, mon pote. On va la retrouver.
 34)  KENNY
-[reassuring] {thinkingA}Don't worry, pal. We'll get her back.
+[reassuring] {thinkingA}T'en fais pas, mon pote. On va la retrouver.
 43)  KENNY
-[reassuring] {thinkingA}Don't worry, pal. We'll get her back.
+[reassuring] {thinkingA}T'en fais pas, mon pote. On va la retrouver.
 47)  KENNY
-[reassuring] {thinkingA}Don't worry, pal. We'll get her back.
+[reassuring] {thinkingA}T'en fais pas, mon pote. On va la retrouver.
 32)  CHRISTA
-{sadA}We don't have much time.
+{sadA}On a plus beaucoup de temps.
 44)  CHRISTA
-{sadA}We don't have much time.
+{sadA}On a plus beaucoup de temps.
 33)  KENNY
-{thinkingA}We're about to have a lot less! We'll all make sure nothing gets in. {happyA}You're still the smartest fucker outta' all of us --{thinkingA} try to find another way out of here.
+{thinkingA}Nous sommes sur le point d'en avoir beaucoup moins ! On va s'assurer que rien puisse entrer. {happyA}Tu es encore le plus intelligent de nous --{thinkingA} essaye de trouver un autre moyen de sortir d'ici.
 45)  KENNY
-{thinkingA}We're about to have a lot less! We'll all make sure nothing gets in. {happyA}You're still the smartest fucker outta' all of us --{thinkingA} try to find another way out of here.
+{thinkingA}Nous sommes sur le point d'en avoir beaucoup moins ! On va s'assurer que rien puisse entrer. {happyA}Tu es encore le plus intelligent de nous --{thinkingA} essaye de trouver un autre moyen de sortir d'ici.
 35)  BEN
-{fearA}Maybe he's not that bad...
+{fearA}Peut-être qu'il n'est pas si mauvais...
 36)  KENNY
-{angryB}Don't get me fucking STARTED on you and good intentions.
+{angryB}COMMENCE pas à me les briser avec tes bonnes intentions.
 37)  LEE
-{fearA}Easy. [like, whoa there]
+{fearA}Du calme. [like, whoa there]
 38)  KENNY
-{fearA}Shit, like we need more motivation to get out of here.
+{fearA}Merde, comme si nous avions besoin de plus de motivation pour partir d'ici.
 39)  CHRISTA
-{fearA}This is bad, but we can deal with it together. {thinkingA} We're going to need to hurry.
+{fearA}C'est mauvais, mais nous pouvons y faire face ensemble. {thinkingA} Nous allons devoir nous dépêcher.
 46)  CHRISTA
-{fearA}This is bad, but we can deal with it together. {thinkingA} We're going to need to hurry.
+{fearA}C'est mauvais, mais nous pouvons y faire face ensemble. {thinkingA} Nous allons devoir nous dépêcher.
 40)  CHRISTA
-{fearA}We don't have a lot of time.
+{fearA}Nous n'avons plus beaucoup de temps.
 616)  CHRISTA
-{fearA}We don't have a lot of time.
+{fearA}Nous n'avons plus beaucoup de temps.
 41)  OMID
-{fearA}We're about to have a lot less....
+{fearA}Nous sommes sur le point d'en avoir beaucoup moins....
 74)  OMID
-{fearA}We're about to have a lot less....
+{fearA}Nous sommes sur le point d'en avoir beaucoup moins....
 42)  CHRISTA
-{angryA}We three will stop them getting in.
+{angryA}Nous trois pouvons les empêcher d'entrer.
 48)  KENNY
-{angryA}We ain't flush with time, but...
+{angryA}Nous ne sommes pas large niveau temps, mais...
 49)  KENNY
-{thinkingA}Fuck. We got less than I thought. {angryA}I'll be ready to kill anything that tries to get in.
+{thinkingA}Merde. Nous avons moins que ce que je pensais. {angryA}Je serai prêt à tuer tout ce qui tente d'entrer.
 50)  LEE
-{thinkingA}You got it by yourself?
+{thinkingA}Tu l'as fait toi-même ?
 51)  KENNY
-{happyB}Damn right; {angryA}you just try to find another way out of here.
+{happyB}Ouais putain; {angryA}Essaie de trouver un autre moyen de sortir.
 52)  LEE
-{thinkingA}Got it.
+{thinkingA}Compris.
 53)  KENNY
-{fearA}And Lee... {happyB}I'm glad I didn't let you come alone.
+{fearA}Et Lee... {happyB}Je suis heureux de t'avoir accompagner.
 54)  BEN
-{sadB}What do you want to do?
+{sadB}Qu'est-ce que tu veux faire ?
 55)  CHRISTA
-{sadA}How's that feeling?
+{sadA}Comment tu te sens ?
 72)  CHRISTA
-{sadA}How's that feeling?
+{sadA}Comment tu te sens ?
 82)  CHRISTA
-{sadA}How's that feeling?
+{sadA}Comment tu te sens ?
 88)  CHRISTA
-{sadA}How's that feeling?
+{sadA}Comment tu te sens ?
 56)  
-Fine.
+Bien.
 57)  
-Doesn't matter.
+Ca n'a pas d'importance.
 58)  
-Not great.
+Pas terrible.
 59)  LEE
-[remembering] {thinkingB}No. It wasn't.
+[remembering] {thinkingB}Non.
 66)  LEE
-[remembering] {thinkingB}No. It wasn't.
+[remembering] {thinkingB}Non.
 75)  LEE
-[remembering] {thinkingB}No. It wasn't.
+[remembering] {thinkingB}Non.
 83)  LEE
-[remembering] {thinkingB}No. It wasn't.
+[remembering] {thinkingB}Non.
 60)  LEE
-{fearA}Fine. Don't worry about it.
+{fearA}Bien. Ne t'en fais pas.
 68)  LEE
-{fearA}Fine. Don't worry about it.
+{fearA}Bien. Ne t'en fais pas.
 77)  LEE
-{fearA}Fine. Don't worry about it.
+{fearA}Bien. Ne t'en fais pas.
 85)  LEE
-{fearA}Fine. Don't worry about it.
+{fearA}Bien. Ne t'en fais pas.
 61)  OMID
-{fearA}It wasn't a full chomp...
+{fearA}Ce n'était pas vraiment une morsure...
 67)  OMID
-{fearA}It wasn't a full chomp...
+{fearA}Ce n'était pas vraiment une morsure...
 76)  OMID
-{fearA}It wasn't a full chomp...
+{fearA}Ce n'était pas vraiment une morsure...
 84)  OMID
-{fearA}It wasn't a full chomp...
+{fearA}Ce n'était pas vraiment une morsure...
 62)  LEE
-{angryA}It doesn't matter. It is what it is.
+{angryA}Ca n'a pas d'importance. Je dois faire avec.
 69)  LEE
-{angryA}It doesn't matter. It is what it is.
+{angryA}Ca n'a pas d'importance. Je dois faire avec.
 78)  LEE
-{angryA}It doesn't matter. It is what it is.
+{angryA}Ca n'a pas d'importance. Je dois faire avec.
 86)  LEE
-{angryA}It doesn't matter. It is what it is.
+{angryA}Ca n'a pas d'importance. Je dois faire avec.
 63)  OMID
-{fearA}Yeah, {happyA}totally.
+{fearA}Ouais, {happyA}complètement.
 71)  OMID
-{fearA}Yeah, {happyA}totally.
+{fearA}Ouais, {happyA}complètement.
 79)  OMID
-{fearA}Yeah, {happyA}totally.
+{fearA}Ouais, {happyA}complètement.
 64)  LEE
-{fearA}Not great. My hand is hot {thinkingA}and it's thumping a little bit.
+{fearA}Pas terrible. Ma main est chaude {thinkingA}et elle est un peu engourdie.
 70)  LEE
-{fearA}Not great. My hand is hot {thinkingA}and it's thumping a little bit.
+{fearA}Pas terrible. Ma main est chaude {thinkingA}et elle est un peu engourdie.
 81)  LEE
-{fearA}Not great. My hand is hot {thinkingA}and it's thumping a little bit.
+{fearA}Pas terrible. Ma main est chaude {thinkingA}et elle est un peu engourdie.
 87)  LEE
-{fearA}Not great. My hand is hot {thinkingA}and it's thumping a little bit.
+{fearA}Pas terrible. Ma main est chaude {thinkingA}et elle est un peu engourdie.
 65)  KENNY
-{FearA}You seem okay for now.
+{FearA}Tu as l'air bien pour le moment.
 80)  KENNY
-{FearA}You seem okay for now.
+{FearA}Tu as l'air bien pour le moment.
 73)  CHRISTA
-{fearA}We'll stop them if we have to. {angryA}Lee -- find a way out of here!
+{fearA}On les arrêtera s'il le faut. {angryA}Lee -- trouves un moyen de sortir d'ici !
 89)  LEE
-[to himself] {thinkingA}Through here seems like the only way out.
+[to himself] {thinkingA}Ca semble être la seule issue.
 90)  LEE
-[over his shoulder] {happyA}Hey, I think I found a way out.
+[over his shoulder] {happyA}Hé, Je pense avoir trouvé un moyen de sortir.
 91)  
-I'm awake!
+Je suis réveillé !
 99)  
-I'm awake!
+Je suis réveillé !
 281)  
-I'm awake!
+Je suis réveillé !
 336)  
-I'm awake!
+Je suis réveillé !
 367)  
-I'm awake!
+Je suis réveillé !
 411)  
-I'm awake!
+Je suis réveillé !
 466)  
-I'm awake!
+Je suis réveillé !
 92)  
-Don't kill me!
+Me tuez pas !
 101)  
-Don't kill me!
+Me tuez pas !
 283)  
-Don't kill me!
+Me tuez pas !
 338)  
-Don't kill me!
+Me tuez pas !
 369)  
-Don't kill me!
+Me tuez pas !
 413)  
-Don't kill me!
+Me tuez pas !
 468)  
-Don't kill me!
+Me tuez pas !
 93)  
-WHOA!
+OUAH !
 103)  
-WHOA!
+OUAH !
 285)  
-WHOA!
+OUAH !
 340)  
-WHOA!
+OUAH !
 371)  
-WHOA!
+OUAH !
 415)  
-WHOA!
+OUAH !
 470)  
-WHOA!
+OUAH !
 94)  LEE
-{fearD}I'm awake!
+{fearD}Je suis réveillé !
 100)  LEE
-{fearD}I'm awake!
+{fearD}Je suis réveillé !
 282)  LEE
-{fearD}I'm awake!
+{fearD}Je suis réveillé !
 337)  LEE
-{fearD}I'm awake!
+{fearD}Je suis réveillé !
 368)  LEE
-{fearD}I'm awake!
+{fearD}Je suis réveillé !
 412)  LEE
-{fearD}I'm awake!
+{fearD}Je suis réveillé !
 467)  LEE
-{fearD}I'm awake!
+{fearD}Je suis réveillé !
 95)  LEE
-{fearD}Don't kill me!
+{fearD}Me tuez pas !
 102)  LEE
-{fearD}Don't kill me!
+{fearD}Me tuez pas !
 284)  LEE
-{fearD}Don't kill me!
+{fearD}Me tuez pas !
 339)  LEE
-{fearD}Don't kill me!
+{fearD}Me tuez pas !
 370)  LEE
-{fearD}Don't kill me!
+{fearD}Me tuez pas !
 414)  LEE
-{fearD}Don't kill me!
+{fearD}Me tuez pas !
 469)  LEE
-{fearD}Don't kill me!
+{fearD}Me tuez pas !
 96)  LEE
-{fearD}WHOA! [what are you doing?! stop!!!]
+{fearD}OUAH ! [what are you doing?! stop!!!]
 104)  LEE
-{fearD}WHOA! [what are you doing?! stop!!!]
+{fearD}OUAH ! [what are you doing?! stop!!!]
 286)  LEE
-{fearD}WHOA! [what are you doing?! stop!!!]
+{fearD}OUAH ! [what are you doing?! stop!!!]
 341)  LEE
-{fearD}WHOA! [what are you doing?! stop!!!]
+{fearD}OUAH ! [what are you doing?! stop!!!]
 372)  LEE
-{fearD}WHOA! [what are you doing?! stop!!!]
+{fearD}OUAH ! [what are you doing?! stop!!!]
 416)  LEE
-{fearD}WHOA! [what are you doing?! stop!!!]
+{fearD}OUAH ! [what are you doing?! stop!!!]
 471)  LEE
-{fearD}WHOA! [what are you doing?! stop!!!]
+{fearD}OUAH ! [what are you doing?! stop!!!]
 97)  CHRISTA
-{FearB}STOP! He's awake!
+{FearB}ARRETE ! Il est réveillé !
 342)  CHRISTA
-{FearB}STOP! He's awake!
+{FearB}ARRETE ! Il est réveillé !
 98)  KENNY
-{thinkingA}He's still bitten!
+{thinkingA}Il est toujours mordu !
 300)  KENNY
-{thinkingA}He's still bitten!
+{thinkingA}Il est toujours mordu !
 105)  BEN
-{surprisedA}Stop! He's awake! He's awake!!!
+{surprisedA}Arrête ! Il est réveillé ! Il est réveillé !!!
 287)  BEN
-{surprisedA}Stop! He's awake! He's awake!!!
+{surprisedA}Arrête ! Il est réveillé ! Il est réveillé !!!
 106)  KENNY
-{fearA}This about trying to SAVE him! {sadB}At the very least buy him some time.
+{fearA}Il s'agit peut-être pas d'essayer de le SAUVER ! {sadB}Mais tout du moins lui donner un peu de temps.
 298)  KENNY
-{fearA}This about trying to SAVE him! {sadB}At the very least buy him some time.
+{fearA}Il s'agit peut-être pas d'essayer de le SAUVER ! {sadB}Mais tout du moins lui donner un peu de temps.
 107)  CHRISTA
-{SadA}SO?!
+{SadA}ET ALORS ?!
 299)  CHRISTA
-{SadA}SO?!
+{SadA}ET ALORS ?!
 108)  OMID
-{fearA}Do we know it works?
+{fearA}Est-ce qu'on sait si ça marche ?
 252)  OMID
-{fearA}Do we know it works?
+{fearA}Est-ce qu'on sait si ça marche ?
 302)  OMID
-{fearA}Do we know it works?
+{fearA}Est-ce qu'on sait si ça marche ?
 348)  OMID
-{fearA}Do we know it works?
+{fearA}Est-ce qu'on sait si ça marche ?
 109)  KENNY
-{angryA}Damn right. Let's do this. [turns to Lee] {fearA}If there's a chance it stops you from turning, we have to take it.
+{angryA}Ta foutrement raison. Faisons ça. [turns to Lee] {fearA}Si il y a une chance de t'empêcher de changer, il faut la prendre.
 303)  KENNY
-{angryA}Damn right. Let's do this. [turns to Lee] {fearA}If there's a chance it stops you from turning, we have to take it.
+{angryA}Ta foutrement raison. Faisons ça. [turns to Lee] {fearA}Si il y a une chance de t'empêcher de changer, il faut la prendre.
 110)  BEN
-Is there going to be a lot of blood?
+Est-ce qu'il y aura beaucoup de sang ?
 194)  BEN
-Is there going to be a lot of blood?
+Est-ce qu'il y aura beaucoup de sang ?
 250)  BEN
-Is there going to be a lot of blood?
+Est-ce qu'il y aura beaucoup de sang ?
 111)  CHRISTA
-{fearA}Then the rest of us go after Clementine {angryA}and get the hell out of Savannah.[after "what if he dies]
+{fearA}Alors ceux qui reste iront chercher Clémentine {angryA}puis foutrons le camp de Savannah.[after "what if he dies]
 251)  CHRISTA
-{fearA}Then the rest of us go after Clementine {angryA}and get the hell out of Savannah.[after "what if he dies]
+{fearA}Alors ceux qui reste iront chercher Clémentine {angryA}puis foutrons le camp de Savannah.[after "what if he dies]
 304)  CHRISTA
-{fearA}Then the rest of us go after Clementine {angryA}and get the hell out of Savannah.[after "what if he dies]
+{fearA}Alors ceux qui reste iront chercher Clémentine {angryA}puis foutrons le camp de Savannah.[after "what if he dies]
 112)  OMID
-{fearA}What if he dies?
+{fearA}Et s'il meurt ?
 253)  OMID
-{fearA}What if he dies?
+{fearA}Et s'il meurt ?
 305)  OMID
-{fearA}What if he dies?
+{fearA}Et s'il meurt ?
 346)  OMID
-{fearA}What if he dies?
+{fearA}Et s'il meurt ?
 113)  CHRISTA
-{fearA}There's going to be a shitload of blood. [is there going to be a lot blood]
+{fearA}Il va y avoir des flots de sang. [is there going to be a lot blood]
 254)  CHRISTA
-{fearA}There's going to be a shitload of blood. [is there going to be a lot blood]
+{fearA}Il va y avoir des flots de sang. [is there going to be a lot blood]
 306)  CHRISTA
-{fearA}There's going to be a shitload of blood. [is there going to be a lot blood]
+{fearA}Il va y avoir des flots de sang. [is there going to be a lot blood]
 347)  CHRISTA
-{fearA}There's going to be a shitload of blood. [is there going to be a lot blood]
+{fearA}Il va y avoir des flots de sang. [is there going to be a lot blood]
 114)  KENNY
-{angryA}We don't know anything.
+{angryA}On n'en sait rien.
 195)  KENNY
-{angryA}We don't know anything.
+{angryA}On n'en sait rien.
 301)  KENNY
-{angryA}We don't know anything.
+{angryA}On n'en sait rien.
 115)  KENNY
-What do you think?
+Qu'est-ce que tu en penses ?
 206)  KENNY
-What do you think?
+Qu'est-ce que tu en penses ?
 307)  KENNY
-What do you think?
+Qu'est-ce que tu en penses ?
 116)  LEE
-{thinkingA}Fuck it. {disgustA}Cut it off.
+{thinkingA}Fais chier. {disgustA}Coupe ça.
 207)  LEE
-{thinkingA}Fuck it. {disgustA}Cut it off.
+{thinkingA}Fais chier. {disgustA}Coupe ça.
 255)  LEE
-{thinkingA}Fuck it. {disgustA}Cut it off.
+{thinkingA}Fais chier. {disgustA}Coupe ça.
 308)  LEE
-{thinkingA}Fuck it. {disgustA}Cut it off.
+{thinkingA}Fais chier. {disgustA}Coupe ça.
 349)  LEE
-{thinkingA}Fuck it. {disgustA}Cut it off.
+{thinkingA}Fais chier. {disgustA}Coupe ça.
 394)  LEE
-{thinkingA}Fuck it. {disgustA}Cut it off.
+{thinkingA}Fais chier. {disgustA}Coupe ça.
 445)  LEE
-{thinkingA}Fuck it. {disgustA}Cut it off.
+{thinkingA}Fais chier. {disgustA}Coupe ça.
 117)  LEE
-[he is sure] {thinkingA}Yeah.
+[he is sure] {thinkingA}Ouais.
 209)  LEE
-[he is sure] {thinkingA}Yeah.
+[he is sure] {thinkingA}Ouais.
 257)  LEE
-[he is sure] {thinkingA}Yeah.
+[he is sure] {thinkingA}Ouais.
 310)  LEE
-[he is sure] {thinkingA}Yeah.
+[he is sure] {thinkingA}Ouais.
 350)  LEE
-[he is sure] {thinkingA}Yeah.
+[he is sure] {thinkingA}Ouais.
 397)  LEE
-[he is sure] {thinkingA}Yeah.
+[he is sure] {thinkingA}Ouais.
 447)  LEE
-[he is sure] {thinkingA}Yeah.
+[he is sure] {thinkingA}Ouais.
 118)  CHRISTA
-{fearB}Seriously?
+{fearB}Sérieusement ?
 256)  CHRISTA
-{fearB}Seriously?
+{fearB}Sérieusement ?
 311)  CHRISTA
-{fearB}Seriously?
+{fearB}Sérieusement ?
 351)  CHRISTA
-{fearB}Seriously?
+{fearB}Sérieusement ?
 119)  
-Let's do it.
+Faisons-le.
 186)  
-Let's do it.
+Faisons-le.
 266)  
-Let's do it.
+Faisons-le.
 321)  
-Let's do it.
+Faisons-le.
 353)  
-Let's do it.
+Faisons-le.
 404)  
-Let's do it.
+Faisons-le.
 451)  
-Let's do it.
+Faisons-le.
 120)  
-What are you talking about?!
+Qu'est-ce que tu racontes ?!
 188)  
-What are you talking about?!
+Qu'est-ce que tu racontes ?!
 270)  
-What are you talking about?!
+Qu'est-ce que tu racontes ?!
 325)  
-What are you talking about?!
+Qu'est-ce que tu racontes ?!
 357)  
-What are you talking about?!
+Qu'est-ce que tu racontes ?!
 407)  
-What are you talking about?!
+Qu'est-ce que tu racontes ?!
 453)  
-What are you talking about?!
+Qu'est-ce que tu racontes ?!
 121)  
-I'm right here...
+Je suis là...
 191)  
-I'm right here...
+Je suis là...
 276)  
-I'm right here...
+Je suis là...
 330)  
-I'm right here...
+Je suis là...
 362)  
-I'm right here...
+Je suis là...
 122)  CHRISTA
-{sadA}It's a big risk.
+{sadA}C'est un risque important.
 267)  CHRISTA
-{sadA}It's a big risk.
+{sadA}C'est un risque important.
 322)  CHRISTA
-{sadA}It's a big risk.
+{sadA}C'est un risque important.
 356)  CHRISTA
-{sadA}It's a big risk.
+{sadA}C'est un risque important.
 123)  LEE
-[re cutting off your arm]{fearA}Let's do it. Maybe it'll work.
+[re cutting off your arm]{fearA}Faisons-le. Ca marchera peut-être.
 187)  LEE
-[re cutting off your arm]{fearA}Let's do it. Maybe it'll work.
+[re cutting off your arm]{fearA}Faisons-le. Ca marchera peut-être.
 269)  LEE
-[re cutting off your arm]{fearA}Let's do it. Maybe it'll work.
+[re cutting off your arm]{fearA}Faisons-le. Ca marchera peut-être.
 324)  LEE
-[re cutting off your arm]{fearA}Let's do it. Maybe it'll work.
+[re cutting off your arm]{fearA}Faisons-le. Ca marchera peut-être.
 354)  LEE
-[re cutting off your arm]{fearA}Let's do it. Maybe it'll work.
+[re cutting off your arm]{fearA}Faisons-le. Ca marchera peut-être.
 405)  LEE
-[re cutting off your arm]{fearA}Let's do it. Maybe it'll work.
+[re cutting off your arm]{fearA}Faisons-le. Ca marchera peut-être.
 452)  LEE
-[re cutting off your arm]{fearA}Let's do it. Maybe it'll work.
+[re cutting off your arm]{fearA}Faisons-le. Ca marchera peut-être.
 124)  OMID
-{fearA}Yeah... we're down here without a lot of options...
+{fearA}Ouais... On a pas beaucoup le choix...
 268)  OMID
-{fearA}Yeah... we're down here without a lot of options...
+{fearA}Ouais... On a pas beaucoup le choix...
 323)  OMID
-{fearA}Yeah... we're down here without a lot of options...
+{fearA}Ouais... On a pas beaucoup le choix...
 355)  OMID
-{fearA}Yeah... we're down here without a lot of options...
+{fearA}Ouais... On a pas beaucoup le choix...
 125)  BEN
-We thought maybe... with your bite... if we removed it, you might live.
+Nous pensions que peut-être... avec ta morsure... si nous l'enlevions, tu pourrais vivre.
 190)  BEN
-We thought maybe... with your bite... if we removed it, you might live.
+Nous pensions que peut-être... avec ta morsure... si nous l'enlevions, tu pourrais vivre.
 274)  BEN
-We thought maybe... with your bite... if we removed it, you might live.
+Nous pensions que peut-être... avec ta morsure... si nous l'enlevions, tu pourrais vivre.
 126)  LEE
-{surpriseB}Jesus, what are you guys talking about?
+{surpriseB}Bordel, qu'est-ce que vous racontez ?
 189)  LEE
-{surpriseB}Jesus, what are you guys talking about?
+{surpriseB}Bordel, qu'est-ce que vous racontez ?
 275)  LEE
-{surpriseB}Jesus, what are you guys talking about?
+{surpriseB}Bordel, qu'est-ce que vous racontez ?
 328)  LEE
-{surpriseB}Jesus, what are you guys talking about?
+{surpriseB}Bordel, qu'est-ce que vous racontez ?
 361)  LEE
-{surpriseB}Jesus, what are you guys talking about?
+{surpriseB}Bordel, qu'est-ce que vous racontez ?
 127)  CHRISTA
-{sadA}I know it's drastic.
+{sadA}Je sais, c'est radical.
 271)  CHRISTA
-{sadA}I know it's drastic.
+{sadA}Je sais, c'est radical.
 326)  CHRISTA
-{sadA}I know it's drastic.
+{sadA}Je sais, c'est radical.
 358)  CHRISTA
-{sadA}I know it's drastic.
+{sadA}Je sais, c'est radical.
 128)  CHRISTA
-{sadA}But what if it works? It might be the only way.
+{sadA}Et si ça marche ? C'est peut-être le seul moyen.
 272)  CHRISTA
-{sadA}But what if it works? It might be the only way.
+{sadA}Et si ça marche ? C'est peut-être le seul moyen.
 327)  CHRISTA
-{sadA}But what if it works? It might be the only way.
+{sadA}Et si ça marche ? C'est peut-être le seul moyen.
 359)  CHRISTA
-{sadA}But what if it works? It might be the only way.
+{sadA}Et si ça marche ? C'est peut-être le seul moyen.
 129)  LEE
-{angryA}You think? [sarc]
+{angryA}Tu crois ? [sarc]
 273)  LEE
-{angryA}You think? [sarc]
+{angryA}Tu crois ? [sarc]
 329)  LEE
-{angryA}You think? [sarc]
+{angryA}Tu crois ? [sarc]
 360)  LEE
-{angryA}You think? [sarc]
+{angryA}Tu crois ? [sarc]
 130)  LEE
-{angryA}Uh, hey, {fearA}I'm laying right here.
+{angryA}Euh, hé, {fearA}Je vais me coucher juste là.
 192)  LEE
-{angryA}Uh, hey, {fearA}I'm laying right here.
+{angryA}Euh, hé, {fearA}Je vais me coucher juste là.
 280)  LEE
-{angryA}Uh, hey, {fearA}I'm laying right here.
+{angryA}Euh, hé, {fearA}Je vais me coucher juste là.
 331)  LEE
-{angryA}Uh, hey, {fearA}I'm laying right here.
+{angryA}Euh, hé, {fearA}Je vais me coucher juste là.
 366)  LEE
-{angryA}Uh, hey, {fearA}I'm laying right here.
+{angryA}Euh, hé, {fearA}Je vais me coucher juste là.
 131)  CHRISTA
 {sadB}It's not really our call anymore.
 277)  CHRISTA
@@ -501,117 +501,117 @@ We thought maybe... with your bite... if we removed it, you might live.
 364)  CHRISTA
 {sadB}It's not really our call anymore.
 132)  LEE
-{thinkingA}Yeah, no shit.
+{thinkingA}Ouais, sans blague.
 278)  LEE
-{thinkingA}Yeah, no shit.
+{thinkingA}Ouais, sans blague.
 333)  LEE
-{thinkingA}Yeah, no shit.
+{thinkingA}Ouais, sans blague.
 365)  LEE
-{thinkingA}Yeah, no shit.
+{thinkingA}Ouais, sans blague.
 133)  KENNY
-{fearA}Sorry.
+{fearA}Désolé.
 193)  KENNY
-{fearA}Sorry.
+{fearA}Désolé.
 335)  KENNY
-{fearA}Sorry.
+{fearA}Désolé.
 134)  OMID
-{fearA}If we take the arm off and you don't die of blood loss, well,{SadA} maybe you won't die from the bite.
+{fearA}Si on te coupe le bras et que tu ne meurs pas vidé de ton sang, et bien,{SadA} peut-être que tu ne mourras pas de cette morsure.
 279)  OMID
-{fearA}If we take the arm off and you don't die of blood loss, well,{SadA} maybe you won't die from the bite.
+{fearA}Si on te coupe le bras et que tu ne meurs pas vidé de ton sang, et bien,{SadA} peut-être que tu ne mourras pas de cette morsure.
 332)  OMID
-{fearA}If we take the arm off and you don't die of blood loss, well,{SadA} maybe you won't die from the bite.
+{fearA}Si on te coupe le bras et que tu ne meurs pas vidé de ton sang, et bien,{SadA} peut-être que tu ne mourras pas de cette morsure.
 363)  OMID
-{fearA}If we take the arm off and you don't die of blood loss, well,{SadA} maybe you won't die from the bite.
+{fearA}Si on te coupe le bras et que tu ne meurs pas vidé de ton sang, et bien,{SadA} peut-être que tu ne mourras pas de cette morsure.
 135)  OMID
-{sadA}But {sadB}you're going to die.
+{sadA}Mais {sadB}tu vas y rester.
 259)  OMID
-{sadA}But {sadB}you're going to die.
+{sadA}Mais {sadB}tu vas y rester.
 316)  OMID
-{sadA}But {sadB}you're going to die.
+{sadA}Mais {sadB}tu vas y rester.
 388)  OMID
-{sadA}But {sadB}you're going to die.
+{sadA}Mais {sadB}tu vas y rester.
 136)  KENNY
-{fearB}Are you sure?
+{fearB}Tu es sûr ?
 213)  KENNY
-{fearB}Are you sure?
+{fearB}Tu es sûr ?
 312)  KENNY
-{fearB}Are you sure?
+{fearB}Tu es sûr ?
 398)  KENNY
-{fearB}Are you sure?
+{fearB}Tu es sûr ?
 137)  LEE
-[heavy] {sadA}Yeah, {angryA}but not in here.
+[heavy] {sadA}Oui, {angryA}mais pas ici.
 211)  LEE
-[heavy] {sadA}Yeah, {angryA}but not in here.
+[heavy] {sadA}Oui, {angryA}mais pas ici.
 261)  LEE
-[heavy] {sadA}Yeah, {angryA}but not in here.
+[heavy] {sadA}Oui, {angryA}mais pas ici.
 313)  LEE
-[heavy] {sadA}Yeah, {angryA}but not in here.
+[heavy] {sadA}Oui, {angryA}mais pas ici.
 389)  LEE
-[heavy] {sadA}Yeah, {angryA}but not in here.
+[heavy] {sadA}Oui, {angryA}mais pas ici.
 400)  LEE
-[heavy] {sadA}Yeah, {angryA}but not in here.
+[heavy] {sadA}Oui, {angryA}mais pas ici.
 448)  LEE
-[heavy] {sadA}Yeah, {angryA}but not in here.
+[heavy] {sadA}Oui, {angryA}mais pas ici.
 138)  LEE
-{thinkingA}No. We leave it.
+{thinkingA}Non. On le laisse.
 212)  LEE
-{thinkingA}No. We leave it.
+{thinkingA}Non. On le laisse.
 262)  LEE
-{thinkingA}No. We leave it.
+{thinkingA}Non. On le laisse.
 314)  LEE
-{thinkingA}No. We leave it.
+{thinkingA}Non. On le laisse.
 385)  LEE
-{thinkingA}No. We leave it.
+{thinkingA}Non. On le laisse.
 399)  LEE
-{thinkingA}No. We leave it.
+{thinkingA}Non. On le laisse.
 450)  LEE
-{thinkingA}No. We leave it.
+{thinkingA}Non. On le laisse.
 139)  LEE
-{thinkingA}Yeah. I feel like I've got time; {fearA}just keep an eye on me. {angryA}If I get my hands on the bastard who's got Clem, I'm going to be happy to have them both.
+{thinkingA}Oui. J'ai l'impression d'avoir encore du temps ; {fearA}il faut juste me tenir à l'oeil. {angryA}Si je mets la main sur celui qui a enlevé Clém, j'aurai besoin de mes deux bras.
 210)  LEE
-{thinkingA}Yeah. I feel like I've got time; {fearA}just keep an eye on me. {angryA}If I get my hands on the bastard who's got Clem, I'm going to be happy to have them both.
+{thinkingA}Oui. J'ai l'impression d'avoir encore du temps ; {fearA}il faut juste me tenir à l'oeil. {angryA}Si je mets la main sur celui qui a enlevé Clém, j'aurai besoin de mes deux bras.
 260)  LEE
-{thinkingA}Yeah. I feel like I've got time; {fearA}just keep an eye on me. {angryA}If I get my hands on the bastard who's got Clem, I'm going to be happy to have them both.
+{thinkingA}Oui. J'ai l'impression d'avoir encore du temps ; {fearA}il faut juste me tenir à l'oeil. {angryA}Si je mets la main sur celui qui a enlevé Clém, j'aurai besoin de mes deux bras.
 315)  LEE
-{thinkingA}Yeah. I feel like I've got time; {fearA}just keep an eye on me. {angryA}If I get my hands on the bastard who's got Clem, I'm going to be happy to have them both.
+{thinkingA}Oui. J'ai l'impression d'avoir encore du temps ; {fearA}il faut juste me tenir à l'oeil. {angryA}Si je mets la main sur celui qui a enlevé Clém, j'aurai besoin de mes deux bras.
 386)  LEE
-{thinkingA}Yeah. I feel like I've got time; {fearA}just keep an eye on me. {angryA}If I get my hands on the bastard who's got Clem, I'm going to be happy to have them both.
+{thinkingA}Oui. J'ai l'impression d'avoir encore du temps ; {fearA}il faut juste me tenir à l'oeil. {angryA}Si je mets la main sur celui qui a enlevé Clém, j'aurai besoin de mes deux bras.
 401)  LEE
-{thinkingA}Yeah. I feel like I've got time; {fearA}just keep an eye on me. {angryA}If I get my hands on the bastard who's got Clem, I'm going to be happy to have them both.
+{thinkingA}Oui. J'ai l'impression d'avoir encore du temps ; {fearA}il faut juste me tenir à l'oeil. {angryA}Si je mets la main sur celui qui a enlevé Clém, j'aurai besoin de mes deux bras.
 449)  LEE
-{thinkingA}Yeah. I feel like I've got time; {fearA}just keep an eye on me. {angryA}If I get my hands on the bastard who's got Clem, I'm going to be happy to have them both.
+{thinkingA}Oui. J'ai l'impression d'avoir encore du temps ; {fearA}il faut juste me tenir à l'oeil. {angryA}Si je mets la main sur celui qui a enlevé Clém, j'aurai besoin de mes deux bras.
 140)  CHRISTA
-{SadA}I think we should do it. {fearA}We'll be smart about it and any chance is better than none.
+{SadA}Je pense qu'on devrait le faire. {fearA}Il faut se rendre à l'évidence, une chance vaut mieux que pas du tout.
 263)  CHRISTA
-{SadA}I think we should do it. {fearA}We'll be smart about it and any chance is better than none.
+{SadA}Je pense qu'on devrait le faire. {fearA}Il faut se rendre à l'évidence, une chance vaut mieux que pas du tout.
 317)  CHRISTA
-{SadA}I think we should do it. {fearA}We'll be smart about it and any chance is better than none.
+{SadA}Je pense qu'on devrait le faire. {fearA}Il faut se rendre à l'évidence, une chance vaut mieux que pas du tout.
 392)  CHRISTA
-{SadA}I think we should do it. {fearA}We'll be smart about it and any chance is better than none.
+{SadA}Je pense qu'on devrait le faire. {fearA}Il faut se rendre à l'évidence, une chance vaut mieux que pas du tout.
 141)  CHRISTA
-{sadA}Okay?
+{sadA}Ok ?
 265)  CHRISTA
-{sadA}Okay?
+{sadA}Ok ?
 320)  CHRISTA
-{sadA}Okay?
+{sadA}Ok ?
 393)  CHRISTA
-{sadA}Okay?
+{sadA}Ok ?
 142)  KENNY
-{angryA}To hell with it -- {sadB}I'm not letting you die. {angryA}Come on, let's get it done.
+{angryA}Et merde -- {sadB}Je ne vais pas te laisser mourir. {angryA}Allez, faisons-le.
 214)  KENNY
-{angryA}To hell with it -- {sadB}I'm not letting you die. {angryA}Come on, let's get it done.
+{angryA}Et merde -- {sadB}Je ne vais pas te laisser mourir. {angryA}Allez, faisons-le.
 318)  KENNY
-{angryA}To hell with it -- {sadB}I'm not letting you die. {angryA}Come on, let's get it done.
+{angryA}Et merde -- {sadB}Je ne vais pas te laisser mourir. {angryA}Allez, faisons-le.
 402)  KENNY
-{angryA}To hell with it -- {sadB}I'm not letting you die. {angryA}Come on, let's get it done.
+{angryA}Et merde -- {sadB}Je ne vais pas te laisser mourir. {angryA}Allez, faisons-le.
 143)  LEE
-[over his shoulder] {normalD}I'll have these doors open in two seconds!
+[over his shoulder] {normalD}Les portes seront ouvertes dans deux secondes !
 144)  LEE
 [wave of nausea...] {FearB}Uhhoh...hmmph...
 146)  LEE
 [wave of nausea...] {FearB}Uhhoh...hmmph...
 145)  LEE
-[to himself] {thinkingB}I'm fucking out of here...
+[to himself] {thinkingB}Je me casse d'ici...
 147)  LEE
 [sigh. oh boy.]{disgustA}
 148)  LEE
@@ -639,67 +639,67 @@ We thought maybe... with your bite... if we removed it, you might live.
 446)  LEE
 [sigh. oh boy.]{disgustA}
 149)  
-It'll be over before I know it.
+Ce sera fini avant que je m'en rende compte.
 151)  
-Don't cut too high.
+Ne coupe pas trop haut.
 152)  LEE
-[to himself] {FearB}It'll be over before you know it. Just gotta get through.
+[to himself] {FearB}Ce sera fini avant que je m'en rende compte. Je dois simplement tenir le coup.
 153)  LEE
-{fearC}...Fuck this... Fuck. {fearA}Just gotta do it. Goddamn.
+{fearC}...Fait chier... Bordel. {fearA}Il faut le faire. Putain.
 154)  LEE
-[having had the thought to himself] {fearA}Don't cut too high, okay? {fearC}Just get through the thinnest part you think is best.
+[having had the thought to himself] {fearA}Ne coupe pas trop haut, ok ? {fearC}Coupe à l'endroit qui te semble le plus fin.
 155)  LEE
 [easy "woo-saaaw" breathing. this is going to fucking hurt. a lot.]{fearA}{thinkingB}
 156)  CHRISTA
-{angryA}Oh, Jesus, FINE.
+{angryA}Oh, mon Dieu, D'ACCORD.
 157)  LEE
-{sadB}Tell me about it.
+{sadB}Comme tu dis.
 158)  KENNY
-{FearA}This ain't gonna be fun.
+{FearA}Ca ne va pas être marrant.
 159)  CHRISTA
-{fearB}I'll go as fast as I can.
+{fearB}J'irai aussi vite que possible.
 160)  CHRISTA
-{fearB}I'll go as fast as I can.
+{fearB}J'irai aussi vite que possible.
 161)  
-You can do it.
+Tu peux le faire.
 162)  
-Fast would be good.
+Vite c'est bien.
 218)  
-Fast would be good.
+Vite c'est bien.
 163)  
-If I don't live through it...
+Si je n'y survis pas...
 220)  
-If I don't live through it...
+Si je n'y survis pas...
 164)  LEE
-{fearA}You can do it. You got {FearD}thi--AHHHHHHHH! [stabbed in the arm]
+{fearA}Tu peux le faire. Tu as {FearD}le--AHHHHHHHH! [stabbed in the arm]
 165)  LEE
-{fearA}Fast would be good. Look, you're gonna want--{fearD}AHHHHHHH! [stabbed]
+{fearA}Vite c'est bien. Ecoute, tu voudr--{fearD}AHHHHHHH! [stabbed]
 219)  LEE
-{fearA}Fast would be good. Look, you're gonna want--{fearD}AHHHHHHH! [stabbed]
+{fearA}Vite c'est bien. Ecoute, tu voudr--{fearD}AHHHHHHH! [stabbed]
 166)  LEE
-{fearA}If I don't live through this, I need to know you'll--{fearD}AHHHHHHHH! [stabbed in the arm]
+{fearA}Si je n'y survis pas, je dois être sûr que tu--{fearD}AHHHHHHHH! [stabbed in the arm]
 221)  LEE
-{fearA}If I don't live through this, I need to know you'll--{fearD}AHHHHHHHH! [stabbed in the arm]
+{fearA}Si je n'y survis pas, je dois être sûr que tu--{fearD}AHHHHHHHH! [stabbed in the arm]
 167)  CHRISTA
-[sigh] {fearB}I don't know if I'd rather be me or you right now.
+[sigh] {fearB}Je ne sais pas si je préfère être toi ou moi à cet instant précis.
 168)  LEE
 [grit teeth horrible stabbing pain. worst of your life.]{fearD}
 222)  LEE
 [grit teeth horrible stabbing pain. worst of your life.]{fearD}
 169)  CHRISTA
-[cutting off Lee's arm, through grit teeth] {FearB}TRY TO STAY STILL!
+[cutting off Lee's arm, through grit teeth] {FearB}ESSAYE DE NE PAS BOUGER !
 170)  LEE
 [screaming horrible pain, arm getting cut off]  {fearD}GRRRRAHHHH!!! [grit teeth horribleness] [2]
 239)  LEE
 [screaming horrible pain, arm getting cut off]  {fearD}GRRRRAHHHH!!! [grit teeth horribleness] [2]
 171)  CHRISTA
-[cutting off Lee's arm] {worriedA}Gotta tighten the tourniquet! [fast]
+[cutting off Lee's arm] {worriedA}Il faut serrer le garrot ! [fast]
 172)  LEE
 [screaming horrible pain, arm getting cut off]  {fearD}RRRAHHHHH!!! [3]
-238)  LEE
+238)  LEE 
 [screaming horrible pain, arm getting cut off]  {fearD}RRRAHHHHH!!! [3]
 173)  CHRISTA
-[cutting off Lee's arm]{fearB} Fuckfuckfuckfuck...
+[cutting off Lee's arm]{fearB} Merdemerdemerdemerde...
 174)  LEE
 [screaming horrible pain, arm getting cut off] {fearD}AHRHRAHH! [1]
 237)  LEE
@@ -709,341 +709,341 @@ If I don't live through it...
 243)  LEE
 [screaming horrible pain, arm getting cut off]  {fearD}AHHHH-- [comes to a sharp drown out as you pass out]
 176)  
-FUHHHHH...!!!
+BORDHHHHH... !!!
 226)  
-FUHHHHH...!!!
+BORDHHHHH... !!!
 177)  
-STOP!!!
+ARRETE !!!
 228)  
-STOP!!!
+ARRETE !!!
 178)  
-OH GOD
+OH MON DIEU
 230)  
-OH GOD
+OH MON DIEU
 179)  LEE
-{fearD}FUHHHHH..!!! [arm chop]
+{fearD}BORDHHHHH.. !!! [arm chop]
 227)  LEE
-{fearD}FUHHHHH..!!! [arm chop]
+{fearD}BORDHHHHH.. !!! [arm chop]
 180)  LEE
-{FearD}STOP!!! [getting his arm sawed off]
+{FearD}ARRETE !!! [getting his arm sawed off]
 229)  LEE
-{FearD}STOP!!! [getting his arm sawed off]
+{FearD}ARRETE !!! [getting his arm sawed off]
 181)  CHRISTA
-{fearB}I CAN'T! HOLD ON! [sawing off lee's arm]
+{fearB}JE NE PEUX PAS ! TIENS BON ! [sawing off lee's arm]
 182)  LEE
-{FearD}OH GOD!!! [getting his arm sawed off]
+{FearD}OH MON DIEU !!! [getting his arm sawed off]
 231)  LEE
-{FearD}OH GOD!!! [getting his arm sawed off]
+{FearD}OH MON DIEU !!! [getting his arm sawed off]
 183)  CHRISTA
-{fearB}I KNOW! [sawing lee's arm off]
+{fearB}JE SAIS ! [sawing lee's arm off]
 184)  CHRISTA
-{fearB}I'm sorry.
+{fearB}Je suis désolée.
 185)  LEE
 [lee grits his teeth as his arm continues to be sawed through]{fearD} GRRRRRR...
 232)  LEE
 [lee grits his teeth as his arm continues to be sawed through]{fearD} GRRRRRR...
 196)  KENNY
-{FearA}It was easier when I thought he was out.
+{FearA}C'était plus simple quand je pensais qu'il était inconscient.
 197)  KENNY
-{thinkingA}It's a helluva risk, {fearA}but... you never know. [it might work]
+{thinkingA}C'est un sacré risque, {fearA}mais... on ne sait jamais. [it might work]
 406)  KENNY
-{thinkingA}It's a helluva risk, {fearA}but... you never know. [it might work]
+{thinkingA}C'est un sacré risque, {fearA}mais... on ne sait jamais. [it might work]
 198)  LEE
-{thinkingA}I might also die a lot faster in a pool of my own blood.
+{thinkingA}Il se pourrait aussi que je meure encore plus vite en baignant dans mon propre sang.
 409)  LEE
-{thinkingA}I might also die a lot faster in a pool of my own blood.
+{thinkingA}Il se pourrait aussi que je meure encore plus vite en baignant dans mon propre sang.
 454)  LEE
-{thinkingA}I might also die a lot faster in a pool of my own blood.
+{thinkingA}Il se pourrait aussi que je meure encore plus vite en baignant dans mon propre sang.
 199)  KENNY
-{angryA}Look, you haven't been bitten long. {thinkingA}It's away from your heart and your head. {fearA}We take the arm and maybe we save your life.
+{angryA}Ecoute, ce n'est pas une grande morsure. {thinkingA}Et elle est loin de ton coeur et de ta tête. {fearA}En amputant ton bras on te sauvera peut-être la vie.
 408)  KENNY
-{angryA}Look, you haven't been bitten long. {thinkingA}It's away from your heart and your head. {fearA}We take the arm and maybe we save your life.
+{angryA}Ecoute, ce n'est pas une grande morsure. {thinkingA}Et elle est loin de ton coeur et de ta tête. {fearA}En amputant ton bras on te sauvera peut-être la vie.
 200)  KENNY
-{angryA}Uh, ya think? [to himself] Dipshit.
+{angryA}Euh, tu crois ? [to himself] Quelle merde.
 201)  BEN
-{sadA}Now that he's awake, maybe Lee should make the call.
+{sadA}Maintenant qu'il est réveillé, Lee devrait peut-être prendre lui-même la décision.
 202)  KENNY
-{angryA}A shit load.
+{angryA}Un sacré paquet.
 203)  KENNY
-{thinkingA}Then you and I go and find Clementine. {angryB}But right now, my opinion is we do this. [turns to Lee] {fearA}If there's a chance it stops you from turning we have to take it.
+{thinkingA}Ensuite toi et moi, nous irons chercher Clémentine. {angryB}Mais avant ça, on va devoir le faire. [turns to Lee] {fearA}S'il y a une chance d'empêcher que tu te transformes, nous devons tenter le coup.
 204)  BEN
-{fearB}What...what... if he dies?
+{fearB}Quoi...quoi... s'il meurt ?
 205)  BEN
-{sadB}Do we know we won't kill him?
+{sadB}Nous sommes sûrs de ne pas le tuer ?
 216)  KENNY
-You sure?
+Tu es sûr ?
 396)  KENNY
-You sure?
+Tu es sûr ?
 746)  
-You sure?
+Tu es sûr ?
 217)  
-You got this.
+C'est d'accord.
 223)  LEE
-{fearA}You got this. You'll---{fearD}AHHHHHHH! [stabbed in the arm]
+{fearA}C'est d'accord. Tu vas---{fearD}AHHHHHHH! [stabbed in the arm]
 224)  KENNY
-{fearA}All right you tough son of a bitch...
+{fearA}Ok gros balaise...
 225)  CHRISTA
-{fearB}Just HOLD ON! [arm chop]
+{fearB}TIENS BON ! [arm chop]
 233)  KENNY
-{fearB}HOLD ON, MAN! [arm chop]
+{fearB}TIENS BON, MEC ! [arm chop]
 234)  KENNY
-{sadB}A LITTLE TOO LATE FOR THAT, PAL. [arm chop]
+{sadB}C'EST UN PEU TROP TARD POUR CA, MON POTE. [arm chop]
 235)  KENNY
-{sadB}I KNOW, I KNOW!!! [arm chop]
+{sadB}JE SAIS, JE SAIS !!! [arm chop]
 236)  KENNY
-{sadA}YOU'RE DOING GREAT! [arm chop]
+{sadA}TU T'EN SORS BIEN ! [arm chop]
 240)  KENNY
-{surprisedA}HOLY SHIT HOLY SHIT! [arm chop]
+{surprisedA}BORDEL DE MERDE ! [arm chop]
 241)  KENNY
-{fearC}FUCK, THE TOURNIQUET! [arm chop]
+{fearC}PUTAIN, LE GARROT ! [arm chop]
 242)  KENNY
-{sadB}KEEP STILL! TRY TO KEEP STILL! [arm chop]
+{sadB}NE BOUGE PAS ! ESSAYE DE NE PAS BOUGER ! [arm chop]
 244)  KENNY
-{angryA}Well FUCK. We're in here now and I'm not going to let you die. You hear me? {fearB}I think we gotta take it off.
+{angryA}Et puis MERDE. On est ici maintenant et je ne te laisserai pas mourir. Tu m'entends ? {fearB}Je pense qu'il faut l'enlever.
 245)  KENNY
-{surprisedA}You son of a bitch! {angryB}How the hell could you not tell us?!
+{surprisedA}Fils de pute ! {angryB}Pourquoi tu ne nous as rien dit ?!
 246)  BEN
-{sadB}When?! How did it happen?!
+{sadB}Quand ?! Comment c'est arrivé ?!
 247)  KENNY
-{angryB}I thought you had a fucking stroke or something; taking a dive like that.
+{angryB}J'ai cru que tu avais eu une attaque ou un truc comme ça quand tu as fait le plongeon.
 248)  LEE
-{sadA}I'm sorry.
+{sadA}Je suis désolé.
 249)  LEE
-{SadA}It happened right before, everything.
+{SadA}C'est arrivé juste avant, tout ça.
 288)  OMID
-{sadA}He's bitten; {fearA}we've still gotta do something.
+{sadA}Il a été mordu ; {fearA}il faut faire quelque chose.
 289)  BEN
-{fearB}Do we have to cut it off, though?
+{fearB}On va quand même devoir l'amputer ?
 759)  BEN
-{fearB}Do we have to cut it off, though?
+{fearB}On va quand même devoir l'amputer ?
 290)  CHRISTA
-{FearA}We're trying to save him! {sadB}At the very least buy him some time.
+{FearA}On essaye de le sauver ! {sadB}Ou au moins lui faire gagner un peu de temps.
 291)  BEN
-{thinkingA}But THIS way...?
+{thinkingA}De CETTE manière... ?
 292)  OMID
-Sorry...
+Désolé...
 293)  OMID
-{fearA}If there's any chance this saves his life, we have to take it.
+{fearA}S'il y a une chance de lui sauver la vie, il faut prendre le risque.
 381)  OMID
-{fearA}If there's any chance this saves his life, we have to take it.
+{fearA}S'il y a une chance de lui sauver la vie, il faut prendre le risque.
 294)  CHRISTA
-Of course not.
+Bien sûr que non.
 378)  CHRISTA
-Of course not.
+Bien sûr que non.
 295)  CHRISTA
-{sadA}What do you think?
+{sadA}Qu'est-ce que tu en penses ?
 384)  CHRISTA
-{sadA}What do you think?
+{sadA}Qu'est-ce que tu en penses ?
 296)  CHRISTA
-Are you sure?
+Tu es sûr ?
 387)  CHRISTA
-Are you sure?
+Tu es sûr ?
 297)  CHRISTA
-{sadB}Let's go. [chop your arm off]
+{sadB}Allons-y. [chop your arm off]
 391)  CHRISTA
-{sadB}Let's go. [chop your arm off]
+{sadB}Allons-y. [chop your arm off]
 343)  OMID
-By chopping his arm off...
+En lui coupant le bras...
 344)  OMID
-We thought if we took off the bitten arm you'd have a shot.
+Nous avons pensé que tu aurais une chance si nous amputions le bras mordu.
 382)  OMID
-We thought if we took off the bitten arm you'd have a shot.
+Nous avons pensé que tu aurais une chance si nous amputions le bras mordu.
 345)  OMID
-We know there's gonna be a lot of blood.
+Nous savons qu'il va y avoir beaucoup de sang.
 379)  OMID
-We know there's gonna be a lot of blood.
+Nous savons qu'il va y avoir beaucoup de sang.
 373)  OMID
-{fearA}HON, {happyA}he's awake!
+{fearA}Eh, {happyA}il est réveillé !
 374)  OMID
-{fearA}I'm with you, just, look at him!
+{fearA}Je suis d'accord avec toi, mais, regarde-le !
 375)  CHRISTA
-{FearA}We've got to save him; we need every second we have.
+{FearA}Nous devons le sauver ; il ne faut pas perdre de temps.
 376)  CHRISTA
-{fearA}We have to deal with this bite right NOW.
+{fearA}Il faut faire quelque chose pour cette morsure MAINTENANT.
 377)  OMID
-{sadA}Yeah, I know. {sadB}We've gotta take the arm.
+{sadA}Oui, je sais. {sadB}Nous devons amputer son bras.
 380)  CHRISTA
-Then you and I go after Clementine and get the hell out of Savannah.[after "what if he dies]
+Alors toi et moi, nous irons chercher Clémentine et nous nous tirrons de Savannah.[after "what if he dies]
 383)  OMID
-Sorry, man.
+Désolé, mec.
 410)  
-That sounds like bullshit.
+Ce sont des conneries.
 456)  
-That sounds like bullshit.
+Ce sont des conneries.
 417)  KENNY
-[HUGE Relief] {happyA}Thanks, God...
+[HUGE Relief] {happyA}Merci, mon Dieu...
 418)  KENNY
-{angryB}I found your goddamn secret you dumb son of a bitch. [gets emotional] {sadB}You were BITTEN? {angryB}Fuck, man. When were you... {sadB}God.
+{angryB}J'ai découvert ton secret espèce de crétin débile. [gets emotional] {sadB}Tu as été MORDU ? {angryB}Fais chier, mec. Mais où étais-tu... {sadB}mon Dieu.
 419)  LEE
-{sadA}It happened before.
+{sadA}C'est arrivé avant.
 444)  LEE
-{sadA}It happened before.
+{sadA}C'est arrivé avant.
 420)  LEE
-{thinkingA}What? What are you talking about?
+{thinkingA}Quoi? Mais de quoi tu parles ?
 455)  LEE
-{thinkingA}What? What are you talking about?
+{thinkingA}Quoi? Mais de quoi tu parles ?
 421)  KENNY
-{angryA}We gotta try SOMETHING.
+{angryA}Nous devons essayer QUELQUE CHOSE.
 422)  KENNY
-{fearB}YEAH, we do.
+{fearB}OUAIS, vraiment.
 423)  LEE
-{angryA}Do we?
+{angryA}Vraiment ?
 457)  LEE
-{angryA}Do we?
+{angryA}Vraiment ?
 424)  LEE
-{thinkingA}That sounds like bullshit.
+{thinkingA}Ce sont des conneries.
 458)  LEE
-{thinkingA}That sounds like bullshit.
+{thinkingA}Ce sont des conneries.
 425)  KENNY
-{thinkingA}We've gotta try something. {FearA}Come on, Lee.
+{thinkingA}Nous devons essayer quelque chose. {FearA}Allez, Lee.
 426)  KENNY
-{fearB}Look, I know it sounds fucking impossible... but we gotta try.
+{fearB}Ecoute, je sais que ça a l'air impossible... mais il faut essayer.
 427)  KENNY
-[pleading] {sadB}Come on, Lee.
+[pleading] {sadB}Allez, Lee.
 428)  KENNY
-[pleading] {sadB}Come on, Lee.
+[pleading] {sadB}Allez, Lee.
 429)  
-I'm sorry I didn't say anything.
+Je suis désolé de ne pas l'avoir dit.
 459)  
-I'm sorry I didn't say anything.
+Je suis désolé de ne pas l'avoir dit.
 430)  
-It doesn't change anything.
+Ca ne change rien.
 462)  
-It doesn't change anything.
+Ca ne change rien.
 431)  
-We gotta do something about it.
+Nous devons faire quelque chose.
 464)  
-We gotta do something about it.
+Nous devons faire quelque chose.
 432)  LEE
-[sigh] {sadA}I don't know.
+[sigh] {sadA}Je ne sais pas.
 460)  LEE
-[sigh] {sadA}I don't know.
+[sigh] {sadA}Je ne sais pas.
 433)  KENNY
-{angryA}Well look. [beat] I'm pissed, {sadA}but, well, I'm glad you're not alone.
+{angryA}Bon écoute. [beat] J'ai les boules, {sadA}mais, je suis content que tu ne sois pas seul.
 441)  KENNY
-{angryA}Well look. [beat] I'm pissed, {sadA}but, well, I'm glad you're not alone.
+{angryA}Bon écoute. [beat] J'ai les boules, {sadA}mais, je suis content que tu ne sois pas seul.
 434)  LEE
-{sadA}I'm sorry I didn't say anything.
+{sadA}Je suis désolé de ne pas l'avoir dit.
 461)  LEE
-{sadA}I'm sorry I didn't say anything.
+{sadA}Je suis désolé de ne pas l'avoir dit.
 435)  KENNY
-{angryA}You fucking better be. {fearA}What are you doing keeping that to yourself?!
+{angryA}Tu as intérêt à l'être. {fearA}Mais pourquoi tu as gardé ça pour toi ?!
 436)  LEE
-{thinkingA}It doesn't change anything; {angryA}we're still just going after Clementine.
+{thinkingA}Ca ne change rien ; {angryA}retrouver Clémentine c'est tout ce qui compte.
 463)  LEE
-{thinkingA}It doesn't change anything; {angryA}we're still just going after Clementine.
+{thinkingA}Ca ne change rien ; {angryA}retrouver Clémentine c'est tout ce qui compte.
 437)  KENNY
-{thinkingA}Except when we find her you're not going to be around to take care of her.
+{thinkingA}Sauf que quand nous l'aurons trouvée, tu ne seras plus là pour t'occuper d'elle.
 438)  KENNY
-{sadA}Maybe we can...do something.
+{sadA}On peut peut-être... faire quelque chose.
 439)  LEE
-{thinkingA}We gotta do something about it. {fearB}I don't want to be dead before getting to Clementine.
+{thinkingA}Nous devons faire quelque chose. {fearB}Je ne veux pas mourir avant d'avoir trouvé Clémentine.
 465)  LEE
-{thinkingA}We gotta do something about it. {fearB}I don't want to be dead before getting to Clementine.
+{thinkingA}Nous devons faire quelque chose. {fearB}Je ne veux pas mourir avant d'avoir trouvé Clémentine.
 440)  KENNY
-{fearA}I'm with ya.
+{fearA}Je suis avec toi.
 442)  KENNY
-{fearA}I was...uh... gonna try to do a little surgery before you woke up.
+{fearA}J'allais... euh... essayer de faire un peu de chirurgie avant que tu te réveilles.
 443)  KENNY
-Lee. You'll die.
+Lee. Tu vas mourir.
 648)  KENNY
-Lee. You'll die.
+Lee. Tu vas mourir.
 472)  LEE
-What the fuck are you doing, Ben?
+Mais qu'est-ce que tu fouts, Ben ? 
 473)  BEN
-[huge relief] {happyA}Oh, thank God!
+[huge relief] {happyA}Oh, Dieu merci !
 474)  BEN
-{sadA}How... when...?
+{sadA}Comment... quand... ?
 475)  BEN
-{fearA}You fell over and I thought you had a stroke or something! I was looking for the cause of it and{sadB}... and... I found...[upset] I found the bite.
+{fearA}Tu es tombé et j'ai pensé que tu avais une attaque ou un truc du genre ! J'en cherchais la cause et{sadB}... et... j'ai trouvé...[upset] j'ai trouvé la morsure.
 476)  BEN
-{sadA}I just can't believe it... why didn't you tell us?! Maybe they woulda stayed too!
+{sadA}Je n'arrive pas à y croire... pourquoi tu ne l'as pas dit ?! Ils seraient peut-être aussi restés !
 477)  BEN
-I didn't know what to do.
+Je ne savais pas quoi faire.
 478)  BEN
-{sadA}But... but... when we find her, you're not going to be around to take care of her.
+{sadA}Mais... mais... quand nous l'aurons trouvée, tu ne seras plus là pour t'occuper d'elle.
 479)  BEN
-{fearB}Is there anything we can DO?
+{fearB}Il y a quelque chose que nous pouvons faire ?
 480)  BEN
-{thinkingA}Okay. OKAY.
+{thinkingA}Ok. OK.
 481)  BEN
-{thinkingA}What do we do? We have to do something; {sadB}I can't watch you die.
+{thinkingA}Qu'est-ce qu'on fait ? On doit faire quelque chose ; {sadB}je ne peux pas te regarder mourir.
 482)  BEN
-{sadA}I don't think I could've done it anyway.
+{sadA}De toute façon, je ne pense pas que j'aurais pu le faire.
 483)  BEN
-{FearA}Taken your arm, that is. {sadA}I just... I don't know... I thought it might save you.
+{FearA}J'ai amputé ton bras, voilà. {sadA}C'est que... Je ne sais pas... J'ai pensé que ça pourrait te sauver.
 484)  BEN
-{fearA}I'm... I'm not sure I can.
+{fearA}Je... Je ne suis pas sûr de pouvoir.
 485)  BEN
-{sadB}Well we've gotta try something, right?
+{sadB}Bon il faut essayer quelque chose, hein ?
 487)  BEN
-{sadB}Well we've gotta try something, right?
+{sadB}Bon il faut essayer quelque chose, hein ?
 486)  BEN
-{fearA}Uh... cutting off the arm. Just above the bite. I thought maybe then you wouldn't die.
+{fearA}Euh... j'ai coupé le bras. Juste au-dessus de la morsure. J'ai pensé que peut-être comme ça tu ne mourrais pas.
 488)  BEN
-{fearA}Of course!
+{fearA}Bien sûr !
 489)  BEN
-{sadB}Come on, Lee!
+{sadB}Allez, Lee!
 491)  BEN
-{sadB}Come on, Lee!
+{sadB}Allez, Lee!
 490)  BEN
-{sadA}I know it sounds impossible but we've GOT to try something.
+{sadA}Je sais que ça a l'air impossible mais il FAUT essayer.
 492)  LEE
-{thinkingB}Jesus....
+{thinkingB}Mon Dieu...
 493)  BEN
-{FearA}What if I pass out half-way through?
+{FearA}Et si je m'évanouis en cours de route ?
 494)  LEE
-{angryA}Are you fucking kidding me?
+{angryA}Tu te fouts de moi ?
 495)  BEN
-{sadA}Are you sure?
+{sadA}Tu es sûr ?
 496)  BEN
-{sadA}Now that you're awake... maybe. [sigh] {surprisedA}LOOK, I just don't think I can do it. I'll hold the tourniquet or something.
+{sadA}Maintenant que tu es réveillé... peut-être. [sigh] {surprisedA}ECOUTE, je ne peux pas faire ça. Je tiendrai le garrot ou un truc comme ça.
 497)  BEN
-{fearB}But...you'll die.
+{fearB}Mais... tu vas mourir.
 498)  BEN
-{sadB}Are you sure?
+{sadB}Tu es sûr ?
 499)  LEE
-It's what we're doing.
+C'est ce qu'on fait.
 500)  BEN
-{fearA}But...
+{fearA}Mais...
 517)  BEN
-{fearA}But...
+{fearA}Mais...
 501)  BEN
-{fearA}Lee... do you want to do this?
+{fearA}Lee... tu veux le faire ?
 502)  BEN
-{SadA}Okay... Let's just hope we make it in time.
+{SadA}Ok... Espérons qu'il ne soit pas trop tard.
 503)  LEE
-{fearA}Fuck... [uh... god, general frustration]
+{fearA}Bordel... [uh... god, general frustration]
 504)  LEE
-[contemplating how bad his condition is/ to himself] {fearB}It's getting worse.
+[contemplating how bad his condition is/ to himself] {fearB}Ca empire.
 505)  LEE
-[overwhelmed] {thinkingA}Hell, no.... [to himself, not gonna do it]
+[overwhelmed] {thinkingA}Oh, non.... [to himself, not gonna do it]
 506)  LEE
-{normalD}Just some surgical supplies.
+{normalD}Quelques instruments chirurgicaux.
 507)  LEE
-{thinkingB}I think it's some sort of spreading device. {disgustA}Grosses me out just looking at it.
+{thinkingB}Je pense que c'est une sorte d'écarteur. {disgustA}Ca me dégoûte rien qu'à le regarder.
 508)  LEE
-{disgustA}I think they call it a chest-cracker. Oof.
+{disgustA}Je pense qu'ils appellent ça un écarteur thoracique. Beuh.
 509)  LEE
-[to himself]{thinkingB}This might be useful.
+[to himself]{thinkingB}Ca pourrait être utile.
 510)  LEE
-{thinkingA}Maybe it's not too late. [to himself]
+{thinkingA}Il n'est peut-être pas trop tard. [to himself]
 511)  LEE
 [stabbing himself in the arm for the first time. horrible]{fearC}
 512)  LEE
-{thinkingA}Okay, you can do this. {fearA}You can do this.
+{thinkingA}Ok, tu peux le faire. {fearA}Tu peux le faire.
 513)  LEE
-{angryA}Two.
+{angryA}Deux.
 514)  LEE
-Here we go. {FearB}One.
+On y va. {FearB}Un.
 515)  LEE
-{angryC}THREE.
+{angryC}TROIS.
 516)  LEE
-{fearA}I'll just take my time.
+{fearA}Je vais prendre mon temps.
 518)  LEE
-{angryA}I don't want to hear it; it's not your arm.
+{angryA}Je ne veux pas entendre ça ; ce n'est pas ton bras.
 519)  BEN
-{sadB}Okay.
+{sadB}Ok.
 520)  LEE
 [cutting your own arm off. mad. ben did something dumb]{fearD}
 521)  LEE
@@ -1053,17 +1053,17 @@ Here we go. {FearB}One.
 523)  LEE
 [sawing your arm off 3 with a horrible shriek at the end]{fearD}
 524)  LEE
-{thinkingA}You guys keep an eye on that door and I'll work on getting us out of here.
+{thinkingA}Gardez un oeil sur cette porte les gars et je me charge de nous sortir d'ici.
 527)  LEE
-{thinkingA}You guys keep an eye on that door and I'll work on getting us out of here.
+{thinkingA}Gardez un oeil sur cette porte les gars et je me charge de nous sortir d'ici.
 532)  LEE
-{thinkingA}You guys keep an eye on that door and I'll work on getting us out of here.
+{thinkingA}Gardez un oeil sur cette porte les gars et je me charge de nous sortir d'ici.
 533)  LEE
-{thinkingA}You guys keep an eye on that door and I'll work on getting us out of here.
+{thinkingA}Gardez un oeil sur cette porte les gars et je me charge de nous sortir d'ici.
 538)  LEE
-{thinkingA}You guys keep an eye on that door and I'll work on getting us out of here.
+{thinkingA}Gardez un oeil sur cette porte les gars et je me charge de nous sortir d'ici.
 525)  LEE
-{thinkingB}Non. C'est ce qu'on va faire {normalD}et je ne veux rien entendre de plus, ok ?
+{thinkingB}No. This is what we're doing {normalD}and I don't want to hear anything else, okay?
 528)  LEE
 {thinkingB}Non. C'est ce qu'on va faire {normalD}et je ne veux rien entendre de plus, ok ?
 531)  LEE
@@ -1101,19 +1101,19 @@ Lee--
 547)  LEE
 [returning to conciousness, in a lot of pain] {SadC}
 548)  LEE
-{fearA}Ouaip. [definitive. yep. lets get the fuck out of here]
+{fearA}Ouais. [definitive. yep. lets get the fuck out of here]
 552)  LEE
-{fearA}Ouaip. [definitive. yep. lets get the fuck out of here]
+{fearA}Ouais. [definitive. yep. lets get the fuck out of here]
 554)  LEE
-{fearA}Ouaip. [definitive. yep. lets get the fuck out of here]
+{fearA}Ouais. [definitive. yep. lets get the fuck out of here]
 562)  LEE
-{fearA}Ouaip. [definitive. yep. lets get the fuck out of here]
+{fearA}Ouais. [definitive. yep. lets get the fuck out of here]
 565)  LEE
-{fearA}Ouaip. [definitive. yep. lets get the fuck out of here]
+{fearA}Ouais. [definitive. yep. lets get the fuck out of here]
 569)  LEE
-{fearA}Ouaip. [definitive. yep. lets get the fuck out of here]
+{fearA}Ouais. [definitive. yep. lets get the fuck out of here]
 573)  LEE
-{fearA}Ouaip. [definitive. yep. lets get the fuck out of here]
+{fearA}Ouais. [definitive. yep. lets get the fuck out of here]
 549)  KENNY
 {happyB}Bon. L'ascenseur est ouvert. Allons-y.
 551)  KENNY

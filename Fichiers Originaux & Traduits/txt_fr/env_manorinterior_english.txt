@@ -1,0 +1,276 @@
+1)  KENNY
+[tense]Ils ne devraient pas être en mesure d'entrer dans la cour, hein ?
+2)  KENNY
+[dread, action] Non ils devraient pas.
+3)  CHRISTA
+Nous pouvons protéger cet endroit !
+4)  
+La fenêtre de devant !
+5)  
+A l'étage !
+16)  
+A l'étage !
+6)  
+Des armes !
+19)  
+Des armes !
+7)  LEE
+Vas aux fenêtres de l'entrée. Vérifie les planches.
+8)  CHRISTA
+[urgent] Compris.
+9)  LEE
+Montes à l'étage; vérifie qu'il n'y a personne !
+10)  CHRISTA
+[urgent] Tout de suite.
+12)  CHRISTA
+[urgent] Tout de suite.
+11)  LEE
+Faits le tour de la maison pour voir s'il y a des armes !
+13)  CHRISTA
+[urgent, slight frustration] D'ac, je vérifie le salon. vous autres, chercher des armes !
+14)  LEE
+Christa ! [giving orders]
+15)  LEE
+Kenny ! [giving orders]
+17)  LEE
+Montes à l'étage ! Sécurise ce que tu peux et assures-toi qu'il n'y a personne !
+18)  KENNY
+Très bien !
+20)  LEE
+Cherches des armes ! Rassembles tout ce que tu peux trouver !
+21)  
+Déplace ce meuble !
+29)  
+Déplace ce meuble !
+22)  
+Aide Christa !
+26)  LEE
+Aide  Christa !
+30)  
+Aide Christa !
+32)  LEE
+Aide Christa !
+23)  KENNY
+Je le fais !
+27)  KENNY
+Je le fais !
+24)  LEE
+Déplaces tout ce que tu peux contre les portes et les fenêtres.
+31)  LEE
+Déplaces tout ce que tu peux contre les portes et les fenêtres.
+25)  KENNY
+C'est ce que j'avais en tête ! [urgent]
+28)  KENNY
+[urgent/frustrated] Je vais laisser cette pièce verrouillée !
+33)  
+Vas à l'étage !
+34)  LEE
+Vas à l'étage !
+35)  BEN
+Et je fais quoi ?!
+36)  LEE
+Monte c'est tout !
+37)  
+Tues tout ce qui essaye d'entrer !
+38)  LEE
+Tues tout ce qui essaye d'entrer !
+39)  BEN
+Tu te rappelles à QUI tu parle, hein ?
+40)  LEE
+Ben, FAIS le.
+41)  BEN
+Je voulais, juste, faire... QUELQUE CHOSE ! [urgent, runs off]
+42)  LEE
+Ben ! [giving orders]
+43)  LEE
+Qu'est-ce que c'est ? [urgent!]
+44)  LEE
+Omid ! [giving orders]
+45)  
+LES PORTES DE DEVANT !
+46)  
+QUE TOUT LE MONDE AIDE OMID !
+47)  
+ALLER !!!
+48)  OMID
+Venez m'aider ! [running towards door]
+49)  LEE
+[yelling for everyone to help] LES PORTES DE DEVANT !
+50)  LEE
+QUE TOUT LE MONDE AIDE OMID ! MAINTENANT !
+51)  LEE
+[yelling for everyone to help] L'ENTREE ! MAINTENANT ! ALLER !
+52)  LEE
+[falling, hitting the ground] ARGH !
+53)  LEE
+[being grabbed as you go to run away] AHH !
+54)  LEE
+[sharp, fast panicked kick]
+55)  LEE
+[sharp, fast panicked kick 2]
+56)  LEE
+[sharp, fast panicked kick 3]
+57)  LEE
+[sharp, fast panicked kick 4, final, free]
+58)  KENNY
+LEE, AU SECOURS !
+59)  CHRISTA
+Coupez leurs putains bras !
+60)  CHRISTA
+VITE !
+61)  LEE
+[grabbing something in a panic]
+62)  KENNY
+Enlevez leurs putains bras !
+63)  CHRISTA
+Qu'est-ce que tu fous ?! COUPES-LES !
+64)  KENNY
+[shoving something in front of a door] Argh !
+65)  BEN
+[catching breath]
+66)  CHRISTA
+[catching breath]
+68)  KENNY
+[catching breath]
+67)  OMID
+[catching breath] Et maintenant ?
+69)  
+Préparez-vous à vous battre.
+72)  LEE
+Préparez-vous à vous battre.
+70)  
+Cet endroit tiendra.
+71)  
+Shut. We hide.
+73)  CHRISTA
+Cet endroit me semble assez sûr. [having just caught breath, high tension] Je pense que ça va aller.
+74)  LEE
+C'est une grande maison solide. Elle va tenir.
+75)  CHRISTA
+[having caught breath, high tension though] Ouais, je crois aussi.
+76)  LEE
+Shhh. Taisez-vous. Il faut que nous nous cachions et trouvions un moyen de sortir.
+77)  CHRISTA
+Lee a raison; cet encdroit est sûr. Attendons et nous pourrons partir.
+78)  OMID
+MERDE !
+79)  LEE
+Solide ! Mon cul !
+80)  LEE
+Fait chier ! Plan B !
+81)  OMID
+[getting thrown from the door!] OOF !
+82)  KENNY
+[getting knocked back] ARGH !
+83)  CHRISTA
+[getting thrown from the door] AH !
+84)  LEE
+Montez à l'étage !
+85)  KENNY
+ALLER !
+119)  LEE
+ALLER !
+86)  CHRISTA
+Tout le monde fonce au fond du couloir !
+87)  KENNY
+Aidez-moi avec ça, les gars !
+88)  BEN
+Qu'est-ce qu'on fait maintenant ?!
+89)  KENNY
+[holding door] Allez, aidez-moi !
+90)  BEN
+[holding door] Prends les, Lee !
+91)  CHRISTA
+[holding door] Tranches leurs saloperie de bras !
+92)  OMID
+[holding door] Ils sont forts bordel !
+93)  LEE
+[starting to push a heavy thing] GRR...
+94)  KENNY
+[pushing a desk] Ca va les ralentir. [Grr...] Allons au fond du couloir...[grr] et prenons position.
+99)  KENNY
+[pushing a desk] Ca va les ralentir. [Grr...] Allons au fond du couloir...[grr] et prenons position.
+95)  LEE
+[continuing to push desk] Grrrarrrrarrr...
+96)  KENNY
+[pushing a thing] Nom de Dieu, Lee !
+97)  OMID
+Il a seulement eu un putain de bras !
+98)  KENNY
+Rien de tout ça n'a d'importance !
+100)  KENNY
+Combien de munitions vous avez tous?
+101)  KENNY
+Prenons en autant que nous pouvons.
+102)  CHRISTA
+Et si on voit une ouverture on fonce.
+103)  LEE
+Huit.
+104)  LEE
+Nous ne pouvons pas nous laisser encercler.
+105)  OMID
+Quatorze.
+106)  CHRISTA
+Vingt.
+107)  BEN
+Onze.
+108)  CHRISTA
+[tense] Préparez-vous.
+109)  KENNY
+Tout le monde sait où il faut viser.
+110)  CHRISTA
+UP !
+114)  CHRISTA
+UP !
+111)  KENNY
+il n'y a aucune putain d'ouverture !
+115)  KENNY
+il n'y a aucune putain d'ouverture !
+112)  LEE
+SORTEZ.
+113)  OMID
+Merde, on va où ?!
+117)  OMID
+Merde, on va où ?!
+116)  KENNY
+Moi aussi !
+118)  CHRISTA
+Je suis à sec !
+120)  CHRISTA
+[jumping up to grab something] Mmph !
+121)  LEE
+[jumping up to grab something] Mmph !
+122)  OMID
+[pickup1][Mark Edit] [panic] Il doit y avoir un couteau où n'importe quoi là-dedans !!
+123)  BEN
+Compris !
+124)  
+Chatière
+125)  
+Corde
+126)  
+Doigts
+127)  
+Poignet
+128)  
+Bureau
+129)  
+Meuble
+130)  
+Tiroir
+131)  
+Bras
+132)  CHRISTA
+[pickup1] Trois.
+133)  LEE
+[pickup1] Cinq.
+134)  OMID
+[pickup1] Quatre.
+135)  LEE
+[pickup1] Quatre.
+136)  BEN
+[pickup1] Deux.
+137)  KENNY
+[pickup1] Et si vous voyez une ouverture, foncez.
+138)  
+Brie

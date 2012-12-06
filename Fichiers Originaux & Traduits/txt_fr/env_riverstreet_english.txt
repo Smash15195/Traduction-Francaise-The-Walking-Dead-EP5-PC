@@ -1,0 +1,338 @@
+1)  CHRISTA
+{Body-A}{WorriedA}...Ca va ? {SadB}Est-ce que tu veux parler ?
+2)  LEE
+{Body-B}{SadB}L'hôtel Marsh House est au coin de ce bloc.
+3)  LEE
+Qu'est-ce que c'est ? [determined, distracted]
+4)  
+Restons concentrés.
+5)  CHRISTA
+{Body-A}{NormalB}Je sais que nous ne pouvons pas perdre de temps, {WorriedA}mais... {SadA}tu n'es pas une machine.
+6)  LEE
+{Body-B}{SadA}Il n'y a rien à dire; {AngryA}nous devons rester concentrés sur notre objectif.
+7)  
+Kenny était mon ami.
+8)  LEE
+{Body-B}{SadA}Kenny était mon ami.
+9)  LEE
+{Body-B}{SadA}Il est un peu brute de décoffrage, {NormalC}mais je suis d'accord avec lui la plupart du temps; {HappyA}nous étions peut-être deux pauvres abrutis, {NormalD}j'imagine.
+10)  CHRISTA
+{Body-A}{ThinkingA}Quand quelqu'un meurt, ses péchés {WorriedA}ne sont pas immédiatement pardonnés.
+11)  CHRISTA
+{NormalB}Je comprends.
+12)  
+C'est la faute du connard qui a enlevé Clém.
+13)  CHRISTA
+{Body-A}{WorriedA}Garde ton sang froid, Lee.
+14)  LEE
+Nous ne serions pas ici sans lui. {AngryB}Nous aurions tous été là pour défendre Vernon {AngryC}et nous serions au large. {SadB}Tout le monde serait encore en vie.
+15)  CHRISTA
+{Body-A}{AngryA}Je suppose que c'est un non, alors.
+16)  LEE
+{Body-B}{SadA}Bon, {AngryA}il aura une heure de moratoire, {SadA}au moins.
+17)  LEE
+{Body-B}{AngryC}Le connard qui a enlevé Clém devrat répondre de Kenny aussi.
+18)  OMID
+{Body-A}{SadA}Nous venons de perdre quelqu'un; {SadB}donnons-lui un moment.
+19)  CHRISTA
+{Body-A}{SadA}C'est un moment merdique, {ThinkingA}mais je veux m'assurer que tout soit clair avant d'aller plus loin.
+20)  LEE
+{Body-B}{NormalB}Ouais. [what of it]
+21)  CHRISTA
+{Body-A}{ThinkingA}Clémentine. {SadA}Je sais que Kenny était ton homme.
+22)  CHRISTA
+{AngryA}Et bien ?
+23)  
+On n'a plus trop le choix, maintenant.
+24)  LEE
+{Body-B}{NormalC}On n'a plus trop le choix, maintenant.
+25)  LEE
+{NormalD}D'accord.
+26)  OMID
+{Body-A}{SickA}Du calme, Christa.
+27)  CHRISTA
+{Body-A}{AngryB}Non.
+28)  CHRISTA
+{AngryA}Je me fous de celui qu'on cherche, {ThinkingA}mais je veux que tu saches que {WorriedA}tu n'as pas a t'inquieter.
+29)  
+Trouvez lui une famille... capable.
+55)  
+Trouvez lui une famille... capable.
+30)  LEE
+{ThinkingA}Toi et ta copine pourrait vouloir des choses différentes.
+166)  LEE
+{ThinkingA}Toi et ta copine pourrait vouloir des choses différentes.
+31)  CHRISTA
+{Body-A}{AngryA}Ça suffit.
+167)  CHRISTA
+{Body-A}{AngryA}Ça suffit.
+32)  OMID
+{Body-A}{AngryA}On peut le faire.
+165)  OMID
+{Body-A}{AngryA}On peut le faire.
+33)  LEE
+{Body-B}{DisgustA}Prenez soin d'elle aussi longtemps que vous le pouvez, {AngryA}et trouvez-lui une famille qui voudra d'elle.
+164)  LEE
+{Body-B}{DisgustA}Prenez soin d'elle aussi longtemps que vous le pouvez, {AngryA}et trouvez-lui une famille qui voudra d'elle.
+34)  LEE
+{AngryA}Bien. {NormalC}Vous m'avez bien compris.
+168)  LEE
+{AngryA}Bien. {NormalC}Vous m'avez bien compris.
+35)  CHRISTA
+Elle ira bien, Lee.
+169)  CHRISTA
+Elle ira bien, Lee.
+36)  
+Vous serez formidable pour vous en occuper.
+56)  
+Vous serez formidable pour vous en occuper.
+37)  LEE
+{Body-B}{HappyA}Vous serez formidable pour vous en occuper.. {ThinkingA}Protégez-là.
+38)  CHRISTA
+{Body-A}{HappyA}On fera de notre mieux, {ThinkingA}tu le sais.
+39)  
+Ca... va ?
+40)  CHRISTA
+{Body-A}{SadA}je devrais plutôt te le demander.
+41)  CHRISTA
+{DisgustA}Continuons d'avancer.
+42)  CHRISTA
+{ThinkingA}C'est rien.
+43)  LEE
+{Body-B}{NormalD}Ca... {SadA}va ?
+44)  
+Qu'est-ce qui se passe ?
+45)  LEE
+{Body-B}{ThinkingA}Qu'est-ce qui se passe ?
+46)  
+Bien. Merci.
+47)  CHRISTA
+{Body-A}{HappyA}C'est tout ce que tu peux faire.
+48)  LEE
+{Body-B}{NormalB}Bien. {HappyA}Merci. Quel que soit ce mieux, {ThinkingA}je vous fais confiance.
+49)  CHRISTA
+[frustrated] {Body-A}{AngryA}Que... {AngryB}merde. Tu n'as pas a t'en faire, {AngryA}d'accord ? {ThinkingA}Pas comme tu as l'air de le penser.
+50)  CHRISTA
+{Body-A}{ThinkingA}Omid et moi resterons prudent. Pour elle.
+51)  
+Ouais, vous le devait.
+52)  LEE
+{AngryA}C'est ce que je veux dire. {ThinkingA}C'est ce qu'on doit faire.
+53)  LEE
+{Body-B}{ThinkingA}Ouais, vous le devait. {NormalC}Alors laissez-moi prendre les riques.
+54)  CHRISTA
+{Body-A}{WorriedA}Ce n'est pas forcement ce que je {ThinkingA}voulais dire.
+57)  CHRISTA
+{Body-A}{AngryA}Faisons comme ça, alors.
+58)  OMID
+{Body-A}{ThinkingA}Ouais, faisons ça, chérie.
+59)  CHRISTA
+{WorriedA}Quand il s'agit de Clémentine.
+60)  LEE
+{DisgustA}Kenny n'est pas mort pour "rien".
+61)  LEE
+You {ThinkingA}Je sais de quoi je parle.
+62)  CHRISTA
+{Body-A}{WorriedA}I don't know what you mean.
+63)  LEE
+Je veux dire, {SadA}vous savez pourquoi Kenny a fait ça, non ?
+64)  CHRISTA
+{FearA}J'étais dans le pétrin.
+65)  LEE
+{DisgustA}Bien sûr. [yeah right]
+66)  LEE
+{Body-B}{ThinkingA}J'en doute pas. {HappyA}J'apprécie.
+67)  LEE
+{SadA}Ca suffit.
+68)  CHRISTA
+{WorriedA}Comment tu te sens?
+69)  CHRISTA
+{Body-A}{ThinkingA}Je pensais ce que j'ai dit, à propos de Clém.
+70)  LEE
+{Body-B}{ThinkingA}J'y vais en premier. {AngryA}Au cas où il se passerait quelque chose là-bas.
+71)  CHRISTA
+{Body-A}{WorriedA}tu es sûr ?
+72)  LEE
+{HappyA}Ouais.
+73)  CHRISTA
+{Body-A}{ThinkingA}...hé bien, Omid et moi iront en premier. {WorriedA}On pourra t'aide à traverser ensuite.
+74)  OMID
+[calling out] {Body-A}{FearA}Suffit d'y aller doucement et sûrement...
+75)  OMID
+{Body-A}{SurpriseA}Christa, tu es la prochaine !
+76)  LEE
+{Body-B}{HappyA}J'y suis presque ! {ThinkingA}C'est pas très difficile à traverser.
+77)  OMID
+Génial.
+78)  LEE
+{Body-B}{SurpriseB}AH ! [sudden fall, ground gives away]
+79)  OMID
+{FearB}MERDE !
+80)  LEE
+[Sign you're on is falling] {FearD}Ah, bordel !
+81)  LEE
+[grabbing on]
+82)  LEE
+[saving yourself from falling]
+83)  LEE
+[falling but holding on] {Body-B}{AngryD}AH ! UGH !
+84)  LEE
+[lunges up and catches a rung, saving yourself]
+85)  LEE
+[missed the jump] {Body-B}{FearD}AHHH !
+86)  LEE
+[getting eaten]
+87)  LEE
+{Body-B}{FearC}MERDE !
+88)  OMID
+{Body-A}{FearC}Ca va ?!
+89)  LEE
+{SurpriseA}Ca va, mais {FearC}je suis un peu emmerdé ici.
+90)  OMID
+{SurpriseA}Qu'est-ce que tu vas faire ?!
+91)  
+Et merde. J'y vais.
+147)  
+Et merde. J'y vais.
+92)  
+Je vais trouver quelque chose.
+148)  
+Je vais trouver quelque chose.
+93)  
+Tu peux m'aider ?
+149)  
+Tu peux m'aider ?
+94)  OMID
+{Body-A}{FearC}Tu y vas ?!
+95)  LEE
+{AngryC}Je suis déjà mordu ! {AngryB}Je dois simplement me frayer un chemin.
+96)  CHRISTA
+{Body-A}{FearB}Qu'est-ce que ça veut dire ?
+97)  LEE
+{Body-B}{AngryB}Et merde. {AngryA}J'y vais.
+98)  OMID
+{SurpriseA}C'est quoi ce bordel ?!
+99)  LEE
+{Body-B}{ThinkingB}Je vais trouver quelque chose !
+100)  OMID
+{Body-A}{surpriseA}Il n'y a pas des tonnes de possibilités !
+101)  LEE
+{FearB}Il y a quelque chose ?!
+102)  CHRISTA
+{Body-A}{AngryB}C'est foutu, Lee !
+103)  LEE
+{Body-B}{SurpriseA}Tu peux m'aider ?!
+104)  OMID
+{Body-A}{FearB}Je ne sais pas ce qu'on peux faire d'ici !
+105)  OMID
+{Body-A}{FearB}Qu'est-ce que tu fais ?!?
+151)  OMID
+{Body-A}{FearB}Qu'est-ce que tu fais ?!?
+106)  CHRISTA
+{Body-A}{FearB}LEE !
+150)  CHRISTA
+{Body-A}{FearB}LEE !
+107)  
+Retrouvez-moi quand vous descendrez !
+127)  
+Retrouvez-moi quand vous descendrez !
+108)  
+Rendez-vous hors de la ville ! Par le train !
+133)  
+Rendez-vous hors de la ville ! Par le train !
+109)  
+Trouvez un bateau ! On se retrouva au nord de la ville !
+139)  
+Trouvez un bateau ! On se retrouva au nord de la ville !
+110)  LEE
+{AngryB}Il n'y a pas d'autre possibilité !
+132)  LEE
+{AngryB}Il n'y a pas d'autre possibilité !
+111)  OMID
+{Body-A}{FearB}Putain qu'est-ce que ça veut dire ?!
+129)  OMID
+{Body-A}{FearB}Putain qu'est-ce que ça veut dire ?!
+112)  LEE
+{ThinkingA}Ca veut dire ce que ca veut dire ! {SurpriseA}Retrouvez-moi et Clémentine à l'hotel au coin -- {FearB}  dès que vous le pouvez !
+130)  LEE
+{ThinkingA}Ca veut dire ce que ca veut dire ! {SurpriseA}Retrouvez-moi et Clémentine à l'hotel au coin -- {FearB}  dès que vous le pouvez !
+113)  LEE
+{Body-B}{SurpriseA}Retrouvez-moi quand vous descendrez !
+128)  LEE
+{Body-B}{SurpriseA}Retrouvez-moi quand vous descendrez !
+114)  CHRISTA
+{Body-A}{FearB}Tu es malade !
+131)  CHRISTA
+{Body-A}{FearB}Tu es malade !
+115)  CHRISTA
+{Body-A}{WorriedA}Jesus...{FearB}Nous y serons !
+134)  CHRISTA
+{Body-A}{WorriedA}Jesus...{FearB}Nous y serons !
+116)  LEE
+{SurpriseA}C'est la seule option possible. {AngryB}Vous m'entendez ?!
+137)  LEE
+{SurpriseA}C'est la seule option possible. {AngryB}Vous m'entendez ?!
+117)  LEE
+{Body-B}{SurpriseA}Rendez-vous hors de la ville ! {FearB}Par le train !
+135)  LEE
+{Body-B}{SurpriseA}Rendez-vous hors de la ville ! {FearB}Par le train !
+118)  OMID
+{Body-A}{SurpriseA}Tu es taré ?!
+136)  OMID
+{Body-A}{SurpriseA}Tu es taré ?!
+119)  OMID
+{FearB}Ouais, par le train !
+138)  OMID
+{FearB}Ouais, par le train !
+120)  LEE
+{FearB}Nous devons encore sortir de la ville ! {ThinkingA}Je vais chercher Clémentine et on se retrouve là-bas !
+142)  LEE
+{FearB}Nous devons encore sortir de la ville ! {ThinkingA}Je vais chercher Clémentine et on se retrouve là-bas !
+121)  CHRISTA
+{Body-A}{FearB}Et si--
+140)  CHRISTA
+{Body-A}{FearB}Et si--
+122)  LEE
+{AngryC}Y'a pas de ET SI -- {AngryB}Je vous retrouvais là-bas.
+144)  LEE
+{AngryC}Y'a pas de ET SI -- {AngryB}Je vous retrouvais là-bas.
+123)  LEE
+{Body-B}{SurpriseA}Trouvez un bateau ! {SurpriseB}On se retrouve au nord de la ville !
+143)  LEE
+{Body-B}{SurpriseA}Trouvez un bateau ! {SurpriseB}On se retrouve au nord de la ville !
+124)  OMID
+{Body-A}{SurpriseA}UN BATEAU ?!
+141)  OMID
+{Body-A}{SurpriseA}UN BATEAU ?!
+125)  OMID
+{Body-A}{FearC}Il déconne, hein ?!
+145)  OMID
+{Body-A}{FearC}Il déconne, hein ?!
+126)  CHRISTA
+{Body-A}{FearB}On te retrouvera ! {WorriedA}Te fais pas tuer !
+146)  CHRISTA
+{Body-A}{FearB}On te retrouvera ! {WorriedA}Te fais pas tuer !
+152)  LEE
+[pickup1] {Body-B}{ThinkingA}Vous devriez traverser en premier tout les deux.
+153)  CHRISTA
+[pickup1]{Body-A}{ThinkingA}Tu es le plus légerY, Omid.  {HappyA}Je passerai juste après toi.
+154)  
+Allez-y en premier.
+155)  
+J'y vais en premier.
+156)  
+Bomber le torse
+157)  OMID
+[pickup1] Qui y va en premier ?
+158)  LEE
+[pickup1] Il a une jambe cassée et tu marche pour vous deux. Evidemment je suis pas super chaud. Mais la réponse se pose d'elle même.
+159)  LEE
+[pickup1] Nous devons traverser.
+160)  OMID
+[pickup1] Eh bien, au moins ca ne ressemble pas à un piège mortel.
+161)  CHRISTA
+[pickup1] Tu es le plus léger...
+162)  LEE
+[pickup1] [across gap] {Body-B}{AngryA}Je ne peux pas risquer de perdre plus de temps.
+163)  OMID
+[pickup1] [across gap] {Body-A}{ThinkingA}Peut-être que si tu te dépêches,  {SurpriseA}Tout ira bien.

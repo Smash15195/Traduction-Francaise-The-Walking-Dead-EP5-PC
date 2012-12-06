@@ -1,0 +1,126 @@
+1)  
+Carley
+2)  
+Clémentine
+3)  
+Doug
+4)  
+Duck
+5)  
+Kenny
+6)  
+Lilly
+7)  
+Katjaa
+8)  
+Regarder
+9)  
+Parler à
+10)  
+Utiliser
+11)  
+Prendre
+12)  
+Ouvrir
+13)  
+Aller vers
+14)  
+Pousser
+15)  
+Déverrouiller
+16)  
+Rechercher
+17)  
+Regarder à Travers
+18)  
+Quitter
+30)  
+Quitter
+19)  
+Examiner
+20)  
+Déplacer
+21)  
+Aider
+22)  
+Frapper
+23)  
+Ramasser
+24)  
+Tirer
+25)  
+...
+26)  
+Écraser
+27)  
+A SUIVRE...
+28)  
+Ben
+29)  
+Trancher
+31)  
+Fermer
+32)  
+Manger
+33)  
+Regarder sous
+34)  
+Retour
+35)  
+Tirer
+36)  
+Prendre
+37)  
+Hurler à
+38)  
+Regarder dans
+39)  
+Renforcer
+40)  
+Coup de Pied
+41)  
+Coup de Poing
+42)  
+Christa
+43)  
+Omid
+44)  
+Donner
+45)  
+Pousser
+46)  
+Coup
+47)  
+Combattre
+48)  
+Reculer
+49)  
+Marcher vers
+50)  
+Entrer
+51)  
+Forcer
+52)  
+Bloquer
+53)  
+Activer
+54)  
+Tourner
+55)  
+Chuck
+56)  
+Sauter par Dessus
+57)  
+Attacher
+58)  
+Grimper
+59)  
+Déposer
+60)  
+Marcheur
+61)  
+Briser
+62)  
+Traverser
+63)  
+Attaquer

@@ -1,0 +1,573 @@
+1)  
+PLUS DE TEMPS A PERDRE
+2)  
+une production TELLTALE GAMES
+3)  
+Basé sur le Comic Book de ROBERT KIRKMAN,
+TONY MOORE, and CHARLIE ADLARD
+4)  
+TRADUIT PAR
+Chartreuse
+Roger le Banni
+Emrys70
+Smash15195
+
+REALISE PAR
+Sean Vanaman
+Jake Rodkin
+Sean Ainsworth
+
+ÉCRIT PAR
+Sean Vanaman
+
+CONÇU PAR
+Sean Ainsworth
+Mark Darin
+Jake Rodkin
+Sean Vanaman
+
+PROGRAMMEUR EN CHEF
+Randy Tudor
+
+DIRECTEUR ARTISTIQUE
+Derek Sakai
+
+ANIMATEUR EN CHEF
+Dave Bogan
+Peter Tsaykel
+
+CHEF ARTISTIQUE CINEMATIQUE
+Sean Ainsworth
+
+CHEF ARTISTIQUE ENVIRONNEMENT
+Jonathon Banks
+
+SUIVI SAISON & CONCEPTION
+Jake Rodkin
+Sean Vanaman
+
+CONSULTANT HISTOIRE
+Gary Whitta
+
+PROGRAMMATION
+Chris Bauer
+James A. I. Dzierwa
+Andrew Langley
+David T. Potter
+
+ANIMATION
+Marat Davletshin
+Alon Helman
+Jed Heuer
+Armando LLuch
+Jessica Lozano
+Jeff Sarre
+Michael Tjosvold
+Peter Tsaykel
+Chris Waltner
+Ryan Gong
+Jorge E. Ruiz Cano
+
+ARTISTES CINEMATIQUE
+Vahram Antonian
+Javier J. Espinoza
+Rebekah Gamin
+Scott Hammack
+Nick Herman
+Daniel Farjam Herrera
+Jason Latino
+Dennis Lenart
+Nick Mastroianni
+Jolie Menzel
+Kent Mudle
+Eric Parsons
+Graham Ross
+Grady Standard 
+Ryann Lynn Weller
+Ryan Wetherall
+
+DIRECTEUR ARTISTIQUE ASSOCIÉ
+Leif Estes
+
+ARTISTES CONCEPT
+Jesse Maccabe
+Gray Rogers
+Derek Stratton
+
+ARTISTES ENVIRONMENT 
+Ryan Benno
+Drew Di Domenico
+Brian Gillies
+Kim Lyons
+Erik Ose
+Mark Sheppard
+
+ARTISTE PERSONNAGE
+Steven Moore
+Megan Gritzfeld
+
+ÉCLAIRAGE DES PERSONNAGES
+Leif Estes
+Derek Sakai
+
+ART TECHNIQUE ET EFFETS
+Brian Eby
+Nora Magyar
+Michael Perretta
+
+INTERFACE UTILISATEUR
+Nat Dart
+Crystal Langley
+Jake Rodkin
+
+PRODUCTEURS EXECUTIFS
+Dan Connors
+Kevin Bruner
+Kevin Boyle
+
+PRODUCTEURS ASSOCIES
+Kirsten Kennedy 
+
+ASSISTANT PRODUCTEUR
+Bryan Roth
+Jeff Armstead
+
+DIRECTEUR TECHNIQUE
+Zacariah Litton
+
+DIRECTEUR DE TECHNOLOGIES DE PRODUCTION
+Jonathan Sgro
+
+DIRECTEUR DE LA TECHNIQUE
+Dave Bogan
+
+DIRECTEUR DE LA CONCEPTION
+Dave Grossman
+
+DIRECTEUR DES SERVICES DE PRODUCTION
+Dave Felton
+
+CHEF DE PROJET ASSURANCE QUALITE
+Daniel Morris
+
+TEST ASSURANCE QUALITE
+Airyque Ervin
+Arthur von Nagel
+Ben Knoll
+Brendin Christolear
+Calvin Huang
+Jason Pimentel
+Kelly Robertson
+Matthew Paris
+Max Ince
+Mike Sherak
+Will Wheeler
+
+AUTEURS ADDITIONNEL
+Dave Grossman
+Mark Darin
+Pierre Shorette
+
+CONCEPTEURS ADDITIONNELY
+Ryan Kaufman
+Harrison G. Pink
+
+ANIMATEURS ADDITIONNEL
+Carl Muckenhoupt
+Mark Gabby
+Keenan Patterson
+
+ARTISTES ADDITIONNEL CINEMATIQUE
+SuperGenius
+Tumblehead-Animation Studio
+
+ARTISTES ADDITIONNEL
+Nat Dart
+John Douglas Joy
+Crystal Langley
+Graham Ross
+
+CARACTERE ADDITIONNEL ET MODELISATION ENVIRONNEMENT
+Shawn Shain
+DQ Entertainment International
+Chanho Lee
+Gun Park
+
+AUTRES ÉCLAIRAGE ENVIRONNEMENT
+Leif Estes
+Derek Sakai
+
+SOUTIEN PRODUCTION SUPPLEMENTAIRE
+Chris Schroyer
+Brett Tosti
+
+SOUTIEN SUPPLEMENTAIRE PAR ANIMATION
+Airyque Ervin
+Calvin Huang
+
+SOUTIEN ARTISTE ET EFFECTS SUPPLEMENTAIRE
+Matthew Paris
+
+TEST ADDITIONNEL
+VMC Game Labs
+
+
+DIRECTEUR CONCEPTION SONORE
+Lazar Levine
+
+CONCEPTION SONORE
+Jack Fusting
+
+MISE EN OEUVRE AUDIO
+Jack Fusting
+Lazar Levine 
+
+MISE EN OEUVRE AUDIO ADDITIONNEL VOIX & DIRECTION
+Jack Fusting
+Lazar Levine
+
+MISE EN OEUVRE AUDIO ADDITIONNEL
+Nick Mastroianni
+
+SUPPORT SONORE
+Arthur von Nagel
+Airyque Ervin
+
+DIRECTION VOIX ZOMBIE
+Jack Fusting
+Lazar Levine
+Nick Mastroianni
+
+VOIX ZOMBIE
+Sean Ainsworth
+Mark Barbolak 
+Susan DeMerit
+Nat Dart
+James A. I. Dzierwa 
+Javier J. Espinoza
+Shaun Finney
+Jack Fusting
+Rebekah Gamin
+Alan Johnson
+John Douglas Joy
+Ryan Kaufman
+Ben Knoll
+Andrew Langley
+Crystal Langley
+Lazar Levine
+Clarence Lum
+Nora Magyar
+Nick Mastroianni
+Jolie Menzel
+Eric Parsons
+Graham Ross
+Grady Standard
+Mary Stark
+Jonathan "JD" Straw
+Chris Waltner
+Ryann Lynn Weller
+Ryan Wetherall
+Will Wheeler
+
+
+
+Bay Area Sound, Inc.
+
+MUSIQUE PAR
+Jared Emerson-Johnson
+
+PRODUCTEUR VOIX
+Julian Kwasneski
+
+DIRECTION VOIX
+Jared Emerson-Johnson
+Julian Kwasneski
+
+ENREGISTREMENT DES DIALOGUES
+Jory K. Prum
+
+MONTAGE DES DIALOGUES
+Peter Drescher
+Jory K. Prum
+Amanda Rose Smith
+Julian Kwasneski
+
+
+
+MARKETING ET RELATIONS PUBLIQUES
+
+PREMIER VICE-PRÉSIDENT
+Steve Allison
+
+DIRECTEUR SENIOR MARKETING
+Richard Iggo
+
+CHEF ASSOCIÉ MARQUE
+Jonathan "JR" Rosales
+
+DIRECTEUR SENIOR RELATIONS PUBLIQUES
+Job J. Stauffer
+
+DIRECTEUR DE LA CREATION
+Paolo Asuncion
+
+PRODUCTEUR MARKETING MEDIA
+Shaun Finney
+
+ASSISTANT EDITEUR VIDEO
+Mary Stark
+
+PR MANAGER
+Kaela PerLee 
+
+SUPPORT PRODUIT
+Matthew Pedonti
+
+DIRECTEUR DE LA TECHNOLOGIE INTERNET
+Stefan Antonowicz
+
+PRODUCTEUR INTERNET
+Paul Zabierek
+
+DÉVELOPPEMENT WEB
+Joshua LeBeau
+Jesse Wagstaff
+Alfonse Surigao
+Todd Stritter
+
+DIRECTEURS IT
+Stan Shambaugh
+
+CONSTRUCTION ET DE DISTRIBUTION D'INGÉNIERIE
+Tim Ingram
+William "Nate" Whiteside
+
+OPÉRATIONS
+Rhoda Gravador
+Kathy McElwee
+Sarah Roth
+Serena Sinn
+
+JURIDIQUE
+Mark Barbolak
+
+
+
+CASTING
+
+Lee Everett 
+Dave Fennoy
+
+Clementine
+Melissa Hutchison
+
+Kenny
+Gavin Hammon
+
+Ben
+Trevor Hoffmann
+
+Omid
+Owen Thomas
+
+Christa
+Mara Junot
+
+Radio Voice
+Roger Jackson
+
+Stranger
+Anthony Lam
+
+
+
+CONTRIBUTION A LA CONCEPTION
+The Telltale Gang
+
+Créée avec l'outil Telltale
+David Brady
+Kevin Bruner
+Zacariah Litton
+Jonathan Sgro
+Alex Montgomery
+Carlo Morgantini
+Randy Tudor
+Ben Ingram
+Tim Ingram
+Bruce Wilcox
+Romain Killian
+
+Portions Copyright
+Firelight Technologies
+Portions Copyright
+(C) 2002 Jean-Marc Valin
+
+
+
+TESTEURS
+Dino Adani
+Andy Ly
+Amber von Nagel
+Nhathy Ngo
+Michael Schisler
+April Yohn
+
+
+
+APPARITION SPECIALE DE
+Brie Rosenholm
+Wesley Holthaus
+Anastasia Zhigulskaya
+Marcel Harinck
+Marc Strauss
+
+REMERCIEMENT SPÉCIAL
+Robert Kirkman
+Tony Moore
+Charlie Adlard
+Sean Mackiewicz
+David Alpert
+Shawn Kirkham
+Matt Lenart
+Daniel Kanemoto
+Ikumi Sato
+Julia Kriz
+Jen, Kash, Rollie and Casen
+Ben Ferry
+Sydney Ferry
+Mark Wesley
+Christina, Nathan and Katherine Boyle
+Gwendolyn, Owen & Luke Sgro
+Amelia Moore
+Alisha Piccirillo
+Joe Arcovitch
+Harmony, Stephen, and Claire Sakai
+Mrs. Jung Won Cho and Cho Co (Miss Floopy Doop Paws 2012)
+Sabrina Cecchini
+Marco Brezzo
+Kristen Latino
+Nikki Smith
+Meezy P
+Elisa, Nick, Justice & Liberty Tudor
+Shauna Huntsman 
+Rashelle & Jeff Wilson
+Faranak Farjamrad Herrera
+Lia Farjam Herrera
+David & Cherie Herrera
+Cristina Herrera & Gustavo De Lafore
+Hassan & Zahra Farjamrad
+Bobby Farjamrad & Sahba Motallebi
+Carl and Evie Loschenkohl
+Chrissy Darin 
+John and Angel Armstead
+June Piccolo
+Carolyn & Jason Bronkema
+Cyn Ashton, Julie Haehn & Beverly Paganucci
+Rachel Foster 
+Shale Levine, Elizabeth Levine
+Micah Levine
+Elisa Pagliarulo
+Kyle Priess 
+Dan and Diane Parsons
+Andrew Pink
+Donna Pink
+Erin Ashe
+Christian Espinosa
+Danielle Bysouth
+Amber von Nagel
+Emily Surigao
+Michelle Steranko
+Tia & Jae
+The Otters
+Alex Dudley
+John "Seg" Seggerson
+Ji Yeon Shin
+Bill and Lorretta Ose, Janet Ose, and Dae Spering
+Kayla Ma
+Michael "Mark" Parks
+Eric Martin 
+Denise, Alexis, Ryan Tosti
+Jordyn Taylor Braff, Mikey, Yoshi, & Jacob Braff
+Justin Barreras
+Josh Majdali
+Greg Lemon
+Mindy Shambaugh and Ethan Shambaugh
+Mary "perpetual pain in one's rear" Christensen
+Laura Perusco
+Andy Budina
+Kenny Garcia
+Sara Winters 
+Kurt Thingvold
+Justin McMenamin 
+Andrei Constantinescu
+Steve Lefebvre
+Vainamoinen
+Yohanna Bulan
+Jean and Richard Standard
+Erica, Emma, Bodie & Flynn Iggo
+Anthony and Dawn Perretta
+Krissy Campbell
+
+
+et Vous
+
+
+
+
+ANIMAUX TELLTALE
+Snarffles, Buddy, Lulu, Ziggy and Muttley, Samson, Angry, 
+Chuco, Gabby, Hitch and Bofurd, Milo, Jo Biden, Bowser the bulldog,
+Brodie, Gomez, Happy and Butters, Patches, Little Edward, Jade and 
+Jeremy, Marty, Ocelot the Cat, Tobie, Walter, Melody, Marlowe and 
+Guenever, Chippy, Mocha & Chai, Yoshi and Milani, Momo,
+RIP Alpha - the betta fish, Lemmy Kilmister, Penny & Desmond,
+Freddie Mercury, Dengar the cat, Max the Dog, Torgo & Cabot,
+Peek-a-Boo the Cat, Kasumi, Mia & Brendan Q. Ferguson
+
+
+
+Alela Diane "Take Us Back"
+(P) 2008 Rough Trade Recordings Limited
+Ecrit par Alela Diane Menig
+Publié par Copyright Control
+ISRC No: GB-CVZ-08-02489
+Tiré de l'album 'To Be Still' [RTRAD488]
+Avec l'aimable autorisation de Rough Trade Records Limited
+
+
+
+(C) 2012 Telltale, Inc Basé sur le Comic Book
+par Robert Kirkman, Tony Moore et Charlie Adlard.
+The Walking Dead (C) 2012 Robert Kirkman, LLC.
+Telltale et le logo Telltale Games sont des marques de Telltale, Inc
+Tous droits réservés.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(C) 2012 Telltale, Inc.
+Tous droits réservés
