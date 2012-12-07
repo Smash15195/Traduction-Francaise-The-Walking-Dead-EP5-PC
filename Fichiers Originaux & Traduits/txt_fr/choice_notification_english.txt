@@ -13,7 +13,7 @@ Ben s'en souviendra.
 5)  
 Ils s'en souviendront.
 6)  
-Christa a appréciée.
+Christa a apprécié.
 7)  
 Omid a apprécié.
 8)  
@@ -21,7 +21,7 @@ Kenny a apprécié.
 9)  
 Ben a apprécié.
 10)  
-Christa n'a pas appréciée.
+Christa n'a pas apprécié.
 11)  
 Omid n'a pas apprécié.
 12)  
@@ -39,7 +39,7 @@ Kenny a remarqué votre silence.
 18)  
 Ben a remarqué votre silence.
 19)  
-Christa a remarquée votre panique.
+Christa a remarqué votre panique.
 20)  
 Kenny apprécie.
 21)  
@@ -51,7 +51,7 @@ Christa l'a remarqué.
 26)  
 Omid est d'accord.
 27)  
-Vous autorisez Kenny a sauver Ben de sa plus grande peur.
+Vous autorisez Kenny à sauver Ben de sa plus grande peur.
 28)  
 Vous essayez de rester avec Kenny et Ben.
 29)  
@@ -81,9 +81,9 @@ Christa apprécie.
 41)  
 Christa n'apprécie pas.
 42)  
-Christa n'est pas sûr de ça.
+Christa n'est pas sûre de ça.
 43)  
-Kenny comprends.
+Kenny comprend.
 44)  
 Ca va faire mal.
 45)  

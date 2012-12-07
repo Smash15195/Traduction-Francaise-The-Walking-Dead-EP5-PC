@@ -9,7 +9,7 @@ Sauvegarde 3
 5)  
 CHOISIR
 6)  
-BACK
+RETOUR
 7)  
 AUDIO
 8)  
@@ -29,7 +29,7 @@ MUSIQUE
 14)  
 SON
 15)  
-RÉGLAGES GRAPHIQUE
+RÉGLAGES GRAPHIQUES
 16)  
 APPLI.
 17)  
@@ -181,7 +181,7 @@ Prochainement
 80)  
 PANORAMA DE LA SÉRIE
 81)  
-Je peux pas faire ça, Jim.
+Je ne peux pas faire ça, Jim.
 82)  
 Ok
 83)  
@@ -197,7 +197,7 @@ Non
 88)  
 Attention: cette action est irréversible ! Etes-vous sur de vouloir supprimer cette partie sauvegardée ?
 89)  
-Attention: la copie va effacer les données précédemment sauvegardées ici. Etes-vous sur de vouloir continuer ?
+Attention: la copie va effacer les données précédemment sauvegardées ici. Etes-vous sûr de vouloir continuer ?
 90)  
 LA ROUTE SERA LONGUE
 91)  
@@ -205,7 +205,7 @@ A CHAQUE DETOUR
 92)  
 PLUS DE TEMPS
 93)  
-La progression est enregistrés chaque fois que cet indicateur est affiché. S'il vous plaît ne vous déconnectez ou éteignez pas votre console alors que l'indicateur est sur l'écran.
+La progression est enregistrés chaque fois que cet indicateur est affiché. S'il vous plaît ne vous déconnectez pas ou n'éteignez pas votre console alors que l'indicateur est sur l'écran.
 94)  
 REMBOBINER
 95)  
@@ -215,7 +215,7 @@ Point de contrôle B
 97)  
 Point de contrôle C
 98)  
-En chargeant ce point de contrôle, vous effacerez tout progression sur cette partie. Êtes-vous sûr de vouloir continuer ?
+En chargeant ce point de contrôle, vous effacerez toute progression sur cette partie. Êtes-vous sûr de vouloir continuer ?
 99)  
 STATISTIQUES
 100)  

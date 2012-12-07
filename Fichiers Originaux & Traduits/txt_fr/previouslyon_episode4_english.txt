@@ -5,25 +5,25 @@ Et si mes parents revenaient et que je ne suis pas là ?
 3)  CLEMENTINE
 J'ai mon talkie-walkie au cas où.
 4)  CARLEY
-Hé. Il y a des piles dans l'une de ces boites.
+Hé. Il y a des piles dans l'une de ces boîtes.
 5)  DOUG
 Tiens, Clém.  Des... euh... des piles ?
 6)  KENNY
 Chérie, tu as vu ça !
 7)  CARLEY
-[sweetly, giving batteries to Clem]Tiens, tu peux les prendres...
+[sweetly, giving batteries to Clem]Tiens, tu peux les prendre...
 8)  VERNON
-Vous n'êtes venus par la voie ferrée, n'est-ce pas ?
+Vous n'êtes pas venus par la voie ferrée, n'est-ce pas ?
 9)  BEN
 FAUT Y ALLER !
 10)  KENNY
-Ouais, pourquoi ?
+Oui, pourquoi ?
 11)  LEE
 Clémentine ? [louder, desperate]  Clémentine !!!
 12)  LEE
 Non.  Non !
 13)  LEE
-Clémentine a disparue. Peu importe où elle se trouve, je dois la retrouver.
+Clémentine a disparu. Peu importe où elle se trouve, je dois la retrouver.
 14)  OMID
 Tu n'as pas l'intention d'y aller tout seul ?
 15)  LEE
@@ -31,17 +31,17 @@ C'est une chose que je dois faire seul.
 16)  LEE
 Nous aurons plus de chance de la rerouver si nous restons ensemble. Qui vient avec moi ?
 17)  KENNY
-Désolé mon pote, oublie ça. Il y a aucune chance que je te laisse y aller seul.
+Désolé mon pote, oublie ça. Il n'y a aucune chance que je te laisse y aller seul.
 18)  KENNY
 Quel genre d'ami je serais si je n'étais pas à tes cotés dans un moment pareil ??
 19)  KENNY
-Je ne sais pas pourquoi tu regarde par ici, Lee.
+Je ne sais pas pourquoi tu regardes par ici, Lee.
 20)  KENNY
-Si je vous demandais votre aide, seriez-vous prêt a me la donner ?
+Si je te demandais ton aide, serais-tu prêt à me la donner ?
 21)  LEE
 Tu sais quoi, Kenny ? Va te faire foutre.
 22)  LEE
-J'ai besion de votre aide. Je vous en prie.
+J'ai besoin de votre aide. Je vous en prie.
 23)  LEE
 Elle est ma famille. Elle est tout ce que j'ai.
 24)  KENNY
@@ -57,17 +57,17 @@ Tu devrais peut-être rester près du bateau.
 29)  BEN
 Bien sûr, d'accord.
 30)  BEN
-Je veux pas faire de problème. Si Kenny ne veut pas de moi, je resterai ici.
+Je ne veux pas faire de problème. Si Kenny ne veut pas de moi, je resterai ici.
 31)  LEE
-[to ben]Je crois qu'il serait préférable que tu reste ici avec le bateau...
+[to ben]Je crois qu'il serait préférable que tu restes ici avec le bateau...
 32)  BEN
-Euh... Oui c'est peut-être préférable. Je ne veux m'imposer si on ne veut pas de moi.
+Euh... Oui c'est peut-être préférable. Je ne veux pas m'imposer si on ne veut pas de moi.
 33)  BEN
 Si je peux faire quelque chose pour vous aider, vous pouvez compter sur moi.
 34)  BEN
 Je crois que je ferais mieux de rester ici.
 35)  BEN
-Tu as raison. Je lui dois.
+Tu as raison. Je le lui dois.
 36)  BEN
 Je te jure, qu'avant que tout soit fini, je vais te montrer que je peux faire quelque chose de bien.
 37)  BEN
@@ -87,11 +87,11 @@ Je crois que nous devrions chercher tes parents.
 44)  CLEMENTINE
 Nous ALLONS à Savannah et mes parents sont à Savannah.
 45)  CLEMENTINE
-Pourrions-nos au moins CHERCHER mes parents quand nous y serons ?
+Pourrions-nous au moins CHERCHER mes parents quand nous y serons ?
 46)  CLEMENTINE
 Eh bien, euhh... Je veux retrouver mes parents.
 47)  LEE
-C'est là ? La Maison du Marais ?
+C'est là ? Marsh House ?
 48)  CLEMENTINE
 Oui, c'est là.
 49)  CLEMENTINE
@@ -101,10 +101,10 @@ Bonne chance, Lee.
 51)  CHRISTA
 Nous allons chercher Clémentine ensemble.
 52)  OMID
-Ouais putain.
+Oh oui.
 53)  CHRISTA
 J'espère que tu la trouveras. {WorriedA}Mais tu vas devoir le faire sans nous.
 54)  KENNY
-Tu préfére mettre la vie de Clémentine dans les mains de ce putain d'incompétent plutôt que les miennes ?
+Tu préféres mettre la vie de Clémentine dans les mains de ce putain d'incompétent plutôt que les miennes ?
 55)  KENNY
 Je vais rester et travailler sur le bateau.
