@@ -1,7 +1,7 @@
 1)  KENNY
 [tense]Ils ne devraient pas être en mesure d'entrer dans la cour, hein ?
 2)  KENNY
-[dread, action] Non ils devraient pas.
+[dread, action] Non ils ne devraient pas.
 3)  CHRISTA
 Nous pouvons protéger cet endroit !
 4)  
@@ -15,29 +15,29 @@ Des armes !
 19)  
 Des armes !
 7)  LEE
-Vas aux fenêtres de l'entrée. Vérifie les planches.
+Va aux fenêtres de l'entrée. Vérifie les planches.
 8)  CHRISTA
 [urgent] Compris.
 9)  LEE
-Montes à l'étage; vérifie qu'il n'y a personne !
+Monte à l'étage ; vérifie qu'il n'y a personne !
 10)  CHRISTA
 [urgent] Tout de suite.
 12)  CHRISTA
 [urgent] Tout de suite.
 11)  LEE
-Faits le tour de la maison pour voir s'il y a des armes !
+Fais le tour de la maison pour voir s'il y a des armes !
 13)  CHRISTA
-[urgent, slight frustration] D'ac, je vérifie le salon. vous autres, chercher des armes !
+[urgent, slight frustration] D'accord, je vérifie le salon. Vous autres, cherchez des armes !
 14)  LEE
 Christa ! [giving orders]
 15)  LEE
 Kenny ! [giving orders]
 17)  LEE
-Montes à l'étage ! Sécurise ce que tu peux et assures-toi qu'il n'y a personne !
+Monte à l'étage ! Sécurise ce que tu peux et assure-toi qu'il n'y a personne !
 18)  KENNY
 Très bien !
 20)  LEE
-Cherches des armes ! Rassembles tout ce que tu peux trouver !
+Cherche des armes ! Rassemble tout ce que tu peux trouver !
 21)  
 Déplace ce meuble !
 29)  
@@ -55,29 +55,29 @@ Je le fais !
 27)  KENNY
 Je le fais !
 24)  LEE
-Déplaces tout ce que tu peux contre les portes et les fenêtres.
+Déplace tout ce que tu peux contre les portes et les fenêtres.
 31)  LEE
-Déplaces tout ce que tu peux contre les portes et les fenêtres.
+Déplace tout ce que tu peux contre les portes et les fenêtres.
 25)  KENNY
 C'est ce que j'avais en tête ! [urgent]
 28)  KENNY
 [urgent/frustrated] Je vais laisser cette pièce verrouillée !
 33)  
-Vas à l'étage !
+Va à l'étage !
 34)  LEE
-Vas à l'étage !
+Va à l'étage !
 35)  BEN
 Et je fais quoi ?!
 36)  LEE
 Monte c'est tout !
 37)  
-Tues tout ce qui essaye d'entrer !
+Tue tout ce qui essaye d'entrer !
 38)  LEE
-Tues tout ce qui essaye d'entrer !
+Tue tout ce qui essaye d'entrer !
 39)  BEN
-Tu te rappelles à QUI tu parle, hein ?
+Tu te rappelles à QUI tu parles, hein ?
 40)  LEE
-Ben, FAIS le.
+Ben, FAIS-le.
 41)  BEN
 Je voulais, juste, faire... QUELQUE CHOSE ! [urgent, runs off]
 42)  LEE
@@ -91,7 +91,7 @@ LES PORTES DE DEVANT !
 46)  
 QUE TOUT LE MONDE AIDE OMID !
 47)  
-ALLER !!!
+ALLEZ !!!
 48)  OMID
 Venez m'aider ! [running towards door]
 49)  LEE
@@ -99,7 +99,7 @@ Venez m'aider ! [running towards door]
 50)  LEE
 QUE TOUT LE MONDE AIDE OMID ! MAINTENANT !
 51)  LEE
-[yelling for everyone to help] L'ENTREE ! MAINTENANT ! ALLER !
+[yelling for everyone to help] L'ENTREE ! MAINTENANT ! ALLEZ !
 52)  LEE
 [falling, hitting the ground] ARGH !
 53)  LEE
@@ -115,15 +115,15 @@ QUE TOUT LE MONDE AIDE OMID ! MAINTENANT !
 58)  KENNY
 LEE, AU SECOURS !
 59)  CHRISTA
-Coupez leurs putains bras !
+Coupez leurs putains de bras !
 60)  CHRISTA
 VITE !
 61)  LEE
 [grabbing something in a panic]
 62)  KENNY
-Enlevez leurs putains bras !
+Enlevez leurs putains de bras !
 63)  CHRISTA
-Qu'est-ce que tu fous ?! COUPES-LES !
+Qu'est-ce que tu fous ?! COUPE-LES !
 64)  KENNY
 [shoving something in front of a door] Argh !
 65)  BEN
@@ -141,17 +141,17 @@ Préparez-vous à vous battre.
 70)  
 Cet endroit tiendra.
 71)  
-Shut. We hide.
+Taisez-vous. Nous nous cachons.
 73)  CHRISTA
 Cet endroit me semble assez sûr. [having just caught breath, high tension] Je pense que ça va aller.
 74)  LEE
 C'est une grande maison solide. Elle va tenir.
 75)  CHRISTA
-[having caught breath, high tension though] Ouais, je crois aussi.
+[having caught breath, high tension though] Oui, je crois aussi.
 76)  LEE
-Shhh. Taisez-vous. Il faut que nous nous cachions et trouvions un moyen de sortir.
+Chhh. Taisez-vous. Il faut que nous nous cachions et trouvions un moyen de sortir.
 77)  CHRISTA
-Lee a raison; cet encdroit est sûr. Attendons et nous pourrons partir.
+Lee a raison ; cet endroit est sûr. Attendons et nous pourrons partir.
 78)  OMID
 MERDE !
 79)  LEE
@@ -167,9 +167,9 @@ Fait chier ! Plan B !
 84)  LEE
 Montez à l'étage !
 85)  KENNY
-ALLER !
+ALLEZ !
 119)  LEE
-ALLER !
+ALLEZ !
 86)  CHRISTA
 Tout le monde fonce au fond du couloir !
 87)  KENNY
@@ -179,9 +179,9 @@ Qu'est-ce qu'on fait maintenant ?!
 89)  KENNY
 [holding door] Allez, aidez-moi !
 90)  BEN
-[holding door] Prends les, Lee !
+[holding door] Prends-les, Lee !
 91)  CHRISTA
-[holding door] Tranches leurs saloperie de bras !
+[holding door] Tranche leurs saloperies de bras !
 92)  OMID
 [holding door] Ils sont forts bordel !
 93)  LEE
@@ -199,9 +199,9 @@ Il a seulement eu un putain de bras !
 98)  KENNY
 Rien de tout ça n'a d'importance !
 100)  KENNY
-Combien de munitions vous avez tous?
+Combien de munitions vous avez tous ?
 101)  KENNY
-Prenons en autant que nous pouvons.
+Prenons-en autant que nous pouvons.
 102)  CHRISTA
 Et si on voit une ouverture on fonce.
 103)  LEE
@@ -219,13 +219,13 @@ Onze.
 109)  KENNY
 Tout le monde sait où il faut viser.
 110)  CHRISTA
-UP !
+Là-haut !
 114)  CHRISTA
-UP !
+Là-haut !
 111)  KENNY
-il n'y a aucune putain d'ouverture !
+Il n'y a aucune putain d'ouverture !
 115)  KENNY
-il n'y a aucune putain d'ouverture !
+Il n'y a aucune putain d'ouverture !
 112)  LEE
 SORTEZ.
 113)  OMID
