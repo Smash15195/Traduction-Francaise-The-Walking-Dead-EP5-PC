@@ -1,7 +1,7 @@
 1)  CHRISTA
-{ThinkingA}Nous allons devoir être aussi silencieux que possible et voir si nous pouvons le faire à un étage vide ou alors sur le toit.
+{ThinkingA}Nous allons devoir être aussi silencieux que possible et voir si nous pouvons arriver à un étage vide ou alors sur le toit.
 15)  CHRISTA
-{ThinkingA}Nous allons devoir être aussi silencieux que possible et voir si nous pouvons le faire à un étage vide ou alors sur le toit.
+{ThinkingA}Nous allons devoir être aussi silencieux que possible et voir si nous pouvons arriver à un étage vide ou alors sur le toit.
 2)  LEE
 [na] {ThinkingB}Ouais. [nods with his head "that'a way"]Allons-y.
 5)  LEE
@@ -11,11 +11,11 @@
 3)  KENNY
 {ThinkingA}C'est pas exactement, euh, une rampe pour handicapé.
 4)  KENNY
-{NormalB}Nous allons devoir grimper aussi silencieusement que possible; Tu y arriveras ?
+{NormalB}Nous allons devoir grimper aussi silencieusement que possible. Tu y arriveras ?
 6)  LEE
 [sigh] [to himself] {FearA}Aw, bon sang. [making light of a horrible situation]
 7)  LEE
-{SadA}Non.
+{SadA}Non. Ce n'en est pas un.
 8)  BEN
 [quietish] {FearA}C'est, euh, un défi.
 9)  LEE
@@ -27,33 +27,33 @@
 13)  LEE
 [quietish] C'est bon, on y va.
 14)  CHRISTA
-[emp] {SadA}Tu pense que c'est possible, toi ?
+[emp] {SadA}Tu penses que c'est possible pour toi ?
 16)  OMID
 {NormalB}On dirait bien.
 17)  KENNY
-[quietish] {ThinkingA}Avançons aussi loin que nous pouvons jusqu'a ce que nous trouvions une sortie sûre.
+[quietish] {ThinkingA}Avançons aussi loin que nous pouvons jusqu'à ce que nous trouvions une sortie.
 18)  LEE
 {NormalC}Ouais, c'est ce que je pensais.
 19)  KENNY
-[to ben] {AngryA}Essayez de ne pas vous faire tuer.
+[to ben] {AngryA}Essaye de ne tuer personne.
 20)  BEN
-{SadA}Calmement... compris.
+{SadA}Doucement. C'est compris.
 21)  LEE
 {AngryA}Doucement. Et n'arrêtez pas de grimper jusqu'à ce que nous trouvions une sortie sûre.
 22)  LEE
 [in pain, one hand, pulling himself up onto a ladder]
 23)  LEE
-Randy Tudor. Brave homme. Un PUTAIN d'homme bon. Un des plus grands.
+Randy Tudor. Brave homme. Un PUTAIN d'homme bon. Une puissante moustache. Un des plus grands.
 24)  OMID
 [whispering from higher up the elevator shaft] {FearA}Doucement et en silence les gars...
 25)  KENNY
-[whispering from higher up the elevator shaft] {AngryA}Shh... sans bruits maintenant.
+[whispering from higher up the elevator shaft] {AngryA}Chut... sans bruit maintenant.
 26)  BEN
-[whispering from higher up the elevator shaft] {FearB}Shh...
+[whispering from higher up the elevator shaft] {FearB}
 27)  OMID
-[whispering down to lee] {AngryA}Ca va en bas ? vous vous souvenez, en silence ?
+[whispering down to lee] {AngryA}Ca va en bas ? En silence, ok ?
 28)  KENNY
-[whispering downward] {AngryB}Ca va en bas ? vous vous souvenez, en silence ?
+[whispering downward] {AngryB}Ca va en bas ? En silence, ok ?
 29)  BEN
 [whispering] {FearA}Tout va bien en bas ?
 30)  LEE
@@ -61,7 +61,7 @@ Randy Tudor. Brave homme. Un PUTAIN d'homme bon. Un des plus grands.
 31)  LEE
 [hanging by your ankle, you have to reach up and grab a ladder rung. through grit teeth. there are zombies all around and this the hardest thing you've ever had to do in your life]
 32)  LEE
-[to himself] [hanging by an ankle in an elevator shaft, keeping quiet, in a lot of stress/pain] Ah, Bon Dieu... j'dois...  me... lever.
+[to himself] [hanging by an ankle in an elevator shaft, keeping quiet, in a lot of stress/pain] Ah, Bon Dieu... je dois...  me... lever.
 33)  LEE
 [restrained/ quiet] Ah !
 34)  KENNY
@@ -71,7 +71,7 @@ Randy Tudor. Brave homme. Un PUTAIN d'homme bon. Un des plus grands.
 36)  BEN
 [whispered] Il y a de la lumière là-haut...
 37)  LEE
-[to himself, exerted, climbing a ladder] Super. Je vais virer mes fesses de cette échelle.
+[to himself, exerted, climbing a ladder] Super. Je dois virer mes fesses de cette échelle.
 39)  
 Merde !
 40)  
@@ -83,21 +83,21 @@ Qu'est-ce... ?
 43)  BEN
 [whispered, to self] [gloup]
 44)  
-Fait Chier !
+Fait chier !
 45)  
 Attention !
 46)  LEE
 [hushed, urgent] Attention !
 47)  LEE
-[hushed, urgent] Fait Chier !
+[hushed, urgent] Fait chier !
 48)  LEE
 [hushed, urgent] Merde !
 49)  LEE
-[hushed, looking up into the blackness] Qu'est-ce...?
+[hushed, looking up into the blackness] Qu'est-ce... ?
 50)  LEE
-[phew, hushed] Je ferais mieux de garder mes yeux ouvert.
+[phew, hushed] Je ferais mieux de garder mes yeux ouverts.
 51)  BEN
-[hushed, PHEW] Oh merde, nom de dieu...
+[hushed, PHEW] Oh merde, nom de Dieu...
 52)  KENNY
 [hushed] Ferme ta gueule, Ben.
 53)  KENNY
@@ -113,33 +113,33 @@ Attention !
 58)  BEN
 [hushed] Je crois que je me suis pissé dessus.
 59)  LEE
-[hushed] Bon oui, alors.
+[hushed] Bon oui, et alors.
 60)  KENNY
-[hushed] J'ai chié dans mon froc, mais oui.
+[hushed] J'ai presque chié dans mon froc, mais oui.
 61)  OMID
-[hushed] Oh, just fucking peachy.
+[hushed] Oh, j'ai la pêche.
 62)  LEE
 [getting woozy and naseous, trying to be quiet, climbing a ladder] Oohhhuh....
 63)  CHRISTA
-[hushed] Lee ! LEE ! Oh MON DIEU, tu es en vie ? Lève toi !
+[hushed] Lee ! LEE ! Oh MON DIEU, tu es en vie ? Lève-toi !
 64)  
 Je suis en vie.
 65)  
-Je suis tombé !
+Je vais tomber !
 66)  
-Je peux pas bouger !
+Je ne peux pas bouger !
 67)  KENNY
-[hushed] Lee ! qu'est-ce que tu fous ! Lève toi ! Lève toi !
+[hushed] Lee ! Qu'est-ce que tu fous ! Lève-toi ! Lève-toi !
 68)  BEN
-[hushed] Oh merde, non, LEE, réveille-toi ! Ne t'endors pas, t'endors pas, t'endors pas !
+[hushed] Oh merde, non, LEE, réveille-toi ! Ne tombe pas, tombe pas, tombe pas !
 69)  LEE
-[coming back to conciousness] Uhhgh... ugh....
+[coming back to conciousness]
 70)  LEE
-[to himself, hushed, out of sorts] J'vais... me... lever...
+[to himself, hushed, out of sorts] Je vais... me... lever...
 71)  LEE
-[hanging upside down, woozy, out of it, hushed] Je suis toujours là... je crois...
+[hanging upside down, woozy, out of it, hushed] Je suis toujours là... Je crois...
 72)  LEE
-[hanging upside down, woozy, out of it, hushed] je vais tomber, merde, je suis foutu.
+[hanging upside down, woozy, out of it, hushed] Je vais tomber, merde, je suis foutu.
 73)  LEE
 [hanging upside down, woozy, out of it, hushed] Je peux pas bouger, bordel de merde, je suis coincé !
 74)  LEE
@@ -155,11 +155,11 @@ Je peux pas bouger !
 79)  OMID
 [hushed] C'est ça, Lee.
 80)  CHRISTA
-[hushed] Hisse toi !
+[hushed] Hisse-toi !
 81)  KENNY
 [hushed] Tu vas y arriver, mon pote !
 82)  KENNY
-[hushed] Allez, hisse toi !
+[hushed] Allez, hisse-toi !
 83)  KENNY
 [hushed] Allez. Tu y es presque, Lee.
 84)  BEN
@@ -173,7 +173,7 @@ Je peux pas bouger !
 88)  CHRISTA
 [hushed, relieved] [phew] Joli boulot.
 89)  KENNY
-[hushed, relieved] [phew] Way to go, mon pote. Tu m'as foutu une putain de frayeur.
+[hushed, relieved] [phew] Continue comme ça, mon pote. Tu m'as foutu une putain de frayeur.
 90)  BEN
 [hushed, relieved] [phew] Génial... J'ai bien failli avoir une crise cardiaque.
 91)  

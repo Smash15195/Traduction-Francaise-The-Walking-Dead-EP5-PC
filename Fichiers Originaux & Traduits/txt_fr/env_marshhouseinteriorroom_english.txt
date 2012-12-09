@@ -9,7 +9,7 @@
 3)  LEE
 {normalc} Ca mène dans l'autre chambre.
 4)  CLEMENTINE
-{feara} Y'a rien ici. On peut partir ?
+{feara} Il n'y a rien ici. On peut partir ?
 5)  LEE
 {normald} Bien sûr.
 6)  
@@ -37,7 +37,7 @@ Où est-elle ?
 422)  CAMPMAN
 {thinkinga} Vous avez une sale mine.
 17)  CAMPMAN
-{normald} Je nous ai trouvé des chambres communes.
+{normald} Je nous ai trouvé des chambres adjacentes.
 18)  CAMPMAN
 {normalc} Et il vous manque un bras.
 19)  CAMPMAN
@@ -45,21 +45,21 @@ Où est-elle ?
 20)  CAMPMAN
 Baissez votre truc. [firm]
 21)  CLEMENTINE
-Laissez moi sortir ! Qui est là ?
+Laissez-moi sortir ! Qui est là ?
 22)  
 C'est Lee!
 23)  
-Je suis là, Clem !
+Je suis là, Clém !
 24)  
-Laissez la sortir.
+Laissez-la sortir.
 25)  CAMPMAN
 [sharp, aggressive]
 26)  CAMPMAN
 C'est bien. [lee didnt yell]
 27)  CAMPMAN
-[projecting into other room] Calme toi, ma puce !
+[projecting into other room] Calme-toi, ma puce !
 424)  CAMPMAN
-[projecting into other room] Calme toi, ma puce !
+[projecting into other room] Calme-toi, ma puce !
 28)  CAMPMAN
 Vos affaires. Là.
 423)  CAMPMAN
@@ -67,7 +67,7 @@ Vos affaires. Là.
 29)  
 Voilà, c'est tout.
 30)  LEE
-{normald} Calmez vous.
+{normald} Calmez-vous.
 31)  CAMPMAN
 {thinkingb} Je n'ai pas l'air calme ?
 32)  
@@ -75,17 +75,17 @@ J'ai juste cette radio. [Mentir]
 33)  CAMPMAN
 {normalb} Vous voyagez léger. {normalc} Je ne vous crois pas.
 34)  LEE
-{normald} J'ai rien d'autre, ok ?
+{normald} Je n'ai rien d'autre, ok ?
 35)  
-J'ai rien d'autre. [Mentir]
+Je n'ai rien d'autre. [Mentir]
 36)  LEE
-{normald} J'ai rien sur moi.
+{normald} Je n'ai rien sur moi.
 37)  CAMPMAN
 {thinkinga} Vraiment ? Vous avez fait tout ce chemin sans arme ?
 38)  LEE
-{thinkingb} Je les ai perdu.
+{thinkingb} Je les ai perdues.
 39)  
-Je plaisante pas.
+Je ne plaisante pas.
 40)  
 Très bien. Voilà.
 49)  
@@ -101,23 +101,23 @@ Très bien.
 45)  CAMPMAN
 Assis.
 46)  CAMPMAN
-{sada} ASSIS. {normald} Ne faîtes rien de stupide, s'il vous plaît.
+{sada} ASSIS. {normald} Ne faites rien de stupide, s'il vous plaît.
 47)  CAMPMAN
-{angrya} Allez. {normalc} Ne me faîtes pas touner en bourique.
+{angrya} Allez. {normalc} Ne me faites pas touner en bourique.
 48)  
 Voilà, c'est tout.
 50)  LEE
-{normalb} Voilà, c'est tout. {normalc}Allez-y, fouillez moi.
+{normalb} Voilà, c'est tout. {normalc}Allez-y, fouillez-moi.
 51)  CAMPMAN
 {normalc} Je ne vous crois pas.
 52)  CAMPMAN
-{normalc} Non. Je ne vous touche pas. {thinkinga}Asseyez-vous.
+{normalc} Non. Je ne vous toucherai pas. {thinkinga}Asseyez-vous.
 54)  CAMPMAN
-{normalc} Non. Je ne vous touche pas. {thinkinga}Asseyez-vous.
+{normalc} Non. Je ne vous toucherai pas. {thinkinga}Asseyez-vous.
 53)  LEE
-Je plaisante pas. Fouillez moi si vous ne me croyez pas.
+Je ne plaisante pas. Fouillez-moi si vous ne me croyez pas.
 55)  CAMPMAN
-{normald} Savez vous qui je suis ?
+{normald} Savez-vous qui je suis ?
 56)  
 Oui.
 103)  
@@ -137,29 +137,29 @@ Non.
 59)  CAMPMAN
 {normald} Alors vous avez vu ma voiture dehors.
 60)  CAMPMAN
-{normald} Vous ne devriez pas. [pause] {normalc}C'est pas votre genre.
+{normald} Vous ne devriez pas. [pause] {normalc}Ce n'est pas votre genre.
 61)  LEE
 {normald} Non. {normalc} Je ne sais rien de vous.
 62)  CAMPMAN
-{thinkinga} Maintenant vous cogitez.  {thinkingb}"Qui pourrait m'en vouloir," hein ?
+{thinkinga} Maintenant vous cogitez.  {thinkingb}"Qui pourrait m'en vouloir", hein ?
 63)  CAMPMAN
-You see anything else you want in there? {sada} Not a whole lot left.
+Vous avez vu autre chose que vous vouliez là-dedans ? {sada} Il ne restait pas grand chose.
 64)  LEE
 {normald} Je ne vous ai rien pris.
 65)  CAMPMAN
-{thinkingb} Pas vos amis ?
+{thinkingb} Vos amis non plus ?
 66)  LEE
-{normald} J'étais pas d'accord.
+{normald} Je n'étais pas d'accord.
 67)  CAMPMAN
-{normalc} C'est ce que la petite Clémentine m'a dit. {disgustb} Et pourquoi ?
+{normalc} C'est ce que la petite Clémentine m'a dit. {disgustb} Et pourquoi pas ?
 68)  
-Elle voulait pas.
+Elle ne voulait pas.
 69)  
 Ce n'était pas juste.
 70)  
 Vous alliez revenir.
 71)  LEE
-{normalb} Elle voulait pas.
+{normalb} Elle ne voulait pas.
 72)  CAMPMAN
 {thinkinga} Il y a un tas de choses qu'elle ne voulait pas.
 73)  LEE
@@ -167,7 +167,7 @@ Vous alliez revenir.
 80)  LEE
 {normald} Qu'est-ce que vous voulez que je dise ?
 74)  LEE
-{normald} Ce n'était pas juste. C'était pas nos affaires.
+{normald} Ce n'était pas juste. Ce n'était pas nos affaires.
 75)  CAMPMAN
 {normalb} C'est tout à votre honneur.
 76)  LEE
@@ -181,49 +181,49 @@ Vous alliez revenir.
 81)  CAMPMAN
 {normald} Si seulement le reste de votre petite bande avait été {normalc}aussi "magnanime".
 82)  CAMPMAN
-{normald} J'attends rien de vous. {angryb}Je veux juste que vous sachiez ce qu'il s'est passé.
+{normald} Je n'attends rien de vous. {angryb}Je veux juste que vous sachiez ce qu'il s'est passé.
 83)  LEE
-{normald} Tout était étalé à la porté du premier venu. {normalc}On crevait de faim. Vous--
+{normald} Tout était étalé à la portée du premier venu. {normalc}On crevait de faim. Vous--
 84)  CAMPMAN
 [snaps] {crazya} Etalé ?! Vous vous rendez compte de ce que vous m'avez PRIS ?!
 85)  
 Je m'en fous.
 86)  
-Commencez pas l'inventaire !
+Ne commencez pas l'inventaire !
 87)  
 Je suis désolé. Quoi que ce soit, j'en suis désolé.
 88)  LEE
 {normalc} Je m'en fous.
 89)  CAMPMAN
-[pissed, fighting back tears] {angrya} Je vous emmerde. {sada} Vous pouvez pas {sadb}savoir.
+[pissed, fighting back tears] {angrya} Je vous emmerde. {sada} Vous ne pouvez pas {sadb}savoir.
 90)  LEE
-{normalc} Commencez pas l'inventaire sur qui a pris quoi.
+{normalc} Ne commencez pas l'inventaire de qui a pris quoi.
 91)  CAMPMAN
-{thinkinga} Je ne l'ai pas kidnappé. Je{angrya} l'ai sauvé de vos griffes. Vous comprenez pas ?
+{thinkinga} Je ne l'ai pas kidnappée. Je{angrya} l'ai sauvée de vos griffes. Vous ne comprenez pas ?
 92)  LEE
-{normald} Je suis désolé. {sada} Quoi que ce soit, quoi qu'il s'est passé,  {normald}sachez que j'en suis désolé.
+{normald} Je suis désolé. {sada} Quoi que ce soit, quoi qu'il se soit passé,  {normald}sachez que j'en suis désolé.
 93)  CAMPMAN
-{normala} Ca ne veut rien dire pour moi. {normalb}J'aimerais pourtant. {normalc}Je suis pas méchant. Je ne suis pas rancunier, {normald}mais j'ai rien d'autre.
+{normala} Ca ne veut rien dire pour moi. {normalb}J'aimerais pourtant. {normalc}Je ne suis pas méchant. Je ne suis pas rancunier, {normald}mais je n'ai plus rien d'autre.
 94)  CAMPMAN
-[sadly to himself, he looks down] {angrya} Vous pouvez pas savoir... [sniff]
+[sadly to himself, he looks down] {angrya} Vous ne pouvez pas savoir... [sniff]
 95)  CAMPMAN
 Mon fils, Adam, avait disparu. Je l'ai emmené chasser alors même que ma femme prétendait qu'il était trop jeune. Je pensais qu'il devait apprendre.
 96)  CAMPMAN
 Je suis rentré sans lui et ses yeux semblaient me dire... "Tu es un MONSTRE."
 97)  CAMPMAN
-On l'a cherché tous les deux. On l'a jamais retrouvé. Je lui ai fait si mal.
+On l'a cherché tous les deux. On ne l'a jamais retrouvé. Je lui ai fait si mal.
 98)  CAMPMAN
-{normald} Avez vous déjà {sada}blessé quelqu'un que vous aimez ?
+{normald} Avez-vous déjà {sada}blessé quelqu'un que vous aimez ?
 99)  CAMPMAN
-{disgustb} Quelques semaines en arrière, il y avait pas un break dans la forêt ?
+{disgustb} Il y a quelques semaines, il n'y avait pas un break dans la forêt ?
 100)  CAMPMAN
 {normalc} Plein de nourriture, d'eau, {normald}de trucs de survie.
 101)  CAMPMAN
-Ouais. Je suis pas cannibale, Lee. Je suis pas un tueur rôdant dans les bois. Un... méchant. {sada}Je suis juste un... père. J'entraîne une petite équipe.
+Ouais. Je ne suis pas un cannibale, Lee. Je ne suis pas un tueur rôdant dans les bois. Un... méchant. {sada}Je suis juste un... père. J'entraîne une petite équipe.
 102)  CAMPMAN
 {normald} [gathering himself]
 104)  
-C'était pas voulu.
+Ce n'était pas voulu.
 106)  LEE
 {normald} Oui. Bien sûr.
 107)  CAMPMAN
@@ -231,7 +231,7 @@ C'était pas voulu.
 108)  CAMPMAN
 {disgustb} Si ça avait été voulu {thinkinga}vous seriez un sociopathe.
 109)  LEE
-{normald} C'était pas voulu.
+{normald} Ce n'était pas voulu.
 110)  LEE
 {normald} Non.
 134)  LEE
@@ -241,9 +241,9 @@ C'était pas voulu.
 112)  CAMPMAN
 {thinkinga} Et votre femme ?
 113)  CAMPMAN
-{thinkinga} Vous vous foutiez de cette femme avant de la retenir pour que votre {thinkingb}ami écrase la cervelle {normalc}de son père ?
+{thinkinga} Vous vous foutiez de cette femme avant de la retenir pour que votre {thinkingb}ami puisse écraser la cervelle {normalc}de son père ?
 114)  CAMPMAN
-{thinkinga} Et ce gamin qui n'est pas revenu de...{thinkingb} Crawford, c'est ça ? Même si vous ne lui avez rien fait, {thinkinga}ça à fait du mal à cette fille qui est là-dedans.
+{thinkinga} Et ce gamin qui n'est pas revenu de...{thinkingb} Crawford, c'est ça ? Même si vous ne lui avez rien fait, {thinkinga}ça a fait du mal à cette fille qui est là-dedans.
 115)  CAMPMAN
 {normald} C'est bon. {thinkinga} Je sais.
 116)  CAMPMAN
@@ -257,17 +257,17 @@ Je lui ai tellement fait du mal.
 120)  
 Je suis désolé.
 121)  
-C'est pas ma faute.
+Ce n'est pas ma faute.
 122)  
 Vous avez merdé.
 123)  LEE
 {sada} Je suis désolé.
 124)  LEE
-{sada} C'est pas ma faute.
+{sada} Ce n'est pas ma faute.
 125)  LEE
 {sada}Vous {normalc}avez merdé.
 126)  CAMPMAN
-[a little choked up] {sada}Elles ne sont pas allées loin... Je... {sadd}les ai trouvé un jour plus tard. Sur la route. [can't finish]
+[a little choked up] {sada}Elles ne sont pas allées loin... Je... {sadd}les ai trouvées un jour plus tard. Sur la route. [can't finish]
 127)  CAMPMAN
 {angrya} Plus on crevait de faim, plus elle m'en voulait. {normald}  Jusqu'à ce qu'elle prenne notre fille, Elizabeth, et parte.
 128)  CAMPMAN
@@ -283,21 +283,21 @@ Nous le sommes tous.
 136)  CAMPMAN
 [upset] {angrya} Certains plus que d'autres.
 137)  CAMPMAN
-{angrya} Je suis pas comme vous.
+{angrya} Je ne suis pas comme vous.
 138)  
-Je l'ai protégé là-bas.
+Je l'ai protégée là-bas.
 139)  
 J'ai fait de mon mieux.
 140)  LEE
-{normald} J'ai fais mon devoir.
+{normald} J'ai fait mon devoir.
 141)  LEE
-{normald} J'ai fais de mon mieux.
+{normald} J'ai fait de mon mieux.
 142)  CAMPMAN
 {angrya} Vous avez tué un homme avec une fourche devant une gamine.[1]
 143)  CAMPMAN
 {angrya} Vous avez laissé cette gamine manger de la chair humaine dégueulasse.[1]
 144)  CAMPMAN
-{angrya} Vous avez amenez une gamine dans une ferme remplie de fous et vous les avez laissé la prendre.[1]
+{angrya} Vous avez amené une gamine dans une ferme remplie de fous et vous les avez laissés la prendre.[1]
 145)  LEE
 {normald} J'essayais de lui trouver un endroit sûr.
 146)  
@@ -325,7 +325,7 @@ C'était impossible de la sauver.
 157)  CAMPMAN
 {angrya} Vous avez laissé un garçon se faire tirer par une fenêtre au milieu de la nuit pour protéger une jolie femme avec une arme.[2]
 158)  CAMPMAN
-{angrya} Vous avez laissé une femme mourir qui vous connaissait vraiment pour protéger votre secret.[2]
+{angrya} Vous avez laissé mourir une femme  qui vous connaissait vraiment pour protéger votre secret.[2]
 159)  LEE
 {angrya} Elle le méritait.
 160)  LEE
@@ -347,7 +347,7 @@ Vous n'étiez pas là.
 168)  CAMPMAN
 {angrya} Le sweatshirt qu'elle portait était à mon fils. Vous nous l'avez volé. [3]
 169)  CAMPMAN
-{angrya} Vous l'avez emmené dans le coin le plus dangereux de la ville où elle aurait pu mourir.[3]
+{angrya} Vous l'avez emmenée dans le coin le plus dangereux de la ville où elle aurait pu mourir.[3]
 170)  CAMPMAN
 {angrya} Combien de fois elle a frôlé la mort avec vous ?
 171)  
@@ -369,17 +369,17 @@ J'ai merdé.
 179)  CAMPMAN
 [explodes] C'EST EXACTEMENT CE QUE J'AURAIS FAIT.
 180)  LEE
-{normald} Vous {normalc}n'aurais pas fait mieux.
+{normald} Vous {normalc}n'auriez pas fait mieux.
 181)  LEE
 {normald} Vous{normalc} ne dites pas tout.
 182)  CAMPMAN
-JE DIS PAS TOUT ?!?
+JE NE DIS PAS TOUT ?!?
 183)  LEE
 {normald} J'ai merdé.
 184)  CAMPMAN
 [snarls] Oui, en effet.
 185)  CAMPMAN
-{angrya} Regardez vous. [snarls]
+{angrya} Regardez-vous. [snarls]
 186)  CAMPMAN
 Vous êtes un monstre.[refrain on monster] Vous êtes un meurtrier et un voleur. Je vais vous faire tellement mal.
 187)  
@@ -395,15 +395,15 @@ Ma femme.
 192)  LEE
 {normald} Clémentine. {thinkinga} Ses parents lui manquaient. {sada}Je ne suis pas eux.
 193)  LEE
-{normald} A garçon appelé Ben qui était avec nous. {sada}Je l'aimais bien, c'était un brave gamin.
+{normald} Un garçon appelé Ben qui était avec nous. {sada}Je l'aimais bien, c'était un brave gamin.
 194)  LEE
-{normald} Elle s'appelait Carley. Elle s'est fait tuer. {sada} J'aurais pu faire plus pour la protéger. {normald}Ou pas. {thinkinga}J'en sais rien.
+{normald} Elle s'appelait Carley. Elle s'est fait tuer. {sada} J'aurais pu faire plus pour la protéger. {normald}Ou pas. {thinkinga}Je n'en sais rien.
 195)  
 Kenny.
 196)  LEE
 {normald} Un mec qui s'appelle Kenny.
 197)  LEE
-{normald} Une femme qui s'appelle Lilly. Les premiers mois avec elle étaient sympas. Elle voulait prendre soin de son {sada}père et... [sigh] {sadb}j'ai pas vraiment été là pour elle quand elle en a eu besoin.
+{normald} Une femme qui s'appelle Lilly. Les premiers mois avec elle étaient sympas. Elle voulait prendre soin de son {sada}père et... [sigh] {sadb}je n'ai pas vraiment été là pour elle quand elle en a eu besoin.
 198)  CAMPMAN
 {thinkinga} Clémentine a dit qu'elle n'était pas avec vous.
 199)  CAMPMAN
@@ -423,11 +423,11 @@ De pleins de façons.
 206)  LEE
 {normald} De pleins de façons.
 207)  LEE
-[deciding to finally say what happened] Elle voyageait pour son travail. {thinkingb}J'aimais pas ça. {sadb}Je voulais une famille.
+[deciding to finally say what happened] Elle voyageait pour son travail. {thinkingb}Je n'aimais pas ça. {sadb}Je voulais une famille.
 208)  LEE
 [quiet, tense] Et vous ?
 209)  LEE
-{normalc} Un jour je suis tombé malade en allant en classe. J'ai annulé et je suis rentré chez moi. {normald}Je l'ai trouvé avec un autre type. [long pause] {sadc}Je l'ai tué. [takes a deep breath]
+{normalc} Un jour je suis tombé malade en allant en classe. J'ai annulé et je suis rentré chez moi. {normald}Je l'ai trouvée avec un autre type. [long pause] {sadc}Je l'ai tué. [takes a deep breath]
 210)  CAMPMAN
 {normald} C'est compréhensible.
 211)  LEE
@@ -439,9 +439,9 @@ Je ne vous ai rien volé !
 215)  
 Je suis DESOLE !
 216)  
-Rendez moi Clémentine.
+Rendez-moi Clémentine.
 217)  
-On est pas obligé d'en arriver là.
+On n'est pas obligé d'en arriver là.
 218)  LEE
 {normalc} Je ne vous ai RIEN volé !
 219)  CAMPMAN
@@ -451,25 +451,25 @@ On est pas obligé d'en arriver là.
 221)  CAMPMAN
 {angrya} Ca j'ai compris. [firm]
 222)  LEE
-{normald} Rendez moi Clémentine.
+{normald} Rendez-moi Clémentine.
 223)  CAMPMAN
-{angrya} Je préfèrerais la tuer moi-même. Car {angryb}c'est ce qui va arriver si elle repart avec vous.
+{angrya} Je préférerais la tuer moi-même. Car {angryb}c'est ce qui va arriver si elle repart avec vous.
 224)  LEE
-{normald} On est pas obligé d'en arriver là.
+{normald} On n'est pas obligé d'en arriver là.
 225)  CAMPMAN
 {angrya} Vous ne pouvez vous occuper de personne.
 226)  CAMPMAN
-{angrya} Vous êtes venu ici pour Clémentine et je sais même pas pourquoi.
+{angrya} Vous êtes venu ici pour Clémentine et je ne sais même pas pourquoi.
 227)  CAMPMAN
-{angrya} Après avoir entendu Clémentine à la radio et{normalc} réalisé que vous êtiez là, {angrya}je vous ai retrouvé uniquement par vengeance.
+{angrya} Après avoir entendu Clémentine à la radio et{normalc} réalisé que vous étiez là, {angrya}je vous ai retrouvé uniquement par vengeance.
 228)  CAMPMAN
 {angrya} Après avoir entendu Clémentine à la radio {normalc} je n'étais pas en colère contre vous. {angrya} Je voulais retrouver les autres. Par vengeance.
 229)  CAMPMAN
-{angrya} Lee, écoutez moi. Vous devez entendre ça avant la suite des évènements. {normalc}Je peux m'occuper d'elle. On peut être une famille.
+{angrya} Lee, écoutez-moi. Vous devez entendre ça avant la suite des événements. {normalc}Je peux m'occuper d'elle. On peut être une famille.
 230)  CAMPMAN
-{angrya} Mais j'entendais des choses sur vos actes et sur les dangers qu'elle encourait... {crazya}alors notre plan a changé.
+{angrya} Mais j'entendais des choses sur vos actes et sur les dangers qu'elle courait... {crazya}alors notre plan a changé.
 231)  CAMPMAN
-{normalc} Je sais ce qu'est être un père. Elle ne serait pas exposé aux mêmes dangers qu'avec vous.
+{normalc} Je sais ce qu'est être un père. Elle ne serait pas exposée aux mêmes dangers qu'avec vous.
 232)  
 Vous êtes cinglé.
 233)  
@@ -481,15 +481,15 @@ J'ai été mordu. D'accord.
 237)  CAMPMAN
 {fearb} Vous avez été quoi ?
 238)  LEE
-Ouais. {sadb}J'ai sans doute plus beaucoup de temps.
+Ouais. {sadb}Je n'ai sans doute plus beaucoup de temps.
 239)  LEE
 {normald} Ecoutez... {sada}J'ai été mordu.
 240)  CAMPMAN
 [wind knocked out of him] {normald} Alors, d'accord.
 241)  LEE
-{angrya} Non. Taisez vous.
+{angrya} Non. Taisez-vous.
 242)  CAMPMAN
-{angrya} Ca parait logique.
+{angrya} Ca paraît logique.
 243)  LEE
 {angrya} Ca n'arrivera pas.
 244)  CAMPMAN
@@ -507,7 +507,7 @@ J'ai été mordu et vous allez l'être aussi.
 250)  
 Laissez-nous partir.
 251)  LEE
-{thinkinga} Pourquoi vous dîtes "nous" ?
+{thinkinga} Pourquoi vous dites "nous" ?
 252)  CAMPMAN
 {normald} Nous lui offrirons un foyer.
 253)  LEE
@@ -539,17 +539,17 @@ Je suis content qu'on en soit pas venu aux mains.
 266)  CAMPMAN
 [shocked] Je...
 267)  CAMPMAN
-[recomposes himself] {normalb} Non. Pendant que je serais avec elle {thinkinga}vous pourrirez dans la rue.
+[recomposes himself] {normalb} Non. Pendant que je serai avec elle {thinkinga}vous pourrirez dans la rue.
 268)  CAMPMAN
 {fearb} Quoi ? [surprised]
 269)  CAMPMAN
-{angrya} Non, non, je crois pas.
+{angrya} Non, non, je ne crois pas.
 270)  LEE
-{angrya} Laissez nous partir.
+{angrya} Laissez-nous partir.
 271)  CAMPMAN
-Partez et, {thinkinga}nous, nous formons une nouvelle famille.
+Vous allez partir et, {thinkinga}nous, nous allons former une nouvelle famille.
 273)  CAMPMAN
-Partez et, {thinkinga}nous, nous formons une nouvelle famille.
+Vous allez partir, {thinkinga}nous, nous allons former une nouvelle famille.
 272)  CAMPMAN
 {angrya} C'est ce qui va se passer.
 274)  CAMPMAN
@@ -559,17 +559,17 @@ Je suis content, aussi.
 276)  LEE
 {thinkinga} Que-- [something catches his eye]
 277)  LEE
-{normald} Je pouvais pas la laisser seule dans la maison
+{normald} Je ne pouvais pas la laisser seule dans la maison
 278)  CAMPMAN
 [To Lee] {thinkinga} N'est-ce pas ?
 279)  LEE
 [uh...] {normalc} A peu près.
 280)  CAMPMAN
-[to the bag] {normald} J'aime pas te voir comme ça. Ton sourire {happya}me manque, chérie. [sigh]
+[to the bag] {normald} Je n'aime pas te voir comme ça. Ton sourire {happya}me manque, chérie. [sigh]
 281)  CAMPMAN
-[to the bag] {normald} Tu me manques {sada}tant, Tess. {happya}Mais tu vas adorer Clémentine. {normald}C'est pas Lizzy, mais elle est {happya}gentille. {normalb}Elle ne ferait pas de mal à une mouche. [last part delievered to lee]
+[to the bag] {normald} Tu me manques {sada}tant, Tess. {happya}Mais tu vas adorer Clémentine. {normald}Ce n'est pas Lizzy, mais elle est {happya}gentille. {normalb}Elle ne ferait pas de mal à une mouche. [last part delievered to lee]
 282)  CAMPMAN
-[to the bag] {normald} J'aurai voulu que les choses se passent mieux, mais c'est terminé, chérie.
+[to the bag] {normald} J'aurais voulu que les choses se passent mieux, mais c'est terminé, chérie.
 283)  CAMPMAN
 [being hit in the shoulder with a cleaver]
 427)  CAMPMAN
@@ -709,9 +709,9 @@ Il t'a fait du mal ?
 327)  
 Allons-y.
 328)  
-On a plus beaucoup de temps.
+On n'a plus beaucoup de temps.
 329)  LEE
-Clem, ca va aller.
+Clém, ca va aller.
 330)  CLEMENTINE
 [still out of sorts] Non, pas vraiment. Je suis désolée, Lee.
 332)  CLEMENTINE
@@ -723,9 +723,9 @@ Ok. Pardon, Lee. Je suis désolée.
 335)  LEE
 C'est bon, ma puce.
 336)  LEE
-Clémentine, on a plus beaucoup de temps.
+Clémentine, on n'a plus beaucoup de temps.
 337)  LEE
-Non, c'est bon. Je suis désolé, Clem.
+Non, c'est bon. Je suis désolé, Clém.
 338)  CLEMENTINE
 Excuse-moi, Lee. J'ai mal agi.
 339)  CLEMENTINE
@@ -769,13 +769,13 @@ Tu m'as sauvé.
 357)  LEE
 Tu m'as sauvé.
 355)  CLEMENTINE
-C'est ma faute. Tout est dangereux. Comme tu disais.
+C'est ma faute. Tout est dangereux. Comme tu le disais.
 356)  LEE
 C'est bon. Tu apprends.
 358)  LEE
 Désolé que tu aies dû le faire. Mais content que tu l'aies fait.
 359)  LEE
-Et te récupérer, ouais.
+Et te récupérer, oui.
 360)  LEE
 Désolé que tu aies assisté à ça.
 361)  CLEMENTINE
@@ -795,13 +795,13 @@ Ne regarde pas là-dedans.
 370)  LEE
 [getting eaten, neck]
 371)  CLEMENTINE
-T'es couvert de ce truc dégoûtant.
+Tu es couvert de ce truc dégoûtant.
 479)  CLEMENTINE
-T'es couvert de ce truc dégoûtant.
+Tu es couvert de ce truc dégoûtant.
 372)  CLEMENTINE
-Il... il... il t'a pas mordu.
+Il... il... il ne t'a pas mordu.
 477)  CLEMENTINE
-Il... il... il t'a pas mordu.
+Il... il... il ne t'a pas mordu.
 373)  LEE
 Voilà comment on peut partir de Savannah.
 481)  LEE
@@ -819,7 +819,7 @@ Ils puent à mort, ce qui veut dire que tu le dois aussi.
 377)  CLEMENTINE
 [small, flat] Berk. D'accord.
 378)  LEE
-
+Ouh.
 379)  LEE
 C'est par où la sortie ?
 380)  CLEMENTINE
@@ -831,7 +831,7 @@ Ca va ?
 383)  LEE
 {normald} Tu devrais te pincer le nez.
 384)  CLEMENTINE
-[being covered in guts] {sadc} Pas déjà.
+[being covered in guts] {sadc} Vite j'espère.
 385)  LEE
 {normald} On te lavera dès que possible.
 386)  LEE
@@ -847,11 +847,11 @@ Encore un peu. Pour être sûr.
 391)  CLEMENTINE
 [grossed out] J'espère.
 392)  LEE
-Reste à côté de moi et marche très lentement. Ne regarde pas autour de ne panique pas.
+Reste à côté de moi et marche très lentement. Ne regarde pas autour et ne panique pas.
 393)  CLEMENTINE
 [afraid]
 394)  LEE
-Je te protégerais.
+Je te protégerai.
 395)  LEE
 Voilà, ça devrait suffire.
 396)  CLEMENTINE
@@ -891,7 +891,7 @@ Tirer
 411)  LEE
 {normalc} Elle a huit ans.
 412)  CAMPMAN
-{thinkinga} Je parie que vous savez même pas quel âge elle a.
+{thinkinga} Je parie que vous ne savez même pas quel âge elle a.
 413)  LEE
 {sada} Mais--
 414)  CAMPMAN
@@ -971,4 +971,4 @@ Coup de tête
 465)  LEE
 [pickup1] Je pensais que TU étais perdue.
 466)  LEE
-[pickup1]  Et tu oublies quelque chose
+[pickup1]  Et il te manque quelque chose.

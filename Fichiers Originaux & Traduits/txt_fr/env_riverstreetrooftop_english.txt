@@ -5,19 +5,19 @@ Restons concentrés.
 3)  
 Kenny était mon ami.
 4)  
-Je maudis l'enfoiré qui a pris Clem.
+Je maudis l'enfoiré qui a pris Clém.
 5)  CHRISTA
 {Body-A}{AngryA}C'est un non, visiblement.
 6)  OMID
 Il vient de perdre deux de ses amis, c'est compréhensible, non ?
 7)  LEE
-{Body-B}{SadA}J'ai rien à dire. {AngryA}On doit rester concentré sur ce qu'on fait.
+{Body-B}{SadA}Je n'ai rien à dire. {AngryA}On doit rester concentré sur ce qu'on fait.
 8)  CHRISTA
-{Body-A}{NormalB}Je sais qu'on a pas une minute à perdre, {WorriedA}mais... {SadA}t'es pas une machine.
+{Body-A}{NormalB}Je sais qu'on n'a pas une minute à perdre, {WorriedA}mais... {SadA}tu n'es pas une machine.
 9)  LEE
 {Body-B}{SadA}Kenny était mon ami.
 10)  CHRISTA
-{Body-A}{ThinkingA}Dès que quelqu'un meurt, on n'est pas{WorriedA} forcé d'absoudre ses pêchés tout de suite, non ?
+{Body-A}{ThinkingA}Dès que quelqu'un meurt, on n'est pas{WorriedA} forcé d'absoudre ses péchés tout de suite, non ?
 11)  LEE
 Il était ce qu'on peut appeler un ami.
 12)  CHRISTA
@@ -25,7 +25,7 @@ Il était ce qu'on peut appeler un ami.
 13)  LEE
 {Body-B}{SadA}C'était dur de l'apprécier, {NormalC}mais j'étais d'accord avec lui la plupart du temps. {HappyA}On était deux connards alors, {NormalD}je pense.
 14)  LEE
-Ca lui en fait deux de plus. L'enfoiré qui a Clémentine devra répondre de Ben et de Kenny aussi.
+Ca lui en fait deux de plus. L'enfoiré qui a Clémentine devra rendre des comptes pour Ben et Kenny aussi.
 15)  CHRISTA
 {Body-A}{WorriedA}Garde la tête froide, Lee.
 16)  LEE
@@ -35,27 +35,27 @@ Ecoute, Lee, même si on est dans la merde, je voudrais clarifier un truc.
 18)  LEE
 Quoi donc ? [determined, distracted]
 19)  CHRISTA
-{Body-A}{ThinkingA}Clémentine. {SadA}Je sais que Kenny était ton option.
+{Body-A}{ThinkingA}Clémentine. {SadA}Je sais que tu avais choisi Kenny.
 20)  LEE
 {Body-B}{NormalB}Ouais. [what of it]
 21)  CHRISTA
 {AngryA}Et bien ?
 22)  
-On a plus trop le choix, là.
+On n'a plus trop le choix, là.
 23)  
-Trouvons lui une famille... adéquate.
+Trouvons-lui une famille... adéquate.
 24)  
 Vous seriez très bien pour elle, tous les deux.
 61)  
 Vous deux seriez très bien pour elle.
 25)  LEE
-{Body-B}{NormalC}On a plus trop le choix, là.
+{Body-B}{NormalC}On n'a plus trop le choix, là.
 26)  CHRISTA
 {Body-A}{AngryB}Non, en effet.
 27)  OMID
 {Body-A}{SickA}Doucement, Christa.
 28)  CHRISTA
-{AngryA}C'est pas grave si c'est lui que tu voulais. {ThinkingA}Je veux que tu saches que {WorriedA}tu ne dois pas t'en préoccuper.
+{AngryA}Ce n'est pas grave si c'est lui que tu voulais. {ThinkingA}Je veux que tu saches que {WorriedA}tu ne dois pas t'inquiéter.
 29)  LEE
 {NormalD}D'accord.
 30)  LEE
@@ -83,25 +83,25 @@ Elle ira bien, Lee.
 246)  CHRISTA
 Elle ira bien, Lee.
 36)  LEE
-{Body-B}{HappyA}Vous seriez géniaux avec elle. {ThinkingA}Protégez la.
+{Body-B}{HappyA}Vous seriez géniaux avec elle. {ThinkingA}Protégez-la.
 37)  CHRISTA
 {Body-A}{HappyA}On ferait de notre mieux, {ThinkingA}tu le sais.
 38)  
 Est-ce que... ça va ?
 39)  
-Qu'est-ce qi'il y a ?
+Qu'est-ce qu'il y a ?
 40)  
 Bien. Merci.
 41)  LEE
 {Body-B}{NormalD}Est-ce que... {SadA}ça va ?
 42)  CHRISTA
-{Body-A}{SadA}C'est moi qui devrait te le demander.
+{Body-A}{SadA}C'est moi qui devrais te le demander.
 43)  LEE
 Tout à l'heure, dans le grenier.
 44)  CHRISTA
-{ThinkingA}C'est rien.
+{ThinkingA}Ce n'est rien.
 50)  CHRISTA
-{ThinkingA}C'est rien.
+{ThinkingA}Ce n'est rien.
 45)  OMID
 Quoi donc ?
 51)  OMID
@@ -111,35 +111,35 @@ Quoi donc ?
 52)  CHRISTA
 {DisgustA}Avançons.
 47)  LEE
-{Body-B}{ThinkingA}Qu'est-ce qi'il y a ?
+{Body-B}{ThinkingA}Qu'est-ce qu'il y a ?
 48)  CHRISTA
 J'ai vu ton ami se faire tuer.
 49)  LEE
 Je veux dire avant, dans le grenier.
 53)  LEE
-{Body-B}{NormalB}Bien. {HappyA}Merci. Je vous fais confiance, {ThinkingA}là dessus.
+{Body-B}{NormalB}Bien. {HappyA}Merci. Je vous fais confiance, {ThinkingA}là-dessus.
 54)  CHRISTA
-{Body-A}{HappyA}Tu peux pas faire plus.
+{Body-A}{HappyA}Tu ne peux pas faire plus.
 55)  CHRISTA
 {Body-A}{ThinkingA}On doit rester vivant, Omid  et moi. Pour elle.
 56)  
 Ouais, bien sûr.
 57)  LEE
-{Body-B}{ThinkingA}Ouais, bien sûr. {NormalC}Laissez moi prendre les risques.
+{Body-B}{ThinkingA}Ouais, bien sûr. {NormalC}Laissez-moi prendre les risques.
 58)  CHRISTA
-{Body-A}{WorriedA}C'est pas nécessairement ce que je {ThinkingA}voulais dire.
+{Body-A}{WorriedA}Ce n'est pas nécessairement ce que je {ThinkingA}voulais dire.
 59)  LEE
-{AngryA}C'est ce que moi je dis. {ThinkingA}On va faire ça.
+{AngryA}C'est ce que moi je veux dire. {ThinkingA}On va faire ça.
 60)  
-Trouvez lui une famille compétente.
+Trouvez-lui une famille compétente.
 62)  CHRISTA
-[frustrated] {Body-A}{AngryA}Mais... {AngryB}merde. Tu n'as pas a t'occuper toujours de tout, {AngryA}d'accord ? {ThinkingA}Je dis pas que tu le fais, hein.
+[frustrated] {Body-A}{AngryA}Mais... {AngryB}merde. Tu n'as pas à t'occuper toujours de tout, {AngryA}d'accord ? {ThinkingA}Je ne dis pas que tu le fais, hein.
 63)  CHRISTA
 {Body-A}{AngryA}Qu'il en soit ainsi, alors.
 64)  OMID
 {Body-A}{ThinkingA}Ouais, qu'il en soit ainsi, chérie.
 65)  CHRISTA
-Putain, fais gaffe par là.
+Putain, fais gaffe par-là.
 66)  OMID
 River Street est juste devant.
 67)  OMID
@@ -147,35 +147,35 @@ River Street est juste devant.
 68)  CHRISTA
 [hushed] Même l'immeuble est rempli....
 69)  OMID
-[hushed] Ils savent jamais d'où sortira leur gueleton.
+[hushed] Ils ne savent jamais d'où sortira leur gueuleton.
 70)  
 Non, c'est sûr.
 71)  
-A qui le dis tu !
+A qui le dis-tu !
 72)  
-Faîtes attention, là.
+Faites attention, là.
 79)  LEE
-Faîtes attention, là.
+Faites attention, là.
 73)  LEE
 [hushed] Non, c'est sûr.
 74)  OMID
-[hushed] C'est... c'est pas ce que je voulais--
+[hushed] C'est... ce n'est pas ce que je voulais--
 77)  OMID
-[hushed] C'est... c'est pas ce que je voulais--
+[hushed] C'est... ce n'est pas ce que je voulais--
 75)  LEE
 [hushed] C'est bon. Allons-y.
 78)  LEE
 [hushed] C'est bon. Allons-y.
 76)  LEE
-[hushed]A qui le dis tu !
+[hushed]A qui le dis-tu !
 80)  OMID
-C'est pas le moment d'avoir un autre accident.
+Ce n'est pas le moment d'avoir un autre accident.
 81)  OMID
 Désolé.
 82)  LEE
 Ca va.
 83)  CHRISTA
-C'est pas ce qu'il voulait dire...
+Ce n'est pas ce qu'il voulait dire...
 84)  KENNY
 C'est bien de bouger.
 85)  
@@ -183,9 +183,9 @@ Tu te débrouilles bien.
 89)  LEE
 Tu te débrouilles bien.
 86)  
-On peut pas s'arrêter.
+On ne peut pas s'arrêter.
 87)  
-T'es prêt ?
+Tu es prêt ?
 88)  KENNY
 Toutes. Toutes les nuits.
 90)  KENNY
@@ -197,7 +197,7 @@ Honnêtement...
 93)  KENNY
 Tu sais combien de nuits Kat et moi on s'est servi dans le break en panne et qu'elle m'en voulait à mort de ne pas assez penser au reste du groupe ?
 94)  LEE
-On peut pas s'arrêter.
+On ne peut pas s'arrêter.
 95)  KENNY
 Comment on va trouver ce type ?
 96)  KENNY
@@ -215,7 +215,7 @@ J'aimerais bien capter un petit truc.
 102)  KENNY
 [to himsef] Ca fait du bien... de lui tomber dessus à ce trouduc.
 103)  KENNY
-Fais gaffe par là.
+Fais gaffe par-là.
 104)  KENNY
 [kidding] J'aimerais bien l'appeler pour lui dire qu'on vient le chercher.
 105)  LEE
@@ -225,9 +225,9 @@ Ouais.
 107)  KENNY
 Tu as le talkie-walkie ?
 108)  OMID
-[hushed] NAN. Le gouffre des ténèbres rempli de marcheurs ? Sans déconner !
+[hushed] NON. Le gouffre des ténèbres rempli de marcheurs ? Sans déconner !
 109)  
-J'en vois aucun.
+Je n'en vois aucun.
 110)  
 On pourrait passer par ce toit.
 116)  LEE
@@ -239,15 +239,15 @@ Barrons-nous. Maintenant.
 113)  OMID
 [hushed] On s'habitue à leur odeur mais je les sens encore.
 114)  LEE
-[hushed] J'en vois pas là-dessous.
+[hushed] Je n'en vois pas là-dessous.
 115)  OMID
 Pas besoin de le dire deux fois.
 117)  LEE
 [hushed] Barrons-nous. Maintenant.
 118)  OMID
-[hushed] Ouais. Faison ça.
+[hushed] Ouais. Faisons ça.
 119)  OMID
-[hushed] Vous les sentez pas ? Moi oui. Même des années après quand tout sera fini, leur odeur hantera mes putains de rêves.
+[hushed] Vous ne les sentez pas ? Moi oui. Même des années après quand tout sera fini, leur odeur hantera mes putains de rêves.
 120)  LEE
 [hushed] [kenny bumps into him]
 121)  KENNY
@@ -267,7 +267,7 @@ Il faut le récupérer.
 128)  LEE
 [hushed]Il faut le récupérer. C'est notre seul lien avec elle.
 129)  LEE
-[hushed]Et si on y arrive pas ? On a besoin de chaque indice que ce truc peut nous donner.
+[hushed]Et si on n'y arrive pas ? On a besoin de chaque indice que ce truc peut nous donner.
 130)  CHRISTA
 [hushed]Non, du tout.
 131)  CHRISTA
@@ -275,13 +275,13 @@ Il faut le récupérer.
 155)  CHRISTA
 [hushed] Je viens de le faire.
 132)  LEE
-[hushed]Laisson-le. On en a pas besoin. On tient la piste de ce mec.
+[hushed]Laissons-le. On n'en a pas besoin. On tient la piste de ce mec.
 133)  KENNY
 [hushed]Ouais, je suis d'accord.
 134)  CHRISTA
-[hushed]Et quand on l'aura pas sans qu'on sache par où commencer ? N'importe quel indice, même le plus petit, est inestimable. Il nous faut ce machin.
+[hushed]Et quand on ne l'aura plus ? Quand on ne saura plus où chercher ? N'importe quel indice, même le plus petit, est inestimable. Il nous faut ce machin.
 153)  CHRISTA
-[hushed]We've got a bead on this guy.
+[hushed]On tient la piste de ce mec.
 135)  KENNY
 [hushed]Putain, je suis désolé. Faut qu'on y réfléchisse.
 154)  KENNY
@@ -293,7 +293,7 @@ On a du chemin à faire.
 138)  LEE
 [hushed]On a du chemin à faire.
 139)  LEE
-[hushed]Vous savez ce que ça represente ce truc pour la retrouver ?
+[hushed]Vous savez ce que ça représente ce truc pour la retrouver ?
 140)  KENNY
 [hushed]Je suis DESOLE, doc.
 141)  KENNY
@@ -325,7 +325,7 @@ On sait où est le type.
 157)  CHRISTA
 [hushed] Je l'ai, remontez-moi.
 158)  KENNY
-[hushed] Merde, t'es trop loin. Touve un truc, vite ?
+[hushed] Merde, tu es trop loin. Touve un truc, vite ?
 159)  CHRISTA
 [hushed] Vite ce serait pas mal.
 160)  LEE
@@ -337,7 +337,7 @@ On sait où est le type.
 163)  OMID
 [hushed] Trouve un truc, mec !
 164)  KENNY
-[hushed] On peut pas l'atteindre !
+[hushed] On ne peut pas l'atteindre !
 165)  CHRISTA
 [hushed] C'est ce que je fais !
 166)  KENNY
@@ -345,7 +345,7 @@ On sait où est le type.
 167)  CHRISTA
 [hushed] C'est un vrai trou noir là-dedans !
 168)  OMID
-[hushed, reaching for her] Prend une chaise ou autre chose !
+[hushed, reaching for her] Prends une chaise ou autre chose !
 169)  OMID
 [hushed, reaching for her]
 170)  CHRISTA
@@ -357,7 +357,7 @@ On sait où est le type.
 173)  LEE
 [hushed] Attrape ça, on va te tirer.
 174)  LEE
-Ca marchera pas.
+Ca ne marchera pas.
 175)  LEE
 Il faut un truc solide.
 176)  CHRISTA
@@ -383,7 +383,7 @@ Allez ! SAUTE !
 186)  CHRISTA
 [being hoisted up]
 187)  KENNY
-[through grit teeth, hushed, hoisting christa] SAUVEZ LA. VOUS M'ENTENDEZ BORDEL ?!
+[through grit teeth, hushed, hoisting christa] SAUVEZ-LA. VOUS M'ENTENDEZ BORDEL ?!
 188)  KENNY
 [through grit teeth, hushed, hoisting christa] CA URGE ICI.
 189)  OMID
@@ -417,7 +417,7 @@ Fuis !
 203)  OMID
 Putain il est où ?!
 204)  KENNY
-LACHEZ MOI PUTAIN !
+LACHEZ-MOI PUTAIN !
 205)  KENNY
 [getting bitten]
 206)  
@@ -455,11 +455,11 @@ Saut
 222)  
 Il est mort.
 223)  
-Je sais pas.
+Je ne sais pas.
 224)  
 Il s'est peut-être sauvé.
 225)  KENNY
-[pickup1] [fighing zombies off] Partez ! Je vais... J'irais...
+[pickup1] [fighing zombies off] Partez ! Je... Je vais...
 226)  LEE
 [pickup1] Il est descendu pour toi.
 231)  LEE
@@ -483,7 +483,7 @@ Il s'est peut-être sauvé.
 241)  CHRISTA
 [pickup1] [upset] Peut-être pas.
 230)  LEE
-[pickup1] [just lost kenny "what happened"] On en sait rien. Il pourrait encore être là, ou s'être enfuit. Il... pourrait être mort.
+[pickup1] [just lost kenny "what happened"] On n'en sait rien. Il pourrait encore être là, ou s'être enfui. Il... pourrait être mort.
 233)  CHRISTA
 [pickup1] Il va peut-être bien. [upset over kenny]
 234)  LEE
@@ -497,6 +497,6 @@ Il s'est peut-être sauvé.
 243)  LEE
 [pickup1] [hushed and urgent] Kenny, qu'est-ce que tu fais ?!
 244)  KENNY
-[pickup1] [through grit teeth, hushed, hoisting christa] Je peux pas dire tout ça et ne rien faire maintenant. Allez, attrape !
+[pickup1] [through grit teeth, hushed, hoisting christa] Je ne peux pas dire tout ça et ne rien faire maintenant. Allez, attrape !
 245)  CHRISTA
-Ils sont pas là. En tout cas je crois pas.
+Ils ne sont pas là. En tout cas je ne crois pas.

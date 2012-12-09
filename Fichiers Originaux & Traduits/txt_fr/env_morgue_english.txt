@@ -1,9 +1,9 @@
 1)  LEE
-{angryD}Vous êtes un putain de MORT en sursis.{fearB} Je sais pas qui vous êtes mais je vais vous tuer, {angryC}vous comprenez ?
+{angryD}Vous êtes un putain de MORT en sursis.{fearB} Je ne sais pas qui vous êtes mais je vais vous tuer, {angryC}vous comprenez ?
 2)  CAMPMAN
 Je vous en sais capable. Elle vous en sait capable.
 3)  LEE
-{fearA}Qu'est-ce que que vous voulez ? {sadA}Que quoi ce soit, je le ferais et {sadB}vous la laisserez partir.
+{fearA}Qu'est-ce que que vous voulez ? {sadA}Quoi que ce soit, je le ferai et {sadB}vous la laisserez partir.
 4)  CAMPMAN
 [what do you WANT?] Je veux que vous ne fassiez plus de mal à personne. [a beat] Ce n'est pas un kidnapping, Lee.
 5)  
@@ -19,11 +19,11 @@ Un sauvetage.
 10)  CAMPMAN
 [a long sigh. "have it your way you sorry s.o.b."]
 11)  LEE
-{angryA}Je me fous que ce que C'EST. {angryC}Laissez la partir.
+{angryA}Je me fous que ce que C'EST. {angryC}Laissez-la partir.
 12)  LEE
-{angryC}J'ai en tête une personne de plus a qui faire du mal, fils de putain. {angryA}Je vais--
+{angryC}J'ai en tête une personne de plus à qui faire du mal, fils de putain. {angryA}Je vais--
 13)  CAMPMAN
-[snaps] Non, vous ne le ferais pas.
+[snaps] Non, vous ne le ferez pas.
 14)  CAMPMAN
 Je suppose que vous avez besoin de réaliser. Je vous laisse y penser.
 15)  LEE
@@ -45,7 +45,7 @@ Il y a un océan de morts entre vous, moi et elle et si je peux remercier Dieu po
 23)  CAMPMAN
 Il y a un océan de morts entre vous, moi et elle et si je peux remercier Dieu pour quelque chose, c'est bien pour ça.
 24)  CAMPMAN
-J'imagine que vous en avez VRAIMENT a faire, hein ? Si j'ai tout faux...  [radio cut off]
+J'imagine que vous n'en avez VRAIMENT rien à faire, hein ? Je vous avais mal jugé...  [radio cut off]
 25)  
 ...Merde.
 150)  
@@ -69,13 +69,13 @@ Tiens le coup, Clém.
 47)  KENNY
 [reassuring] {thinkingA}T'en fais pas, mon pote. On va la retrouver.
 32)  CHRISTA
-{sadA}On a plus beaucoup de temps.
+{sadA}On n'a plus beaucoup de temps.
 44)  CHRISTA
-{sadA}On a plus beaucoup de temps.
+{sadA}On n'a plus beaucoup de temps.
 33)  KENNY
-{thinkingA}Nous sommes sur le point d'en avoir beaucoup moins ! On va s'assurer que rien puisse entrer. {happyA}Tu es encore le plus intelligent de nous --{thinkingA} essaye de trouver un autre moyen de sortir d'ici.
+{thinkingA}Nous sommes sur le point d'en avoir beaucoup moins ! On va s'assurer que rien ne puisse entrer. {happyA}Tu es encore le plus intelligent d'entre nous --{thinkingA} essaye de trouver un autre moyen de sortir d'ici.
 45)  KENNY
-{thinkingA}Nous sommes sur le point d'en avoir beaucoup moins ! On va s'assurer que rien puisse entrer. {happyA}Tu es encore le plus intelligent de nous --{thinkingA} essaye de trouver un autre moyen de sortir d'ici.
+{thinkingA}Nous sommes sur le point d'en avoir beaucoup moins ! On va s'assurer que rien ne puisse entrer. {happyA}Tu es encore le plus intelligent d'entre nous --{thinkingA} essaye de trouver un autre moyen de sortir d'ici.
 35)  BEN
 {fearA}Peut-être qu'il n'est pas si mauvais...
 36)  KENNY
@@ -105,11 +105,11 @@ Tiens le coup, Clém.
 50)  LEE
 {thinkingA}Tu l'as fait toi-même ?
 51)  KENNY
-{happyB}Ouais putain; {angryA}Essaie de trouver un autre moyen de sortir.
+{happyB}Ouais putain ; {angryA}Essaie de trouver un autre moyen de sortir.
 52)  LEE
 {thinkingA}Compris.
 53)  KENNY
-{fearA}Et Lee... {happyB}Je suis heureux de t'avoir accompagner.
+{fearA}Et Lee... {happyB}Je suis heureux de t'avoir accompagné.
 54)  BEN
 {sadB}Qu'est-ce que tu veux faire ?
 55)  CHRISTA
@@ -177,11 +177,11 @@ Pas terrible.
 80)  KENNY
 {FearA}Tu as l'air bien pour le moment.
 73)  CHRISTA
-{fearA}On les arrêtera s'il le faut. {angryA}Lee -- trouves un moyen de sortir d'ici !
+{fearA}On les arrêtera s'il le faut. {angryA}Lee -- trouve un moyen de sortir d'ici !
 89)  LEE
 [to himself] {thinkingA}Ca semble être la seule issue.
 90)  LEE
-[over his shoulder] {happyA}Hé, Je pense avoir trouvé un moyen de sortir.
+[over his shoulder] {happyA}Hé, je pense avoir trouvé un moyen de sortir.
 91)  
 Je suis réveillé !
 99)  
@@ -197,19 +197,19 @@ Je suis réveillé !
 466)  
 Je suis réveillé !
 92)  
-Me tuez pas !
+Ne me tuez pas !
 101)  
-Me tuez pas !
+Ne me tuez pas !
 283)  
-Me tuez pas !
+Ne me tuez pas !
 338)  
-Me tuez pas !
+Ne me tuez pas !
 369)  
-Me tuez pas !
+Ne me tuez pas !
 413)  
-Me tuez pas !
+Ne me tuez pas !
 468)  
-Me tuez pas !
+Ne me tuez pas !
 93)  
 OUAH !
 103)  
@@ -239,19 +239,19 @@ OUAH !
 467)  LEE
 {fearD}Je suis réveillé !
 95)  LEE
-{fearD}Me tuez pas !
+{fearD}Ne me tuez pas !
 102)  LEE
-{fearD}Me tuez pas !
+{fearD}Ne me tuez pas !
 284)  LEE
-{fearD}Me tuez pas !
+{fearD}Ne me tuez pas !
 339)  LEE
-{fearD}Me tuez pas !
+{fearD}Ne me tuez pas !
 370)  LEE
-{fearD}Me tuez pas !
+{fearD}Ne me tuez pas !
 414)  LEE
-{fearD}Me tuez pas !
+{fearD}Ne me tuez pas !
 469)  LEE
-{fearD}Me tuez pas !
+{fearD}Ne me tuez pas !
 96)  LEE
 {fearD}OUAH ! [what are you doing?! stop!!!]
 104)  LEE
@@ -279,9 +279,9 @@ OUAH !
 287)  BEN
 {surprisedA}Arrête ! Il est réveillé ! Il est réveillé !!!
 106)  KENNY
-{fearA}Il s'agit peut-être pas d'essayer de le SAUVER ! {sadB}Mais tout du moins lui donner un peu de temps.
+{fearA}Il ne s'agit peut-être pas d'essayer de le SAUVER ! {sadB}Mais tout du moins lui donner un peu de temps.
 298)  KENNY
-{fearA}Il s'agit peut-être pas d'essayer de le SAUVER ! {sadB}Mais tout du moins lui donner un peu de temps.
+{fearA}Il ne s'agit peut-être pas d'essayer de le SAUVER ! {sadB}Mais tout du moins lui donner un peu de temps.
 107)  CHRISTA
 {SadA}ET ALORS ?!
 299)  CHRISTA
@@ -295,9 +295,9 @@ OUAH !
 348)  OMID
 {fearA}Est-ce qu'on sait si ça marche ?
 109)  KENNY
-{angryA}Ta foutrement raison. Faisons ça. [turns to Lee] {fearA}Si il y a une chance de t'empêcher de changer, il faut la prendre.
+{angryA}Tu as foutrement raison. Faisons ça. [turns to Lee] {fearA}S'il y a une chance de t'empêcher de changer, il faut la prendre.
 303)  KENNY
-{angryA}Ta foutrement raison. Faisons ça. [turns to Lee] {fearA}Si il y a une chance de t'empêcher de changer, il faut la prendre.
+{angryA}Tu as foutrement raison. Faisons ça. [turns to Lee] {fearA}S'il y a une chance de t'empêcher de changer, il faut la prendre.
 110)  BEN
 Est-ce qu'il y aura beaucoup de sang ?
 194)  BEN
@@ -305,11 +305,11 @@ Est-ce qu'il y aura beaucoup de sang ?
 250)  BEN
 Est-ce qu'il y aura beaucoup de sang ?
 111)  CHRISTA
-{fearA}Alors ceux qui reste iront chercher Clémentine {angryA}puis foutrons le camp de Savannah.[after "what if he dies]
+{fearA}Alors ceux qui restent iront chercher Clémentine {angryA}puis foutront le camp de Savannah.[after "what if he dies]
 251)  CHRISTA
-{fearA}Alors ceux qui reste iront chercher Clémentine {angryA}puis foutrons le camp de Savannah.[after "what if he dies]
+{fearA}Alors ceux qui restent iront chercher Clémentine {angryA}puis foutront le camp de Savannah.[after "what if he dies]
 304)  CHRISTA
-{fearA}Alors ceux qui reste iront chercher Clémentine {angryA}puis foutrons le camp de Savannah.[after "what if he dies]
+{fearA}Alors ceux qui restent iront chercher Clémentine {angryA}puis foutront le camp de Savannah.[after "what if he dies]
 112)  OMID
 {fearA}Et s'il meurt ?
 253)  OMID
@@ -435,13 +435,13 @@ Je suis là...
 452)  LEE
 [re cutting off your arm]{fearA}Faisons-le. Ca marchera peut-être.
 124)  OMID
-{fearA}Ouais... On a pas beaucoup le choix...
+{fearA}Ouais... On n'a pas beaucoup le choix...
 268)  OMID
-{fearA}Ouais... On a pas beaucoup le choix...
+{fearA}Ouais... On n'a pas beaucoup le choix...
 323)  OMID
-{fearA}Ouais... On a pas beaucoup le choix...
+{fearA}Ouais... On n'a pas beaucoup le choix...
 355)  OMID
-{fearA}Ouais... On a pas beaucoup le choix...
+{fearA}Ouais... On n'a pas beaucoup le choix...
 125)  BEN
 Nous pensions que peut-être... avec ta morsure... si nous l'enlevions, tu pourrais vivre.
 190)  BEN
@@ -483,23 +483,23 @@ Nous pensions que peut-être... avec ta morsure... si nous l'enlevions, tu pourra
 360)  LEE
 {angryA}Tu crois ? [sarc]
 130)  LEE
-{angryA}Euh, hé, {fearA}Je vais me coucher juste là.
+{angryA}Euh, hé, {fearA}je vais me coucher juste là.
 192)  LEE
-{angryA}Euh, hé, {fearA}Je vais me coucher juste là.
+{angryA}Euh, hé, {fearA}je vais me coucher juste là.
 280)  LEE
-{angryA}Euh, hé, {fearA}Je vais me coucher juste là.
+{angryA}Euh, hé, {fearA}je vais me coucher juste là.
 331)  LEE
-{angryA}Euh, hé, {fearA}Je vais me coucher juste là.
+{angryA}Euh, hé, {fearA}je vais me coucher juste là.
 366)  LEE
-{angryA}Euh, hé, {fearA}Je vais me coucher juste là.
+{angryA}Euh, hé, {fearA}je vais me coucher juste là.
 131)  CHRISTA
-{sadB}It's not really our call anymore.
+{sadB}Ce n'est plus vraiment notre décision maintenant.
 277)  CHRISTA
-{sadB}It's not really our call anymore.
+{sadB}Ce n'est plus vraiment notre décision maintenant.
 334)  CHRISTA
-{sadB}It's not really our call anymore.
+{sadB}Ce n'est plus vraiment notre décision maintenant.
 364)  CHRISTA
-{sadB}It's not really our call anymore.
+{sadB}Ce n'est plus vraiment notre décision maintenant.
 132)  LEE
 {thinkingA}Ouais, sans blague.
 278)  LEE
@@ -567,19 +567,19 @@ Nous pensions que peut-être... avec ta morsure... si nous l'enlevions, tu pourra
 450)  LEE
 {thinkingA}Non. On le laisse.
 139)  LEE
-{thinkingA}Oui. J'ai l'impression d'avoir encore du temps ; {fearA}il faut juste me tenir à l'oeil. {angryA}Si je mets la main sur celui qui a enlevé Clém, j'aurai besoin de mes deux bras.
+{thinkingA}Ouais. J'ai l'impression d'avoir encore du temps ; {fearA}il faut juste me tenir à l'oeil. {angryA}Si je mets la main sur celui qui a enlevé Clém, j'aurai besoin de mes deux bras.
 210)  LEE
-{thinkingA}Oui. J'ai l'impression d'avoir encore du temps ; {fearA}il faut juste me tenir à l'oeil. {angryA}Si je mets la main sur celui qui a enlevé Clém, j'aurai besoin de mes deux bras.
+{thinkingA}Ouais. J'ai l'impression d'avoir encore du temps ; {fearA}il faut juste me tenir à l'oeil. {angryA}Si je mets la main sur celui qui a enlevé Clém, j'aurai besoin de mes deux bras.
 260)  LEE
-{thinkingA}Oui. J'ai l'impression d'avoir encore du temps ; {fearA}il faut juste me tenir à l'oeil. {angryA}Si je mets la main sur celui qui a enlevé Clém, j'aurai besoin de mes deux bras.
+{thinkingA}Ouais. J'ai l'impression d'avoir encore du temps ; {fearA}il faut juste me tenir à l'oeil. {angryA}Si je mets la main sur celui qui a enlevé Clém, j'aurai besoin de mes deux bras.
 315)  LEE
-{thinkingA}Oui. J'ai l'impression d'avoir encore du temps ; {fearA}il faut juste me tenir à l'oeil. {angryA}Si je mets la main sur celui qui a enlevé Clém, j'aurai besoin de mes deux bras.
+{thinkingA}Ouais. J'ai l'impression d'avoir encore du temps ; {fearA}il faut juste me tenir à l'oeil. {angryA}Si je mets la main sur celui qui a enlevé Clém, j'aurai besoin de mes deux bras.
 386)  LEE
-{thinkingA}Oui. J'ai l'impression d'avoir encore du temps ; {fearA}il faut juste me tenir à l'oeil. {angryA}Si je mets la main sur celui qui a enlevé Clém, j'aurai besoin de mes deux bras.
+{thinkingA}Ouais. J'ai l'impression d'avoir encore du temps ; {fearA}il faut juste me tenir à l'oeil. {angryA}Si je mets la main sur celui qui a enlevé Clém, j'aurai besoin de mes deux bras.
 401)  LEE
-{thinkingA}Oui. J'ai l'impression d'avoir encore du temps ; {fearA}il faut juste me tenir à l'oeil. {angryA}Si je mets la main sur celui qui a enlevé Clém, j'aurai besoin de mes deux bras.
+{thinkingA}Ouais. J'ai l'impression d'avoir encore du temps ; {fearA}il faut juste me tenir à l'oeil. {angryA}Si je mets la main sur celui qui a enlevé Clém, j'aurai besoin de mes deux bras.
 449)  LEE
-{thinkingA}Oui. J'ai l'impression d'avoir encore du temps ; {fearA}il faut juste me tenir à l'oeil. {angryA}Si je mets la main sur celui qui a enlevé Clém, j'aurai besoin de mes deux bras.
+{thinkingA}Ouais. J'ai l'impression d'avoir encore du temps ; {fearA}il faut juste me tenir à l'oeil. {angryA}Si je mets la main sur celui qui a enlevé Clém, j'aurai besoin de mes deux bras.
 140)  CHRISTA
 {SadA}Je pense qu'on devrait le faire. {fearA}Il faut se rendre à l'évidence, une chance vaut mieux que pas du tout.
 263)  CHRISTA
@@ -1123,13 +1123,13 @@ Lee--
 568)  KENNY
 {happyB}Bon. L'ascenseur est ouvert. Allons-y.
 550)  CHRISTA
-{fearA}Tu crois que ça va aller ? T'as perdu beaucoup de sang.
+{fearA}Tu crois que ça va aller ? Tu as perdu beaucoup de sang.
 555)  CHRISTA
-{fearA}Tu crois que ça va aller ? T'as perdu beaucoup de sang.
+{fearA}Tu crois que ça va aller ? Tu as perdu beaucoup de sang.
 563)  CHRISTA
-{fearA}Tu crois que ça va aller ? T'as perdu beaucoup de sang.
+{fearA}Tu crois que ça va aller ? Tu as perdu beaucoup de sang.
 566)  CHRISTA
-{fearA}Tu crois que ça va aller ? T'as perdu beaucoup de sang.
+{fearA}Tu crois que ça va aller ? Tu as perdu beaucoup de sang.
 553)  KENNY
 {fearB}Tu vas pouvoir continuer ? {FearA}Je crois qu'on devrait se bouger.
 570)  KENNY
@@ -1137,23 +1137,23 @@ Lee--
 556)  BEN
 [stressed] Hé les gars, l'ascenseur est ouvert. Allons-y.
 557)  LEE
-{FearA}Je fermerai la marche. Je voudrais éclabousser personne avec mon sang.
+{FearA}Je fermerai la marche. Je ne voudrais éclabousser personne avec mon sang.
 558)  LEE
-{FearA}Je fermerai la marche. Je voudrais éclabousser personne avec mon sang.
+{FearA}Je fermerai la marche. Je ne voudrais éclabousser personne avec mon sang.
 559)  LEE
-{FearA}Je fermerai la marche. Je voudrais éclabousser personne avec mon sang.
+{FearA}Je fermerai la marche. Je ne voudrais éclabousser personne avec mon sang.
 561)  LEE
-{FearA}Je fermerai la marche. Je voudrais éclabousser personne avec mon sang.
+{FearA}Je fermerai la marche. Je ne voudrais éclabousser personne avec mon sang.
 564)  LEE
-{FearA}Je fermerai la marche. Je voudrais éclabousser personne avec mon sang.
+{FearA}Je fermerai la marche. Je ne voudrais éclabousser personne avec mon sang.
 567)  OMID
 {sadA}Alors va aussi vite que tu peux. L'ascenseur est ouvert !
 571)  LEE
-{fearA}Passe devant. Je veux pas t'éclabousser avec mon sang.
+{fearA}Passe devant. Je ne veux pas t'éclabousser avec mon sang.
 572)  KENNY
-{happyA}T'es un sacré numéro, toi.
+{happyA}Tu es un sacré numéro, toi.
 574)  BEN
-{fearB}Oh, dieu du ciel, t'es vivant. {sadC}Seigneur. {fearB}Je t'ai réveillé, tu étais là {FearC}et ton bras était là-bas... et tout ce SANG...
+{fearB}Oh, Dieu du ciel, tu es vivant. {sadC}Seigneur. {fearB}Je t'ai réveillé, tu étais là {FearC}et ton bras était là-bas... et tout ce SANG...
 575)  BEN
 {fearA}On peut y aller ?
 576)  LEE
@@ -1169,21 +1169,21 @@ Lee--
 581)  LEE
 [fucking tired, lost a lot of blood] {fearA}Et maintenant... ok... faut se barrer d'ici. [to himself]
 582)  LEE
-[to himself] {thinkingB}Je vais pas pouvoir passer à travers.
+[to himself] {thinkingB}Je ne vais pas pouvoir passer à travers.
 583)  LEE
-[to himself] {thinkingB}J'arrive pas à y glisser les mains.
+[to himself] {thinkingB}Je n'arrive pas à y glisser les mains.
 584)  LEE
 [to himself, about to do something very difficult with one arm] {normalD}C'est parti.
 585)  LEE
 [one armed, cranking open a big heavy door]
 586)  LEE
-{happyA}On a de la chance que cette porte soit pas bloquée par une hache, hein ?
+{happyA}On a de la chance que cette porte ne soit pas bloquée par une hache, hein ?
 587)  BEN
 {sadB}Oh, la ferme.
 588)  LEE
 {thinkingB}Cette porte est solide ?
 589)  BEN
-{fearB}Je sais pas. Je veux pas être dans le coin quand elle cédera.
+{fearB}Je ne sais pas. Je vne eux pas être dans le coin quand elle cédera.
 590)  BEN
 {fearB}On a une chance avec les portes de l'ascenseur ?
 591)  LEE
@@ -1211,7 +1211,7 @@ Lee--
 614)  LEE
 {ThinkingB}Je devrais chercher une issue.
 597)  KENNY
-{angryA}Ouais, Ben n'as pas encore tout fait foirer.
+{angryA}Ouais, Ben n'a pas encore tout fait foirer.
 598)  LEE
 {normalD}Tout va bien par là ?
 601)  KENNY
@@ -1221,9 +1221,9 @@ Lee--
 671)  LEE
 {thinkingB}Tu vas pouvoir les retenir si la porte saute ?
 603)  KENNY
-{thinkingA}Je promets rien.
+{thinkingA}Je ne promets rien.
 672)  KENNY
-{thinkingA}Je promets rien.
+{thinkingA}Je ne promets rien.
 606)  OMID
 {happyA}On surveille tes arrières en attenant, {fearA}mais dépêche.
 607)  LEE
@@ -1231,9 +1231,9 @@ Lee--
 673)  LEE
 {normalD}Tout va bien ?
 608)  OMID
-{fearA}Y'a des milliers de cadavres qui remplissent les égoûts et dieu sait combien au-dessus,{thinkingA} alors bon, tu vois le genre.
+{fearA}Il y a des milliers de cadavres qui remplissent les égoûts et Dieu sait combien au-dessus,{thinkingA} alors bon, tu vois le genre.
 674)  OMID
-{fearA}Y'a des milliers de cadavres qui remplissent les égoûts et dieu sait combien au-dessus,{thinkingA} alors bon, tu vois le genre.
+{fearA}Il y a des milliers de cadavres qui remplissent les égoûts et Dieu sait combien au-dessus,{thinkingA} alors bon, tu vois le genre.
 609)  OMID
 {happyA}Bien, faut se magner.
 610)  LEE
@@ -1261,7 +1261,7 @@ Ascenseur
 622)  LEE
 {normalD}Il semblerait que Vernon et son groupe aient déménagé en quatrième vitesse.
 623)  CHRISTA
-{fearB}Où ils sont allé ?
+{fearB}Où ils sont allés ?
 624)  KENNY
 {angryA}Clémentine n'est pas avec eux alors on les emmerde.
 625)  LEE
@@ -1273,9 +1273,9 @@ Ascenseur
 628)  KENNY
 [commenting on the stairwell entrance being welded shut][Slight Projection]{FearA}Le groupe de Vernon a bien scellé l'endroit.
 629)  LEE
-[looking at a door thats been welded shut]{thinkingB}On sortira pas par là.
+[looking at a door thats been welded shut]{thinkingB}On ne sortira pas par là.
 630)  LEE
-[looking at the door to the sewers, zombies are behind it]{angryA}Putain ils peuvent pas nous lâcher une minute ?!
+[looking at the door to the sewers, zombies are behind it]{angryA}Putain ils ne peuvent pas nous lâcher une minute ?!
 631)  BEN
 {thinkingA}La porte devrait les retenir un moment, {fearA}mais faut qu'on parte au plus vite.
 632)  CHRISTA
@@ -1285,7 +1285,7 @@ Ascenseur
 634)  LEE
 {thinkingB}Cette porte ne tiendra pas éternellement.
 635)  LEE
-[After Elevator][to himself -looking at a hanging scale]{thinkingB}Je crois pas qu'on puisse forcer des portes avec ça.
+[After Elevator][to himself -looking at a hanging scale]{thinkingB}Je ne crois pas qu'on puisse forcer des portes avec ça.
 636)  KENNY
 [frustrated]{angryA}Merde, c'est une morgue !  {thinkingA}Il doit bien y avoir un TRUC dont on peut se servir !
 637)  LEE
@@ -1305,43 +1305,43 @@ Ecarteurs
 646)  
 Tirer
 647)  
-Utiliser Ecarteurs Sur
+Utiliser écarteurs sur
 649)  LEE
 {thinkingB}Elle tient cette porte ?
 660)  LEE
 {thinkingB}Elle tient cette porte ?
 650)  KENNY
-[making Ben feel shitty]{thinkingA}Heureusement qu'elle est pas bloquée par une hache, hein ?
+[making Ben feel shitty]{thinkingA}Heureusement qu'elle n'est pas bloquée par une hache, hein ?
 651)  LEE
 [stern]{thinkingA}Continuez, je vais nous trouver une sortie.
 652)  BEN
-{happyA}Je te laisserais pas tomber.
+{happyA}Je ne te laisserai pas tomber.
 653)  KENNY
 {happyA}Putain tu plaisantes ?  {angryA}C'est ta spécialité !
 654)  LEE
-[annoyed with the bickering]{angryA}bloquez la. {thinkingB}Assurez-vous que personne ne passe par là.
+[annoyed with the bickering]{angryA}Bloquez-la. {thinkingB}Assurez-vous que personne ne passe par là.
 655)  LEE
-{thinkingB}Quoiqu'il arrive,{fearA} ne laisse rien passer par cette porte, {normalD}compris ?
+{thinkingB}Quoi qu'il arrive,{fearA} ne laisse rien passer par cette porte, {normalD}compris ?
 656)  BEN
 [without conviction, not believeing in himself very much]{fearB}Compris.
 657)  LEE
-[stern]{angryA}Ben, je plaisante pas. {angryA}Clémentine est dehors et il FAUT que je la trouve. {fearA}Ne. Merde. Pas.
+[stern]{angryA}Ben, je ne plaisante pas. {angryA}Clémentine est dehors et il FAUT que je la trouve. {fearA}Ne. Merde. Pas.
 658)  BEN
 [with renewed confidence, realizing how important this is to Lee] {happyA}Ok.
 659)  BEN
-{FearB}Pour l'instant ça va, mais y'a un PAQUET de marcheurs dehors. Dépêche-toi !
+{FearB}Pour l'instant ça va, mais il y a un PAQUET de marcheurs dehors. Dépêche-toi !
 661)  KENNY
 {angryA}Sans déconner.
 790)  KENNY
 {angryA}Sans déconner.
 662)  OMID
-{fearA}Il n'y aura plus de retour en arrière possible DU TOUT si tu trouves pas une autre issue. {happyA}On reste là. Continue de chercher.
+{fearA}Il n'y aura plus de retour en arrière possible DU TOUT si tu ne trouves pas une autre issue. {happyA}On reste là. Continue de chercher.
 663)  LEE
-{thinkingB}Je crois qu'on peut plus rebrousser chemin.
+{thinkingB}Je crois qu'on ne peut plus rebrousser chemin.
 788)  LEE
-{thinkingB}Je crois qu'on peut plus rebrousser chemin.
+{thinkingB}Je crois qu'on ne peut plus rebrousser chemin.
 664)  LEE
-{thinkingB}T'es sûr que tu peux t'en charger ?
+{thinkingB}Tu es sûr que tu peux t'en charger ?
 665)  KENNY
 {fearA}Ca va aller, Lee.  {angryA}C'est de lui [Ben]que tu devrais te préoccuper.  {thinkingA}Tu me rappelles pourquoi c'était une bonne idée d'emmener ce con avec nous ?
 666)  LEE
@@ -1351,21 +1351,21 @@ Utiliser Ecarteurs Sur
 668)  KENNY
 [getting back to business, not wanting to have this discussion]{happyA}Clémentine a besoin de toi. Retournes-y.
 669)  LEE
-{happyA}Merci de surveilles mes arrières.
+{happyA}Merci de surveiller mes arrières.
 670)  LEE
 [solemn]{thinkingA}...Ouais.
 675)  KENNY
-{thinkingA}T'en fais pour cette porte pour le moment, on s'en occupe.
+{thinkingA}Ne t'en fais pour cette porte pour le moment, on s'en occupe.
 676)  LEE
 {thinkingA}J'y travaille.
 677)  CHRISTA
 {happyA}Bien, dépêche-toi !
 678)  OMID
-{happyA}T'as trouvé une issue ?
+{happyA}Tu as trouvé une issue ?
 679)  KENNY
 {thinkingA}Pour ça tu vas devoir nous trouver une sortie !
 680)  CHRISTA
-{sadA}T'inquiètes pas, on va trouver Clémentine.
+{sadA}Ne t'inquiète pas, on va trouver Clémentine.
 681)  LEE
 {angryA}Je veux oui. [despite the fact that he's bitten]{thinkingB}A n'importe quel prix.
 682)  LEE
@@ -1375,13 +1375,13 @@ Utiliser Ecarteurs Sur
 684)  LEE
 {thinkingB}Je crois qu'on peut passer par la cage d'ascenseur, {fearA}mais les portes sont coincées !
 685)  KENNY
-{thinkingA}Et bien, il doit bien avoir un TRUC dans le coin qui te permette de les forcer !  {angryA}Cherche !
+{thinkingA}Eh bien, il doit bien y avoir un TRUC dans le coin qui te permettrait de les forcer !  {angryA}Cherche !
 686)  CHRISTA
 {angryA}Alors fais-le. Cette porte ne tiendra pas éternellement.
 687)  LEE
 {thinkingB}Pas encore... les porte sont bien fermées ! Faut que je trouve un truc pour les forcer.
 688)  CHRISTA
-{thinkingA}T'as pu ouvrir l'ascenseur ?
+{thinkingA}Tu as pu ouvrir l'ascenseur ?
 689)  
 Congélateurs
 690)  KENNY
@@ -1393,13 +1393,13 @@ Congélateurs
 704)  KENNY
 [taking a deep breath... not really wanting to do this...psyching himself up] {fearB}...ok...
 691)  KENNY
-[taking a deep breath... not really wanting to do this...psyching himself up] {fearA}... J'ai pas le choix...
+[taking a deep breath... not really wanting to do this...psyching himself up] {fearA}... Je n'ai pas le choix...
 697)  KENNY
-[taking a deep breath... not really wanting to do this...psyching himself up] {fearA}... J'ai pas le choix...
+[taking a deep breath... not really wanting to do this...psyching himself up] {fearA}... Je n'ai pas le choix...
 699)  KENNY
-[taking a deep breath... not really wanting to do this...psyching himself up] {fearA}... J'ai pas le choix...
+[taking a deep breath... not really wanting to do this...psyching himself up] {fearA}... Je n'ai pas le choix...
 703)  KENNY
-[taking a deep breath... not really wanting to do this...psyching himself up] {fearA}... J'ai pas le choix...
+[taking a deep breath... not really wanting to do this...psyching himself up] {fearA}... Je n'ai pas le choix...
 692)  KENNY
 [taking a deep breath... not really wanting to do this...psyching himself up]{sadB}... Désolé, vieux, je suis obligé...
 696)  KENNY
@@ -1409,9 +1409,9 @@ Congélateurs
 702)  KENNY
 [taking a deep breath... not really wanting to do this...psyching himself up]{sadB}... Désolé, vieux, je suis obligé...
 693)  OMID
-{sadA}... Seigneur, t'es sûr que c'est utile ?
+{sadA}... Seigneur, tu es sûr que c'est utile ?
 707)  OMID
-{sadA}... Seigneur, t'es sûr que c'est utile ?
+{sadA}... Seigneur, tu es sûr que c'est utile ?
 694)  CHRISTA
 {sadA}Tu as une meilleure idée ?
 706)  CHRISTA
@@ -1421,17 +1421,17 @@ Congélateurs
 705)  CHRISTA
 [taking a deep breath... not really wanting to do this...psyching herself up]{thinkingA}...Ok... C'est maintenant ou jamais...
 708)  BEN
-[taking a deep breath... not really wanting to do this...psyching himself up]{fearB}... c'est parti.
+[taking a deep breath... not really wanting to do this...psyching himself up]{fearB}... C'est parti.
 709)  BEN
 [ ... not really wanting to do this...psyching himself up]{thinkingA}...Ok... je peux le faire.
 710)  BEN
-{fearA}...Oh mon dieu, mais qu'est-ce que je fais ?!
+{fearA}...Oh mon Dieu, mais qu'est-ce que je fais ?!
 711)  OMID
 {fearA}...C'est pas bon...
 712)  CHRISTA
-{sadC}Aide moi à le transporter !
+{sadC}Aide-moi à le transporter !
 720)  CHRISTA
-{sadC}Aide moi à le transporter !
+{sadC}Aide-moi à le transporter !
 713)  CHRISTA
 {fearA}Merde.
 714)  KENNY
@@ -1447,19 +1447,19 @@ Congélateurs
 718)  OMID
 {FearA}Mec... regarde son bras.
 721)  OMID
-{FearA}Bon dieu ! Qu'est-ce qu'il s'est passé ?
+{FearA}Bon Dieu ! Qu'est-ce qu'il s'est passé ?
 727)  OMID
-{FearA}Bon dieu ! Qu'est-ce qu'il s'est passé ?
+{FearA}Bon Dieu ! Qu'est-ce qu'il s'est passé ?
 722)  CHRISTA
 {sadA}C'est la morsure.
 723)  OMID
-{fearB}Et bien... {fearA}qu'est-ce qu'on peut faire ?
+{fearB}Eh bien... {fearA}qu'est-ce qu'on peut faire ?
 724)  CHRISTA
-[looking around the room for help]{sadA}Je sais pas...
+[looking around the room for help]{sadA}Je ne sais pas...
 725)  CHRISTA
 {sadB}Aide-moi à le transporter !
 726)  CHRISTA
-{fearA}Je sais pas... Il s'est évanoui.
+{fearA}Je ne sais pas... Il s'est évanoui.
 728)  CHRISTA
 {sadB}Allez, aide-moi à le porter.
 729)  OMID
@@ -1467,43 +1467,43 @@ Congélateurs
 730)  CHRISTA
 [seeing Lee's bite for the first time]{fearB}Merde. Il a été mordu.
 731)  KENNY
-[seeing Lee's bite for the first time/ horrified/ to himself]{SurprisedA}Oh, putan... c'est arrivé quand ?!  {fearB}Bordel, Lee !
+[seeing Lee's bite for the first time/ horrified/ to himself]{SurprisedA}Oh, putain... c'est arrivé quand ?!  {fearB}Bordel, Lee !
 732)  KENNY
-{fearA}LEE ! Debout ! C'est quoi de bordel ?! Ca va ?
+{fearA}LEE ! Debout ! C'est quoi ce bordel ?! Ca va ?
 733)  BEN
-[panicing]  {fearA}Lee ?  Lee !?   {sadB}Oh, mon dieu. J'espère que t'es vivant ! Je... Je peux pas...
+[panicing]  {fearA}Lee ?  Lee !?   {sadB}Oh, mon Dieu. J'espère que tu es vivant ! Je... Je ne peux pas...
 734)  
 Cabinet
 735)  
-Porte des Egoûts
+Porte des égoûts
 736)  
-Porte des Escaliers
+Porte des escaliers
 737)  
 Echelle
 738)  
-Table d'Opération
+Table d'opération
 739)  
 Manivelle
 740)  OMID
-{fearA}T'as l'air d'aller mieux maintenant.
+{fearA}Tu as l'air d'aller mieux maintenant.
 741)  LEE
-[mild sarcasm/annoyance because Ben didn't help cut the arm off][note this is a separate read from the normal one]{thinkingA}Passe devant, je voudrais pas t'asperger de mon sang.
+[mild sarcasm/annoyance because Ben didn't help cut the arm off][note this is a separate read from the normal one]{thinkingA}Passe devant, je ne voudrais pas t'asperger de mon sang.
 742)  LEE
 {thinkingA}On va la ramener.
 743)  LEE
-{fearA}concentre-toi, Ben. Je vais trouver une issue. Reste devant cette porte et tue tout ce qui la franchit. {angryA}Compris ?
+{fearA}Concentre-toi, Ben. Je vais trouver une issue. Reste devant cette porte et tue tout ce qui la franchit. {angryA}Compris ?
 744)  BEN
 {fearA}Oh merde !
 745)  BEN
 {fearB}Je peux le faire.
 747)  
-T'as intérêt.
+Tu as intérêt.
 748)  
 Je sais que tu peux.
 749)  LEE
-{normalD}T'es sûr ?
+{normalD}Tu es sûr ?
 750)  LEE
-{normalD}T'as intérêt, ou on meurt tous les deux.
+{normalD}Tu as intérêt, ou on meurt tous les deux.
 751)  LEE
 {happyA}Super.
 752)  BEN
@@ -1511,19 +1511,19 @@ Je sais que tu peux.
 753)  BEN
 {fearA}J'ai compris !
 754)  BEN
-Fais nous sortir d'ici !
+Fais-nous sortir d'ici !
 755)  BEN
-Fais nous sortir d'ici !
+Fais-nous sortir d'ici !
 756)  BEN
-Fais nous sortir d'ici !
+Fais-nous sortir d'ici !
 757)  BEN
-Fais nous sortir d'ici !
+Fais-nous sortir d'ici !
 758)  LEE
 [to himself]{thinkingA}Bon sang.
 760)  CAMPMAN
 Salut, Lee.
 761)  LEE
-{angryA}Vernon ! Sortez de là ! Pas besoin de se poser des problèmes, tout ce que je veux c'est la fille ! Rendez-la et personne sera blessé !
+{angryA}Vernon ! Sortez de là ! Pas besoin de se poser des problèmes, tout ce que je veux c'est la fille ! Rendez-la et personne ne sera blessé !
 762)  CLEMENTINE
 Lee ?
 763)  LEE
@@ -1535,7 +1535,7 @@ Lee ?
 766)  CAMPMAN
 Ce n'est pas Vernon. Et vous devriez surveiller votre langage.
 767)  LEE
-{angryA}Où l'avez-vous emmené ?
+{angryA}Où l'avez-vous emmenée ?
 768)  LEE
 {angryA}Qui est là ?
 769)  CAMPMAN
@@ -1549,43 +1549,43 @@ Vous donnez votre langue au chat ? Au cas où vous n'auriez pas encore compris --
 773)  LEE
 [pickup1] [heavy, hard breathing for about 30 seconds, verbal pain in the breaths out - heavy pain - you've cut into your arm a third time, and you're starting to whimper]
 774)  LEE
-[pickup1] On dirait un cric de voiture... Je veux pas savoir à quoi ça sert sur un corps humain.
+[pickup1] On dirait un cric de voiture... Je ne veux pas savoir à quoi ça sert sur un corps humain.
 775)  LEE
 {paina}[pickup1] [moving your arm, looking at the mess] Putain... j'espère que ce sera utile.
 776)  LEE
 {paina}[pickup1] [moving his chopped arm for the first time]{fearb}Bordel...
 777)  KENNY
-{feara}[pickup1] Bon dieu, j'ai cru qu'on t'avais perdu. T'es parti un moment.
+{feara}[pickup1] Bon Dieu, j'ai cru qu'on t'avait perdu. Tu es parti un moment.
 778)  CHRISTA
-{worrieda}[pickup1] Oh mon dieu, tu es vivant. On a cru que tu n'allais pas te réveiller.
+{worrieda}[pickup1] Oh mon Dieu, tu es vivant. On a cru que tu n'allais pas te réveiller.
 779)  BEN
-{fearA}[pickup1][relieved] Enfin. Bon dieu, j'hallucine que t'aies survécu à ça.
+{fearA}[pickup1][relieved] Enfin. Bon Dieu, j'hallucine que tu aies survécu à ça.
 780)  
 Bon débarras.
 781)  
 Mon bras est en feu.
 782)  
-Qu'est ce qu'on a fait...
+Qu'est-ce qu'on a fait...
 783)  LEE
 {paina}[pickup1] [feeling the pain for a second] Ca fait mal mais j'ai peut-être un peu plus de temps maintenant.
 784)  LEE
-{paina}[pickup1] [feeling the pain; half to yourself] Mon bras est en feu. Je peux encore sentir mes doigts. Bon dieu... Ca fait encore plus mal que tu peux le penser.
+{paina}[pickup1] [feeling the pain; half to yourself] Mon bras est en feu. Je peux encore sentir mes doigts. Bon Dieu... Ca fait encore plus mal que tu peux le penser.
 785)  LEE
-{paina}[pickup1][feeling the pain] ... Qu'est ce qu'on a fait... [whince] Seigneur, ça fait hyper mal. [to himself] J'espère que ça suffira.
+{paina}[pickup1][feeling the pain] ... Qu'est-ce qu'on a fait... [whince] Seigneur, ça fait hyper mal. [to himself] J'espère que ça suffira.
 786)  LEE
 {paina}[pickup1] [whince]
 787)  CHRISTA
-[pickup1] Et bien... tu es toujours vivant. C'est pas rien.
+[pickup1] Eh bien... tu es toujours vivant. Ce n'est pas rien.
 789)  KENNY
 [pickup1] Avec toutes ces merdes dans le coin, je suis sûr qu'on peut trouver quelque chose.
 791)  LEE
-[pickup1] Je pense que je peux trouver un issue, d'une façon ou d'une autre.
+[pickup1] Je pense que je peux trouver une issue, d'une façon ou d'une autre.
 792)  CHRISTA
 [pickup1] Ouais, il doit y avoir quelque chose d'utile ici.
 793)  
-Provisions Chirurgicales
+Matériel chirurgical
 794)  
-Couper Bras.
+Couper bras.
 795)  
 Partir.
 796)  CHRISTA
