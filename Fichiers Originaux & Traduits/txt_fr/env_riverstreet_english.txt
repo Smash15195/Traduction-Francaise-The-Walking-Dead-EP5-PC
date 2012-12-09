@@ -15,7 +15,7 @@ Kenny était mon ami.
 8)  LEE
 {Body-B}{SadA}Kenny était mon ami.
 9)  LEE
-{Body-B}{SadA}Il est un peu brute de décoffrage, {NormalC}mais je suis d'accord avec lui la plupart du temps ; {HappyA}nous étions peut-être deux pauvres abrutis, {NormalD}j'imagine.
+{Body-B}{SadA}Il est un peu brut de décoffrage, {NormalC}mais je suis d'accord avec lui la plupart du temps ; {HappyA}nous étions peut-être deux pauvres abrutis, {NormalD}j'imagine.
 10)  CHRISTA
 {Body-A}{ThinkingA}Quand quelqu'un meurt, ses péchés {WorriedA}ne sont pas immédiatement pardonnés.
 11)  CHRISTA
@@ -37,7 +37,7 @@ Nous ne serions pas ici sans lui. {AngryB}Nous aurions tous été là pour se défen
 19)  CHRISTA
 {Body-A}{SadA}C'est un moment merdique, {ThinkingA}mais je veux m'assurer que tout soit clair avant d'aller plus loin.
 20)  LEE
-{Body-B}{NormalB}Oui. [what of it]
+{Body-B}{NormalB}Ouais. [what of it]
 21)  CHRISTA
 {Body-A}{ThinkingA}Clémentine. {SadA}Je sais que tu avais choisi Kenny.
 22)  CHRISTA
@@ -119,7 +119,7 @@ Oui, vous le devez.
 52)  LEE
 {AngryA}C'est ce que je veux dire. {ThinkingA}C'est ce qu'on doit faire.
 53)  LEE
-{Body-B}{ThinkingA}Oui, vous le devez. {NormalC}Alors laissez-moi prendre les riques.
+{Body-B}{ThinkingA}Ouais, vous le devez. {NormalC}Alors laissez-moi prendre les riques.
 54)  CHRISTA
 {Body-A}{WorriedA}Ce n'est pas forcément ce que je {ThinkingA}voulais dire.
 57)  CHRISTA
@@ -153,7 +153,7 @@ Je veux dire, {SadA}vous savez pourquoi Kenny a fait ça, non ?
 71)  CHRISTA
 {Body-A}{WorriedA}tu es sûr ?
 72)  LEE
-{HappyA}Oui.
+{HappyA}Ouais.
 73)  CHRISTA
 {Body-A}{ThinkingA}...Eh bien, Omid et moi irons en premier. {WorriedA}On pourra t'aider à traverser ensuite.
 74)  OMID
@@ -281,9 +281,9 @@ Trouvez un bateau ! On se retrouva au nord de la ville !
 136)  OMID
 {Body-A}{SurpriseA}Tu es taré ?!
 119)  OMID
-{FearB}Oui, près du train !
+{FearB}Ouais, près du train !
 138)  OMID
-{FearB}Oui, près du train !
+{FearB}Ouais, près du train !
 120)  LEE
 {FearB}Nous devons encore sortir de la ville ! {ThinkingA}Je vais chercher Clémentine et on se retrouve là-bas !
 142)  LEE

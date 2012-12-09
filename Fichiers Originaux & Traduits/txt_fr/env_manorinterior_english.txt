@@ -121,7 +121,7 @@ VITE !
 61)  LEE
 [grabbing something in a panic]
 62)  KENNY
-Enlevez leurs putains de bras !
+Dégagez leurs putains de bras !
 63)  CHRISTA
 Qu'est-ce que tu fous ?! COUPE-LES !
 64)  KENNY
@@ -141,15 +141,15 @@ Préparez-vous à vous battre.
 70)  
 Cet endroit tiendra.
 71)  
-Taisez-vous. Nous nous cachons.
+Taisez-vous et cachez-vous.
 73)  CHRISTA
 Cet endroit me semble assez sûr. [having just caught breath, high tension] Je pense que ça va aller.
 74)  LEE
 C'est une grande maison solide. Elle va tenir.
 75)  CHRISTA
-[having caught breath, high tension though] Oui, je crois aussi.
+[having caught breath, high tension though] Ouais, je crois aussi.
 76)  LEE
-Chhh. Taisez-vous. Il faut que nous nous cachions et trouvions un moyen de sortir.
+Taisez-vous. Il faut que nous nous cachions et trouvions un moyen de sortir.
 77)  CHRISTA
 Lee a raison ; cet endroit est sûr. Attendons et nous pourrons partir.
 78)  OMID

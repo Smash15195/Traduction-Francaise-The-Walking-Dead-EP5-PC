@@ -41,7 +41,7 @@ Comment ont-ils pu faire ça...
 21)  LEE
 C'est pas idiot. Pensez à tous les gens que nous avons vus mourir... Ils ont choisi leur propre manière de partir. Ensemble.
 22)  KENNY
-[quiet, to himself] {thinkingA}Ca en fera un en moins à tuer.
+[quiet, to himself] {thinkingA}Ca en fera un de moins à tuer.
 23)  LEE
 {normalD}Continuons à avancer. Il faut y aller.
 24)  CHRISTA
@@ -103,7 +103,7 @@ Merde.
 52)  BEN
 [wrecked, in shock] Ouarff... euh... Je vais bien....[a little too loud]
 53)  
-Chh !
+Chut !
 54)  
 Tu vas bien ?!
 63)  LEE
@@ -113,7 +113,7 @@ Nom de Dieu, Ben...
 65)  LEE
 Nom de Dieu, Ben...
 56)  LEE
-Chh ! SILENCE, Ben, ou ils vont nous tomber dessus.
+SILENCE, Ben, ou ils vont nous tomber dessus.
 57)  BEN
 [wrecked, in shock] Je vais bien, faites-moi sortir d'ici...
 58)  BEN
@@ -123,7 +123,7 @@ Chh ! SILENCE, Ben, ou ils vont nous tomber dessus.
 60)  BEN
 [wrecked, in shock] Je vous en prie, remontez-moi !
 61)  KENNY
-Oui, essaye de garder ta bouche fermée ! [shh]
+Ouais, continue de la fermer ! [shh]
 62)  BEN
 [wrecked, in shock] Je suis désolé, remontez-moi... ma jambe est amochée, je crois.
 64)  KENNY
@@ -149,13 +149,13 @@ Il est foutu.
 77)  LEE
 Il est foutu.
 75)  
-Retirons-le de là.
+Dégageons-le de là.
 78)  KENNY
 Il est PAS foutu. Il ne peut pas mourir là-dedans.
 79)  LEE
 Qu'est-ce que tu veux faire, Ken ? Nous ne pouvons pas--
 80)  LEE
-Retirons-le de cette chose, rapidement, comme un pansement.
+Dégageons-le de ce truc, rapidement, comme un pansement.
 81)  BEN
 QUOI ?!
 82)  KENNY
@@ -327,7 +327,7 @@ J'arrive pas à croire...
 162)  
 Balcon
 163)  LEE
-[pickup1]Oui. [I'm okay, just sad about the dead people]
+[pickup1]Ouais. [I'm okay, just sad about the dead people]
 164)  CHRISTA
 [pickup1][seeing lee staring at the dead couple]Lee ?  Ca va ?
 165)  CHRISTA
@@ -337,7 +337,7 @@ Balcon
 167)  CHRISTA
 [pickup1]Hé, la maison de mes parents ressemblait beaucoup à ça et ils regardaient des films de kung-fu..
 168)  OMID
-[pickup1]A en juger par le décor de cette salle, je suppose qu'ils étaient des téléspectateurs du service publique.
+[pickup1]A en juger par le décor de cette salle, je suppose qu'ils étaient des téléspectateurs de HBO.
 169)  CHRISTA
 [pickup1]Je disais ça comme ça. [don't judge]
 170)  LEE
@@ -389,7 +389,7 @@ Je suis navré, Ken.
 192)  LEE
 [pickup1] Bon sang... Je suis navré, Ken.
 193)  KENNY
-[pickup1] Elle m'a abandonné... mon fils... et toutes les personnes qui se souciaient de nous....  Je lui pardonne, mais ça ne lui donne pas pour autant raison de l'avoir fait.  Tu ne peux pas en finir juste parce que c'est dur.  Tu tiens et tu aides les gens qui comptent pour toi.  [beat] Alors trouvons un moyen de sortir d'ici et de récupérer la petite.
+[pickup1] Elle m'a abandonné... mon fils... et toutes les personnes qui se souciaient de nous....  Je lui pardonne, mais ça ne lui donne pas pour autant raison de l'avoir fait.  Tu ne peux pas en finir juste parce que c'est dur. Tu t'accroches et tu aides les gens qui comptent pour toi. [beat] Alors trouvons un moyen de sortir d'ici et de récupérer la petite.
 194)  LEE
 [pickup1] Comment ils ont pu faire ça ?
 196)  LEE

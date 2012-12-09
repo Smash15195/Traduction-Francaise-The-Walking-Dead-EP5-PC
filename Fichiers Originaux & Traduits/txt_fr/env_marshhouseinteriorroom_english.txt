@@ -133,7 +133,7 @@ Non.
 234)  
 Non.
 58)  LEE
-{normald} Oui. Je sais qui vous êtes.
+{normald} Ouais. Je sais qui vous êtes.
 59)  CAMPMAN
 {normald} Alors vous avez vu ma voiture dehors.
 60)  CAMPMAN
@@ -219,7 +219,7 @@ On l'a cherché tous les deux. On ne l'a jamais retrouvé. Je lui ai fait si mal.
 100)  CAMPMAN
 {normalc} Plein de nourriture, d'eau, {normald}de trucs de survie.
 101)  CAMPMAN
-Oui. Je ne suis pas un cannibale, Lee. Je suis pas un tueur rôdant dans les bois. Un... méchant. {sada}Je suis juste un... père. J'entraîne une petite équipe.
+Ouais. Je ne suis pas un cannibale, Lee. Je ne suis pas un tueur rôdant dans les bois. Un... méchant. {sada}Je suis juste un... père. J'entraîne une petite équipe.
 102)  CAMPMAN
 {normald} [gathering himself]
 104)  
@@ -481,7 +481,7 @@ J'ai été mordu. D'accord.
 237)  CAMPMAN
 {fearb} Vous avez été quoi ?
 238)  LEE
-Oui. {sadb}Je n'ai sans doute plus beaucoup de temps.
+Ouais. {sadb}Je n'ai sans doute plus beaucoup de temps.
 239)  LEE
 {normald} Ecoutez... {sada}J'ai été mordu.
 240)  CAMPMAN
@@ -527,7 +527,7 @@ Je suis content qu'on en soit pas venu aux mains.
 259)  CAMPMAN
 {normald} Moi aussi.
 261)  CAMPMAN
-{angrya} Oui, je sais. ["you'll have to kill me]
+{angrya} Ouais, je sais. ["you'll have to kill me]
 262)  LEE
 {angrya} Vous devrez {angryc}me tuer.
 263)  LEE
@@ -729,9 +729,9 @@ Non, c'est bon. Je suis désolé, Clém.
 338)  CLEMENTINE
 Excuse-moi, Lee. J'ai mal agi.
 339)  CLEMENTINE
-Oui.
+Ouais.
 486)  CLEMENTINE
-Oui.
+Ouais.
 340)  LEE
 Tout va bien maintenant. Il faut trouver un moyen de partir de Savannah aussi vite que possible.
 487)  LEE
@@ -745,7 +745,7 @@ Hé.... [warm, to clem]
 343)  CLEMENTINE
 [small, kind of in shock] Tu sens mauvais.
 344)  LEE
-Oui, je sais. [warm to clem]
+Ouais, je sais. [warm to clem]
 345)  CLEMENTINE
 Je... Je... Je sais.
 346)  CLEMENTINE
@@ -807,9 +807,9 @@ Voilà comment on peut partir de Savannah.
 481)  LEE
 Voilà comment on peut partir de Savannah.
 374)  LEE
-Oui...[scared to himself] je sais... ça doit être...
+Ouais...[scared to himself] je sais... ça doit être...
 478)  LEE
-Oui...[scared to himself] je sais... ça doit être...
+Ouais...[scared to himself] je sais... ça doit être...
 375)  LEE
 J'ai dû en repousser des tonnes pour venir ici.
 480)  LEE

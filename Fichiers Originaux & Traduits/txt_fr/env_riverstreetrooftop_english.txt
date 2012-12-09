@@ -37,7 +37,7 @@ Quoi donc ? [determined, distracted]
 19)  CHRISTA
 {Body-A}{ThinkingA}Clémentine. {SadA}Je sais que tu avais choisi Kenny.
 20)  LEE
-{Body-B}{NormalB}Oui. [what of it]
+{Body-B}{NormalB}Ouais. [what of it]
 21)  CHRISTA
 {AngryA}Et bien ?
 22)  
@@ -123,9 +123,9 @@ Je veux dire avant, dans le grenier.
 55)  CHRISTA
 {Body-A}{ThinkingA}On doit rester vivant, Omid  et moi. Pour elle.
 56)  
-Oui, bien sûr.
+Ouais, bien sûr.
 57)  LEE
-{Body-B}{ThinkingA}Oui, bien sûr. {NormalC}Laissez-moi prendre les risques.
+{Body-B}{ThinkingA}Ouais, bien sûr. {NormalC}Laissez-moi prendre les risques.
 58)  CHRISTA
 {Body-A}{WorriedA}Ce n'est pas nécessairement ce que je {ThinkingA}voulais dire.
 59)  LEE
@@ -137,7 +137,7 @@ Trouvez-lui une famille compétente.
 63)  CHRISTA
 {Body-A}{AngryA}Qu'il en soit ainsi, alors.
 64)  OMID
-{Body-A}{ThinkingA}Oui, qu'il en soit ainsi, chérie.
+{Body-A}{ThinkingA}Ouais, qu'il en soit ainsi, chérie.
 65)  CHRISTA
 Putain, fais gaffe par-là.
 66)  OMID
@@ -219,9 +219,9 @@ Fais gaffe par-là.
 104)  KENNY
 [kidding] J'aimerais bien l'appeler pour lui dire qu'on vient le chercher.
 105)  LEE
-Oui, bien sûr.
+Ouais, bien sûr.
 106)  LEE
-Oui.
+Ouais.
 107)  KENNY
 Tu as le talkie-walkie ?
 108)  OMID
@@ -245,7 +245,7 @@ Pas besoin de le dire deux fois.
 117)  LEE
 [hushed] Barrons-nous. Maintenant.
 118)  OMID
-[hushed] Oui. Faisons ça.
+[hushed] Ouais. Faisons ça.
 119)  OMID
 [hushed] Vous ne les sentez pas ? Moi oui. Même des années après quand tout sera fini, leur odeur hantera mes putains de rêves.
 120)  LEE
@@ -277,7 +277,7 @@ Il faut le récupérer.
 132)  LEE
 [hushed]Laissons-le. On n'en a pas besoin. On tient la piste de ce mec.
 133)  KENNY
-[hushed]Oui, je suis d'accord.
+[hushed]Ouais, je suis d'accord.
 134)  CHRISTA
 [hushed]Et quand on ne l'aura plus ? Quand on ne saura plus où chercher ? N'importe quel indice, même le plus petit, est inestimable. Il nous faut ce machin.
 153)  CHRISTA

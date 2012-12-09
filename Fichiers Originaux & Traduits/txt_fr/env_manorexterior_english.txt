@@ -267,7 +267,7 @@ Kenny, arrête.
 114)  OMID
 {disgustA}Ferme-la, vieux.
 115)  KENNY
-{disgustA}Mon cul, oui.
+{disgustA}Mon cul, ouais.
 116)  OMID
 {sadA}Ce n'est pas comme ça, mec.
 117)  OMID
@@ -303,9 +303,9 @@ Mais et pour--
 159)  OMID
 {disgustA}Attends, les {sadA}cancéreux ont fait ça ?
 132)  KENNY
-{disgustA}Oui, ils n'attendaient que ça. {thinkingA}Ils en avaient marre de vivre sous terre, je suppose. Ils m'ont {surprisedA}tabassé {angryA}et ensuite balancé là-dedans.
+{disgustA}Ouais, ils n'attendaient que ça. {thinkingA}Ils en avaient marre de vivre sous terre, je suppose. Ils m'ont {surprisedA}tabassé {angryA}et ensuite balancé là-dedans.
 160)  KENNY
-{disgustA}Oui, ils n'attendaient que ça. {thinkingA}Ils en avaient marre de vivre sous terre, je suppose. Ils m'ont {surprisedA}tabassé {angryA}et ensuite balancé là-dedans.
+{disgustA}Ouais, ils n'attendaient que ça. {thinkingA}Ils en avaient marre de vivre sous terre, je suppose. Ils m'ont {surprisedA}tabassé {angryA}et ensuite balancé là-dedans.
 133)  LEE
 {angryC}Avec quelqu'un d'autre. {thinkingB}Nous irons la chercher.
 157)  LEE
@@ -513,7 +513,7 @@ Vernon. {surprisedA}Toute son équipe.
 204)  KENNY
 [to himself, furious, trying to open a door] ESPECE D'ENCULES...
 205)  LEE
-{angryA}Oui.
+{angryA}Ouais.
 212)  CHRISTA
 {sadA}Attends, c'est quoi {fearB}ce truc sur ton poignet ?
 334)  CHRISTA
@@ -641,9 +641,9 @@ Ouvrir
 264)  
 Portes
 265)  CHRISTA
-{thinkingA}[pickup1] Il a raison ; ce ne sont pas des invalides. {angryA}Ce sont juste des gens. {worriedA}Des gens qui ont dû gérer des situations de merde {sadA}bien plus longtemps que nous. {disgustA}Ce n'est pas étonnant qu'ils nous soient tombés dessus.
+{thinkingA}[pickup1]  Il a raison ; ils ne sont pas invalides. {angryA}Ce sont juste des gens. {worriedA}Ce sont {worriedA}des gens qui ont dû gérer de graves problèmes {sadA}bien plus longtemps que nous. {disgustA}Pas étonnant qu'ils nous soient tombés dessus.
 331)  CHRISTA
-{thinkingA}[pickup1] Il a raison ; ce ne sont pas des invalides. {angryA}Ce sont juste des gens. {worriedA}Des gens qui ont dû gérer des situations de merde {sadA}bien plus longtemps que nous. {disgustA}Ce n'est pas étonnant qu'ils nous soient tombés dessus.
+{thinkingA}[pickup1]  Il a raison ; ils ne sont pas invalides. {angryA}Ce sont juste des gens. {worriedA}Ce sont {worriedA}des gens qui ont dû gérer de graves problèmes {sadA}bien plus longtemps que nous. {disgustA}Pas étonnant qu'ils nous soient tombés dessus.
 266)  KENNY
 {surprisedA}[pickup1] Je n'en ai rien à {angryB}foutre qu'ils avaient envie {angryD}de faire un tour en bateau, {surprisedA}quand je les trouverai {angryC}je les massacrerai.
 332)  KENNY
@@ -669,9 +669,9 @@ Je n'arrive pas à croire qu'ils aient fait ça.
 351)  LEE
 {angryA}[pickup1] Je les emmerde. {thinkingB}Cancer, ou pas, {fearA}saints, pécheurs, {angryA}on s'en fout. Ce sont {thinkingB}des gens qui savaient ce qu'ils faisaient.
 272)  KENNY
-{disgustA}[pickup1] Oui. {angryB}Nous BAISER. [they knew what they were doing...]
+{disgustA}[pickup1] Ouais. {angryB}Nous BAISER. [they knew what they were doing...]
 352)  KENNY
-{disgustA}[pickup1] Oui. {angryB}Nous BAISER. [they knew what they were doing...]
+{disgustA}[pickup1] Ouais. {angryB}Nous BAISER. [they knew what they were doing...]
 273)  LEE
 {disgustB}[pickup1] Nous aurions fait la même chose.
 354)  LEE

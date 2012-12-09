@@ -3,11 +3,11 @@
 15)  CHRISTA
 {ThinkingA}Nous allons devoir être aussi silencieux que possible et voir si nous pouvons arriver à un étage vide ou alors sur le toit.
 2)  LEE
-[na] {ThinkingB}Oui. [nods with his head "that'a way"]Allons-y.
+[na] {ThinkingB}Ouais. [nods with his head "that'a way"]Allons-y.
 5)  LEE
-[na] {ThinkingB}Oui. [nods with his head "that'a way"]Allons-y.
+[na] {ThinkingB}Ouais. [nods with his head "that'a way"]Allons-y.
 11)  LEE
-[na] {ThinkingB}Oui. [nods with his head "that'a way"]Allons-y.
+[na] {ThinkingB}Ouais. [nods with his head "that'a way"]Allons-y.
 3)  KENNY
 {ThinkingA}C'est pas exactement, euh, une rampe pour handicapé.
 4)  KENNY
@@ -19,7 +19,7 @@
 8)  BEN
 [quietish] {FearA}C'est, euh, un défi.
 9)  LEE
-[thinking "how the hell am i going ot do this] {ThinkingB}Oui, c'est clair.
+[thinking "how the hell am i going ot do this] {ThinkingB}Ouais, c'est clair.
 10)  BEN
 {SadA}Ca va aller ?
 12)  LEE
@@ -31,9 +31,9 @@
 16)  OMID
 {NormalB}On dirait bien.
 17)  KENNY
-[quietish] {ThinkingA}Avançons aussi loin que nous pouvons jusqu'à ce que nous trouvions une sortie sûre.
+[quietish] {ThinkingA}Avançons aussi loin que nous pouvons jusqu'à ce que nous trouvions une sortie.
 18)  LEE
-{NormalC}Oui, c'est ce que je pensais.
+{NormalC}Ouais, c'est ce que je pensais.
 19)  KENNY
 [to ben] {AngryA}Essaye de ne tuer personne.
 20)  BEN
@@ -47,13 +47,13 @@ Randy Tudor. Brave homme. Un PUTAIN d'homme bon. Une puissante moustache. Un des
 24)  OMID
 [whispering from higher up the elevator shaft] {FearA}Doucement et en silence les gars...
 25)  KENNY
-[whispering from higher up the elevator shaft] {AngryA}Chh... sans bruit maintenant.
+[whispering from higher up the elevator shaft] {AngryA}Chut... sans bruit maintenant.
 26)  BEN
-[whispering from higher up the elevator shaft] {FearB}Chh...
+[whispering from higher up the elevator shaft] {FearB}
 27)  OMID
-[whispering down to lee] {AngryA}Ca va en bas ? Vous vous souvenez, en silence ?
+[whispering down to lee] {AngryA}Ca va en bas ? En silence, ok ?
 28)  KENNY
-[whispering downward] {AngryB}Ca va en bas ? Vous vous souvenez, en silence ?
+[whispering downward] {AngryB}Ca va en bas ? En silence, ok ?
 29)  BEN
 [whispering] {FearA}Tout va bien en bas ?
 30)  LEE
@@ -133,7 +133,7 @@ Je ne peux pas bouger !
 68)  BEN
 [hushed] Oh merde, non, LEE, réveille-toi ! Ne tombe pas, tombe pas, tombe pas !
 69)  LEE
-[coming back to conciousness] Uhhgh... ugh....
+[coming back to conciousness]
 70)  LEE
 [to himself, hushed, out of sorts] Je vais... me... lever...
 71)  LEE

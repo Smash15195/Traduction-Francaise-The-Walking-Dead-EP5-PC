@@ -17,7 +17,7 @@ Vous n'êtes pas venus par la voie ferrée, n'est-ce pas ?
 9)  BEN
 FAUT Y ALLER !
 10)  KENNY
-Oui, pourquoi ?
+Ouais, pourquoi ?
 11)  LEE
 Clémentine ? [louder, desperate]  Clémentine !!!
 12)  LEE
@@ -101,7 +101,7 @@ Bonne chance, Lee.
 51)  CHRISTA
 Nous allons chercher Clémentine ensemble.
 52)  OMID
-Oh oui.
+Oh ouais.
 53)  CHRISTA
 J'espère que tu la trouveras. {WorriedA}Mais tu vas devoir le faire sans nous.
 54)  KENNY

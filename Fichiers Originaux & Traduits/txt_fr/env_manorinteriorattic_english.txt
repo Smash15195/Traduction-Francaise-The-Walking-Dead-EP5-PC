@@ -317,7 +317,7 @@ Nous t'aurions probablement laissé continuer seul si tu ne nous l'avais pas dit.
 160)  CHRISTA
 {NormalA} Je suis contente que tu nous aies parlé de la morsure, tu aurais pu ne pas le faire.
 161)  LEE
-{NormalD} Oui, eh bien...
+{NormalD} Ouais, eh bien...
 162)  CHRISTA
 Je n'arrive pas à croire que tu ne nous aies pas dit que tu avais été mordu.
 163)  
@@ -657,7 +657,7 @@ Il veut mourir.
 330)  KENNY
 {AngryA} Peut-être. {SadA} Mais à quoi ça sert ? {SadC} Ca ne va pas les ramener.
 331)  KENNY
-{NormalB} Oui. [flat]Comme pour nous tous.
+{NormalB} Ouais. [flat]Comme pour nous tous.
 332)  CHRISTA
 {NormalB} Ca n'a pas été facile pour lui.
 333)  KENNY
@@ -685,7 +685,7 @@ Le jour où je l'ai rencontré, {AngryA} j'ai tout de suite pensé que ce mec était
 344)  CHRISTA
 {ThinkingA} Et ça a beaucoup changé ?
 345)  KENNY
-{NormalB} Oui. {SadB} Ma familles est... morte. {SadC} Mais je sais qu'il est possible de se sentir encore plus seul.
+{NormalB} Ouais. {SadB} Toute ma famille est... morte. {SadC} Mais je sais qu'il est possible de se sentir encore plus seul.
 346)  KENNY
 {NormalB} Ca ferait de moi un monstre, mais je {SadA} souhaiterais que mon fils soit {SadB} en vie quelque part.
 347)  KENNY
