@@ -27,7 +27,7 @@ Portail
 14)  BEN
 [smelling] {fearA}Ugh.
 15)  KENNY
-{angryA}Que tout le monde garde un putian d'oeil ouvert.
+{angryA}Que tout le monde garde un putain d'oeil ouvert.
 16)  KENNY
 [overwhelmed] {fearB}Mon Dieu... [gathinger himself] [sigh]
 17)  CHRISTA
@@ -41,15 +41,15 @@ Comment ont-ils pu faire ça...
 21)  LEE
 C'est pas idiot. Pensez à tous les gens que nous avons vus mourir... Ils ont choisi leur propre manière de partir. Ensemble.
 22)  KENNY
-[quiet, to himself] {thinkingA}Ca fait en fera un en moins a tuer.
+[quiet, to himself] {thinkingA}Ca en fera un de moins à tuer.
 23)  LEE
 {normalD}Continuons à avancer. Il faut y aller.
 24)  CHRISTA
-[distant] Ouais. [a pause] {sadA}Nous avons vu tellement de personnes... {sadB}Je ne sais pas pourquoi ceux-là me brise le coeur.
+[distant] Oui. [a pause] {sadA}Nous avons vu tellement de personnes... {sadB}Je ne sais pas pourquoi ceux-là me brisent le coeur.
 25)  OMID
 On devrait y aller.
 26)  CHRISTA
-[distant] {fearA}Ouais.
+[distant] {fearA}Oui.
 27)  KENNY
 {thinkingA}On dirait qu'on peut rester à l'écart des rues jusqu'à la rivière si nous sommes prudents.
 28)  CHRISTA
@@ -67,19 +67,19 @@ En avant.
 34)  LEE
 [to the group, not too loud] {fearA}Cette maison en est pleine, aussi. Restez calme.
 35)  LEE
-{fearA}Les rues sont envahies. {thinkingA}il y a en une bonne centaines.
+{fearA}Les rues sont envahies. {thinkingA}Il y a en une bonne centaines.
 36)  LEE
-{fearA}On passera pas par cette fenêtre.
+{fearA}On ne passera pas par cette fenêtre.
 37)  OMID
-C'est insensé, mais... pense a toute la douleur ils ont évité.
+C'est insensé, mais... pense à toute la douleur qu'ils ont évitée.
 38)  CHRISTA
-{thinkingA}J'imagine que Crawford les aurais eu de toute façon.
+{thinkingA}J'imagine que Crawford les aurait eus de toute façon.
 39)  KENNY
 [pickup1][preempting Lee] Ne me demandez pas comment je fais -- Continuons.
 40)  LEE
 {sadA}Tu es toujours avec nous, Ben ?
 41)  BEN
-Ouais, Lee. Je veux juste vous aider.
+Oui, Lee. Je veux juste vous aider.
 42)  KENNY
 [helping lee over] Les voilà.
 43)  LEE
@@ -103,7 +103,7 @@ Merde.
 52)  BEN
 [wrecked, in shock] Ouarff... euh... Je vais bien....[a little too loud]
 53)  
-Shh !
+Chut !
 54)  
 Tu vas bien ?!
 63)  LEE
@@ -113,9 +113,9 @@ Nom de Dieu, Ben...
 65)  LEE
 Nom de Dieu, Ben...
 56)  LEE
-Shh ! SILENCE, Ben, où ils vont nous tomber dessus.
+SILENCE, Ben, ou ils vont nous tomber dessus.
 57)  BEN
-[wrecked, in shock] Je vais bien, faites moi sortir d'ici...
+[wrecked, in shock] Je vais bien, faites-moi sortir d'ici...
 58)  BEN
 [wrecked, in shock] J'ai juste gliss--OHHH !
 59)  KENNY
@@ -123,7 +123,7 @@ Shh ! SILENCE, Ben, où ils vont nous tomber dessus.
 60)  BEN
 [wrecked, in shock] Je vous en prie, remontez-moi !
 61)  KENNY
-Ouais, essaye de garder ta bouche fermée ! [shh]
+Ouais, continue de la fermer ! [shh]
 62)  BEN
 [wrecked, in shock] Je suis désolé, remontez-moi... ma jambe est amochée, je crois.
 64)  KENNY
@@ -133,7 +133,7 @@ Qu'est-ce que tu fous, Ben ?
 67)  KENNY
 Ne panique pas.
 68)  KENNY
-On vas ramener ton cul ici.
+On va ramener ton cul ici.
 69)  BEN
 [wrecked, in shock] Vraiment ? Je pensais que tu --
 70)  KENNY
@@ -141,7 +141,7 @@ Putain de merde...
 71)  BEN
 [wrecked, in shock] Quoi ? Je vais bien... Je vais bien....
 72)  KENNY
-Nous pouvons te remonter. nous pouvons...
+Nous pouvons te remonter. Nous pouvons...
 73)  BEN
 [being moved] OWWWW !!! UGHH...
 74)  
@@ -149,13 +149,13 @@ Il est foutu.
 77)  LEE
 Il est foutu.
 75)  
-Arrachez-lui.
+Dégageons-le de là.
 78)  KENNY
 Il est PAS foutu. Il ne peut pas mourir là-dedans.
 79)  LEE
 Qu'est-ce que tu veux faire, Ken ? Nous ne pouvons pas--
 80)  LEE
-Arrachons-lui cette chose, rapidement, comme un pansement.
+Dégageons-le de ce truc, rapidement, comme un pansement.
 81)  BEN
 QUOI ?!
 82)  KENNY
@@ -163,7 +163,7 @@ Tu crois que--
 83)  
 Il peut rester calme.
 84)  
-Si il était calme, PEUT-ETRE.
+S'il était calme, PEUT-ETRE.
 85)  LEE
 Il est calme. On peut prendre deux minutes et sauver sa vie.
 86)  BEN
@@ -179,7 +179,7 @@ BEN !
 91)  KENNY
 Bon, on doit faire quelque chose !
 92)  BEN
-OH BON SANG, LES LAISSER PAS M'AVOIR !
+OH BON SANG, NE LES LAISSEZ PAS M'AVOIR !
 93)  KENNY
 MERDE !
 94)  KENNY
@@ -193,19 +193,19 @@ Qu'est-ce que tu vas faire ?
 98)  KENNY
 DONNE-LES-MOI ET FOUS LE CAMP D'ICI !
 99)  LEE
-Je te laisse pas ici !
+Je ne te laisserai pas ici !
 100)  KENNY
-ALLER !
+ALLEZ !
 101)  KENNY
 Donne-les-moi.
 102)  LEE
-Juste quelques unes.
+Juste quelques-unes.
 103)  KENNY
 Foutez le camp d'ici.
 104)  LEE
 Quoi ?!
 105)  KENNY
-RETOURNE-Y. Elle a besoin de toi, Lee !
+RETOURNES-Y. Elle a besoin de toi, Lee !
 106)  KENNY
 Donne-la-moi.
 107)  KENNY
@@ -213,7 +213,7 @@ Putain, c'est pas suffisant.
 108)  LEE
 Une seule !
 109)  KENNY
-Fait pas chier ! TU dois retrouver Clém !
+Fais pas chier ! TU dois retrouver Clém !
 110)  LEE
 KENNY !
 111)  LEE
@@ -239,13 +239,13 @@ C'est du suicide !
 120)  
 LAISSE-LE, KEN !
 122)  LEE
-C'est du suicide, Kenny ! Tu pourras pas y arriver !
+C'est du suicide, Kenny ! Tu ne pourras pas y arriver !
 123)  LEE
 [can't go, 2nd guessing himself] Putain, LAISSE-LE, Ken. Je ne peux pas te laisser faire ça !
 124)  KENNY
 VAS-Y PUTAIN !
 125)  LEE
-Jamais, mon pote ! Je bouge pas.
+Jamais, mon pote ! Je ne bouge pas.
 126)  KENNY
 QU'EST-CE QUE JE VIENS DE DIRE ?
 127)  LEE
@@ -293,7 +293,7 @@ Qu'est-ce qui s'est passé bordel ?!
 148)  CHRISTA
 J'ai entendu un coup de feu.
 149)  LEE
-Je ne pouvais rien faire. Ben a vraiment... tout fait raté. Kenny pouvait pas le laisser. [deep breath] C'était foutu d'avance.
+Je ne pouvais rien faire. Ben a vraiment... tout fait rater. Kenny ne pouvait pas le laisser. [deep breath] C'était foutu d'avance.
 150)  CHRISTA
 J'ai entendu des coups de feu...
 151)  OMID
@@ -323,7 +323,7 @@ Il les a repoussés.... il a essayé du moins. C'était...[trails off] [sigh]
 159)  CHRISTA
 C'est un miracle dont vous aviez besoin. Ce n'est pas ta faute Lee.
 161)  OMID
-J'arrive pas a croire...
+J'arrive pas à croire...
 162)  
 Balcon
 163)  LEE
@@ -337,15 +337,15 @@ Balcon
 167)  CHRISTA
 [pickup1]Hé, la maison de mes parents ressemblait beaucoup à ça et ils regardaient des films de kung-fu..
 168)  OMID
-[pickup1]A en juger par le décor de cette salle, je suppose qu'ils étaient de téléspectateurs de PBS.
+[pickup1]A en juger par le décor de cette salle, je suppose qu'ils étaient des téléspectateurs de HBO.
 169)  CHRISTA
 [pickup1]Je disais ça comme ça. [don't judge]
 170)  LEE
-[pickup1][looking at a painting][to himself] C'est difficile de croire que le monde ai pu être aussi paisible.
+[pickup1][looking at a painting][to himself] C'est difficile de croire que le monde ait pu être aussi paisible.
 171)  KENNY
 [pickup1] Ne dis pas ça.
 172)  KENNY
-[pickup1] Tiens le coup aussi longtemps que tu le peux. Tu fais tout ce qu'il fallait. [a beat] J'aurais pas pu faire mieux.
+[pickup1] Tiens le coup aussi longtemps que tu le peux. Tu as fait tout ce qu'il fallait. [a beat] J'aurais pas pu faire mieux.
 173)  
 Tu as fait tout ce que tu pouvais.
 185)  
@@ -365,7 +365,7 @@ C'est inutile de ressasser ça.
 190)  LEE
 [pickup1] C'est inutile de ressasser ça. Tu le sais.
 179)  KENNY
-[pickup1] J'aurais pu être un meilleur mari... un meilleur père... j'aurais pu être un meilleur ami.  Nous trouverons un moyen se sortir, de récupérer la petite.
+[pickup1] J'aurais pu être un meilleur mari... un meilleur père... j'aurais pu être un meilleur ami.  Trouvons un moyen de sortir d'ici, de récupérer la petite.
 180)  KENNY
 [pickup1] Non, Lee. [leads into "been a better husband"]
 181)  KENNY
@@ -375,7 +375,7 @@ C'est inutile de ressasser ça.
 189)  KENNY
 [pickup1] Non, Lee. [leads into "been a better husband"]
 182)  CHRISTA
-[pickup1] Ouais. [a pause] {sadA}Nous avons vu tant de monde.... {sadB}Je ne sais pas pourquoi ces deux là me brise le coeur.
+[pickup1] Oui. [a pause] {sadA}Nous avons vu tant de monde.... {sadB}Je ne sais pas pourquoi ces deux-là me brisent le coeur.
 183)  KENNY
 [pickup1] Ce que me brise le coeur, c'est de ne pas se donner une chance de s'en sortir.
 184)  KENNY
@@ -387,15 +387,15 @@ C'est inutile de ressasser le passé.
 191)  
 Je suis navré, Ken.
 192)  LEE
-[pickup1] bon sang... Je suis navré, Ken.
+[pickup1] Bon sang... Je suis navré, Ken.
 193)  KENNY
-[pickup1] Elle m'a abandonnée... mon fils... et toutes les personnes qui se souciaient de nous....  Je lui pardonne, mais ça le lui donne pas pour autant raison de l'avoir fait.  Tu ne peux pas en finir juste parce que c'est dur.  Tu tiens et tu aides les gens qui compte pour toi.  [beat] Alors nous trouverons un moyen se sortir, de récupérer la petite.
+[pickup1] Elle m'a abandonné... mon fils... et toutes les personnes qui se souciaient de nous....  Je lui pardonne, mais ça ne lui donne pas pour autant raison de l'avoir fait.  Tu ne peux pas en finir juste parce que c'est dur. Tu t'accroches et tu aides les gens qui comptent pour toi. [beat] Alors trouvons un moyen de sortir d'ici et de récupérer la petite.
 194)  LEE
 [pickup1] Comment ils ont pu faire ça ?
 196)  LEE
 [pickup1][looking at some wall art]Comment tu appelles ce machin ?
 197)  OMID
-[pickup1] ["what do you call this thing?"]De l'Art?
+[pickup1] ["what do you call this thing?"]De l'Art ?
 198)  KENNY
 [pickup1]["what do you call this thing?"]Une pollution visuelle.
 199)  KENNY
@@ -405,7 +405,7 @@ Kenny et moi nous en occupons.
 201)  
 Quelqu'un doit rester en arrière. Au cas où.
 202)  
-Restez vigilant.
+Restez vigilants.
 203)  LEE
 [pickup1]Et si tout se déroule mal, vous pourriez être le dernier espoir de Clémentine.
 210)  LEE
@@ -419,11 +419,11 @@ Restez vigilant.
 206)  LEE
 [pickup1]Raison de plus, nous n'avons pas besoin de prendre ce risque. Vous vous inquiétez pour elle.
 207)  OMID
-[pickup1]	Mec, laisse-moi t'aider; tu es déjà blessé.
+[pickup1]	Mec, laisse-moi t'aider ; tu es déjà blessé.
 208)  LEE
 [pickup1] Quelqu'un doit rester en arrière. Au cas où.
 209)  OMID
-[pickup1] Aller !
+[pickup1] Allez !
 212)  CHRISTA
 [pickup1]Faites-
 217)  CHRISTA
@@ -433,11 +433,11 @@ Restez vigilant.
 218)  CHRISTA
 [pickup1] ...attention.
 214)  OMID
-[pickup1]D'accord, mais j'en vois pas beaucoup ici.
+[pickup1]D'accord, mais je n'en vois pas beaucoup ici.
 215)  LEE
-[pickup1]Faites-nous savoir si ils commencent à descendre la ruelle. Nous reviendrons.
+[pickup1]Faites-nous savoir s'ils commencent à descendre la ruelle. Nous reviendrons.
 216)  LEE
-[pickup1] Restez ici. Gardez les yeux bien ouvert.
+[pickup1] Restez ici. Gardez les yeux bien ouverts.
 219)  OMID
 [pickup1][frustrated] On vous préviendra si on voit quoi que ce soit.
 220)  LEE
@@ -467,9 +467,9 @@ D'accord. Au revoir.
 232)  LEE
 [pickup1] [leaving kenny] Comme tu veux. Au revoir, Ken. Excuse-moi.
 233)  
-Katjaa ne voudrait pas que tu fasse ça.
+Katjaa ne voudrait pas que tu fasses ça.
 234)  KEN
-[pickup1] Ouais, c'est probable. J'ai pas non plus sauver le gamin et je dois la voir. Quoi qu'il en soit. Maintenant retourne là-haut.
+[pickup1] Oui, c'est probable. Je n'ai pas non plus sauvé le gamin et je dois la voir. Quoi qu'il en soit. Maintenant retourne là-haut.
 235)  LEE
 [pickup1] Katjaa ne voudrait pas ça... Bordel, Ken !
 236)  KENNY
@@ -477,11 +477,11 @@ Katjaa ne voudrait pas que tu fasse ça.
 237)  KENNY
 [pickup1] [leaving, in control though] Va chercher cette fillette !
 238)  CHRISTA
-[pickup1] Tu les as vu mourrir ?
+[pickup1] Tu les as vus mourir ?
 239)  OMID
 [pickup1] Ils sont morts... ?
 240)  LEE
-[pickup1] Personnes n'en a réchappés.
+[pickup1] Personne n'en a réchappé.
 241)  CHRISTA
 [pickup1] Je suis désolée, Lee.
 242)  
@@ -489,13 +489,13 @@ Il a fait ce qu'il fallait.
 243)  
 Eh bien, peut-être qu'il s'en est tiré.
 244)  
-C'était pas un mauvais gars.
+Ce n'était pas un mauvais gars.
 245)  LEE
-[pickup1] Il a fait ce qu'il fallait. Depuis de début jusqu'à aujourd'hui.
+[pickup1] Il a fait ce qu'il fallait. Depuis le début jusqu'à aujourd'hui.
 246)  LEE
-[pickup1][reconsidering] Eh bien, peut-être qu'il s'en est tiré. J'en ai aucune idée. [solemn]
+[pickup1][reconsidering] Eh bien, peut-être qu'il s'en est tiré. Je n'en ai aucune idée. [solemn]
 247)  LEE
-[pickup1] C'était pas un mauvais gars. Même si il était en désaccord avec beaucoup de monde. De temps à autre avec moi aussi.
+[pickup1] Ce n'était pas un mauvais gars. Même s'il était en désaccord avec beaucoup de monde. De temps à autres avec moi aussi.
 248)  LEE
 [pickup1] [solemn] Derrière toi.
 249)  CHRISTA
@@ -503,7 +503,7 @@ C'était pas un mauvais gars.
 250)  BEN
 [scream of pain]
 251)  LEE
-Kenny n'avait qu'une balle et c'est comme ça qu'il l'a utilisé.
+Kenny n'avait qu'une balle et c'est comme ça qu'il l'a utilisée.
 252)  LEE
 Bon Dieu, pauvre gosse.
 254)  LEE

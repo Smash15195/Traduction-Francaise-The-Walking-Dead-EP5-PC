@@ -21,11 +21,11 @@
 61)  KENNY
 {disgustA} Il y en a des milliers.
 4)  BEN
-{thinkingA} Ils nous ont suivi ?
+{thinkingA} Ils nous ont suivis ?
 30)  BEN
-{thinkingA} Ils nous ont suivi ?
+{thinkingA} Ils nous ont suivis ?
 89)  BEN
-{thinkingA} Ils nous ont suivi ?
+{thinkingA} Ils nous ont suivis ?
 5)  KENNY
 {fearA} On dirait bien.
 29)  KENNY
@@ -33,13 +33,13 @@
 62)  KENNY
 {fearA} On dirait bien.
 6)  CHRISTA
-{worriedA} C'est dingue. Ils peuvent pas PISTER. Ils errent juste.
+{worriedA} C'est dingue. Ils ne peuvent pas PISTER. Ils errent juste.
 63)  CHRISTA
-{worriedA} C'est dingue. Ils peuvent pas PISTER. Ils errent juste.
+{worriedA} C'est dingue. Ils ne peuvent pas PISTER. Ils errent juste.
 88)  CHRISTA
-{worriedA} C'est dingue. Ils peuvent pas PISTER. Ils errent juste.
+{worriedA} C'est dingue. Ils ne peuvent pas PISTER. Ils errent juste.
 121)  CHRISTA
-{worriedA} C'est dingue. Ils peuvent pas PISTER. Ils errent juste.
+{worriedA} C'est dingue. Ils ne peuvent pas PISTER. Ils errent juste.
 7)  KENNY
 {disgustA} Vraiment ? Le train n'était pas très discret.
 28)  KENNY
@@ -127,15 +127,15 @@ Clémentine est là-bas.
 129)  CHRISTA
 {sadA} C'est risqué en bas. Impossible de traverser les rues.
 16)  LEE
-{disgustA} T'attends d'avoir des ailes ?
+{disgustA} Tu attends d'avoir des ailes ?
 33)  LEE
-{disgustA} T'attends d'avoir des ailes ?
+{disgustA} Tu attends d'avoir des ailes ?
 71)  LEE
-{disgustA} T'attends d'avoir des ailes ?
+{disgustA} Tu attends d'avoir des ailes ?
 91)  LEE
-{disgustA} T'attends d'avoir des ailes ?
+{disgustA} Tu attends d'avoir des ailes ?
 130)  LEE
-{disgustA} T'attends d'avoir des ailes ?
+{disgustA} Tu attends d'avoir des ailes ?
 17)  CHRISTA
 {happyA} C'est vraiment très tentant de faire une vanne là-dessus, venant d'un manchot.
 72)  CHRISTA
@@ -171,19 +171,19 @@ Clémentine est là-bas.
 77)  KENNY
 {thinkingA} Quelqu'un sait où est la maison et à quelle distance ? {disgustA} On devrait commencer par là.
 21)  LEE
-{thinkingA} C'est entre nous et River Street, alors on peut s'y arrêter au besoin, rebrousser chemin et se diriger vers l'hôtel où allaient les parents de Clem.
+{thinkingA} C'est entre nous et River Street, alors on peut s'y arrêter au besoin, rebrousser chemin et se diriger vers l'hôtel où allaient les parents de Clém.
 37)  LEE
-{thinkingA} C'est entre nous et River Street, alors on peut s'y arrêter au besoin, rebrousser chemin et se diriger vers l'hôtel où allaient les parents de Clem.
+{thinkingA} C'est entre nous et River Street, alors on peut s'y arrêter au besoin, rebrousser chemin et se diriger vers l'hôtel où allaient les parents de Clém.
 78)  LEE
-{thinkingA} C'est entre nous et River Street, alors on peut s'y arrêter au besoin, rebrousser chemin et se diriger vers l'hôtel où allaient les parents de Clem.
+{thinkingA} C'est entre nous et River Street, alors on peut s'y arrêter au besoin, rebrousser chemin et se diriger vers l'hôtel où allaient les parents de Clém.
 99)  LEE
-{thinkingA} C'est entre nous et River Street, alors on peut s'y arrêter au besoin, rebrousser chemin et se diriger vers l'hôtel où allaient les parents de Clem.
+{thinkingA} C'est entre nous et River Street, alors on peut s'y arrêter au besoin, rebrousser chemin et se diriger vers l'hôtel où allaient les parents de Clém.
 137)  LEE
-{thinkingA} C'est entre nous et River Street, alors on peut s'y arrêter au besoin, rebrousser chemin et se diriger vers l'hôtel où allaient les parents de Clem.
+{thinkingA} C'est entre nous et River Street, alors on peut s'y arrêter au besoin, rebrousser chemin et se diriger vers l'hôtel où allaient les parents de Clém.
 156)  LEE
-{thinkingA} C'est entre nous et River Street, alors on peut s'y arrêter au besoin, rebrousser chemin et se diriger vers l'hôtel où allaient les parents de Clem.
+{thinkingA} C'est entre nous et River Street, alors on peut s'y arrêter au besoin, rebrousser chemin et se diriger vers l'hôtel où allaient les parents de Clém.
 164)  LEE
-{thinkingA} C'est entre nous et River Street, alors on peut s'y arrêter au besoin, rebrousser chemin et se diriger vers l'hôtel où allaient les parents de Clem.
+{thinkingA} C'est entre nous et River Street, alors on peut s'y arrêter au besoin, rebrousser chemin et se diriger vers l'hôtel où allaient les parents de Clém.
 22)  LEE
 {sadA} Clémentine est là-bas, quelque part, {sadC} perdue dans tout ça.
 39)  LEE
@@ -205,11 +205,11 @@ Clémentine est là-bas.
 141)  CHRISTA
 {worriedA} On la retrouvera, Lee. {angryA} A n'importe quel prix.
 24)  KENNY
-{thinkingA} Ecoute, [trying to motivate]on fait le point et on essaye de trouver un moyen de travers la ville. Ca te va ?
+{thinkingA} Ecoute, [trying to motivate]on fait le point et on essaye de trouver un moyen de traverser la ville. Ca te va ?
 40)  KENNY
-{thinkingA} Ecoute, [trying to motivate]on fait le point et on essaye de trouver un moyen de travers la ville. Ca te va ?
+{thinkingA} Ecoute, [trying to motivate]on fait le point et on essaye de trouver un moyen de traverser la ville. Ca te va ?
 83)  KENNY
-{thinkingA} Ecoute, [trying to motivate]on fait le point et on essaye de trouver un moyen de travers la ville. Ca te va ?
+{thinkingA} Ecoute, [trying to motivate]on fait le point et on essaye de trouver un moyen de traverser la ville. Ca te va ?
 25)  KENNY
 {happyA} Bien.
 41)  KENNY
@@ -223,23 +223,23 @@ Clémentine est là-bas.
 42)  BEN
 {fearA} Mais comment ?! {fearB} Ils sont idiots, non ? C'est dingue qu'ils puissent nous SUIVRE.
 43)  KENNY
-{fearA} When haven't we been screwed. {disgustA} Let's just try not to screw each other.
+{fearA} Comme d'habitude. {disgustA} Essayons déjà de ne pas se bousiller les uns les autres.
 44)  BEN
 {sadE} Il doit y avoir tous les marcheurs des environs... {fearB} on est foutu.
 45)  KENNY
-{thinkingA} On descend tout de suite et {disgustA} on retrouve une petit fille là-bas. [to lee] {thinkingA} Pas vrai, vieux ?
+{thinkingA} On descend tout de suite et {disgustA} on retrouve une petite fille là-bas. [to lee] {thinkingA} Pas vrai, vieux ?
 46)  BEN
-{thinkingA} Mais c'est risqué en bas. {fearA} Impossible de traverser les rues à pieds.
+{thinkingA} Mais c'est risqué en bas. {fearA} Impossible de traverser les rues à pied.
 47)  KENNY
 {thinkingA} Ben, si amputer Lee n'a pas arrêté l'infection de la morsure {disgustA}ce n'est pas drôle du tout.
 48)  BEN
 {happyA} ...Tu veux dire "des ailes" ?
 49)  BEN
-{sadA} Je sais pas... On pourrait attendre LONGTEMPS.
+{sadA} Je ne sais pas... On pourrait attendre LONGTEMPS.
 51)  BEN
-{sadA} Je sais pas... On pourrait attendre LONGTEMPS.
+{sadA} Je ne sais pas... On pourrait attendre LONGTEMPS.
 97)  BEN
-{sadA} Je sais pas... On pourrait attendre LONGTEMPS.
+{sadA} Je ne sais pas... On pourrait attendre LONGTEMPS.
 50)  KENNY
 {thinkingA} Quand même, Lee a raison. On ne perd pas de temps et on y va.
 52)  KENNY
@@ -263,39 +263,39 @@ Clémentine est là-bas.
 85)  OMID
 {fearA} On pourrait attendre LONGTEMPS.
 86)  OMID
-{thinkingA} Ils ne nous ont pas suivi, hein ?
+{thinkingA} Ils ne nous ont pas suivis, hein ?
 103)  OMID
 {surpriseA} Il y en a des milliers...
 120)  OMID
 {surpriseA} Il y en a des milliers...
 104)  OMID
-{angryA} Elle était pas DESERTE {thinkingA} cette ville au départ ?
+{angryA} Elle n'était pas DESERTE {thinkingA} cette ville au départ ?
 119)  OMID
-{angryA} Elle était pas DESERTE {thinkingA} cette ville au départ ?
+{angryA} Elle n'était pas DESERTE {thinkingA} cette ville au départ ?
 105)  CHRISTA
 {thinkingA} Il faut sans doute ne pas perdre de temps et y aller. {worriedA} Plus on attend, plus Clémentine sera loin de nous.
 135)  CHRISTA
 {thinkingA} Il faut sans doute ne pas perdre de temps et y aller. {worriedA} Plus on attend, plus Clémentine sera loin de nous.
 106)  OMID
-{normalB} On devrait commencer à partir de la maison, non ? {fearA} C'est par où 
+{normalB} On devrait commencer à partir de la maison, non ? {fearA} C'est par où ?
 136)  OMID
-{normalB} On devrait commencer à partir de la maison, non ? {fearA} C'est par où 
+{normalB} On devrait commencer à partir de la maison, non ? {fearA} C'est par où ?
 107)  CHRISTA
 {thinkingA} Ca semble bien.
 138)  CHRISTA
 {thinkingA} Ca semble bien.
 108)  CHRISTA
-{thinkingA} Ecoute, [trying to motivate]on fait le point et on essaye de trouver un moyen de travers la ville. Ca te va ?
+{thinkingA} Ecoute, [trying to motivate]on fait le point et on essaye de trouver un moyen de traverser la ville. Ca te va ?
 142)  CHRISTA
-{thinkingA} Ecoute, [trying to motivate]on fait le point et on essaye de trouver un moyen de travers la ville. Ca te va ?
+{thinkingA} Ecoute, [trying to motivate]on fait le point et on essaye de trouver un moyen de traverser la ville. Ca te va ?
 110)  BEN
 {sadE} Ouais, pourquoi pas ?
 111)  BEN
 {disgustA} Ce n'était pas calme.
 112)  CHRISTA
-{fearA} Tu crois que ça les a tous attiré vers nous ?
+{fearA} Tu crois que ça les a tous attirés vers nous ?
 124)  CHRISTA
-{fearA} Tu crois que ça les a tous attiré vers nous ?
+{fearA} Tu crois que ça les a tous attirés vers nous ?
 113)  OMID
 {surpriseA} Il SEMBLERAIT mais c'est impossible, {fearA} n'est-ce pas ?
 114)  CHRISTA
@@ -317,11 +317,11 @@ Clémentine est là-bas.
 144)  OMID
 {fearA} Combien de temps on va attendre ? Ca peut durer un moment....
 145)  OMID
-C'était pas vraiment des murmures.
+Ce n'était pas vraiment des murmures.
 146)  OMID
 {thinkingA} Oui.
 147)  OMID
-{surpriseB} On dirait qu'ils nous ont suivi, {fearA} mais c'est impossible, hein ?
+{surpriseB} On dirait qu'ils nous ont suivis, {fearA} mais c'est impossible, hein ?
 149)  KENNY
 {happyA} Ca fait six heures.
 150)  LEE
@@ -331,9 +331,9 @@ C'était pas vraiment des murmures.
 159)  KENNY
 {normalC} Je suis avec toi. {thinkingA} Il faut qu'on trouve un moyen de traverser la ville sans danger.
 160)  KENNY
-{sadA} On devrait attendre un peu. {thinkingA} Mais tu as raison, on devrait pas perdre de temps et y aller.
+{sadA} On devrait attendre un peu. {thinkingA} Mais tu as raison, on ne devrait pas perdre de temps et y aller.
 161)  KENNY
-{sadA} Je sais, Lee. On va la ramener. {disgustA} Quoiqu'il arrive.
+{sadA} Je sais, Lee. On va la ramener. {disgustA} Quoi qu'il arrive.
 162)  KENNY
 {thinkingA} C'est quelques marcheurs, ça va aller. {normalC} Suffit de rester en mouvement.
 163)  KENNY
@@ -343,29 +343,29 @@ Garde ça pour toi, pour une fois.
 170)  BEN
 [looking at the herd] {sadA} Il y en a... des milliers. {fearB} Qu'est-ce qu'on fait maintenant ?
 171)  LEE
-{disgustA} Damn right she would. {happyA} All fifty pounds of her.
+{disgustA} Bien sûr qu'elle le ferait. {happyA} De tout son coeur.
 172)  BEN
-{sadE} Ok... mais çe ne me dit rien d'être en bas.
+{sadE} Ok... mais ça ne me dit rien d'être en bas.
 173)  LEE
 {thinkingA} Tu vas devoir te faire une raison.
 174)  BEN
 {thinkingA} Clémentine. {thinkingB} Elle le ferait pour moi.
 175)  LEE
-{thinkingA} Par exemple. {disgustA} On peut pas rester ici.
+{thinkingA} Par exemple. {disgustA} On ne peut pas rester ici.
 176)  BEN
 {sadA} Je sais. Il faut partir. {fearA} On doit trouver un moyen.
 177)  BEN
 {disgustA} Et quoi, on court ?
 178)  BEN
-{happyA} Heu, je crois pas.
+{happyA} Heu, je ne crois pas.
 179)  LEE
-{disgustA} I don't think we're at risk if someone running off with you.
+{disgustA} On ne risque pas grand chose si on s'encourt avec toi.
 180)  BEN
-{thinkingB} Tu as raison. {sadA} Elle viendrait me chercher si c'était moi qui avait disparu.
+{thinkingB} Tu as raison. {sadA} Elle viendrait me chercher si c'était moi qui avais disparu.
 181)  LEE
 {angryA} Oublie ça, pour commencer. Clémentine est quelque part au milieu de ce bazar.
 182)  BEN
-{fearA} C'est juste quelques marcheurs, hein ? C'est pas compliqué de passer à travers.
+{fearA} C'est juste quelques marcheurs, hein ? Ce n'est pas compliqué de passer à travers.
 183)  BEN
 {thinkingA} On doit bien choisir une direction, pas vrai ? Je suis un peu chamboulé depuis les égoûts.
 184)  BEN
@@ -375,13 +375,13 @@ Garde ça pour toi, pour une fois.
 186)  LEE
 [to himself] {surpriseB} Putain... il y en a des milliers.
 187)  LEE
-[to himself] L'hôpital a du manquer de docteurs.
+[to himself] L'hôpital a dû manquer de docteurs.
 188)  LEE
 [to himself] Un pauvre gars a fait le grand saut.
 189)  KENNY
 [about 25 feet away] {fearA} Ouais, on dirait que celui qui a peint l'inscription a fait un vol plané !
 190)  LEE
-[himself] Il ou elle a du s'écarter d'un danger quelconque... mais ça n'a pas d'importance.
+[himself] Il ou elle a dû s'écarter d'un danger quelconque... mais ça n'a pas d'importance.
 191)  LEE
 [to himself] Je parie que ça fait un mal de chien.
 192)  LEE
@@ -389,7 +389,7 @@ Garde ça pour toi, pour une fois.
 193)  LEE
 [to himself] Ca devrait m'aider à traverser.
 194)  CHRISTA
-{worriedA} J'aime pas ça du tout.
+{worriedA} Je n'aime pas ça du tout.
 195)  LEE
 {normalD} Ca prendra deux secondes.
 196)  KENNY
@@ -425,13 +425,13 @@ Je vais essayer de la stabiliser d'ici.
 210)  LEE
 [exert.] {thinkingA} J'ai trouvé.
 211)  OMID
-{fearA} Je crois pas qu'on peut ignorer ce qui est arrivé à Lee.
+{fearA} Je ne crois pas qu'on puisse ignorer ce qui est arrivé à Lee.
 274)  OMID
-{fearA} Je crois pas qu'on peut ignorer ce qui est arrivé à Lee.
+{fearA} Je ne crois pas qu'on puisse ignorer ce qui est arrivé à Lee.
 304)  OMID
-{fearA} Je crois pas qu'on peut ignorer ce qui est arrivé à Lee.
+{fearA} Je ne crois pas qu'on puisse ignorer ce qui est arrivé à Lee.
 334)  OMID
-{fearA} Je crois pas qu'on peut ignorer ce qui est arrivé à Lee.
+{fearA} Je ne crois pas qu'on puisse ignorer ce qui est arrivé à Lee.
 212)  KENNY
 [to lee] {disgustA} Si tu sens que tu vas tourner de l'oeil ou {sadA} pire... dis-le nous.
 231)  KENNY
@@ -475,33 +475,33 @@ D'accord. Je vais y aller doucement.
 394)  
 D'accord. Je vais y aller doucement.
 216)  
-C'était pas ma main préférée de toute façon.
+Ce n'était pas ma main préférée de toute façon.
 237)  
-C'était pas ma main préférée de toute façon.
+Ce n'était pas ma main préférée de toute façon.
 285)  
-C'était pas ma main préférée de toute façon.
+Ce n'était pas ma main préférée de toute façon.
 314)  
-C'était pas ma main préférée de toute façon.
+Ce n'était pas ma main préférée de toute façon.
 345)  
-C'était pas ma main préférée de toute façon.
+Ce n'était pas ma main préférée de toute façon.
 371)  
-C'était pas ma main préférée de toute façon.
+Ce n'était pas ma main préférée de toute façon.
 398)  
-C'était pas ma main préférée de toute façon.
+Ce n'était pas ma main préférée de toute façon.
 217)  LEE
-{normalD} D'accord. {sadA} Je vais y aller mollo. Je sais qu'on peut plus se permettre de morts. {disgustB} Alors ne faites pas comme si je l'étais.
+{normalD} D'accord. {sadA} Je vais y aller mollo. Je sais qu'on ne peut plus se permettre de morts. {disgustB} Alors ne faites pas comme si je l'étais.
 233)  LEE
-{normalD} D'accord. {sadA} Je vais y aller mollo. Je sais qu'on peut plus se permettre de morts. {disgustB} Alors ne faites pas comme si je l'étais.
+{normalD} D'accord. {sadA} Je vais y aller mollo. Je sais qu'on ne peut plus se permettre de morts. {disgustB} Alors ne faites pas comme si je l'étais.
 278)  LEE
-{normalD} D'accord. {sadA} Je vais y aller mollo. Je sais qu'on peut plus se permettre de morts. {disgustB} Alors ne faites pas comme si je l'étais.
+{normalD} D'accord. {sadA} Je vais y aller mollo. Je sais qu'on ne peut plus se permettre de morts. {disgustB} Alors ne faites pas comme si je l'étais.
 307)  LEE
-{normalD} D'accord. {sadA} Je vais y aller mollo. Je sais qu'on peut plus se permettre de morts. {disgustB} Alors ne faites pas comme si je l'étais.
+{normalD} D'accord. {sadA} Je vais y aller mollo. Je sais qu'on ne peut plus se permettre de morts. {disgustB} Alors ne faites pas comme si je l'étais.
 338)  LEE
-{normalD} D'accord. {sadA} Je vais y aller mollo. Je sais qu'on peut plus se permettre de morts. {disgustB} Alors ne faites pas comme si je l'étais.
+{normalD} D'accord. {sadA} Je vais y aller mollo. Je sais qu'on ne peut plus se permettre de morts. {disgustB} Alors ne faites pas comme si je l'étais.
 367)  LEE
-{normalD} D'accord. {sadA} Je vais y aller mollo. Je sais qu'on peut plus se permettre de morts. {disgustB} Alors ne faites pas comme si je l'étais.
+{normalD} D'accord. {sadA} Je vais y aller mollo. Je sais qu'on ne peut plus se permettre de morts. {disgustB} Alors ne faites pas comme si je l'étais.
 395)  LEE
-{normalD} D'accord. {sadA} Je vais y aller mollo. Je sais qu'on peut plus se permettre de morts. {disgustB} Alors ne faites pas comme si je l'étais.
+{normalD} D'accord. {sadA} Je vais y aller mollo. Je sais qu'on ne peut plus se permettre de morts. {disgustB} Alors ne faites pas comme si je l'étais.
 218)  CHRISTA
 {sadA} Promis.
 279)  CHRISTA
@@ -529,13 +529,13 @@ C'était pas ma main préférée de toute façon.
 397)  LEE
 {thinkingA} Rien à foutre. {disgustA} J'ai l'air d'avoir besoin d'un traitement de faveur ?
 221)  OMID
-{SadA} Et bien... [uh yeah actually you do look like you need help]
+{SadA} Eh bien... [uh yeah actually you do look like you need help]
 283)  OMID
-{SadA} Et bien... [uh yeah actually you do look like you need help]
+{SadA} Eh bien... [uh yeah actually you do look like you need help]
 313)  OMID
-{SadA} Et bien... [uh yeah actually you do look like you need help]
+{SadA} Eh bien... [uh yeah actually you do look like you need help]
 344)  OMID
-{SadA} Et bien... [uh yeah actually you do look like you need help]
+{SadA} Eh bien... [uh yeah actually you do look like you need help]
 222)  CHRISTA
 {worriedA} Oui.
 227)  CHRISTA
@@ -565,41 +565,41 @@ C'était pas ma main préférée de toute façon.
 370)  LEE
 {angryA} Tu aurais pu m'enlever une jambe {thinkingB} que ça ne m'aurait pas ralenti. {disgustA}Tu comprends ?
 224)  LEE
-{disgustA} C'était pas ma main préférée de toute façon.
+{disgustA} Ce n'était pas ma main préférée de toute façon.
 238)  LEE
-{disgustA} C'était pas ma main préférée de toute façon.
+{disgustA} Ce n'était pas ma main préférée de toute façon.
 286)  LEE
-{disgustA} C'était pas ma main préférée de toute façon.
+{disgustA} Ce n'était pas ma main préférée de toute façon.
 315)  LEE
-{disgustA} C'était pas ma main préférée de toute façon.
+{disgustA} Ce n'était pas ma main préférée de toute façon.
 346)  LEE
-{disgustA} C'était pas ma main préférée de toute façon.
+{disgustA} Ce n'était pas ma main préférée de toute façon.
 372)  LEE
-{disgustA} C'était pas ma main préférée de toute façon.
+{disgustA} Ce n'était pas ma main préférée de toute façon.
 399)  LEE
-{disgustA} C'était pas ma main préférée de toute façon.
+{disgustA} Ce n'était pas ma main préférée de toute façon.
 225)  KENNY
-{happyA} T'as pas perdu ton sens de l'humour.
+{happyA} Tu as pas perdu ton sens de l'humour.
 240)  KENNY
-{happyA} T'as pas perdu ton sens de l'humour.
+{happyA} Tu as pas perdu ton sens de l'humour.
 289)  KENNY
-{happyA} T'as pas perdu ton sens de l'humour.
+{happyA} Tu as pas perdu ton sens de l'humour.
 373)  KENNY
-{happyA} T'as pas perdu ton sens de l'humour.
+{happyA} Tu as pas perdu ton sens de l'humour.
 226)  LEE
-{thinkingA} Sans rire, ne me traitez pas différement. Je n'ai qu'un objectif, {disgustA}vous comprenez ?
+{thinkingA} Sans rire, ne me traitez pas différemment. Je n'ai qu'un objectif, {disgustA}vous comprenez ?
 239)  LEE
-{thinkingA} Sans rire, ne me traitez pas différement. Je n'ai qu'un objectif, {disgustA}vous comprenez ?
+{thinkingA} Sans rire, ne me traitez pas différemment. Je n'ai qu'un objectif, {disgustA}vous comprenez ?
 287)  LEE
-{thinkingA} Sans rire, ne me traitez pas différement. Je n'ai qu'un objectif, {disgustA}vous comprenez ?
+{thinkingA} Sans rire, ne me traitez pas différemment. Je n'ai qu'un objectif, {disgustA}vous comprenez ?
 317)  LEE
-{thinkingA} Sans rire, ne me traitez pas différement. Je n'ai qu'un objectif, {disgustA}vous comprenez ?
+{thinkingA} Sans rire, ne me traitez pas différemment. Je n'ai qu'un objectif, {disgustA}vous comprenez ?
 348)  LEE
-{thinkingA} Sans rire, ne me traitez pas différement. Je n'ai qu'un objectif, {disgustA}vous comprenez ?
+{thinkingA} Sans rire, ne me traitez pas différemment. Je n'ai qu'un objectif, {disgustA}vous comprenez ?
 374)  LEE
-{thinkingA} Sans rire, ne me traitez pas différement. Je n'ai qu'un objectif, {disgustA}vous comprenez ?
+{thinkingA} Sans rire, ne me traitez pas différemment. Je n'ai qu'un objectif, {disgustA}vous comprenez ?
 400)  LEE
-{thinkingA} Sans rire, ne me traitez pas différement. Je n'ai qu'un objectif, {disgustA}vous comprenez ?
+{thinkingA} Sans rire, ne me traitez pas différemment. Je n'ai qu'un objectif, {disgustA}vous comprenez ?
 228)  KENNY
 {thinkingA} Monsieur veut récupérer Clémentine. Avec {disgustA}ou sans bras.
 241)  KENNY
@@ -619,7 +619,7 @@ C'était pas ma main préférée de toute façon.
 290)  CHRISTA
 {worriedA} Ouais.
 242)  BEN
-{sadE} On va parler de ce qui c'est passé en bas ?
+{sadE} On va parler de ce qui s'est passé en bas ?
 243)  BEN
 {fearB} Il a perdu beaucoup de sang.
 244)  LEE
@@ -679,33 +679,33 @@ C'était une démo.
 406)  
 C'était une démo.
 248)  LEE
-{sadA} Je sais. {disgustA} C'était juste eu le vertige. {thinkingA} Je vais bien.
+{sadA} Je sais. {disgustA} C'était juste le vertige. {thinkingA} Je vais bien.
 255)  LEE
-{sadA} Je sais. {disgustA} C'était juste eu le vertige. {thinkingA} Je vais bien.
+{sadA} Je sais. {disgustA} C'était juste le vertige. {thinkingA} Je vais bien.
 293)  LEE
-{sadA} Je sais. {disgustA} C'était juste eu le vertige. {thinkingA} Je vais bien.
+{sadA} Je sais. {disgustA} C'était juste le vertige. {thinkingA} Je vais bien.
 321)  LEE
-{sadA} Je sais. {disgustA} C'était juste eu le vertige. {thinkingA} Je vais bien.
+{sadA} Je sais. {disgustA} C'était juste le vertige. {thinkingA} Je vais bien.
 354)  LEE
-{sadA} Je sais. {disgustA} C'était juste eu le vertige. {thinkingA} Je vais bien.
+{sadA} Je sais. {disgustA} C'était juste le vertige. {thinkingA} Je vais bien.
 375)  LEE
-{sadA} Je sais. {disgustA} C'était juste eu le vertige. {thinkingA} Je vais bien.
+{sadA} Je sais. {disgustA} C'était juste le vertige. {thinkingA} Je vais bien.
 401)  LEE
-{sadA} Je sais. {disgustA} C'était juste eu le vertige. {thinkingA} Je vais bien.
+{sadA} Je sais. {disgustA} C'était juste le vertige. {thinkingA} Je vais bien.
 249)  KENNY
-{sadA} Il faut que tu nous dises quand ça va pas, tu sais ?
+{sadA} Il faut que tu nous dises quand ça ne va pas, tu sais ?
 256)  KENNY
-{sadA} Il faut que tu nous dises quand ça va pas, tu sais ?
+{sadA} Il faut que tu nous dises quand ça ne va pas, tu sais ?
 296)  KENNY
-{sadA} Il faut que tu nous dises quand ça va pas, tu sais ?
+{sadA} Il faut que tu nous dises quand ça ne va pas, tu sais ?
 250)  CHRISTA
-{worriedA} Aussi fort que vous êtes.
+{worriedA} Aussi fort que tu es.
 295)  CHRISTA
-{worriedA} Aussi fort que vous êtes.
+{worriedA} Aussi fort que tu es.
 320)  CHRISTA
-{worriedA} Aussi fort que vous êtes.
+{worriedA} Aussi fort que tu es.
 353)  CHRISTA
-{worriedA} Aussi fort que vous êtes.
+{worriedA} Aussi fort que tu es.
 251)  LEE
 {normalD} Ouais. Aussi fort que je suis.
 294)  LEE
@@ -773,9 +773,9 @@ C'était une démo.
 273)  OMID
 {fearA} Et maintenant ?
 328)  CHRISTA
-{sadA} Omid a raison. {disgustA} Si tu te sens mal ou... tu sais, si ça n'a pas marché, {worriedA} ralenti un peu.
+{sadA} Omid a raison. {disgustA} Si tu te sens mal ou... tu sais, si ça n'a pas marché, {worriedA} ralentis un peu.
 336)  CHRISTA
-{sadA} Omid a raison. {disgustA} Si tu te sens mal ou... tu sais, si ça n'a pas marché, {worriedA} ralenti un peu.
+{sadA} Omid a raison. {disgustA} Si tu te sens mal ou... tu sais, si ça n'a pas marché, {worriedA} ralentis un peu.
 329)  CHRISTA
 {angryA} Ferme-la, Omid.
 350)  CHRISTA
@@ -789,15 +789,15 @@ C'était une démo.
 351)  CHRISTA
 {thinkingA} Il veut ramener Clémentine, c'est tout.
 333)  CHRISTA
-{sadA} Dis nous si tu te sens bizarre. Genre s'il se passe un truc.
+{sadA} Dis-nous si tu te sens bizarre. Genre s'il se passe un truc.
 355)  CHRISTA
-{sadA} Dis nous si tu te sens bizarre. Genre s'il se passe un truc.
+{sadA} Dis-nous si tu te sens bizarre. Genre s'il se passe un truc.
 383)  KENNY
-{sadA} Tu veux qu'on parle de ce qui c'est passé là-bas ?
+{sadA} Tu veux qu'on parle de ce qui s'est passé là-bas ?
 384)  KENNY
 {fearA} Tu as perdu beaucoup de sang.
 385)  KENNY
-[to lee] {sadA} Si tu sens que tu vas tourner de l'oeil ou... {disgustA} pire, préviens moi.
+[to lee] {sadA} Si tu sens que tu vas tourner de l'oeil ou... {disgustA} pire, préviens-moi.
 386)  KENNY
 {thinkingA} Jamais.
 387)  KENNY
@@ -809,25 +809,25 @@ C'était une démo.
 390)  KENNY
 {thinkingA} J'ai compris. Tu veux ramener Clémentine. {disgustA} Avec ou sans bras.
 391)  KENNY
-{sadA} Préviens moi si tu te sens bizarre.
+{sadA} Préviens-moi si tu te sens bizarre.
 393)  KENNY
 {normalC} D'accord.
 422)  BEN
 {normalC} D'accord.
 408)  BEN
-{disgustA} Hé, {fearB} tu veux parler de ce qui c'est passé là-bas ?
+{disgustA} Hé, {fearB} tu veux parler de ce qui s'est passé là-bas ?
 409)  BEN
-{fearA} Alors, si ton coeur s'emballe ou... si un truc plus grave arrive, préviens moi. {normalC} Je t'aiderais.
+{fearA} Alors, si ton coeur s'emballe ou... si un truc plus grave arrive, préviens-moi. {normalC} Je t'aiderai.
 410)  BEN
 {sadB} Tu as perdu beaucoup de sang...
 411)  BEN
 {fearA} Non, bien sûr que non.
 412)  BEN
-{disgustA} Et bien...
+{disgustA} Eh bien...
 413)  LEE
 {angryA} Tu aurais pu m'enlever une jambe que ça ne m'aurait pas ralenti pour autant. {disgustA}Tu comprends ?
 414)  BEN
-[gulp] {sadA} Ouaip. Cinq sur cinq.
+[gulp] {sadA} Ouais. Cinq sur cinq.
 415)  LEE
 {happyA} C'est bien. [joking around]
 416)  BEN
@@ -835,15 +835,15 @@ C'était une démo.
 417)  BEN
 {sadA} Ouais. Vraiment.
 418)  BEN
-{fearB} J'imagine que tu veux vraiment ramener Clémentine. Je suis content de t'aider. {thinkingA} Je vais tenter de pas te traiter différemment même si tu n'as plus qu'un bras.
+{fearB} J'imagine que tu veux vraiment ramener Clémentine. Je suis content de t'aider. {thinkingA} Je vais tenter de ne pas te traiter différemment même si tu n'as plus qu'un bras.
 419)  BEN
 {sadA} Allez, Lee.... [give us a break, light hearted but you're actually concerned about him]
 420)  LEE
 {normalD} Bien, aussi fort que je peux être.
 421)  BEN
-{fearA} Et bien, préviens moi si tu te sens bizarre ou... {sadA} autre chose, tu vois.
+{fearA} Eh bien, préviens-moi si tu te sens bizarre ou... {sadA} autre chose, tu vois.
 423)  LEE
-{thinkingA} Faisons le point et réfléchissons à la suite.
+{thinkingA} Faisons-le point et réfléchissons à la suite.
 424)  BEN
 {normalC} Ca me semble bien.
 425)  OMID
@@ -857,7 +857,7 @@ C'était une démo.
 429)  LEE
 [to himself] Ca va être chaud de passer ça.
 430)  LEE
-[to himself] {thinkingA} C'est un clocher comme Molly se servait pour disperser les marcheurs en ville.
+[to himself] {thinkingA} C'est un clocher comme ceux dont Molly se servait pour disperser les marcheurs en ville.
 431)  LEE
 [to himself] {thinkingA} Le clocher est de ce côté de l'hôpital... et la maison par là-bas... {angryA} Il y a peut-être un moyen de partir d'ici.
 432)  LEE
@@ -865,13 +865,13 @@ C'était une démo.
 688)  LEE
 [to himself] {thinkingA} Si j'atteins ce clocher, je peux attirer les marcheurs de ce côté de l'hôpital. {disgustA} Ils sont des milliers mais ils libéreront les rues entre ici, la maison et River Street, {thinkingA} même si c'est juste pour quelques minutes.
 433)  KENNY
-{thinkingA} T'es sûr que tu devrais y aller ?
+{thinkingA} Tu es sûr que tu devrais y aller ?
 448)  KENNY
-{thinkingA} T'es sûr que tu devrais y aller ?
+{thinkingA} Tu es sûr que tu devrais y aller ?
 452)  KENNY
-{thinkingA} T'es sûr que tu devrais y aller ?
+{thinkingA} Tu es sûr que tu devrais y aller ?
 473)  KENNY
-{thinkingA} T'es sûr que tu devrais y aller ?
+{thinkingA} Tu es sûr que tu devrais y aller ?
 434)  LEE
 {thinkingA} Alors on est d'accord.
 446)  LEE
@@ -895,13 +895,13 @@ C'était une démo.
 483)  LEE
 {disgustB} Si quelqu'un doit prendre un tel risque, cela doit être celui {sadA} qui a le moins à perdre.
 436)  OMID
-{surpriseA} Ma jambe va mieux, laisse moi faire.
+{surpriseA} Ma jambe va mieux, laisse-moi faire.
 447)  OMID
-{surpriseA} Ma jambe va mieux, laisse moi faire.
+{surpriseA} Ma jambe va mieux, laisse-moi faire.
 458)  OMID
-{surpriseA} Ma jambe va mieux, laisse moi faire.
+{surpriseA} Ma jambe va mieux, laisse-moi faire.
 484)  OMID
-{surpriseA} Ma jambe va mieux, laisse moi faire.
+{surpriseA} Ma jambe va mieux, laisse-moi faire.
 437)  LEE
 {disgustA} Qu'est-ce qui peut m'arriver de pire ? Me faire encore mordre ?
 443)  LEE
@@ -959,11 +959,11 @@ C'était une démo.
 469)  LEE
 {thinkingA} Non.
 470)  BEN
-{fearA} Laisse moi y aller.
+{fearA} Laisse-moi y aller.
 471)  BEN
 {sadA} Sois prudent.
 476)  LEE
-{sadB} S'il m'arrive quelque chose, te es sa dernière chance.
+{sadB} S'il m'arrive quelque chose, tu es sa dernière chance.
 480)  LEE
 {sadB} S'il m'arrive quelque chose, tu es sa dernière chance.
 477)  KENNY
@@ -979,9 +979,9 @@ C'était une démo.
 489)  CHRISTA
 Je vais y aller.
 490)  LEE
-[to himself] {disgustA} Ok, Lee. C'est pas le moment de te ramasser encore.
+[to himself] {disgustA} Ok, Lee. Ce n'est pas le moment de te ramasser encore.
 491)  LEE
-[to himself] J'aimerai pouvoir nous dégager le passage...
+[to himself] J'aimerais pouvoir nous dégager le passage...
 492)  LEE
 [to himself a little louder, same] River Street doit être par là.
 493)  LEE
@@ -991,7 +991,7 @@ Ouais.
 495)  LEE
 Ouais.
 496)  CHRISTA
-On doit faire marche arrière. On s'arrêtera à la maison comme tu as dit et on s'assure qu'on a rien oublié.
+On doit faire marche arrière. On s'arrêtera à la maison comme tu as dit et on s'assure qu'on n'a rien oublié.
 497)  LEE
 [to himself] Il faut trouver un moyen de partir d'ici...
 498)  LEE
@@ -999,15 +999,15 @@ On doit faire marche arrière. On s'arrêtera à la maison comme tu as dit et on s'
 499)  KENNY
 {angryA} J'emmerde cet endroit.
 500)  KENNY
-[coming off "fuck that place"] {thinkingA} Did fix up our boat, though. We get Clementine and get right back...
+[coming off "fuck that place"] {thinkingA} Il a pourtant permis de réparer notre bateau. On récupère Clémentine et on revient...
 501)  LEE
-{sadA} Assure-toi qu'elle porte son gilet de sauvetage, ok ? Je suis sûr {sadB}qu'elle voudra pas.
+{sadA} Assure-toi qu'elle porte son gilet de sauvetage, ok ? Je suis sûr {sadB}qu'elle ne voudra pas.
 502)  LEE
 [to himself] {fearB} Les marcheurs viennent tous par ici. Faut que je parte de cette tour.
 503)  LEE
-[to himself] {thinkingA} En tirant là dessus, ils seront des milliers en bas.
+[to himself] {thinkingA} En tirant là-dessus, ils seront des milliers en bas.
 504)  LEE
-[to himself] {fearA} Putain. Je sais pas si je vais y arriver.
+[to himself] {fearA} Putain. Je ne sais pas si je vais y arriver.
 505)  LEE
 [to himself, pysching himself up] Allez, ce n'est pas si haut...
 506)  LEE
@@ -1015,7 +1015,7 @@ On doit faire marche arrière. On s'arrêtera à la maison comme tu as dit et on s'
 507)  LEE
 [trying to pull open a locked hatch] MERDE.
 508)  LEE
-[to himself, exasperated] Je passerais pas à travers.
+[to himself, exasperated] Je passerai pas à travers.
 509)  LEE
 [to himself] {disgustA} Jamais. C'est plus haut, pour commencer.
 510)  LEE
@@ -1023,15 +1023,15 @@ On doit faire marche arrière. On s'arrêtera à la maison comme tu as dit et on s'
 511)  LEE
 {thinkingA} On peut descendre ici.
 512)  KENNY
-{thinkingA} Ouais, si la moitié des morts de Géorgie traînait pas dans le coin.
+{thinkingA} Ouais, si la moitié des morts de Géorgie ne traînait pas dans le coin.
 514)  CHRISTA
-{thinkingA} Ouais, si la moitié des morts de Géorgie traînait pas dans le coin.
+{thinkingA} Ouais, si la moitié des morts de Géorgie ne traînait pas dans le coin.
 513)  BEN
 {thinkingA} Mais il y a encore {disgustA}un million de marcheurs en bas...
 515)  LEE
 Ca mène à la rue en contrebas.
 516)  LEE
-[to himself] J'y retourne pas.
+[to himself] Je n'y retourne pas.
 517)  CHRISTA
 {fearA} Ils viennent par là !
 518)  OMID
@@ -1089,7 +1089,7 @@ Ils viennent par ici ! Comment tu vas t'en aller de là ?!
 542)  BEN
 {fearB} Ok, faudrait se barrer là.
 543)  
-C'est pas si loin.
+Ce n'est pas si loin.
 544)  
 Et voilà.
 545)  
@@ -1097,7 +1097,7 @@ Je suis baisé.
 546)  LEE
 [jumping with all of your might]
 547)  LEE
-{fearA} C'est pas si loin. C'est à deux pas.
+{fearA} Ce n'est pas si loin. C'est à deux pas.
 548)  LEE
 {thinkingA} Et voilà. {thinkingB} Et voilà, trouduc.
 549)  LEE
@@ -1111,7 +1111,7 @@ Je suis baisé.
 553)  LEE
 [across the gap] {fearC} Je vais devoir sauter ! Pas le choix !
 554)  KENNY
-{fearA} Tu peux y arriver ! C'est pas si loin !
+{fearA} Tu peux y arriver ! Ce n'est pas si loin !
 555)  CHRISTA
 {fearB} Putain, fais gaffe !
 556)  BEN
@@ -1125,7 +1125,7 @@ Je suis baisé.
 560)  KENNY
 [yelling across the gap] SAUTE !
 561)  KENNY
-[yelling across the gap] Qu'est-ce que t'attends ?!
+[yelling across the gap] Qu'est-ce que tu attends ?!
 562)  KENNY
 [yelling across the gap] Tu peux le faire, vieux !
 563)  OMID
@@ -1133,11 +1133,11 @@ Je suis baisé.
 569)  BEN
 [yelling across a gap] Tu peux le faire !
 564)  OMID
-[yelling across a gap] Regarde pas en bas !
+[yelling across a gap] Ne regarde pas en bas !
 565)  OMID
 [yelling across a gap] Saute !
 566)  OMID
-[yelling across a gap] Réfléchis pas !
+[yelling across a gap] Ne réfléchis pas !
 567)  OMID
 [yelling across a gap]  Vas-y ! Saute !
 568)  BEN
@@ -1167,7 +1167,7 @@ Tu veux toujours mourir ?
 580)  BEN
 {feara}J'ai toujours peur de me faire bouffer. Plus que jamais.
 581)  LEE
-{sada}Et bien, tu es là. {angrya}Ne ME fais pas tuer.
+{sada}Eh bien, tu es là. {angrya}Ne ME fais pas tuer.
 582)  
 Tu es là. Ne me fais pas tuer.
 583)  LEE
@@ -1175,11 +1175,11 @@ Tu es là. Ne me fais pas tuer.
 584)  BEN
 {sada}Promis.
 585)  
-S'il ne reste plus que toi et Clem...
+S'il ne reste plus que toi et Clém...
 586)  BEN
 {angrya}Ne dis pas ça.
 587)  LEE
-{sadb}Vu les circonstances, {angrya}j'ai pas le choix, Ben.
+{sadb}Vu les circonstances, {angrya}je n'ai pas le choix, Ben.
 588)  LEE
 {angrya}Quand tout sera fini et s'il ne reste plus que toi et Clémentine, {sada}tu auras toutes les raisons de vouloir vivre.
 589)  
@@ -1187,9 +1187,9 @@ Je m'assurerai que ça n'arrive pas.
 590)  BEN
 {fearb}Sérieux... ?
 591)  LEE
-{happya}C'est pas si mal de se faire mordre.
+{happya}Ce n'est pas si mal de se faire mordre.
 592)  LEE
-{normalc}Je ferais mon possible pour que ça n'arrive pas.
+{normalc}Je ferai mon possible pour que ça n'arrive pas.
 593)  BEN
 {sada}Merci... {sadb}moi inclus ?
 594)  LEE
@@ -1199,9 +1199,9 @@ Je m'assurerai que ça n'arrive pas.
 596)  LEE
 {thinkinga}Tu es venu avec moi.
 597)  BEN
-{sada}Tu pensais pas que je le ferais ?
+{sada}Tu ne pensais pas que je le ferais ?
 598)  BEN
-{normala}Comme tu l'as dit, {happya}Clementine a été ma plus grande... {sadb}et bien... seule vraie fan. {angrya}J'aurais été une grosse ordure de pas le faire.
+{normala}Comme tu l'as dit, {happya}Clémentine a été ma plus grande... {sadb}et bien... seule vraie fan. {angrya}J'aurais été une grosse ordure de pas le faire.
 599)  BEN
 {sada}Avec {thinkinga}tout ce qu'on a vécu, {sadb}cela semblait la seule chose sensée à faire.
 600)  LEE
@@ -1221,7 +1221,7 @@ Je m'assurerai que ça n'arrive pas.
 607)  LEE
 Du neuf par ici ?
 608)  CHRISTA
-{sada}Honnêtement, je vois pas grand chose. {angrya}Ca doit être mes allergies ou toutes ces {disgusta}merdes que les marcheurs remuent.
+{sada}Honnêtement, je ne vois pas grand chose. {angrya}Ca doit être mes allergies ou toutes ces {disgusta}merdes que les marcheurs remuent.
 609)  LEE
 {sada}Hé.
 635)  LEE
@@ -1237,13 +1237,13 @@ Des allergies. Marrant.
 614)  LEE
 {normalb}La maison est par là.
 615)  LEE
-{angrya}Si on se sert du clocher pour les attirer de ce côté de l'hôpital, {sada}ce sera pas facile de retourner à River Street, {happya}mais ce sera mieux que rien.
+{angrya}Si on se sert du clocher pour les attirer de ce côté de l'hôpital, {sada}ce ne sera pas facile de retourner à River Street, {happya}mais ce sera mieux que rien.
 616)  CHRISTA
 {happya}Je suis d'accord. {worrieda}Il faut partir d'ici.
 617)  CHRISTA
 {normalb}Ouais.
 618)  LEE
-{sada}Je sais. C'est cette histoire avec Clem... tout ça... {angrya}ça me fout les nerfs {angryb}comme jamais.
+{sada}Je sais. C'est cette histoire avec Clém... tout ça... {angrya}ça me fout les nerfs {angryb}comme jamais.
 619)  LEE
 {surpriseb}J'avais des allergies aussi avant. {normalb}Et puis... {thinkinga}merde. C'était qui ce type ?
 620)  CHRISTA
@@ -1257,7 +1257,7 @@ Des allergies. Marrant.
 624)  
 Je m'inquiétais que tu ne viennes pas avec moi.
 625)  LEE
-{thinkinga}Je croyais que toi et Omid ne viendraient pas avec moi.
+{thinkinga}Je croyais que toi et Omid ne viendriez pas avec moi.
 626)  LEE
 {happya}J'apprécie.
 724)  LEE
@@ -1267,7 +1267,7 @@ Je m'inquiétais que tu ne viennes pas avec moi.
 722)  LEE
 {happyb}Vous avez été forts depuis le premier jour.
 628)  CHRISTA
-{sada}On se surveille l'un l'autre, {angrya}mais on te laissera jamais partir tout seul, {worrieda}pas avec cette bombe à retardement dans ton bras.
+{sada}On se surveille l'un l'autre, {angrya}mais on ne te laissera jamais partir tout seul, {worrieda}pas avec cette bombe à retardement dans ton bras.
 629)  CHRISTA
 {happya}On est quoi là, troisième ? Quatrième jour ?
 723)  CHRISTA
@@ -1283,19 +1283,19 @@ Je m'inquiétais que tu ne viennes pas avec moi.
 634)  LEE
 {surpriseb}{happya}Ouais. Ca pourrait marcher.
 636)  
-Je crois que t'es le chouchou de Clem.
+Je crois que tu es le chouchou de Clém.
 637)  OMID
 {angryb}Quand on tiendra ce fumier, on te laissera tranquille, seul avec lui.
 638)  OMID
 Tu m'as compris ?
 639)  LEE
-{happya}Ouais, c'est une grande fan. {thinkinga}You get away with shit I never would.
+{happya}Ouais, c'est une grande fan. {thinkinga}Tu t'en sors pour des saloperies que je n'aurais jamais faites.
 640)  LEE
 {happya}Je t'ai compris.
 641)  OMID
 {angrya}On va la ramener, Lee. Tu le sais, ça, non ?
 642)  LEE
-{happyb}Je crois que t'es le chouchou de Clem, tu le sais ça ?
+{happyb}Je crois que tu es le chouchou de Clém, tu le sais ça ?
 643)  LEE
 {angrya}Ouais.
 644)  OMID
@@ -1309,7 +1309,7 @@ Comment va ta jambe ?
 648)  LEE
 {angrya}Je vais voir si on peut atteindre ce clocher.
 649)  OMID
-{sada}Ok, mais sois prudent. Je veux pas que tu nous laisses plus tôt que prévu.
+{sada}Ok, mais sois prudent. Je ne veux pas que tu nous laisses plus tôt que prévu.
 650)  LEE
 {sada}Comment va ta jambe ?
 651)  OMID
@@ -1317,15 +1317,15 @@ Comment va ta jambe ?
 652)  LEE
 {happya}Elle est incroyable, hein ?
 653)  OMID
-{happya}C'est bon. {angrya}Ca aurait eu un sens si tu n'avais pas laissé clem avec moi quand vous êtes parti à Crawford. {sadb}Cette gamine m'a sauvé la vie.
+{happya}C'est bon. {angrya}Ca n'aurait pas eu de sens si tu n'avais pas laissé Clém avec moi quand vous êtes partis à Crawford. {sadb}Cette gamine m'a sauvé la vie.
 654)  OMID
-{happya}Ouais. {sada}T'en fais pas plus que nécessaire pour elle, ok ?
+{happya}Ouais. {sada}Ne t'en fais pas plus que nécessaire pour elle, ok ?
 655)  OMID
 {happya}Ca va beaucoup mieux. Merci d'être allé à Crawford pour moi, {sada}même si ce n'était pas QUE pour moi. {happyb}Clémentine aussi. {angrya}C'est un roc.
 656)  LEE
 {sada}N'est-ce pas ?
 657)  KENNY
-{sada}Nan. {angrya}J'ai besoin {sada}d'une minute, en fait. {sadb}Désolé, je sais que j'aurais pas dû.
+{sada}Non. {angrya}J'ai besoin {sada}d'une minute, en fait. {sadb}Désolé, je sais que je n'aurais pas dû.
 659)  LEE
 {happya}Hé, Ken.
 660)  
@@ -1337,15 +1337,15 @@ Que se passe-t-il ?
 663)  LEE
 {sada}Oui.
 664)  KENNY
-{sada}Je te remercierais jamais assez pour ce que t'as fait pour Duck. {sadb}Je sais pas comment j'aurais fait si tu--
+{sada}Je ne te remercierai jamais assez pour ce que tu as fait pour Duck. {sadb}Je ne sais pas comment j'aurais fait si tu--
 665)  LEE
-{sada}Te bile pas.
+{sada}Ne te bile pas.
 666)  LEE
 {sadb}Ken--
 667)  KENNY
-[pulls out of it]{angrya} Non. Je suis désolé. Il faut se magner de partir d'ici, c'est pas le moment. {sada}Désolé. {angrya}Ca va.
+[pulls out of it]{angrya} Non. Je suis désolé. Il faut se magner de partir d'ici, ce n'est pas le moment. {sada}Désolé. {angrya}Ca va.
 668)  KENNY
-{feara}Quand je vois où on en est, maintenant, {angryb}je vois pas {sadb}Kat et Duck au milieu de ce merdier.
+{feara}Quand je vois où on en est, maintenant, {angryb}je ne vois pas {sadb}Kat et Duck au milieu de ce merdier.
 669)  KENNY
 {sada}Je suis... fier de l'avoir fait. Je peux me dire, à jamais, que je lui ai épargné le pire.
 670)  LEE
@@ -1363,17 +1363,17 @@ Que se passe-t-il ?
 676)  LEE
 {sada}Des idées sur... autre chose ?
 677)  KENNY
-{sada}Nan, ça va. Faut que je prenne une seconde. {angrya}Je surveille par ici. {happya}Désolé.
+{sada}Non, ça va. Faut que je prenne une seconde. {angrya}Je surveille par ici. {happya}Désolé.
 678)  
-Y'en a combien en dessous à ton avis ?
+Il y en a combien en-dessous à ton avis ?
 679)  LEE
 {sada}Ouais, c'est ce que je pensais.
 680)  LEE
-{feara}A ton avis, y'en a combien qui errent en dessous ?
+{feara}A ton avis, il y en a combien qui errent en-dessous ?
 681)  KENNY
-{feara}Dehors ? {sada}Regarde cette poussière. {angrya}Qui peux le dire, putain ?
+{feara}Dehors ? {sada}Regarde cette poussière. {angrya}Qui peut le dire, putain ?
 682)  KENNY
-{surpriseda}A l'hôpital ? Des milliers. {thinkinga}Qui sait ? Y'avait plein de morts avant, non ?
+{surpriseda}A l'hôpital ? Des milliers. {thinkinga}Qui sait ? Il y avait plein de morts avant, non ?
 683)  
 Echelle
 684)  
@@ -1459,23 +1459,23 @@ Cloche
 732)  LEE
 [pickup1][30 ft away] {fearA} Ouais... Ca va.
 729)  LEE
-[pickup1] [30 ft] {disgustA} J'aimerai avoir mon autre main.
+[pickup1] [30 ft] {disgustA} J'aimerais avoir mon autre main.
 735)  LEE
-[pickup1] [30 ft] {disgustA} J'aimerai avoir mon autre main.
+[pickup1] [30 ft] {disgustA} J'aimerais avoir mon autre main.
 736)  LEE
-[pickup1] [30 ft] {disgustA} J'aimerai avoir mon autre main.
+[pickup1] [30 ft] {disgustA} J'aimerais avoir mon autre main.
 730)  OMID
 [pickup1] [30ft] {fearA} Sans déconner !
 733)  KENNY
-[pickup1] {surprisedA} Bon dieu, tu vas bien ?
+[pickup1] {surprisedA} Bon Dieu, tu vas bien ?
 734)  BEN
 [pickup1][30ft] {surprisedA} Putain, c'était moins une ! Ca va ?!
 737)  KENNY
 [pickup1][30 ft away] {fearA} Sans déconner.
 738)  BEN
-[pickup1][30 ft away] {fearA} Je l'aurai parié !
+[pickup1][30 ft away] {fearA} Je l'aurais parié !
 739)  LEE
-[pickup1] {disgustA} Parce que le manchot insiste. Maintenant fermez la.
+[pickup1] {disgustA} Parce que le manchot insiste. Maintenant fermez-la.
 740)  KENNY
 [pickup1] {disgustA} Putain mais pourquoi on laisse le manchot prendre tous les risques ?
 741)  LEE
@@ -1483,17 +1483,17 @@ Cloche
 742)  KENNY
 [pickup1]  {thinkingA} C'est un peu maigre.
 743)  KENNY
-[pickup1] {normalB} Ouaip.
+[pickup1] {normalB} Ouais.
 744)  LEE
 [pickup1] {disgustA} Quoi ? Tu veux le faire ?
 745)  BEN
 [pickup1] {sadB} Non, simplement... {thinkingA} laisse tomber.
 746)  BEN
-[pickup1] {fearB} T'es sûr que tu devrais faire ça ?
+[pickup1] {fearB} Tu es sûr de devoir faire ça ?
 747)  OMID
 [pickup1] {fearA} C'est équitable.
 748)  OMID
-[pickup1] {disgustA} On devrait demander à quelqu'un de plus... physiquement capable. {sadA} T'es sûr que ça ira, Lee ?
+[pickup1] {disgustA} On devrait demander à quelqu'un de plus... physiquement capable. {sadA} Tu es sûr que ça ira, Lee ?
 749)  LEE
 [pickup1] {angryA} Pose la question encore une fois et tu vas voir.
 750)  
