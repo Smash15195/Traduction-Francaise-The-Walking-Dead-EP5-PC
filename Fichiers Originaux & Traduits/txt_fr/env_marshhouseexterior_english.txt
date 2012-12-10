@@ -207,8 +207,8 @@ Utiliser Tesson Sur
 3)  
 Ne Pas Regarder.
 4)  
-N'allez pas là-bas !
+N'y va pas !
 5)  
-N'arrêtez pas de bouger.
+N'arrête pas de bouger.
 6)  LEE
 [pickup1] [trying to be very quiet] Clém, ne fais pas...

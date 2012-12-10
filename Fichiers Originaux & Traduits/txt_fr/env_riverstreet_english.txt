@@ -143,7 +143,7 @@ Je veux dire, {SadA}vous savez pourquoi Kenny a fait ça, non ?
 66)  LEE
 {Body-B}{ThinkingA}Je n'en doute pas. {HappyA}J'apprécie.
 67)  LEE
-{SadA}Ca suffit.
+{SadA}Ca peut aller.
 68)  CHRISTA
 {WorriedA}Comment tu te sens ?
 69)  CHRISTA
@@ -159,7 +159,7 @@ Je veux dire, {SadA}vous savez pourquoi Kenny a fait ça, non ?
 74)  OMID
 [calling out] {Body-A}{FearA}Suffit d'y aller doucement et sûrement...
 75)  OMID
-{Body-A}{SurpriseA}Christa, tu es la prochaine !
+{Body-A}{SurpriseA}Christa, à ton tour !
 76)  LEE
 {Body-B}{HappyA}J'y suis presque ! {ThinkingA}Ce n'est pas très difficile à traverser.
 77)  OMID

@@ -29,7 +29,7 @@
 14)  CHRISTA
 [emp] {SadA}Tu penses que c'est possible pour toi ?
 16)  OMID
-{NormalB}On dirait bien.
+{NormalB}Ca marche.
 17)  KENNY
 [quietish] {ThinkingA}Avançons aussi loin que nous pouvons jusqu'à ce que nous trouvions une sortie.
 18)  LEE
@@ -71,7 +71,7 @@ Randy Tudor. Brave homme. Un PUTAIN d'homme bon. Une puissante moustache. Un des
 36)  BEN
 [whispered] Il y a de la lumière là-haut...
 37)  LEE
-[to himself, exerted, climbing a ladder] Super. Je dois virer mes fesses de cette échelle.
+[to himself, exerted, climbing a ladder] Super. Faut que je me remue fissa !
 39)  
 Merde !
 40)  
@@ -113,7 +113,7 @@ Attention !
 58)  BEN
 [hushed] Je crois que je me suis pissé dessus.
 59)  LEE
-[hushed] Bon oui, et alors.
+[hushed] C'est un oui, donc.
 60)  KENNY
 [hushed] J'ai presque chié dans mon froc, mais oui.
 61)  OMID
@@ -171,7 +171,7 @@ Je ne peux pas bouger !
 87)  LEE
 [idle of hanging upside down, totally out of it, dangling from your ankle]
 88)  CHRISTA
-[hushed, relieved] [phew] Joli boulot.
+[hushed, relieved] [phew] Bien joué.
 89)  KENNY
 [hushed, relieved] [phew] Continue comme ça, mon pote. Tu m'as foutu une putain de frayeur.
 90)  BEN

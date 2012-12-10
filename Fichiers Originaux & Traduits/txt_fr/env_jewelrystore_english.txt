@@ -35,7 +35,7 @@ Clémentine, il faut qu'on parte d'ici aussi vite que possible.
 17)  LEE
 {normald}Il le faut. {normalb}Je te protégerai. On se taillera un passage.
 18)  CLEMENTINE
-{sadb}Non, c'est de la folie ! Je t'ai sauvé, on est en sécurité ici, j'ai fermé à clef.
+{sadb}Non, c'est de la folie ! Je t'ai sauvé, on est en sécurité ici, j'ai fermé derrière nous.
 19)  LEE
 {sada}Ouvre cette porte.
 20)  CLEMENTINE
@@ -133,7 +133,7 @@ Ne te laisse jamais enfermer.
 66)  CLEMENTINE
 {sadb}[sad] C'était dur. [getting lee to safety]
 67)  LEE
-{normald}[dying, trying to walk] Je ne sais pas comment tu t'y es pris mais tu as bien fait, d'accord ?
+{normald}[dying, trying to walk] Je ne sais pas comment tu t'y es prise mais tu as bien fait, d'accord ?
 68)  LEE
 {paina}[dying, trying to walk]  {sada}On va sortir d'ici et tu ne commettras pas la même erreur.
 69)  CLEMENTINE
@@ -191,7 +191,7 @@ Assure-toi que je ne me transforme pas.
 95)  LEE
 {sada}Tu vas t'assurer que je ne me transforme pas.
 96)  LEE
-{sada}Clem, c'est promis. Tu sais ce que tu dois faire.
+{sada}Clem, c'est ce qu'il va se passer. Tu sais quoi faire.
 97)  CLEMENTINE
 {sadb}[upset] Mais ça n'arrivera pas.
 98)  CLEMENTINE

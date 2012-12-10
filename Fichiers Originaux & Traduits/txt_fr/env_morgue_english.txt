@@ -483,15 +483,15 @@ Nous pensions que peut-être... avec ta morsure... si nous l'enlevions, tu pourra
 360)  LEE
 {angryA}Tu crois ? [sarc]
 130)  LEE
-{angryA}Euh, hé, {fearA}je vais me coucher juste là.
+{angryA}Euh, hé, {fearA}je suis là.
 192)  LEE
-{angryA}Euh, hé, {fearA}je vais me coucher juste là.
+{angryA}Euh, hé, {fearA}je suis là.
 280)  LEE
-{angryA}Euh, hé, {fearA}je vais me coucher juste là.
+{angryA}Euh, hé, {fearA}je suis là.
 331)  LEE
-{angryA}Euh, hé, {fearA}je vais me coucher juste là.
+{angryA}Euh, hé, {fearA}je suis là.
 366)  LEE
-{angryA}Euh, hé, {fearA}je vais me coucher juste là.
+{angryA}Euh, hé, {fearA}je suis là.
 131)  CHRISTA
 {sadB}Ce n'est plus vraiment notre décision maintenant.
 277)  CHRISTA
@@ -1063,7 +1063,7 @@ On y va. {FearB}Un.
 538)  LEE
 {thinkingA}Gardez un oeil sur cette porte les gars et je me charge de nous sortir d'ici.
 525)  LEE
-{thinkingB}No. This is what we're doing {normalD}and I don't want to hear anything else, okay?
+{thinkingB}Non. C'est ce qu'on va faire {normalD}et je veux rien entendre d'autre, d'accord ?
 528)  LEE
 {thinkingB}Non. C'est ce qu'on va faire {normalD}et je ne veux rien entendre de plus, ok ?
 531)  LEE
@@ -1473,13 +1473,13 @@ Congélateurs
 733)  BEN
 [panicing]  {fearA}Lee ?  Lee !?   {sadB}Oh, mon Dieu. J'espère que tu es vivant ! Je... Je ne peux pas...
 734)  
-Cabinet
+Placard
 735)  
 Porte des égoûts
 736)  
 Porte des escaliers
 737)  
-Echelle
+Balance
 738)  
 Table d'opération
 739)  

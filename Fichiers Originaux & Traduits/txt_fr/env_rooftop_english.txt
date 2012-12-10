@@ -699,21 +699,21 @@ C'était une démo.
 296)  KENNY
 {sadA} Il faut que tu nous dises quand ça ne va pas, tu sais ?
 250)  CHRISTA
-{worriedA} Aussi fort que tu es.
+{worriedA} Tout bien portant que tu es.
 295)  CHRISTA
-{worriedA} Aussi fort que tu es.
+{worriedA} Tout bien portant que tu es.
 320)  CHRISTA
-{worriedA} Aussi fort que tu es.
+{worriedA} Tout bien portant que tu es.
 353)  CHRISTA
-{worriedA} Aussi fort que tu es.
+{worriedA} Tout bien portant que tu es.
 251)  LEE
-{normalD} Ouais. Aussi fort que je suis.
+{normalD} Ouais. Tout bien portant que je suis.
 294)  LEE
-{normalD} Ouais. Aussi fort que je suis.
+{normalD} Ouais. Tout bien portant que je suis.
 319)  LEE
-{normalD} Ouais. Aussi fort que je suis.
+{normalD} Ouais. Tout bien portant que je suis.
 356)  LEE
-{normalD} Ouais. Aussi fort que je suis.
+{normalD} Ouais. Tout bien portant que je suis.
 252)  LEE
 {normalD} C'est la morsure. Il faut faire avec.
 260)  LEE
@@ -839,7 +839,7 @@ C'était une démo.
 419)  BEN
 {sadA} Allez, Lee.... [give us a break, light hearted but you're actually concerned about him]
 420)  LEE
-{normalD} Bien, aussi fort que je peux être.
+{normalD} Bien, tout bien portant que je suis.
 421)  BEN
 {fearA} Eh bien, préviens-moi si tu te sens bizarre ou... {sadA} autre chose, tu vois.
 423)  LEE
@@ -1041,7 +1041,7 @@ Ca mène à la rue en contrebas.
 520)  KENNY
 {fearB} Ca a marché, vieux. Reviens maintenant !
 521)  LEE
-[calling out over his shoulder] {fearB} La porte est fermée !
+[calling out over his shoulder] {fearB} La trappe est verrouillée !
 522)  LEE
 [to himself, frustrated] Ah, putain.
 523)  BEN
@@ -1401,7 +1401,7 @@ Issue de secours
 695)  
 Empreintes de pas
 696)  
-Ecart
+Vide
 697)  
 Trappe
 698)  LEE

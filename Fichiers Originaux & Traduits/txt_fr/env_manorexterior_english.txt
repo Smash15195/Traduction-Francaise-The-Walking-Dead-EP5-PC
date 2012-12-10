@@ -213,7 +213,7 @@ Trouvez-en un autre un autre.
 75)  KENNY
 {angryB}Je n'arrive pas à trouver {angryC}UN SEUL truc qui {angryB}nous est arrivé et qui n'est pas {angryD}au-moins un peu de ta faute.
 78)  KENNY
-CHILL? {surprisedA}Lee a été mordu et Dieu {disgustA}seul sait combien de temps il LUI reste, {surprisedA}Clémentine est {angryB}on ne sait où et on nous {angryC}a volé le seul espoir qui nous restait.
+COOL ? {surprisedA}Lee a été mordu et Dieu {disgustA}seul sait combien de temps il LUI reste, {surprisedA}Clémentine est {angryB}on ne sait où et on nous {angryC}a volé le seul espoir qui nous restait.
 79)  BEN
 {angryB}Donc ?
 80)  KENNY
@@ -361,7 +361,7 @@ Je me suis évanoui à cause de la morsure.
 146)  KENNY
 {fearA}Comment vas-tu {thinkingA}, avec... {sadA}tout ce qui se passe ici ?
 147)  CHRISTA
-Nous... allions le couper, mais Lee s'y est opposé.
+Nous... allions l'amputer, mais Lee s'y est opposé.
 148)  
 Ca a clairement des effets.
 149)  

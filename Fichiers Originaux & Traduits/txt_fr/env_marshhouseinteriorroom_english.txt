@@ -955,9 +955,9 @@ Coup de tête
 472)  CLEMENTINE
 [pickup1] [small, in shock, but happy] Bien.
 459)  CLEMENTINE
-[pickup1] {sadc} Il... il pourrait revenir.
+[pickup1] {sadc} Il... il aurait pu revenir.
 471)  CLEMENTINE
-[pickup1] {sadc} Il... il pourrait revenir.
+[pickup1] {sadc} Il... il aurait pu revenir.
 460)  CLEMENTINE
 [pickup1] [small little noises as guts are smeared all over you 1]
 461)  CLEMENTINE
@@ -967,7 +967,7 @@ Coup de tête
 463)  CLEMENTINE
 [pickup1] Merci.
 464)  CLEMENTINE
-[pickup1] Je pensais qu'il était perdu.
+[pickup1] Je pensais qu'ele eétait perdue.
 465)  LEE
 [pickup1] Je pensais que TU étais perdue.
 466)  LEE

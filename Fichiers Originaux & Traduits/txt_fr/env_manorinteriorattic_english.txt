@@ -271,7 +271,7 @@ Je suis désolé ! Ok ?!
 137)  CHRISTA
 {NormalB} La ferme, chéri. {FearA} Regarde.
 138)  KENNY
-{HappyA} C'est complètement corrodé.
+{HappyA} C'est complètement pourri.
 139)  CHRISTA
 {ThinkingA} Qu'y a-t-il derrière ce mur, une chute de 10 mètres ?
 140)  OMID
@@ -813,4 +813,4 @@ Je peux gérer.
 408)  LEE
 [pickup1] {NormalD} Il voulait mourir... à Crawford.
 409)  LEE
-[pickup1] {NormalC} Quand je les avais là... dans ma main. {NormalD} Il a voulu que je le laisse tomber. {NormalC} Il me l'a demandé.
+[pickup1] {NormalC} Quand je le tenais à bout de bras... {NormalD} Il a voulu que je le laisse tomber. {NormalC} Il me l'a demandé.
