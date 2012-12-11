@@ -211,7 +211,7 @@ Je me sens vraiment mal, Lee.
 100)  LEE
 Tu es prêt pour la suite ?
 101)  KENNY
-J'aimerais bien capter un petit truc.
+J'aimerais bien qu'on reçoive un appel.
 102)  KENNY
 [to himsef] Ca fait du bien... de lui tomber dessus à ce trouduc.
 103)  KENNY
@@ -291,7 +291,7 @@ Laissons-le.
 137)  
 On a du chemin à faire.
 138)  LEE
-[hushed]On a du chemin à faire.
+[hushed]C'est malin.
 139)  LEE
 [hushed]Vous savez ce que ça représente ce truc pour la retrouver ?
 140)  KENNY
@@ -449,7 +449,7 @@ Contre-plaqué
 219)  
 Saut
 220)  KENNY
-[pickup1] Allez, tirez bande de feignasses !
+[pickup1] Allez, on se bouge bande de feignasses !
 221)  OMID
 [pickup1] Il... il est passé où ? [scared. kenny could be dead]
 222)  
