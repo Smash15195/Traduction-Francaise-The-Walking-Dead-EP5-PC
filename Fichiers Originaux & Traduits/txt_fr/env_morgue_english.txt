@@ -103,7 +103,7 @@ Tiens le coup, Clém.
 49)  KENNY
 {thinkingA}Merde. Nous avons moins que ce que je pensais. {angryA}Je serai prêt à tuer tout ce qui tente d'entrer.
 50)  LEE
-{thinkingA}Tu l'as fait toi-même ?
+{thinkingA}Tu t'en occupes ?
 51)  KENNY
 {happyB}Ouais putain ; {angryA}Essaie de trouver un autre moyen de sortir.
 52)  LEE
@@ -339,19 +339,19 @@ Qu'est-ce que tu en penses ?
 307)  KENNY
 Qu'est-ce que tu en penses ?
 116)  LEE
-{thinkingA}Fais chier. {disgustA}Coupe ça.
+{thinkingA}Fait chier. {disgustA}Enlève-moi ça.
 207)  LEE
-{thinkingA}Fais chier. {disgustA}Coupe ça.
+{thinkingA}Fait chier. {disgustA}Enlève-moi ça.
 255)  LEE
-{thinkingA}Fais chier. {disgustA}Coupe ça.
+{thinkingA}Fait chier. {disgustA}Enlève-moi ça.
 308)  LEE
-{thinkingA}Fais chier. {disgustA}Coupe ça.
+{thinkingA}Fait chier. {disgustA}Enlève-moi ça.
 349)  LEE
-{thinkingA}Fais chier. {disgustA}Coupe ça.
+{thinkingA}Fait chier. {disgustA}Enlève-moi ça.
 394)  LEE
-{thinkingA}Fais chier. {disgustA}Coupe ça.
+{thinkingA}Fait chier. {disgustA}Enlève-moi ça.
 445)  LEE
-{thinkingA}Fais chier. {disgustA}Coupe ça.
+{thinkingA}Fait chier. {disgustA}Enlève-moi ça.
 117)  LEE
 [he is sure] {thinkingA}Ouais.
 209)  LEE
@@ -483,15 +483,15 @@ Nous pensions que peut-être... avec ta morsure... si nous l'enlevions, tu pourra
 360)  LEE
 {angryA}Tu crois ? [sarc]
 130)  LEE
-{angryA}Euh, hé, {fearA}je vais me coucher juste là.
+{angryA}Euh, hé, {fearA}je suis là.
 192)  LEE
-{angryA}Euh, hé, {fearA}je vais me coucher juste là.
+{angryA}Euh, hé, {fearA}je suis là.
 280)  LEE
-{angryA}Euh, hé, {fearA}je vais me coucher juste là.
+{angryA}Euh, hé, {fearA}je suis là.
 331)  LEE
-{angryA}Euh, hé, {fearA}je vais me coucher juste là.
+{angryA}Euh, hé, {fearA}je suis là.
 366)  LEE
-{angryA}Euh, hé, {fearA}je vais me coucher juste là.
+{angryA}Euh, hé, {fearA}je suis là.
 131)  CHRISTA
 {sadB}Ce n'est plus vraiment notre décision maintenant.
 277)  CHRISTA
@@ -607,9 +607,9 @@ Nous pensions que peut-être... avec ta morsure... si nous l'enlevions, tu pourra
 143)  LEE
 [over his shoulder] {normalD}Les portes seront ouvertes dans deux secondes !
 144)  LEE
-[wave of nausea...] {FearB}Uhhoh...hmmph...
+[wave of nausea...] {FearB}
 146)  LEE
-[wave of nausea...] {FearB}Uhhoh...hmmph...
+[wave of nausea...] {FearB}
 145)  LEE
 [to himself] {thinkingB}Je me casse d'ici...
 147)  LEE
@@ -671,15 +671,15 @@ Si je n'y survis pas...
 220)  
 Si je n'y survis pas...
 164)  LEE
-{fearA}Tu peux le faire. Tu as {FearD}le--AHHHHHHHH! [stabbed in the arm]
+{fearA}Tu peux le faire. Tu as {FearD}le-- [stabbed in the arm]
 165)  LEE
-{fearA}Vite c'est bien. Ecoute, tu voudr--{fearD}AHHHHHHH! [stabbed]
+{fearA}Vite c'est bien. Ecoute, tu voudr--{fearD} [stabbed]
 219)  LEE
-{fearA}Vite c'est bien. Ecoute, tu voudr--{fearD}AHHHHHHH! [stabbed]
+{fearA}Vite c'est bien. Ecoute, tu voudr--{fearD} [stabbed]
 166)  LEE
-{fearA}Si je n'y survis pas, je dois être sûr que tu--{fearD}AHHHHHHHH! [stabbed in the arm]
+{fearA}Si je n'y survis pas, je dois être sûr que tu--{fearD} [stabbed in the arm]
 221)  LEE
-{fearA}Si je n'y survis pas, je dois être sûr que tu--{fearD}AHHHHHHHH! [stabbed in the arm]
+{fearA}Si je n'y survis pas, je dois être sûr que tu--{fearD} [stabbed in the arm]
 167)  CHRISTA
 [sigh] {fearB}Je ne sais pas si je préfère être toi ou moi à cet instant précis.
 168)  LEE
@@ -689,29 +689,29 @@ Si je n'y survis pas...
 169)  CHRISTA
 [cutting off Lee's arm, through grit teeth] {FearB}ESSAYE DE NE PAS BOUGER !
 170)  LEE
-[screaming horrible pain, arm getting cut off]  {fearD}GRRRRAHHHH!!! [grit teeth horribleness] [2]
+[screaming horrible pain, arm getting cut off]  {fearD} [grit teeth horribleness] [2]
 239)  LEE
-[screaming horrible pain, arm getting cut off]  {fearD}GRRRRAHHHH!!! [grit teeth horribleness] [2]
+[screaming horrible pain, arm getting cut off]  {fearD}[grit teeth horribleness] [2]
 171)  CHRISTA
 [cutting off Lee's arm] {worriedA}Il faut serrer le garrot ! [fast]
 172)  LEE
-[screaming horrible pain, arm getting cut off]  {fearD}RRRAHHHHH!!! [3]
+[screaming horrible pain, arm getting cut off]  {fearD} [3]
 238)  LEE 
-[screaming horrible pain, arm getting cut off]  {fearD}RRRAHHHHH!!! [3]
+[screaming horrible pain, arm getting cut off]  {fearD} [3]
 173)  CHRISTA
 [cutting off Lee's arm]{fearB} Merdemerdemerdemerde...
 174)  LEE
-[screaming horrible pain, arm getting cut off] {fearD}AHRHRAHH! [1]
+[screaming horrible pain, arm getting cut off] {fearD} [1]
 237)  LEE
-[screaming horrible pain, arm getting cut off] {fearD}AHRHRAHH! [1]
+[screaming horrible pain, arm getting cut off] {fearD} [1]
 175)  LEE
-[screaming horrible pain, arm getting cut off]  {fearD}AHHHH-- [comes to a sharp drown out as you pass out]
+[screaming horrible pain, arm getting cut off]  {fearD}[comes to a sharp drown out as you pass out]
 243)  LEE
-[screaming horrible pain, arm getting cut off]  {fearD}AHHHH-- [comes to a sharp drown out as you pass out]
+[screaming horrible pain, arm getting cut off]  {fearD}[comes to a sharp drown out as you pass out]
 176)  
-BORDHHHHH... !!!
+BORDEEEEL... !!!
 226)  
-BORDHHHHH... !!!
+BORDEEEEL... !!!
 177)  
 ARRETE !!!
 228)  
@@ -721,9 +721,9 @@ OH MON DIEU
 230)  
 OH MON DIEU
 179)  LEE
-{fearD}BORDHHHHH.. !!! [arm chop]
+{fearD}BORDEEEEEL.. !!! [arm chop]
 227)  LEE
-{fearD}BORDHHHHH.. !!! [arm chop]
+{fearD}BORDEEEEEL.. !!! [arm chop]
 180)  LEE
 {FearD}ARRETE !!! [getting his arm sawed off]
 229)  LEE
@@ -1063,7 +1063,7 @@ On y va. {FearB}Un.
 538)  LEE
 {thinkingA}Gardez un oeil sur cette porte les gars et je me charge de nous sortir d'ici.
 525)  LEE
-{thinkingB}No. This is what we're doing {normalD}and I don't want to hear anything else, okay?
+{thinkingB}Non. C'est ce qu'on va faire {normalD}et je veux rien entendre d'autre, d'accord ?
 528)  LEE
 {thinkingB}Non. C'est ce qu'on va faire {normalD}et je ne veux rien entendre de plus, ok ?
 531)  LEE
@@ -1349,7 +1349,7 @@ Utiliser écarteurs sur
 667)  KENNY
 [sincere, but without a lot of emotion]{happyA}Ca a toujours été toi et moi, mon vieux, depuis le début.
 668)  KENNY
-[getting back to business, not wanting to have this discussion]{happyA}Clémentine a besoin de toi. Retournes-y.
+[getting back to business, not wanting to have this discussion]{happyA}Clémentine a besoin de toi. Au boulot.
 669)  LEE
 {happyA}Merci de surveiller mes arrières.
 670)  LEE
@@ -1473,13 +1473,13 @@ Congélateurs
 733)  BEN
 [panicing]  {fearA}Lee ?  Lee !?   {sadB}Oh, mon Dieu. J'espère que tu es vivant ! Je... Je ne peux pas...
 734)  
-Cabinet
+Placard
 735)  
 Porte des égoûts
 736)  
 Porte des escaliers
 737)  
-Echelle
+Balance
 738)  
 Table d'opération
 739)  
@@ -1523,7 +1523,7 @@ Fais-nous sortir d'ici !
 760)  CAMPMAN
 Salut, Lee.
 761)  LEE
-{angryA}Vernon ! Sortez de là ! Pas besoin de se poser des problèmes, tout ce que je veux c'est la fille ! Rendez-la et personne ne sera blessé !
+{angryA}Vernon ! Sortez de là ! Pas besoin de se causer des problèmes, tout ce que je veux c'est la petite ! Rendez-la et personne ne sera blessé !
 762)  CLEMENTINE
 Lee ?
 763)  LEE
@@ -1569,7 +1569,7 @@ Qu'est-ce qu'on a fait...
 783)  LEE
 {paina}[pickup1] [feeling the pain for a second] Ca fait mal mais j'ai peut-être un peu plus de temps maintenant.
 784)  LEE
-{paina}[pickup1] [feeling the pain; half to yourself] Mon bras est en feu. Je peux encore sentir mes doigts. Bon Dieu... Ca fait encore plus mal que tu peux le penser.
+{paina}[pickup1] [feeling the pain; half to yourself] Mon bras est en feu. Je peux encore sentir mes doigts. Bon Dieu... Ca fait encore plus mal que tu peux l'imaginer.
 785)  LEE
 {paina}[pickup1][feeling the pain] ... Qu'est-ce qu'on a fait... [whince] Seigneur, ça fait hyper mal. [to himself] J'espère que ça suffira.
 786)  LEE

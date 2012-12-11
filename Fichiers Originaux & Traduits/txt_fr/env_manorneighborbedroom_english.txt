@@ -23,7 +23,7 @@ Bien sûr que non !
 12)  
 Portail
 13)  CHRISTA
-{thinkingA}Cet endroit semble plutôt bien fortifié.
+{thinkingA}Cet endroit semble plutôt bien barricadé.
 14)  BEN
 [smelling] {fearA}Ugh.
 15)  KENNY
@@ -51,13 +51,13 @@ On devrait y aller.
 26)  CHRISTA
 [distant] {fearA}Oui.
 27)  KENNY
-{thinkingA}On dirait qu'on peut rester à l'écart des rues jusqu'à la rivière si nous sommes prudents.
+{thinkingA}On dirait qu'on peut rester à l'écart des rues jusqu'à la River Street si nous sommes prudents.
 28)  CHRISTA
 {happyB}Allons-y.
 29)  BEN
 En avant.
 30)  CHRISTA
-{thinkingA}Fouillons cette pièce avant de partir. {normalB}Lee, comprendra où nous allons.
+{thinkingA}Fouillons cette pièce avant de partir. {normalB}Lee, cherche une sortie.
 31)  CHRISTA
 {thinkingA}Rien d'autre que des objets personnels là-dedans.
 32)  LEE
@@ -75,7 +75,7 @@ C'est insensé, mais... pense à toute la douleur qu'ils ont évitée.
 38)  CHRISTA
 {thinkingA}J'imagine que Crawford les aurait eus de toute façon.
 39)  KENNY
-[pickup1][preempting Lee] Ne me demandez pas comment je fais -- Continuons.
+[pickup1][preempting Lee] Ne me demande pas comment je vais -- Continuons.
 40)  LEE
 {sadA}Tu es toujours avec nous, Ben ?
 41)  BEN
@@ -133,7 +133,7 @@ Qu'est-ce que tu fous, Ben ?
 67)  KENNY
 Ne panique pas.
 68)  KENNY
-On va ramener ton cul ici.
+On va remonter ton cul là-haut.
 69)  BEN
 [wrecked, in shock] Vraiment ? Je pensais que tu --
 70)  KENNY
@@ -337,7 +337,7 @@ Balcon
 167)  CHRISTA
 [pickup1]Hé, la maison de mes parents ressemblait beaucoup à ça et ils regardaient des films de kung-fu..
 168)  OMID
-[pickup1]A en juger par le décor de cette salle, je suppose qu'ils étaient des téléspectateurs de HBO.
+[pickup1]A en juger par le décor de cette pièce, je suppose qu'ils étaient des téléspectateurs des "Chiffres et des Lettres".
 169)  CHRISTA
 [pickup1]Je disais ça comme ça. [don't judge]
 170)  LEE
@@ -497,7 +497,7 @@ Ce n'était pas un mauvais gars.
 247)  LEE
 [pickup1] Ce n'était pas un mauvais gars. Même s'il était en désaccord avec beaucoup de monde. De temps à autres avec moi aussi.
 248)  LEE
-[pickup1] [solemn] Derrière toi.
+[pickup1] [solemn] Je te suis.
 249)  CHRISTA
 [pickup1] Nous devrions y aller.
 250)  BEN

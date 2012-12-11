@@ -1,5 +1,5 @@
 1)  KENNY
-[tense]Ils ne devraient pas être en mesure d'entrer dans la cour, hein ?
+[tense]Ils ne peuvent pas entrer dans le jardin, non ?
 2)  KENNY
 [dread, action] Non ils ne devraient pas.
 3)  CHRISTA
@@ -83,7 +83,7 @@ Je voulais, juste, faire... QUELQUE CHOSE ! [urgent, runs off]
 42)  LEE
 Ben ! [giving orders]
 43)  LEE
-Qu'est-ce que c'est ? [urgent!]
+Qu'est-ce qu'il y a ? [urgent!]
 44)  LEE
 Omid ! [giving orders]
 45)  
@@ -101,9 +101,9 @@ QUE TOUT LE MONDE AIDE OMID ! MAINTENANT !
 51)  LEE
 [yelling for everyone to help] L'ENTREE ! MAINTENANT ! ALLEZ !
 52)  LEE
-[falling, hitting the ground] ARGH !
+[falling, hitting the ground] 
 53)  LEE
-[being grabbed as you go to run away] AHH !
+[being grabbed as you go to run away] 
 54)  LEE
 [sharp, fast panicked kick]
 55)  LEE
@@ -115,13 +115,13 @@ QUE TOUT LE MONDE AIDE OMID ! MAINTENANT !
 58)  KENNY
 LEE, AU SECOURS !
 59)  CHRISTA
-Coupez leurs putains de bras !
+Coupe leurs putains de bras !
 60)  CHRISTA
 VITE !
 61)  LEE
 [grabbing something in a panic]
 62)  KENNY
-Dégagez leurs putains de bras !
+Dégage leurs putains de bras !
 63)  CHRISTA
 Qu'est-ce que tu fous ?! COUPE-LES !
 64)  KENNY
@@ -169,7 +169,7 @@ Montez à l'étage !
 85)  KENNY
 ALLEZ !
 119)  LEE
-ALLEZ !
+MONTEZ !
 86)  CHRISTA
 Tout le monde fonce au fond du couloir !
 87)  KENNY
@@ -191,7 +191,7 @@ Qu'est-ce qu'on fait maintenant ?!
 99)  KENNY
 [pushing a desk] Ca va les ralentir. [Grr...] Allons au fond du couloir...[grr] et prenons position.
 95)  LEE
-[continuing to push desk] Grrrarrrrarrr...
+[continuing to push desk]
 96)  KENNY
 [pushing a thing] Nom de Dieu, Lee !
 97)  OMID
@@ -207,7 +207,7 @@ Et si on voit une ouverture on fonce.
 103)  LEE
 Huit.
 104)  LEE
-Nous ne pouvons pas nous laisser encercler.
+On ne doit pas se laisser déborder.
 105)  OMID
 Quatorze.
 106)  CHRISTA
@@ -223,9 +223,9 @@ Là-haut !
 114)  CHRISTA
 Là-haut !
 111)  KENNY
-Il n'y a aucune putain d'ouverture !
+Il n'y a aucune issue !
 115)  KENNY
-Il n'y a aucune putain d'ouverture !
+Il n'y a aucune issue !
 112)  LEE
 SORTEZ.
 113)  OMID
@@ -237,11 +237,11 @@ Moi aussi !
 118)  CHRISTA
 Je suis à sec !
 120)  CHRISTA
-[jumping up to grab something] Mmph !
+[jumping up to grab something] 
 121)  LEE
-[jumping up to grab something] Mmph !
+[jumping up to grab something]
 122)  OMID
-[pickup1][Mark Edit] [panic] Il doit y avoir un couteau où n'importe quoi là-dedans !!
+[pickup1][Mark Edit] [panic] Il doit y avoir un couteau là-bas !!
 123)  BEN
 Compris !
 124)  

@@ -29,7 +29,7 @@ Kenny n'aime pas ça.
 13)  
 Ben n'a pas apprécié.
 14)  
-Vous avez choisi de garder votre arme.
+Vous avez choisi de garder votre bras.
 15)  
 Christa a remarqué votre silence.
 16)  

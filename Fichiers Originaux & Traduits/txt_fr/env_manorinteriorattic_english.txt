@@ -225,7 +225,7 @@ Je suis désolé ! Ok ?!
 114)  KENNY
 {FearA} Simplement... en parler.
 115)  LEE
-{AngryB} Et on arrête cette conversation au moment où un truc me tombe sur la tête ?
+{AngryB} Et on se met d'accord pour qu'un truc lourd m'écrase la tête ?
 116)  KENNY
 {AngryB}Espèce de--
 117)  CHRISTA
@@ -271,7 +271,7 @@ Je suis désolé ! Ok ?!
 137)  CHRISTA
 {NormalB} La ferme, chéri. {FearA} Regarde.
 138)  KENNY
-{HappyA} C'est complètement corrodé.
+{HappyA} C'est complètement pourri.
 139)  CHRISTA
 {ThinkingA} Qu'y a-t-il derrière ce mur, une chute de 10 mètres ?
 140)  OMID
@@ -309,7 +309,7 @@ Je n'allais pas te faire de mal.
 156)  LEE
 {NormalD} Je n'allais pas te faire de mal.
 157)  LEE
-{HappyA} Ce mur est trop solide.
+{HappyA} Ce mur tombe en ruine.
 158)  OMID
 {ThinkingA} C'est vraiment possible... ?
 159)  CHRISTA
@@ -579,7 +579,7 @@ Il ferait mieux de ne pas recommencer.
 291)  CHRISTA
 {NormalB} Tu veux que je le fasse ?
 292)  OMID
-{NormalA} Non, hum, tu continueras après moi.
+{NormalA} Non, bébé, tu continueras après moi.
 293)  KENNY
 [tired from exertion] {NormalB} Bon, je n'en peux plus.
 294)  KENNY
@@ -771,7 +771,7 @@ Mur
 387)  LEE
 [pickup1] [grimace]
 388)  KENNY
-[pickup1] [doubtful] {SadA} Ce, euh... {ThinkingA}est un peu moins douloureux ?
+[pickup1] [doubtful] {SadA} C'est, euh... {ThinkingA}c'est un peu moins douloureux ?
 389)  KENNY
 [pickup1] {ThinkingA} Je n'insinue pas que tu es {NormalC}une sorte de super héros.
 390)  LEE
@@ -779,9 +779,9 @@ Mur
 391)  
 A ton avis ?
 392)  
-C'est toujours... "fraîchement découpé".
+C'est toujours... "fraîchement amputé".
 393)  LEE
-[pickup1] {NormalD} C'est toujours fraîchement découpé. {NormalC} Alors, non, Kenny. {ThinkingB} Ca fait aussi mal que tu peux l'imaginer.
+[pickup1] {NormalD} C'est toujours fraîchement amputé. {NormalC} Alors, non, Kenny. {ThinkingB} Ca fait aussi mal que tu peux l'imaginer.
 394)  
 Je peux gérer.
 395)  LEE
@@ -813,4 +813,4 @@ Je peux gérer.
 408)  LEE
 [pickup1] {NormalD} Il voulait mourir... à Crawford.
 409)  LEE
-[pickup1] {NormalC} Quand je les avais là... dans ma main. {NormalD} Il a voulu que je le laisse tomber. {NormalC} Il me l'a demandé.
+[pickup1] {NormalC} Quand je le tenais à bout de bras... {NormalD} Il a voulu que je le laisse tomber. {NormalC} Il me l'a demandé.

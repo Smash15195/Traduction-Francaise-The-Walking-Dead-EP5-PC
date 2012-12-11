@@ -137,7 +137,7 @@ Non.
 59)  CAMPMAN
 {normald} Alors vous avez vu ma voiture dehors.
 60)  CAMPMAN
-{normald} Vous ne devriez pas. [pause] {normalc}Ce n'est pas votre genre.
+{normald} Vous ne devriez. [pause] {normalc}Ce n'est pas votre genre.
 61)  LEE
 {normald} Non. {normalc} Je ne sais rien de vous.
 62)  CAMPMAN
@@ -207,9 +207,9 @@ Je suis désolé. Quoi que ce soit, j'en suis désolé.
 94)  CAMPMAN
 [sadly to himself, he looks down] {angrya} Vous ne pouvez pas savoir... [sniff]
 95)  CAMPMAN
-Mon fils, Adam, avait disparu. Je l'ai emmené chasser alors même que ma femme prétendait qu'il était trop jeune. Je pensais qu'il devait apprendre.
+Mon fils, Adam, avait disparu. Je l'avais emmené chasser alors même que ma femme prétendait qu'il était trop jeune. Je pensais qu'il devait apprendre.
 96)  CAMPMAN
-Je suis rentré sans lui et ses yeux semblaient me dire... "Tu es un MONSTRE."
+Quand je suis rentré seul, elle a eu ce regard qui semblait me dire... "Tu es un MONSTRE."
 97)  CAMPMAN
 On l'a cherché tous les deux. On ne l'a jamais retrouvé. Je lui ai fait si mal.
 98)  CAMPMAN
@@ -223,15 +223,15 @@ Ouais. Je ne suis pas un cannibale, Lee. Je ne suis pas un tueur rôdant dans les
 102)  CAMPMAN
 {normald} [gathering himself]
 104)  
-Ce n'était pas voulu.
+Ce n'était pas vonlontaire.
 106)  LEE
 {normald} Oui. Bien sûr.
 107)  CAMPMAN
 {sada} Qui ça ?
 108)  CAMPMAN
-{disgustb} Si ça avait été voulu {thinkinga}vous seriez un sociopathe.
+{disgustb} Si ça avait été vonlontaire {thinkinga}vous seriez un sociopathe.
 109)  LEE
-{normald} Ce n'était pas voulu.
+{normald} Ce n'était volontaire.
 110)  LEE
 {normald} Non.
 134)  LEE
@@ -367,7 +367,7 @@ J'ai merdé.
 178)  CAMPMAN
 [explodes] ELLE AURAIT POURTANT ETE MIEUX.
 179)  CAMPMAN
-[explodes] C'EST EXACTEMENT CE QUE J'AURAIS FAIT.
+[explodes] BIEN SUR QUE J'AURAIS FAIT MIEUX.
 180)  LEE
 {normald} Vous {normalc}n'auriez pas fait mieux.
 181)  LEE
@@ -453,7 +453,7 @@ On n'est pas obligé d'en arriver là.
 222)  LEE
 {normald} Rendez-moi Clémentine.
 223)  CAMPMAN
-{angrya} Je préférerais la tuer moi-même. Car {angryb}c'est ce qui va arriver si elle repart avec vous.
+{angrya} Je préférerais qu'elle meurt des mes mains. Car {angryb}c'est ce qui va arriver si elle repart avec vous.
 224)  LEE
 {normald} On n'est pas obligé d'en arriver là.
 225)  CAMPMAN
@@ -937,7 +937,7 @@ Coup de tête
 453)  CLEMENTINE
 [pickup1] Allons ailleurs.
 454)  LEE
-[pickup1] [it's not adding up] Comment tu sais tout ça ?
+[pickup1] [it's not adding up] Comment vous savez tout ça ?
 455)  CLEMENTINE
 [pickup1] [scared. small] {sadc} Il pourrait revenir.
 469)  CLEMENTINE
@@ -955,9 +955,9 @@ Coup de tête
 472)  CLEMENTINE
 [pickup1] [small, in shock, but happy] Bien.
 459)  CLEMENTINE
-[pickup1] {sadc} Il... il pourrait revenir.
+[pickup1] {sadc} Il... il aurait pu revenir.
 471)  CLEMENTINE
-[pickup1] {sadc} Il... il pourrait revenir.
+[pickup1] {sadc} Il... il aurait pu revenir.
 460)  CLEMENTINE
 [pickup1] [small little noises as guts are smeared all over you 1]
 461)  CLEMENTINE
@@ -967,7 +967,7 @@ Coup de tête
 463)  CLEMENTINE
 [pickup1] Merci.
 464)  CLEMENTINE
-[pickup1] Je pensais qu'il était perdu.
+[pickup1] Je pensais qu'ele eétait perdue.
 465)  LEE
 [pickup1] Je pensais que TU étais perdue.
 466)  LEE
