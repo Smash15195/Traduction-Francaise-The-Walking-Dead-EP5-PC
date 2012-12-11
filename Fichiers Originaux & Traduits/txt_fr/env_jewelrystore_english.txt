@@ -233,7 +233,7 @@ Assure-toi que je ne me transforme pas.
 114)  LEE
 {thinkinga}Cette fenêtre c'est une simple vitre.
 115)  CLEMENTINE
-{normalb}[upset. tired. just killed walker] Je l'ai eu.
+{normalb}[upset. tired. just killed walker] Ca y est. Je l'ai eu.
 116)  CLEMENTINE
 {fearb}[just killed a walker on her own. barely escaped with her life, upset breathing]
 117)  
@@ -411,7 +411,7 @@ Tout ira bien.
 204)  CLEMENTINE
 {sada}[saying goodbye] Je ne les laisserai pas faire.
 205)  LEE
-[dying]{normala}Oui. C'est comme ça que tu sauras. {sada}Si tu vois quelqu'un comme ça, fuis.
+[dying]{normala}Oui. C'est comme ça que tu sauras. {sada}Si tu ne vois pas quelqu'un comme ça, fuis.
 206)  LEE
 [dying] {sada}Essaie de trouver un groupe de gens biens. Cherche quelqu'un comme Katjaa parmi eux. {normalb}Tu vois ce que je veux dire ?
 207)  CLEMENTINE
@@ -427,7 +427,7 @@ Tout ira bien.
 212)  CLEMENTINE
 [goodbye2] {normalb}Définitivement.
 213)  LEE
-[dying 2] {normalc}Ils n'en vaudront pas la peine.
+[dying 2] {normalc}Elles n'en vaudront pas la peine.
 214)  LEE
 [dying 2] {sada}Et reste loin des villes.
 215)  LEE
@@ -449,7 +449,7 @@ Tout ira bien.
 223)  CLEMENTINE
 {sadb}[can't say goodbye] Toi aussi.
 224)  LEE
-{sada}[dying for actual real now. one more goodbye left] Tu me manqueras.
+{sada}[dying for actual real now. one more goodbye left] Tu vas me manquer.
 225)  LEE
 {sada}[dying for actual real now. one more goodbye left] N'aies pas peur.
 226)  LEE
@@ -457,7 +457,7 @@ Tout ira bien.
 227)  LEE
 {sada}[dying for actual real now. one more goodbye left. for silence, sean note]
 228)  LEE
-{sada}[panicked, wants more time] And also...{paina}[starts to drift off. pain]
+{sada}[panicked, wants more time] Et aussi...{paina}[starts to drift off. pain]
 229)  CLEMENTINE
 {fearb}[panicked, lee is dying] Quoi, qu'est-ce qu'il y a ?
 230)  LEE
@@ -607,9 +607,9 @@ Cogner
 300)  CLEMENTINE
 {fearc}[surprised shriek!]
 301)  LEE
-[clem being attacked by zombie] {fearc}COURS, CLEM !
+[clem being attacked by zombie] {fearc}VA-T-EN, CLEM !
 302)  LEE
-[clem being attacked by zombie] {fearc}TUE-LE ! PAS LE CHOIX !
+[clem being attacked by zombie] {fearc}TUE-LE ! T'AS PAS LE CHOIX !
 303)  
 Menotte
 304)  
@@ -639,7 +639,7 @@ Ouvrir
 313)  
 Lee
 316)  
-Stand de Présentation
+Présentoir
 317)  CLEMENTINE
 [pickup1] [scared] C'était un peu ouvert quand je l'ai trouvé. Je l'ai fermé pour nous protéger.
 318)  CLEMENTINE
