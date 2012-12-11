@@ -15,7 +15,7 @@
 6)  LEE
 [sigh] [to himself] {FearA}Oh, bon sang. [making light of a horrible situation]
 7)  LEE
-{SadA}Non. Ce n'en est pas un.
+{SadA}Non. Ce n'en est pas une.
 8)  BEN
 [quietish] {FearA}C'est, euh, un défi.
 9)  LEE
@@ -57,7 +57,7 @@ Randy Tudor. Brave homme. Un PUTAIN d'homme bon. Une puissante moustache. Un des
 29)  BEN
 [whispering] {FearA}Tout va bien en bas ?
 30)  LEE
-[whispering, in a lot of pain, climbing] {ThinkingA}Ce n'est pas grave. L'autre bras me gênait de toute façon.
+[whispering, in a lot of pain, climbing] {ThinkingA}Trop facile. L'autre bras me gênait de toute façon.
 31)  LEE
 [hanging by your ankle, you have to reach up and grab a ladder rung. through grit teeth. there are zombies all around and this the hardest thing you've ever had to do in your life]
 32)  LEE

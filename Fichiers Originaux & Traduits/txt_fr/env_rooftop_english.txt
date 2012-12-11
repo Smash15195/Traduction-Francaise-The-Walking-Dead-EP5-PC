@@ -91,11 +91,11 @@ Clémentine est là-bas.
 157)  
 Clémentine est là-bas.
 12)  KENNY
-[changing tone, looking out on to savannah] {thinkingA} On descend et {disgustA} on retrouve une fillette là-dedans. [to lee] {thinkingA} Ok, vieux ?
+[changing tone, looking out on to savannah] {thinkingA} On descend et {disgustA} on retrouve la petite là-dedans. [to lee] {thinkingA} Ok, vieux ?
 66)  KENNY
-[changing tone, looking out on to savannah] {thinkingA} On descend et {disgustA} on retrouve une fillette là-dedans. [to lee] {thinkingA} Ok, vieux ?
+[changing tone, looking out on to savannah] {thinkingA} On descend et {disgustA} on retrouve la petite là-dedans. [to lee] {thinkingA} Ok, vieux ?
 364)  KENNY
-[changing tone, looking out on to savannah] {thinkingA} On descend et {disgustA} on retrouve une fillette là-dedans. [to lee] {thinkingA} Ok, vieux ?
+[changing tone, looking out on to savannah] {thinkingA} On descend et {disgustA} on retrouve la petite là-dedans. [to lee] {thinkingA} Ok, vieux ?
 13)  KENNY
 {fearA} Faisons le point.
 31)  KENNY
@@ -325,7 +325,7 @@ Ce n'était pas vraiment des murmures.
 149)  KENNY
 {happyA} Ca fait six heures.
 150)  LEE
-{happyA} Oh, on y retourne ? [sarc]
+{happyA} Oh, tu veux y retourner ? [sarc]
 151)  LEE
 {disgustA} Il y a eu du changement entre-temps.
 159)  KENNY
@@ -377,11 +377,11 @@ Garde ça pour toi, pour une fois.
 187)  LEE
 [to himself] L'hôpital a dû manquer de docteurs.
 188)  LEE
-[to himself] Un pauvre gars a fait le grand saut.
+[to himself] Un pauvre gars a fait un vol plané.
 189)  KENNY
 [about 25 feet away] {fearA} Ouais, on dirait que celui qui a peint l'inscription a fait un vol plané !
 190)  LEE
-[himself] Il ou elle a dû s'écarter d'un danger quelconque... mais ça n'a pas d'importance.
+[himself] Il ou elle a dû fuir un danger quelconque... mais ça n'a pas d'importance.
 191)  LEE
 [to himself] Je parie que ça fait un mal de chien.
 192)  LEE
@@ -423,7 +423,7 @@ Je vais essayer de la stabiliser d'ici.
 209)  KENNY
 [20 ft distance] {fearA} Tu veux que je t'aide avec ça ?
 210)  LEE
-[exert.] {thinkingA} J'ai trouvé.
+[exert.] {thinkingA} Ca ira.
 211)  OMID
 {fearA} Je ne crois pas qu'on puisse ignorer ce qui est arrivé à Lee.
 274)  OMID
@@ -587,19 +587,19 @@ Ce n'était pas ma main préférée de toute façon.
 373)  KENNY
 {happyA} Tu as pas perdu ton sens de l'humour.
 226)  LEE
-{thinkingA} Sans rire, ne me traitez pas différemment. Je n'ai qu'un objectif, {disgustA}vous comprenez ?
+{thinkingA} Sans rire, ne me traite pas différemment. Je n'ai qu'un seul objectif, {disgustA}tu comprends ?
 239)  LEE
-{thinkingA} Sans rire, ne me traitez pas différemment. Je n'ai qu'un objectif, {disgustA}vous comprenez ?
+{thinkingA} Sans rire, ne me traite pas différemment. Je n'ai qu'un seul objectif, {disgustA}tu comprends ?
 287)  LEE
-{thinkingA} Sans rire, ne me traitez pas différemment. Je n'ai qu'un objectif, {disgustA}vous comprenez ?
+{thinkingA} Sans rire, ne me traite pas différemment. Je n'ai qu'un seul objectif, {disgustA}tu comprends ?
 317)  LEE
-{thinkingA} Sans rire, ne me traitez pas différemment. Je n'ai qu'un objectif, {disgustA}vous comprenez ?
+{thinkingA} Sans rire, ne me traite pas différemment. Je n'ai qu'un seul objectif, {disgustA}tu comprends ?
 348)  LEE
-{thinkingA} Sans rire, ne me traitez pas différemment. Je n'ai qu'un objectif, {disgustA}vous comprenez ?
+{thinkingA} Sans rire, ne me traite pas différemment. Je n'ai qu'un seul objectif, {disgustA}tu comprends ?
 374)  LEE
-{thinkingA} Sans rire, ne me traitez pas différemment. Je n'ai qu'un objectif, {disgustA}vous comprenez ?
+{thinkingA} Sans rire, ne me traite pas différemment. Je n'ai qu'un seul objectif, {disgustA}tu comprends ?
 400)  LEE
-{thinkingA} Sans rire, ne me traitez pas différemment. Je n'ai qu'un objectif, {disgustA}vous comprenez ?
+{thinkingA} Sans rire, ne me traite pas différemment. Je n'ai qu'un seul objectif, {disgustA}tu comprends ?
 228)  KENNY
 {thinkingA} Monsieur veut récupérer Clémentine. Avec {disgustA}ou sans bras.
 241)  KENNY
@@ -815,7 +815,7 @@ C'était une démo.
 422)  BEN
 {normalC} D'accord.
 408)  BEN
-{disgustA} Hé, {fearB} tu veux parler de ce qui s'est passé là-bas ?
+{disgustA} Hé, {fearB} tu veux parler de ce qui s'est passé en bas ?
 409)  BEN
 {fearA} Alors, si ton coeur s'emballe ou... si un truc plus grave arrive, préviens-moi. {normalC} Je t'aiderai.
 410)  BEN
@@ -1325,7 +1325,7 @@ Comment va ta jambe ?
 656)  LEE
 {sada}N'est-ce pas ?
 657)  KENNY
-{sada}Non. {angrya}J'ai besoin {sada}d'une minute, en fait. {sadb}Désolé, je sais que je n'aurais pas dû.
+{sada}Non. {angrya}J'ai besoin {sada}d'une minute, en fait. {sadb}Désolé, je sais que je devrais pas.
 659)  LEE
 {happya}Hé, Ken.
 660)  
@@ -1475,13 +1475,13 @@ Cloche
 738)  BEN
 [pickup1][30 ft away] {fearA} Je l'aurais parié !
 739)  LEE
-[pickup1] {disgustA} Parce que le manchot insiste. Maintenant fermez-la.
+[pickup1] {disgustA} Parce que le manchot insiste. Maintenant ferme-la.
 740)  KENNY
-[pickup1] {disgustA} Putain mais pourquoi on laisse le manchot prendre tous les risques ?
+[pickup1] {disgustA} Putain mais pourquoi je laisse le manchot prendre tous les risques ?
 741)  LEE
 [pickup1] {disgustB} Garde tes conneries pour toi la prochaine fois.
 742)  KENNY
-[pickup1]  {thinkingA} C'est un peu maigre.
+[pickup1]  {thinkingA} C'était un peu rude.
 743)  KENNY
 [pickup1] {normalB} Ouais.
 744)  LEE

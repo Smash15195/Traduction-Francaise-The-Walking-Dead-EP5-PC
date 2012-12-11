@@ -5,7 +5,7 @@ Ouvre ça tout de suite ! Quels enfoirés ! Putain, LEE !
 3)  LEE
 {thinkingB}Kenny ? 
 4)  KENNY
-OUVRE CETTE PORTE !
+OUVREZ CETTE PORTE !
 5)  KENNY
 [muffled] Putain ! Merde ! Fils de...
 6)  CHRISTA
@@ -251,7 +251,7 @@ Kenny, arrête.
 95)  CHRISTA
 {fearB}Oh merde, ils arrivent.
 96)  OMID
-{fearC}Dans la maison !
+{fearC}A l'intérieur !
 99)  KENNY
 {fearB}Je ne veux pas retourner {sadA}là-dehors.
 100)  KENNY
@@ -503,9 +503,9 @@ Vernon. {surprisedA}Toute son équipe.
 199)  BEN
 [to himself] Allez... s'il vous plait....
 200)  CHRISTA
-[trying to open a door] OUVRE, BORDEL.
+[trying to open a door] OUVREZ, BORDEL.
 203)  CHRISTA
-[trying to open a door] OUVRE, BORDEL.
+[trying to open a door] OUVREZ, BORDEL.
 201)  KENNY
 [to himself, furious, trying to open a door] ESPECE D'ENCULES...
 202)  KENNY
