@@ -223,15 +223,15 @@ Ouais. Je ne suis pas un cannibale, Lee. Je ne suis pas un tueur rôdant dans les
 102)  CAMPMAN
 {normald} [gathering himself]
 104)  
-Ce n'était pas vonlontaire.
+Ce n'était pas volontaire.
 106)  LEE
 {normald} Oui. Bien sûr.
 107)  CAMPMAN
 {sada} Qui ça ?
 108)  CAMPMAN
-{disgustb} Si ça avait été vonlontaire {thinkinga}vous seriez un sociopathe.
+{disgustb} Si ça avait été volontaire {thinkinga}vous seriez un sociopathe.
 109)  LEE
-{normald} Ce n'était volontaire.
+{normald} Ce n'était pas volontaire.
 110)  LEE
 {normald} Non.
 134)  LEE
@@ -453,7 +453,7 @@ On n'est pas obligé d'en arriver là.
 222)  LEE
 {normald} Rendez-moi Clémentine.
 223)  CAMPMAN
-{angrya} Je préférerais qu'elle meurt des mes mains. Car {angryb}c'est ce qui va arriver si elle repart avec vous.
+{angrya} Je préférerais qu'elle meure des mes mains. Car {angryb}c'est ce qui va arriver si elle repart avec vous.
 224)  LEE
 {normald} On n'est pas obligé d'en arriver là.
 225)  CAMPMAN
@@ -967,7 +967,7 @@ Coup de tête
 463)  CLEMENTINE
 [pickup1] Merci.
 464)  CLEMENTINE
-[pickup1] Je pensais qu'ele eétait perdue.
+[pickup1] Je pensais qu'elle était perdue.
 465)  LEE
 [pickup1] Je pensais que TU étais perdue.
 466)  LEE
