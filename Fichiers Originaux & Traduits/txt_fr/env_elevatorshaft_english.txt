@@ -13,7 +13,7 @@
 4)  KENNY
 {NormalB}Nous allons devoir grimper aussi silencieusement que possible. Tu y arriveras ?
 6)  LEE
-[sigh] [to himself] {FearA}Aw, bon sang. [making light of a horrible situation]
+[sigh] [to himself] {FearA}Oh, bon sang. [making light of a horrible situation]
 7)  LEE
 {SadA}Non. Ce n'en est pas un.
 8)  BEN
@@ -117,7 +117,7 @@ Attention !
 60)  KENNY
 [hushed] J'ai presque chié dans mon froc, mais oui.
 61)  OMID
-[hushed] Oh, j'ai la pêche.
+[hushed] Oh, j'ai une de ces patates !
 62)  LEE
 [getting woozy and naseous, trying to be quiet, climbing a ladder] Oohhhuh....
 63)  CHRISTA

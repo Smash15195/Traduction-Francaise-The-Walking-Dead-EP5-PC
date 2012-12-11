@@ -23,7 +23,7 @@ Bien sûr que non !
 12)  
 Portail
 13)  CHRISTA
-{thinkingA}Cet endroit semble plutôt bien fortifié.
+{thinkingA}Cet endroit semble plutôt bien barricadé.
 14)  BEN
 [smelling] {fearA}Ugh.
 15)  KENNY

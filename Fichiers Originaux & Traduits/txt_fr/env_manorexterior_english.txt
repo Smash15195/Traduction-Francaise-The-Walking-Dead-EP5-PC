@@ -131,13 +131,13 @@ Christa a raison.
 47)  KENNY
 {surprisedA}Repenser ?! Et si on {disgustA}commençait déjà par PENSER.
 48)  LEE
-{normalC}Christa a raison. Le {angryA}bateau était une illusion ; on {disgustB}continue à chercher Clém, ensuite {thinkingB}on se tire de Savannah et on repense tout le plan.
+{normalC}Christa a raison. Le {angryA}bateau était une illusion. On {disgustB}continue à chercher Clém, ensuite {thinkingB}on se tire de Savannah et on repense tout le plan.
 49)  LEE
 {surpriseA}C'est ce que {fearB}nous ferons ! {angryA}Calme-toi, Kenny.
 51)  BEN
 Reprends-toi !
 52)  CHRISTA
-{thinkingA}On peut faire ça à la campagne.
+{thinkingA}On peut en discuter dans le jardin.
 53)  KENNY
 {angryB}Ben, je te jure que...
 54)  LEE
@@ -285,11 +285,11 @@ Exactement.
 123)  CHRISTA
 {angryA}Mais pas ici.
 124)  KENNY
-{angryA}Ce sont des conneries ; il {fearB}pourrait ne même plus être là, alors -- {sadA}avec tout le respect que je te dois, Lee -- son {thinkingA}opinion n'a pas vraiment de poids.
+{angryA}Ce sont des conneries. Il {fearB}pourrait ne même plus être là, alors -- {sadA}avec tout le respect que je te dois, Lee -- son {thinkingA}opinion n'a pas vraiment de poids.
 125)  CHRISTA
-{thinkingA}Ecoute, nous savons ce que pense Lee.
+{thinkingA}Ecoutez, nous savons ce que pense Lee.
 126)  CHRISTA
-{thinkingA}[to Lee, closer] Sors de la ville au{disgustA} moins, d'accord ?
+{thinkingA}[to Lee, closer] Quittons la ville au{disgustA} moins, d'accord ?
 127)  CHRISTA
 Eh. Sa {fearA}petite fille est toujours là-dehors. {disgustA}C'est notre première préoccupation. Alors on {angryA}arrête là, ok ?
 128)  KENNY
@@ -323,21 +323,21 @@ Mais et pour--
 158)  KENNY
 {angryB}Merde, {disgustA}c'est...{angryB}Mon Dieu.
 136)  KENNY
-{fearA}ATTENDS ; mais {fearB}qu'est-ce qu'il t'est arrivé ?!
+{fearA}ATTENDS ! Mais {fearB}qu'est-ce qu'il t'est arrivé ?!
 230)  KENNY
-{fearA}ATTENDS ; mais {fearB}qu'est-ce qu'il t'est arrivé ?!
+{fearA}ATTENDS ! Mais {fearB}qu'est-ce qu'il t'est arrivé ?!
 301)  KENNY
-{fearA}ATTENDS ; mais {fearB}qu'est-ce qu'il t'est arrivé ?!
+{fearA}ATTENDS ! Mais {fearB}qu'est-ce qu'il t'est arrivé ?!
 137)  LEE
-{normalC}Coupe-le.
+{normalC}Amputation.
 219)  LEE
-{normalC}Coupe-le.
+{normalC}Amputation.
 231)  LEE
-{normalC}Coupe-le.
+{normalC}Amputation.
 302)  LEE
-{normalC}Coupe-le.
+{normalC}Amputation.
 342)  LEE
-{normalC}Coupe-le.
+{normalC}Amputation.
 138)  KENNY
 {surprisedA}Vraiment ?
 229)  KENNY
@@ -351,7 +351,7 @@ Ca pourrait me sauver la vie.
 141)  
 Je me suis évanoui à cause de la morsure.
 142)  LEE
-{thinkingB}J'ai pensé que ça pourrait me faire gagner un peu de temps ; {fearA}tu sais, avec de la chance, en retirant cette morsure de mon corps {normalD}les effets seront retardés.
+{thinkingB}J'ai pensé que ça pourrait me faire gagner un peu de temps. {fearA}Tu sais, avec de la chance, en retirant cette morsure de mon corps {normalD}les effets seront retardés.
 143)  LEE
 {disgustB}J'ai pensé que ça pourrait me sauver la vie. J'ai {normalB}eu de la chance d'être mordu au poignet, {thinkingB}loin des organes importants. {normalD}Mais qui sait.
 144)  LEE
@@ -371,7 +371,7 @@ Ca me submerge par vagues.
 151)  LEE
 {thinkingB}Ca a clairement des effets. {disgustB}Je me suis évanoui quelques fois. Et je {thinkingA}me sens globalement très mal. Mais {fearA}il me reste du temps. {normalD}Il ne faut pas s'inquiéter.
 152)  LEE
-{disgustB}Je vais bien ; ce qui est {normalC}fait est fait. Nous {thinkingB}devons avant tout trouver Clémentine.
+{disgustB}Je vais bien. Ce qui est {normalC}fait est fait. Nous {thinkingB}devons avant tout trouver Clémentine.
 153)  LEE
 {thinkingB}Ca me submerge par vagues.. Je {fearA}me suis effondré quelques fois {normalD}pour arriver ici, alors surveillez-moi.
 161)  BEN
@@ -379,7 +379,7 @@ Ca me submerge par vagues.
 162)  BEN
 {fearB}Ce mec et son équipe de malades ! Ils {thinkingB}ont pris le bateau, {angryB}ils sont partis.
 163)  BEN
-{fearB}Non. Il avait l'air énervé {sadB}que vous l'ayez perdue et... {sadA}eh bien, ils l'ont pris ; {fearA}ils sont partis.
+{fearB}Non. Il avait l'air énervé {sadB}que vous l'ayez perdue et... {sadA}eh bien, ils l'ont pris et {fearA}ils sont partis.
 164)  KENNY
 {disgustA}BEN tu es {angryC}INUTILE.
 165)  CHRISTA
@@ -641,9 +641,9 @@ Ouvrir
 264)  
 Portes
 265)  CHRISTA
-{thinkingA}[pickup1]  Il a raison ; ils ne sont pas invalides. {angryA}Ce sont juste des gens. {worriedA}Ce sont {worriedA}des gens qui ont dû gérer de graves problèmes {sadA}bien plus longtemps que nous. {disgustA}Pas étonnant qu'ils nous soient tombés dessus.
+{thinkingA}[pickup1]  Il a raison, ils ne sont pas invalides. {angryA}Ce sont juste des gens. {worriedA}Ce sont {worriedA}des gens qui ont dû gérer de graves problèmes {sadA}bien plus longtemps que nous. {disgustA}Pas étonnant qu'ils nous soient tombés dessus.
 331)  CHRISTA
-{thinkingA}[pickup1]  Il a raison ; ils ne sont pas invalides. {angryA}Ce sont juste des gens. {worriedA}Ce sont {worriedA}des gens qui ont dû gérer de graves problèmes {sadA}bien plus longtemps que nous. {disgustA}Pas étonnant qu'ils nous soient tombés dessus.
+{thinkingA}[pickup1]  Il a raison, ils ne sont pas invalides. {angryA}Ce sont juste des gens. {worriedA}Ce sont {worriedA}des gens qui ont dû gérer de graves problèmes {sadA}bien plus longtemps que nous. {disgustA}Pas étonnant qu'ils nous soient tombés dessus.
 266)  KENNY
 {surprisedA}[pickup1] Je n'en ai rien à {angryB}foutre qu'ils avaient envie {angryD}de faire un tour en bateau, {surprisedA}quand je les trouverai {angryC}je les massacrerai.
 332)  KENNY
@@ -711,7 +711,7 @@ Je n'arrive pas à croire qu'ils aient fait ça.
 312)  CHRISTA
 [pickup1] C'est très bien de jouer au gros dur, mais comment te sens-tu vraiment?
 313)  LEE
-[pickup1] J'y ai survécu ; c'est déjà ça. Et, bon...
+[pickup1] J'y ai survécu, c'est déjà ça. Et, bon...
 314)  CHRISTA
 [pickup1] Ecoute. je suis d'accord avec toi, je pense que la campagne est l'endroit le plus sûr. Tu n'es pas encore mort, alors accroche-toi à cette idée, ok ?
 315)  CHRISTA

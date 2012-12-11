@@ -205,10 +205,10 @@ Utiliser Tesson Sur
 105)  
 Utiliser Tesson Sur
 3)  
-Ne Pas Regarder.
+Ne regarde pas.
 4)  
 N'y va pas !
 5)  
-N'arrête pas de bouger.
+T'arrête pas. Avance.
 6)  LEE
-[pickup1] [trying to be very quiet] Clém, ne fais pas...
+[pickup1] [trying to be very quiet] Clém, ne...

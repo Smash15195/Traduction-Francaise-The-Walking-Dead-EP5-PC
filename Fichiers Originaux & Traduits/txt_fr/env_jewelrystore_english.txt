@@ -539,7 +539,7 @@ Cogner
 267)  CLEMENTINE
 {sada}[doesnt want to ] Je ne sais pas...
 268)  LEE
-{sada}[tired, dying, telling clem what to do] Quoi qu'il arrive, tu es en sécurité maintenant.
+{sada}[tired, dying, telling clem what to do] Quoi qu'il arrive, tu sera en sécurité après.
 269)  LEE
 {normalb}[tired, dying, telling clem what to do] Menotte le marcheur. Tu peux le tuer facilement maintenant.
 270)  CLEMENTINE
@@ -655,7 +655,7 @@ Tu n'es pas en sécurité.
 322)  
 Tu es forte, Clém.
 323)  LEE
-[pickup1][lee dying] Je peux me transformer, ma puce. Et si ça arrive... ce ne sera pas bon du tout.
+[pickup1][lee dying] Je peux me transformer, ma puce. Et si ça arrive... ce ne sera pas beau du tout.
 324)  LEE
 [pickup1][lee dying] Crois-moi, Clém, je ne veux pas. J'essaye.
 327)  LEE

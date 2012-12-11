@@ -1,7 +1,7 @@
 1)  CHRISTA
 {Body-A}{WorriedA}...Ca va ? {SadB}Est-ce que tu veux parler ?
 2)  LEE
-{Body-B}{SadB}L'hôtel Marsh House est au coin de ce bloc.
+{Body-B}{SadB}L'hôtel Marsh House est à l'angle de ce quartier.
 3)  LEE
 Qu'est-ce que c'est ? [determined, distracted]
 4)  
@@ -127,7 +127,7 @@ Oui, vous le devez.
 58)  OMID
 {Body-A}{ThinkingA}Oui, faisons ça, chérie.
 59)  CHRISTA
-{WorriedA}Quand il s'agit de Clémentine.
+{WorriedA}On fait quoi avec Clémentine ?
 60)  LEE
 {DisgustA}Kenny n'est pas mort pour "rien".
 61)  LEE
@@ -157,7 +157,7 @@ Je veux dire, {SadA}vous savez pourquoi Kenny a fait ça, non ?
 73)  CHRISTA
 {Body-A}{ThinkingA}...Eh bien, Omid et moi irons en premier. {WorriedA}On pourra t'aider à traverser ensuite.
 74)  OMID
-[calling out] {Body-A}{FearA}Suffit d'y aller doucement et sûrement...
+[calling out] {Body-A}{FearA}Doucement mais sûrement...
 75)  OMID
 {Body-A}{SurpriseA}Christa, à ton tour !
 76)  LEE
@@ -321,7 +321,7 @@ Allez-y en premier.
 155)  
 J'y vais en premier.
 156)  
-Bomber le torse
+Armature
 157)  OMID
 [pickup1] Qui y va en premier ?
 158)  LEE

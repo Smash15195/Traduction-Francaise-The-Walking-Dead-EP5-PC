@@ -167,9 +167,9 @@ Clémentine est là-bas.
 168)  LEE
 {normalD} On peut guetter une ouverture.
 20)  KENNY
-{thinkingA} Quelqu'un sait où est la maison et à quelle distance ? {disgustA} On devrait commencer par là.
+{thinkingA} Quelqu'un sait où est le manoir et à quelle distance ? {disgustA} On devrait commencer par là.
 77)  KENNY
-{thinkingA} Quelqu'un sait où est la maison et à quelle distance ? {disgustA} On devrait commencer par là.
+{thinkingA} Quelqu'un sait où est le manoir et à quelle distance ? {disgustA} On devrait commencer par là.
 21)  LEE
 {thinkingA} C'est entre nous et River Street, alors on peut s'y arrêter au besoin, rebrousser chemin et se diriger vers l'hôtel où allaient les parents de Clém.
 37)  LEE
@@ -259,7 +259,7 @@ Clémentine est là-bas.
 57)  KENNY
 {disgustA} Sauf si c'est trop flippant pour toi.
 58)  KENNY
-{normalC} Lee, tu sais où se trouve la maison ? {thinkingA} On devrait commencer par là.
+{normalC} Lee, tu sais où se trouve le manoir ? {thinkingA} On devrait commencer par là.
 85)  OMID
 {fearA} On pourrait attendre LONGTEMPS.
 86)  OMID
@@ -277,9 +277,9 @@ Clémentine est là-bas.
 135)  CHRISTA
 {thinkingA} Il faut sans doute ne pas perdre de temps et y aller. {worriedA} Plus on attend, plus Clémentine sera loin de nous.
 106)  OMID
-{normalB} On devrait commencer à partir de la maison, non ? {fearA} C'est par où ?
+{normalB} On devrait commencer à partir du manoir, non ? {fearA} C'est par où ?
 136)  OMID
-{normalB} On devrait commencer à partir de la maison, non ? {fearA} C'est par où ?
+{normalB} On devrait commencer à partir du manoir, non ? {fearA} C'est par où ?
 107)  CHRISTA
 {thinkingA} Ca semble bien.
 138)  CHRISTA
@@ -337,7 +337,7 @@ Ce n'était pas vraiment des murmures.
 162)  KENNY
 {thinkingA} C'est quelques marcheurs, ça va aller. {normalC} Suffit de rester en mouvement.
 163)  KENNY
-{thinkingA} Il faut d'abord savoir où on va. Je vote pour retourner à la maison. {disgustA} Même si j'en suis malade.
+{thinkingA} Il faut d'abord savoir où on va. Je vote pour retourner au manoir. {disgustA} Même si j'en suis malade.
 169)  
 Garde ça pour toi, pour une fois.
 170)  BEN
@@ -369,9 +369,9 @@ Garde ça pour toi, pour une fois.
 183)  BEN
 {thinkingA} On doit bien choisir une direction, pas vrai ? Je suis un peu chamboulé depuis les égoûts.
 184)  BEN
-{disgustA} Comme, où est la maison ?
+{disgustA} Comme, où est le manoir ?
 185)  LEE
-[to himself] [sigh] {fearA} Il faut que je trouve un moyen de descendre et de traverser la ville. {thinkingA} Je vais peut-être repartir de la maison et la chercher depuis là-bas...
+[to himself] [sigh] {fearA} Il faut que je trouve un moyen de descendre et de traverser la ville. {thinkingA} Je vais peut-être repartir du manoir et la chercher depuis là-bas...
 186)  LEE
 [to himself] {surpriseB} Putain... il y en a des milliers.
 187)  LEE
@@ -859,11 +859,11 @@ C'était une démo.
 430)  LEE
 [to himself] {thinkingA} C'est un clocher comme ceux dont Molly se servait pour disperser les marcheurs en ville.
 431)  LEE
-[to himself] {thinkingA} Le clocher est de ce côté de l'hôpital... et la maison par là-bas... {angryA} Il y a peut-être un moyen de partir d'ici.
+[to himself] {thinkingA} Le clocher est de ce côté de l'hôpital... et le manoir par là-bas... {angryA} Il y a peut-être un moyen de partir d'ici.
 432)  LEE
-[to himself] {thinkingA} Si j'atteins ce clocher, je peux attirer les marcheurs de ce côté de l'hôpital. {disgustA} Ils sont des milliers mais ils libéreront les rues entre ici, la maison et River Street, {thinkingA} même si c'est juste pour quelques minutes.
+[to himself] {thinkingA} Si j'atteins ce clocher, je peux attirer les marcheurs de ce côté de l'hôpital. {disgustA} Ils sont des milliers mais ils libéreront les rues entre ici, le manoir et River Street, {thinkingA} même si c'est juste pour quelques minutes.
 688)  LEE
-[to himself] {thinkingA} Si j'atteins ce clocher, je peux attirer les marcheurs de ce côté de l'hôpital. {disgustA} Ils sont des milliers mais ils libéreront les rues entre ici, la maison et River Street, {thinkingA} même si c'est juste pour quelques minutes.
+[to himself] {thinkingA} Si j'atteins ce clocher, je peux attirer les marcheurs de ce côté de l'hôpital. {disgustA} Ils sont des milliers mais ils libéreront les rues entre ici, le manoir et River Street, {thinkingA} même si c'est juste pour quelques minutes.
 433)  KENNY
 {thinkingA} Tu es sûr que tu devrais y aller ?
 448)  KENNY
@@ -917,19 +917,19 @@ C'était une démo.
 485)  LEE
 {disgustA} Qu'est-ce qui peut m'arriver de pire ? Me faire encore mordre ?
 438)  LEE
-{thinkingA} Ouais, on pourrait gagner du temps. On en attire un maximum par ici, {disgustA} puis on descend de l'autre côté et on met le turbo juqu'à la maison.
+{thinkingA} Ouais, on pourrait gagner du temps. On en attire un maximum par ici, {disgustA} puis on descend de l'autre côté et on met le turbo juqu'au manoir.
 445)  LEE
-{thinkingA} Ouais, on pourrait gagner du temps. On en attire un maximum par ici, {disgustA} puis on descend de l'autre côté et on met le turbo juqu'à la maison.
+{thinkingA} Ouais, on pourrait gagner du temps. On en attire un maximum par ici, {disgustA} puis on descend de l'autre côté et on met le turbo juqu'au manoir.
 453)  LEE
-{thinkingA} Ouais, on pourrait gagner du temps. On en attire un maximum par ici, {disgustA} puis on descend de l'autre côté et on met le turbo juqu'à la maison.
+{thinkingA} Ouais, on pourrait gagner du temps. On en attire un maximum par ici, {disgustA} puis on descend de l'autre côté et on met le turbo juqu'au manoir.
 457)  LEE
-{thinkingA} Ouais, on pourrait gagner du temps. On en attire un maximum par ici, {disgustA} puis on descend de l'autre côté et on met le turbo juqu'à la maison.
+{thinkingA} Ouais, on pourrait gagner du temps. On en attire un maximum par ici, {disgustA} puis on descend de l'autre côté et on met le turbo juqu'au manoir.
 466)  LEE
-{thinkingA} Ouais, on pourrait gagner du temps. On en attire un maximum par ici, {disgustA} puis on descend de l'autre côté et on met le turbo juqu'à la maison.
+{thinkingA} Ouais, on pourrait gagner du temps. On en attire un maximum par ici, {disgustA} puis on descend de l'autre côté et on met le turbo juqu'au manoir.
 472)  LEE
-{thinkingA} Ouais, on pourrait gagner du temps. On en attire un maximum par ici, {disgustA} puis on descend de l'autre côté et on met le turbo juqu'à la maison.
+{thinkingA} Ouais, on pourrait gagner du temps. On en attire un maximum par ici, {disgustA} puis on descend de l'autre côté et on met le turbo juqu'au manoir.
 481)  LEE
-{thinkingA} Ouais, on pourrait gagner du temps. On en attire un maximum par ici, {disgustA} puis on descend de l'autre côté et on met le turbo juqu'à la maison.
+{thinkingA} Ouais, on pourrait gagner du temps. On en attire un maximum par ici, {disgustA} puis on descend de l'autre côté et on met le turbo juqu'au manoir.
 439)  CHRISTA
 {fearA} Les cloches...
 444)  CHRISTA
@@ -985,13 +985,13 @@ Je vais y aller.
 492)  LEE
 [to himself a little louder, same] River Street doit être par là.
 493)  LEE
-[to himself, a little louder] C'est l'église dans la rue de la maison.
+[to himself, a little louder] C'est l'église dans la rue du manoir.
 494)  LEE
 Ouais.
 495)  LEE
 Ouais.
 496)  CHRISTA
-On doit faire marche arrière. On s'arrêtera à la maison comme tu as dit et on s'assure qu'on n'a rien oublié.
+On doit faire marche arrière. On s'arrêtera au manoir comme tu as dit et on s'assure qu'on n'a rien oublié.
 497)  LEE
 [to himself] Il faut trouver un moyen de partir d'ici...
 498)  LEE
@@ -1017,7 +1017,7 @@ On doit faire marche arrière. On s'arrêtera à la maison comme tu as dit et on s'
 508)  LEE
 [to himself, exasperated] Je passerai pas à travers.
 509)  LEE
-[to himself] {disgustA} Jamais. C'est plus haut, pour commencer.
+[to himself] {disgustA} Impossible. C'est trop haut.
 510)  LEE
 [a small, panicked leap at the last minute]
 511)  LEE
@@ -1209,7 +1209,7 @@ Je m'assurerai que ça n'arrive pas.
 601)  BEN
 {fearb}Mais après on court simplement dans la rue ? {sada}Je sais pas...
 602)  LEE
-{angrya}Si on se sert de ce clocher pour attirer les marcheurs de ce côté de l'hôpital, {happya}la route vers la maison et River Street devrait être plus facile.
+{angrya}Si on se sert de ce clocher pour attirer les marcheurs de ce côté de l'hôpital, {happya}la route vers le manoir et River Street devrait être plus facile.
 603)  BEN
 {sada}Ouais, d'accord... {angrya}mais il faut encore y aller.
 604)  BEN
@@ -1235,7 +1235,7 @@ Des allergies. Marrant.
 613)  LEE
 {angrya}J'espère, ouais. {thinkinga}Pour dégager l'autre côté.
 614)  LEE
-{normalb}La maison est par là.
+{normalb}Le manoir est par là.
 615)  LEE
 {angrya}Si on se sert du clocher pour les attirer de ce côté de l'hôpital, {sada}ce ne sera pas facile de retourner à River Street, {happya}mais ce sera mieux que rien.
 616)  CHRISTA
@@ -1359,7 +1359,7 @@ Que se passe-t-il ?
 674)  KENNY
 {happya}Je peux le faire, ouais.
 675)  LEE
-{normalb}La maison est par là, {normalc}le clocher par là, si on descend du toit par le côté opposé, {happya}on pourrait y arriver sans trop de problèmes.
+{normalb}Le manoir est par là, {normalc}le clocher par là, si on descend du toit par le côté opposé, {happya}on pourrait y arriver sans trop de problèmes.
 676)  LEE
 {sada}Des idées sur... autre chose ?
 677)  KENNY
@@ -1435,7 +1435,7 @@ Cloche
 715)  LEE
 [Mark edit]	{angryb}... Pas le choix.
 716)  LEE
-[Mark edit]{normalb}Tu as une idée pour traverser {thinkinga}le troupeau ?
+[Mark edit]{normalb}Tu as une idée pour traverser {thinkinga}la horde ?
 717)  CHRISTA
 [Mark edit]{worrieda}J'y travaille.  [hesitates, concerned about Lee's condition] {sada}Tu vas tenir le coup ?
 718)  KENNY
@@ -1491,7 +1491,7 @@ Cloche
 746)  BEN
 [pickup1] {fearB} Tu es sûr de devoir faire ça ?
 747)  OMID
-[pickup1] {fearA} C'est équitable.
+[pickup1] {fearA} Comme tu veux.
 748)  OMID
 [pickup1] {disgustA} On devrait demander à quelqu'un de plus... physiquement capable. {sadA} Tu es sûr que ça ira, Lee ?
 749)  LEE
@@ -1501,7 +1501,7 @@ Des idées sur notre situation ?
 751)  
 Il y a un clocher par là.
 752)  
-Des idées à propos de l'attroupement ?
+Des idées à propos de la horde ?
 753)  
 Il y a un clocher...
 754)  
