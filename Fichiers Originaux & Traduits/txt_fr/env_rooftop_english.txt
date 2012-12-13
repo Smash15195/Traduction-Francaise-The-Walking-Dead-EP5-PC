@@ -1277,11 +1277,11 @@ Je m'inquiétais que tu ne viennes pas avec moi.
 631)  LEE
 {happya}J'apprécie.
 632)  LEE
-{normalb}Quoi de neuf par ici ?
+{normalb}Quoi de beau de le coin ?
 633)  OMID
-{happya}Un clocher. Voilà.
+{happya}Un clocher. Juste là.
 634)  LEE
-{surpriseb}{happya}Ouais. Ca pourrait marcher.
+{surpriseb}{happya}Ouais. Ca pourrait être utile.
 636)  
 Je crois que tu es le chouchou de Clém.
 637)  OMID

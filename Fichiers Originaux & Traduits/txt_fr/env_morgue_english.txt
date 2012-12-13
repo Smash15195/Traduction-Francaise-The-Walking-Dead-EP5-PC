@@ -849,9 +849,9 @@ Nous avons pensé que tu aurais une chance si nous amputions le bras mordu.
 382)  OMID
 Nous avons pensé que tu aurais une chance si nous amputions le bras mordu.
 345)  OMID
-Nous savons qu'il va y avoir beaucoup de sang.
+Mais nous savons qu'il va y avoir beaucoup de sang.
 379)  OMID
-Nous savons qu'il va y avoir beaucoup de sang.
+Mais nous avons qu'il va y avoir beaucoup de sang.
 373)  OMID
 {fearA}Eh, {happyA}il est réveillé !
 374)  OMID
@@ -1215,7 +1215,7 @@ Lee--
 598)  LEE
 {normalD}Tout va bien par là ?
 601)  KENNY
-{happyA}Ouais, on y arrive.
+{happyA}Ouais, ce serait bien.
 602)  LEE
 {thinkingB}Tu vas pouvoir les retenir si la porte saute ?
 671)  LEE
@@ -1231,11 +1231,11 @@ Lee--
 673)  LEE
 {normalD}Tout va bien ?
 608)  OMID
-{fearA}Il y a des milliers de cadavres qui remplissent les égoûts et Dieu sait combien au-dessus,{thinkingA} alors bon, tu vois le genre.
+{fearA}Il y a des milliers de cadavres qui remplissent les égoûts et Dieu sait combien au-dessus,{thinkingA} alors bon, tu vois le topo.
 674)  OMID
-{fearA}Il y a des milliers de cadavres qui remplissent les égoûts et Dieu sait combien au-dessus,{thinkingA} alors bon, tu vois le genre.
+{fearA}Il y a des milliers de cadavres qui remplissent les égoûts et Dieu sait combien au-dessus,{thinkingA} alors bon, tu vois le topo.
 609)  OMID
-{happyA}Bien, faut se magner.
+{happyA}Génial, mais faut se magner.
 610)  LEE
 {thinkingA}Je vais nous sortir de là.
 611)  LEE
@@ -1261,7 +1261,7 @@ Ascenseur
 622)  LEE
 {normalD}Il semblerait que Vernon et son groupe aient déménagé en quatrième vitesse.
 623)  CHRISTA
-{fearB}Où ils sont allés ?
+{fearB}Où ils ont bien pu partir ?
 624)  KENNY
 {angryA}Clémentine n'est pas avec eux alors on les emmerde.
 625)  LEE
