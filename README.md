@@ -15,7 +15,7 @@ Traduction Française The Walking Dead Episode 5 (Telltales)
 
 ### Note de Version
 ```
-V1 : Très prochainement.
+V1 : Disponible.
 ```
 
 ### Windows
@@ -29,3 +29,5 @@ Téléchargement (si) disponible dans [la section Download de l'épisode 1](http
 
 Copier/coller les fichiers suivant l'image fournit dans l'archive
 Téléchargement disponible dans la section Download.
+
+Edit : Des problèmes peuvent d'accents et de caractères rouge peuvent survenir.
